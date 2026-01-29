@@ -1,0 +1,279 @@
+[
+  {
+    "type": "Title",
+    "element_id": "fcd10914d5a2f82adc706bf29ebe5897",
+    "text": "61 Interpretation of evidence",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9bb0e79bb382a6753dbdc11da73d881a",
+    "text": "RS 22, 2023, D1 Rule 61-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "fcd10914d5a2f82adc706bf29ebe5897"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "380261b1853af3724b52a9811694e05d",
+    "text": "(1) Where evidence in any proceedings is given in any language with which the court or a party or his representative is not sufficiently conversant, such evidence shall be interpreted by a competent interpreter, sworn to interpret faithfully and to the best of his ability in the languages concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "fcd10914d5a2f82adc706bf29ebe5897"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d130f4596f12d2fe101a2f9c0abb2c7",
+    "text": "(2) Before any person is employed as an interpreter the court may, if in its opinion it is expedient to do so, or if any party on reasonable grounds so desires, satisfy itself as to the competence and integrity of such person after hearing evidence or otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "fcd10914d5a2f82adc706bf29ebe5897"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fee75a68a1ff818525a116cda300d520",
+    "text": "(3) Where the services of an interpreter are employed in any proceedings, the costs (if any) of interpretation shall, unless the court otherwise orders, be costs in the cause: Provided that where the interpretation of evidence given in one of the official languages of the Republic is required by the representative of a party, such costs shall be at such party’s expense.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "fcd10914d5a2f82adc706bf29ebe5897"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "41d3536a9150e88764ba2e771e2a4815",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b9f2f6314c41703f63cf28b95f6f79cf",
+    "text": "Subrule (1): ‘By a competent interpreter.’ It is to be noted that the rule does not require that evidence should be interpreted by a sworn translator; any person of whose competence and integrity the court is satisfied may be sworn in as an interpreter. Such an appointment is only ad hoc for the purposes of the particular trial being heard.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1485028e88d17c69706fde8bbeca4038",
+    "text": "‘Sworn to interpret faithfully.’ The account by an interpreter of the testimony of a witness who gives his testimony through an interpreter must be regarded as unsworn testimony unless the interpreter is also sworn. Such testimony is analogous to 1 inadmissible evidence.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "57211f1443aa27a89538c4640fa5a950",
+    "text": "Where evidence is interpreted, the court must have regard to what the interpreter tells the court, not what the witness himself says in the language which is being interpreted. The court and its members are not entitled to rely on their individual 2 knowledge of the language used by the witness.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ff6bccd2b087afdba553452b93be9adc",
+    "text": "If there are reasonable grounds for doing so, and if an interpreter’s rendering of the evidence was apt to be misleading and in fact misled the court, a party is entitled to challenge an interpreter’s version of what a witness said. If the testimony of an interpreter is challenged on appeal, such a challenge would in effect amount to an application to lead further evidence on matters on which the interpreter has testified. It has been held that a court of appeal should be as loath to allow a party to 3 challenge an interpreter’s version of testimony as it would be to allow further evidence to be led on appeal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c6ac5e928de0a6b8529b330a214e340",
+    "text": "Subrule (3): Proviso. The costs of the interpretation cannot be recovered from the opposite party because all practitioners are expected to have some proficiency in the official languages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2508569c47039c6ec525a36f43aa711b",
+    "text": "RS 22, 2023, D1 Rule 61-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "97802716a3f9ef1c367d2a7752b2bd1d",
+    "text": "[Blank as per print]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c496cd6abb60ca115aaa3b4b4e68b48f",
+    "text": "1 S v Naidoo 1962 (2) SA 625 (A) at 633 and 637; S v Mpopo 1978 (2) SA 424 (A) at 426; Tshabalala v Lekoa City Council 1992 (3) SA 21 (A) at 32.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de96665d2370faef8defc8c7f25cc31b",
+    "text": "2 S v Mpopo 1978 (2) SA 424 (A) at 426H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8100e1b9b9b77ad0f694fca6103ba62d",
+    "text": "3 Tshabalala v Lekoa City Council 1992 (3) SA 21 (A) at 32H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf",
+      "parent_id": "41d3536a9150e88764ba2e771e2a4815"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7479fb723dc5ffb91395d9c9f5456a49",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4ab0b4a4f3cc2ad3250874239ab28b03",
+    "text": "Downloaded: Mon Feb 17 2025 12:12:20 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 61.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "f8b7fe01918905d2035b4e80f004417f",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 61.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

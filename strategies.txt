@@ -1,0 +1,7 @@
+experiment with different models
+experiment with retrieving different numbers of results (check chunk sizes and input context limit)
+
+
+example question - What procedure applies when a criminal appeal is brought to the Supreme Court of Appeal, particularly regarding the lodging of the record and access to copies by the appellant?
+
+answer to above question lies in rule 52

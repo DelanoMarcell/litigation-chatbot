@@ -1,0 +1,4345 @@
+[
+  {
+    "type": "Header",
+    "element_id": "656841a749a0353579ff2cf0b0f0e911",
+    "text": "45 Execution — general and movables",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "09af983d4944ec4bb2ba31368711938a",
+    "text": "RS 22, 2023, D1 Rule 45-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4bafd357677a7b4b6ea2ea6fdad3c2da",
+    "text": "(1) A judgment creditor may, at his or her own risk, sue out of the office of the registrar one or more writs for execution thereof corresponding substantially with Form 18 of the First Schedule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b71c519df2e9d5425624757fde6f44a0",
+    "text": "[Subrule (1) substituted by GN R181 of 28 January 1994 and by GN R981 of 19 November 2010.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9d31fb67462f189bcd9a2fb8d87e982",
+    "text": "(2) No process of execution shall issue for the levying and raising of any costs awarded by the court to any party, until they have been taxed by the taxing master or agreed to in writing by the party concerned in a fixed sum: Provided that it shall be competent to include in a writ of execution a claim for specified costs already awarded to the judgment creditor but not then taxed, subject to due taxation thereafter, provided further that if such costs shall not have been taxed and the original bill of costs, duly allocated, not lodged with the sheriff before the day of the sale, such costs shall be excluded from his account and plan of distribution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eb5fa16627a56a2506eb43dff5792c4e",
+    "text": "[Subrule (2) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4ae4d52b0953b1e8c43b227175e8391a",
+    "text": "(3) Whenever by any process of the court the sheriff is commanded to levy and raise any sum of money upon the goods of any person, he shall forthwith himself or by his assistant proceed to the dwelling-house or place of employment or business of such person (unless the judgment creditor shall give different instructions regarding the situation of the assets to be attached), and there —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa85dc3c0a3e5cc4b1cefdf21a69290a",
+    "text": "(a) demand satisfaction of the writ and, failing satisfaction,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd2b6387e5c622a8efd19528391f6031",
+    "text": "(b) demand that so much movable and disposable property be pointed out as he may deem sufficient to satisfy the said writ, and failing such pointing out,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a331ec2c82bc939748cb6ae16466f2f",
+    "text": "(c) search for such property.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4aeb64b9d9386d0ca8bbfb736099f8bd",
+    "text": "Any such property shall be immediately inventoried and, unless the execution creditor shall otherwise have directed, and subject to the provisions of subrule (5), shall be taken into the custody of the sheriff: Provided —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0f785bc3298a36d6fa34258c6488e8c6",
+    "text": "(i) that if there is any claim made by any other person to any such property seized or about to be seized by the sheriff, then, if the plaintiff gives the sheriff an indemnity to his satisfaction to save him harmless from any loss or damage by reason of the seizure thereof, the sheriff shall retain or shall seize, as the case may be, make an inventory of and keep the said property; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e1a0c16da5b73ba8bc1530bf6a65f61d",
+    "text": "(ii) that if satisfaction of the writ was not demanded from the judgment debtor personally, the sheriff shall give to the judgment debtor written notice of the attachment and a copy of the inventory made by him, unless his whereabouts are unknown.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f37af87aea9bf6cba7f505e55e3822a4",
+    "text": "[Subrule (3) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2bbd21152c5ef9109278772816fee2f",
+    "text": "(4) The sheriff shall file with the registrar any process with a return of what he has done thereon, and shall furnish a copy of such return and inventory to the party who caused such process to be issued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bae540c16a1edd2fa29cc70b299a91dc",
+    "text": "[Subrule (4) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a74cbc1cdcab9847d50bd694d915fecb",
+    "text": "(5) Where any movable property has been attached by the sheriff, the person whose property has been so attached may, together with some person of sufficient means as surety to the satisfaction of the sheriff, undertake in writing that such property",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8082ad4b026adbae4cfd6345b4efbfc9",
+    "text": "RS 22, 2023, D1 Rule 45-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afaffbf85c811396bcea56df71bb2b25",
+    "text": "shall be produced on the day appointed for the sale thereof, unless the said attachment shall sooner have been legally removed, whereupon the sheriff shall leave the said property attached and inventoried on the premises where it was found. The deed of suretyship shall be as near as may be in accordance with Form 19 of the First Schedule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9f4444a8a5cfa1656fcc0fa9c27a4a28",
+    "text": "[Subrule (5) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7fb0c31c59ee9b9cebca6dadaf65a96e",
+    "text": "(6) If the judgment debtor does not, together with a surety, give an undertaking as aforesaid, then, unless the execution creditor otherwise directs, the sheriff shall remove the said goods to some convenient place of security or keep possession thereof on the premises where they were seized, the expense whereof shall be recoverable from the judgment debtor and defrayed out of the levy.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba4c4ca68bc7997146ce6dd8b31bffcf",
+    "text": "[Subrule (6) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fda49578c703d13ab13f3a0079207495",
+    "text": "(7)(a) Where any movable property is attached as aforesaid the sheriff shall where practicable and subject to rule 58 sell it by public auction to the highest bidder after due advertisement by the execution creditor in a newspaper circulating in the district in which the property has been 1 attached and after the expiration of not less than 15 days from the time of seizure thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de9a0a9ba4ea79d61f6ac1f361ef35e6",
+    "text": "(b) Where perishables are attached as aforesaid, they may with the consent of the execution debtor or upon the execution creditor indemnifying the sheriff against any claim for damages which may arise from such sale, be sold immediately by the sheriff concerned in such manner as seems expedient.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1729384975e66821ea91aed0af150f03",
+    "text": "(c) The sheriff shall not later than 15 days before the date of sale either in terms of paragraph (a) or paragraph (b), forward a notice of sale to all other sheriffs appointed in that area.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b8989b38d7d2e874526570cf13f4392",
+    "text": "[Subrule (7) substituted by GN R2004 of 15 December 1967 and amended by GN R608 of 31 March 1989, by GN R2410 of 30 September 1991 and by GN R1343 of 12 December 2008.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30dc9138ba0ebcffbc81912e780f83dc",
+    "text": "(8) If incorporeal property, whether movable or immovable, is available for attachment, it may be attached without the necessity of a prior application to court in the manner hereinafter provided:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "356f8edf1c9a6815d5eff003810038e8",
+    "text": "(a) Where the property or right to be attached is a lease or a bill of exchange, promissory note, bond or other security for the payment of money, the attachment shall be complete only when —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f0aa93d20520ff1573cd51e09aa0c903",
+    "text": "(i) notice has been given by the sheriff to the lessor and lessee, mortgagor and mortgagee or person liable on the bill of exchange or promissory note or security as the case may be, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8157119d70edd60ffe4f6afb075fcdb1",
+    "text": "(ii) the sheriff shall have taken possession of the writing (if any) evidencing the lease, or of the bill of exchange or promissory note, bond or other security as the case may be, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b906734243b2b3add94995039fa24d65",
+    "text": "(iii) in the case of a registered lease or any registered right, notice has been given to the registrar of deeds.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c366e148a1a07cb0ab4c5c930eeab5ef",
+    "text": "RS 22, 2023, D1 Rule 45-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0bd7a52f916e194e4e7a102733894581",
+    "text": "(b) Where movable property sought to be attached is the interest of the execution debtor in property pledged, leased or sold under a suspensive condition to or by a third person, the attachment shall be complete only when the sheriff has served on the execution debtor and on the third person notice of the attachment with a copy of the warrant of execution. The sheriff may upon exhibiting the original of such warrant of execution to the pledgee, lessor, lessee, purchaser or seller enter upon the premises where such property is and make an inventory and valuation of the said interest.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7d69ab3a1f1693bee05f569a8612279",
+    "text": "(c) In the case of the attachment of all other incorporeal property or incorporeal rights in property as aforesaid,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d5db99cb8a23c48110fb40ffb1ac38cd",
+    "text": "(i) the attachment shall only be complete when —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e60346905a14189a3b591e5ee36289b",
+    "text": "(a) notice of the attachment has been given in writing by the sheriff to all interested parties and where the asset consists of incorporeal immovable property or an incorporeal right in immovable property, notice shall also have been given to the registrar of deeds in whose deeds registry the property or right is registered, and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bff27cb0243547d20f8251233d40d956",
+    "text": "(b) the sheriff shall have taken possession of the writing or document evidencing the ownership of such property or right, or shall have certified that he has been unable, despite diligent search, to obtain possession of the writing or document;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "db2127587cfa58e5c810b5e99fe3a90c",
+    "text": "(ii) the sheriff may upon exhibiting the original of the warrant of execution to the person having possession of property in which incorporeal rights exist, enter upon the premises where such property is and make an inventory and valuation of the right attached.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b90d3ccd15f311fbd1d5d54c03d525f",
+    "text": "[Subrule (8) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dcbdcf4fb84173e57cbe14d65c1c9778",
+    "text": "(9) Attachment of property subject to a lien shall be effected mutatis mutandis in accordance with the provisions of sub-paragraph (b) of subrule (8).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2a753cf5954ff64e2108c7811927f1c1",
+    "text": "(10) Where property subject to a real right of any third person is sold in execution such sale shall be subject to the rights of such third person unless he otherwise agrees.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "657d85e10101d7be87ecc801a325800b",
+    "text": "(11)(a)(i) Subject to any hypothec existing prior to the attachment, all writs of execution lodged with any sheriff appointed for a particular area or any other sheriff before or on the day of the sale in execution shall rank pro rata in the distribution of proceeds of the goods sold, in the order of preference referred to in paragraph (c) of subrule (14) of rule 46.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bda2f47caa05872b17c43da1835eea45",
+    "text": "(ii) The sheriff conducting the sale in execution shall not less than 10 days prior to the date of sale forward a copy of the notice of sale to all other sheriffs appointed in the district in which he or she has been instructed to conduct a sale in respect of the attached goods.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "65dcda287fe7fd75d3f9935e9776baa2",
+    "text": "(iii) The sheriff conducting the sale shall accept from all other sheriffs appointed in that district or any other sheriff a certificate listing any attachment that has been made and showing the ranking of creditors in terms of warrants in the possession of those sheriffs. © 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 45.pdf",
+      "parent_id": "09af983d4944ec4bb2ba31368711938a"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "38c1cea5cf3002a7e28ffc59144fe273",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "f29108be28ff350b8e0eba86cda5bd08",
+    "text": "[Paragraph (a) amended by GN R1343 of 12 December 2008.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a7de668997d205b64ad73203b1fd066",
+    "text": "RS 22, 2023, D1 Rule 45-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5fb2bf47324cb4ea0b83555b745a355e",
+    "text": "(b) If there should remain any surplus, the sheriff shall pay it over to the judgment debtor; and the sheriff shall make out and deliver to him an exact account, in writing of his costs and charges of the execution and sale, which shall be liable to taxation upon application by the judgment debtor, and if upon taxation any sum shall be disallowed, the sheriff shall refund such sum to the judgment debtor.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9807fccee34e781a6129bbfb1e2cd019",
+    "text": "[Subrule (11) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e473fc92d9f589dbc5997c6d9041422c",
+    "text": "(12)(a) Whenever it is brought to the knowledge of the sheriff that there are debts which are subject to attachment, and are owing or accruing from a third person to the judgment debtor, the sheriff may, if requested thereto by the judgment creditor, attach the same, and thereupon shall serve a notice on such third person, hereinafter called the garnishee, requiring payment by him to the sheriff of so much of the debt as may be sufficient to satisfy the writ, and the sheriff may, upon any such payment, give a receipt to the garnishee which shall be a discharge, pro tanto, of the debt attached.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8fb8603546ee74400e13fde0a1e5cc67",
+    "text": "(b) In the event of the garnishee refusing or neglecting to comply with any such notice, the sheriff shall forthwith notify the judgment creditor and the judgment creditor may call upon the garnishee to appear before the court to show cause why he should not pay to the sheriff the debt due, or so much thereof as may be sufficient to satisfy the writ, and if the garnishee does not dispute the debt due, or claimed to be due by him to the party against whom execution is issued, or he does not appear to answer to such notice, then the court may order execution to issue, and it may issue accordingly, without any previous writ or process, for the amount due from such garnishee, or so much thereof as may be sufficient to satisfy the writ.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dac555a297c9e81c775e2a381e481113",
+    "text": "(c) If the garnishee disputes his liability in part, the court may order execution to issue in respect of so much as may be admitted, but if none be admitted then the court may order that any issue or question necessary for determining the garnishee’s liability be tried or determined in any manner mutatis mutandis in which any issue or question in any action may be tried or determined, or the court may make any such other order in the premises as may be just.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87af9ca3c6a6ee5d59aa525d8024e278",
+    "text": "(d) Nothing in these rules as to the attachment of debts in the hands of a garnishee shall affect any cession, preference, or retention claimed by any third person in respect of such debts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "88f327987a79b6695285ce4383a84495",
+    "text": "(e) The costs connected with any application for the attachment of debts, and the proceedings arising from or incidental thereto, shall be in the discretion of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4eea595655f323afd2d8caee06ea81a",
+    "text": "(f) Where the sheriff is of opinion that applications to the court or orders with respect to a garnishee will probably cost more than the amount to be recovered thereunder, he may sell such debts, after attachment, by auction, in the same way as any other movable property, or may cede the same at the nominal amount thereof to the judgment creditor with his consent.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a1ff79a61b66df9174ab31e5786b641",
+    "text": "(g) Payment of the amount due under and in respect of any writ, and all costs and the like, incidental thereto, shall entitle the person paying to a withdrawal thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79357e7128c4e02a2c26e626522cfc97",
+    "text": "RS 22, 2023, D1 Rule 45-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "98b39d982c38ef9a07e31acd880d988e",
+    "text": "(h) to (k) inclusive. . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab1fae28130b08e146d0b4ae5a6aeba6",
+    "text": "[Subrule (12) inserted by GN R235 of 18 February 1966. Paragraphs (h) to (k) inclusive deleted by GN R608 of 31 March 1989.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2e9c21932fc1cd6de1c2543363abde5",
+    "text": "(13) Neither a sheriff nor any person on behalf of the sheriff shall at any sale in execution purchase any of the property offered for sale either for himself or for any other person.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5655128f4e7027848c609dbaee4c69e3",
+    "text": "[Subrule (13) inserted by GN R1843 of 1 October 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "324c1a7d415b9080104c6e458f3c4b0f",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "f29108be28ff350b8e0eba86cda5bd08"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a733cf35cab6ff8003613fca69c1e42",
+    "text": "Forms. Writ of execution, 18; Form of security under rule 45(5), 19.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b338deb294407eecb073342ec22f1dc3",
+    "text": "General. Rules 45, 46 and 46A deal with execution in High Court procedure. Whereas rule 45 makes provision for execution in general and against movable property, rule 46 deals with execution against immovable property and rule 46A with execution against residential immovable property. Rules 45, 46 and 46A should, where necessary, be read together with:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "28d56c7f638ec1b01d8bf5a0ff024e94",
+    "text": "(a) rule 45A, which provides for the suspension of execution;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "804cf79625ee853e6b5835fcf8536916",
+    "text": "(b) the following sections of the Superior Courts Act 10 of 2013 which are reproduced in Volume 1 third edition, Part D:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "95754d0e7b4095860dcf689ebaea5dc6",
+    "text": "(i) s 42 — scope and execution of process;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ced3585fb83614740b8e8cc086e84e0e",
+    "text": "(ii) s 43 — execution of process by sheriff;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f5d1b80536cb7c2a757128019c1d968",
+    "text": "(iii) s 44 — electronic transmission of summonses, writs and other process;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9eea0bf60710d69034578c0e0041849",
+    "text": "(iv) s 45 — property not liable to be seized in execution; 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0273767de9eb4da2ff517b9a38108011",
+    "text": "(v) s 46 — offences relating to execution;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce3b622ddebb0a3c5d34f8e654af6acf",
+    "text": "(c) statutory provisions that place a bar on attachment in execution such as, for example, s 58A(4) of the South African 3 Schools Act 84 of 1996;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e7f09ecc9b3254df749485f65c675d5",
+    "text": "(d) multilateral treaties under which international organizations enjoy immunity from execution. 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dcf12a83503eac4399812c635e051399",
+    "text": "Rule 45 requires several consecutive steps for the valid attachment in execution of the movable property of a judgment 5 debtor, the most important being:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b68e2b0f4f6065c54b7d3b30244a7fce",
+    "text": "(a) the issue of a valid writ of execution;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a71c833d2b2bd73d26555825655a7b0f",
+    "text": "(b) a demand that the writ be satisfied;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "04c7a6d1801d6a2ad3f208348d3d1738",
+    "text": "(c) if not satisfied, a demand that the judgment debtor point out sufficient movable and disposable property, failing which the sheriff is authorised to search for such property;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f7fc9bbdc0cf9eaf36cc3339488686e",
+    "text": "(d) the making of an inventory of the goods;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "21c824ee2bde9601e6cb7df8cf5e62ff",
+    "text": "(e) subject to rule 45(3) and (5), the sheriff shall take the movables into custody;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9bb81c204fedde1d108995e6a85cb471",
+    "text": "(f) the making of a return of the manner of execution;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "878e9c98e5bd37b0fc99d739bf0a3532",
+    "text": "(g) if the judgment debtor does not give an undertaking, and unless the execution creditor directs otherwise, the sheriff shall remove the goods to a convenient place of security or keep possession thereof on the premises where they were seized;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9f21f4306ee715157b8beeed68895849",
+    "text": "RS 22, 2023, D1 Rule 45-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b54bfcea9f28d9356e429fe30a908a22",
+    "text": "(h) notice of sale to be forwarded at least 15 days before the date of sale; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d61d7b1451692bdb6214304ba17ce9c7",
+    "text": "(i) the sale of the property attached at a sale in execution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5998fc47fc2b739bc2f9eb34bf15a4d",
+    "text": "Subrule (1): ‘A judgment creditor.’ It is submitted that the provisions of this subrule, as in the case of its predecessor, contemplate a judgment liability in which the debt or other obligation of the judgment debtor and the matter which is to be 6 enforced by the sheriff are specifically and with certainty described.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e41dcad16dabcc30b47a2c0cff8b33d",
+    "text": "A writ may be issued in respect of a judgment which is conditional in the sense of being dependent upon the performance of 7 some act by the judgment creditor. There must nevertheless be certainty as to what the creditor is entitled to under the judgment, and a writ may be set aside if the judgment in respect of which it had been issued is not definite and certain, or if 9 it is no longer supported by its causa. 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fd2245d332f3278ee6d8a2b7942b2e4",
+    "text": "Rule 41(4) provides that judgment may be applied for if a written settlement has not been carried out. There is no provision",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf",
+      "parent_id": "324c1a7d415b9080104c6e458f3c4b0f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "88d46662fc1d052b8bbaa5c2a063eb2f",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bc25f9bae03959faae97bb14f6a0195e",
+    "text": "Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "442a317fdbb221b5d084f7c933bc4869",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "128202f5124833b72974cacb15e0a597",
+    "text": "in rule 41 that an undertaking in a settlement to pay costs shall have the effect of an order of court. It is clear that in order to execute on an undertaking in a settlement to pay costs, a judgment will have to be obtained and the costs will have to be 10 11 taxed. A taxed bill of costs alone is not enough to levy execution on an undertaking to pay costs. An allocatur does not 12 amount to a judgment for purposes of execution. In the absence of an order that compelled a party to pay the other party’s costs, the taxing master has no authority to tax the bill. If the taxing master does so, he acts ultra vires and the writ 13 of execution issued falls to be set aside for lack of a causa. There is, however, no reason in principle or practice why a judgment for payment of a category of expenses which can be quantified without difficulty should not be able to sustain a writ, if the accrual and the amount of the expenses, on the basis of which liability therefor is established in a judgment, are 14 proved, for example, by an affidavit of the judgment creditor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69a8b0404f135fd7e585b8d20bc05f24",
+    "text": "Section 163 of the Labour Relations Act 66 of 1995 provides that an award of the Labour Court is equated with an order of 15 the High Court for purposes of execution. It is submitted",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "737fd2acadb461c5ce7c8aa344815846",
+    "text": "RS 22, 2023, D1 Rule 45-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f01cd47a99e0d851f9e620970c26435",
+    "text": "that its operation is ex lege and that once the Labour Court makes an order, it is deemed to have the attributes of an order of 16 the High Court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2137809e291bbdbd0e2a288139ee75ee",
+    "text": "Section 31(1) of the Arbitration Act 42 of 1965 provides that an award (or interim award) may, on application, be made an 17 order of court by a court of competent jurisdiction. In terms of s 31(3) of the Arbitration Act 42 of 1965 an award which has been made an order of court may be enforced in the same manner as any judgment or order to the same effect. In order for an award (or interim award) of costs to be enforceable under rule 45, it must therefore first be made an order of court as contemplated in the Arbitration Act 42 of 1965.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a218d66cc3b76d627feefda5aa871e1",
+    "text": "‘At his own . . . risk.’ The effect of these words (which appeared in the former Transvaal rule 67(a)) is not clear. Subrules (3) and (7) make provision for the giving of an indemnity to the sheriff in certain cases. The position has always been that if a judgment creditor authorizes an attachment which causes damage to the judgment debtor or a third party the judgment 18 creditor, and not the sheriff, is liable therefor; but if the sheriff has acted outside the scope of his authority he, and not the creditor, is liable. These words appear merely to be declaratory of the common-law rule that the judgment creditor may be 19 liable for damages if the writ is set aside.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6e9e79e339e10bbc4a255c1df1963e9",
+    "text": "‘Sue out of the office of the registrar.’ In Rand West City Local Municipality v Quill Associates (Pty) Ltd purportedly accepted that the decision of the registrar to issue a writ of execution was reviewable under PAJA. 20 Botes AJ 21 On appeal to the Supreme Court of Appeal, reliance on PAJA as a basis for review and for the setting aside of the writ was abandoned. 22 The Supreme Court of Appeal sub nomine Rand West City Local Municipality v Quill Associates (Pty) Ltd stated: 23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71a2618e4aa66298fbb07cdf37c9e4ed",
+    "text": "‘Reliance on PAJA as a basis for review and for the setting aside of the writ was correctly abandoned before us. It is difficult to discern what precisely the high court determined in this regard. It appeared to keep the option of a PAJA-based review open, concluding that the Registrar could not be accused of not applying his mind, whilst at the same time accepting that the basic test is to determine whether a writ is in accordance with the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2371cb50d9c30c9a2a8dfabbf5704b7",
+    "text": "RS 22, 2023, D1 Rule 45-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b35b030a441e890b3c38449a0e364730",
+    "text": "court order on which it is premised. It is clear that a writ will be set aside where it does not accord with the order on which it was purportedly issued, or the facts show that the debt has been satisfied, or the order on which it was premised is itself set aside.[Le Roux v Yskor Landgoed (EDMS) BPK en Andere 1984 (4) SA 252 (T) at 257 B–I.] The Registrar does not engage in administrative action when he/she issues a writ. It can and ought to be challenged on the principle of legality.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c7d55ab6cff03bc4c15f75e0c1437e5",
+    "text": "‘One or more writs.’ The writ is the source of the sheriff’s authority for all actions taken pursuant to the writ. The sheriff 24 derives authority to act from the writ itself and enjoys no residual authority.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc44886428062b3ef2cd4f1e36efaafa",
+    "text": "‘Corresponding substantially with Form 18 of the First Schedule.’ The verbatim following of Form 18 is not required. The word ‘substantially’ requires, it is submitted, that the writ must by and large, or materially, comply with the prescribed requirements. It need not in all respects conform to the specimen. In other words, Form 18 may be used with such variation as 25 circumstances require. Form 18 directs the sheriff to ‘attach and take into execution the movable goods of the judgment debtor’ to be realized by public auction for the sum of the judgment debt. A writ which is overspecific in terms of the movable property to be attached, directing the sheriff to attach only the bank account of a government department, does not 26 correspond substantially with Form 18 and contravenes rule 45(1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14b77b32b67923effa40e4bec1fb52aa",
+    "text": "A description of the judgment in a writ of execution is, according to the wording of Form 18, unnecessary and can be omitted. The fact that an incorrect description of the judgment debt is included in a writ of execution does not affect the 27 validity of the writ. The aforegoing does not affect the principle that a writ of execution must be in accordance with the 28 judgment which warrants its issue — a writ which is not warranted by the judgment is liable to be set aside.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b59a7dad09022435878de349475acb0",
+    "text": "Subrule (2): ‘Of any costs awarded by the court . . . until they have been taxed by the taxing master or agreed to in writing . . . in a fixed sum.’ Subrule (1) and this subrule provide for two requirements before a writ of execution can validly be issued for the recovery of costs, viz:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bddfde54fbbd29dbe2a082881e3bec8d",
+    "text": "(a) a judgment or order of a court awarding costs to a party; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68810b74852b8b120d4ce01f98c05877",
+    "text": "(b) an agreement on costs or taxation of the bill of costs by the taxing master as contemplated in this subrule. 29",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5debee9a1f9770f6097cf2fd32f7fba",
+    "text": "The subrule permits the inclusion in a writ of costs which have been awarded to the judgment creditor but have not yet been taxed. In order that they may rank in the distribution, however, they must be duly taxed and the original bill lodged with the sheriff before the day of the sale in execution. If the costs have already been taxed when the writ is issued, or the judgment debtor has agreed in writing to pay a fixed sum in respect thereof, such amount may be included in the writ without any further steps being necessary.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a9b8d3d759b4540ce29ee6b3b9b4d5b",
+    "text": "It is to be noted that interest on a costs order can only be levied on taxed costs, i e the interest is only payable from the 30 date of the taxing master’s allocatur.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "62414e8413a19ca236c843a67ee10759",
+    "text": "RS 22, 2023, D1 Rule 45-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d0324eec310ad4ea3f0eddcb99ea56b",
+    "text": "Subrule (3): ‘He shall . . . forthwith proceed.’ The sheriff should adhere strictly to this subrule and the subrules following 31 32 upon it, for unless this is done there is no valid attachment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8da205653bf9d01be895033056dd13aa",
+    "text": "‘To the dwelling-house or place of employment or business.’ This subrule does not disallow personal service in circumstances where the debtor is not at his home or at his place of employment or business. The subrule allows service at such places in the absence of the debtor. It also allows service at some other location if the assets to be attached are there 33 and presumably if the debtor is not.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "168f4c217c59974fcd97f849e5303d3d",
+    "text": "If the sheriff presents a writ to the debtor elsewhere than at the house or place of business of the latter, and the debtor 34 takes no objection, the debtor will not be allowed later to rely upon this irregularity. If the judgment debtor has chosen a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "25ddd5ca0b2668f36873b9840fd686d0",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f951fc4fa0d677cb698c27ed711bb64d",
+    "text": "35 Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "38c1cea5cf3002a7e28ffc59144fe273",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e295d79ab2153c978a56e401cdbd981d",
+    "text": "domicilium citandi et executandi at some other place, service of the writ at such domicilium is good. 35",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "958159a55472caaebea2832eb924a3c5",
+    "text": "Subrule (3)(a): ‘Demand satisfaction of the writ.’ This subrule requires, for a valid attachment in execution, a demand to 36 be made that the writ of execution be satisfied.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f011f6da6050327132dddf69939608d",
+    "text": "Subrule (3)(b): ‘Demand that . . . property be pointed out.’ The words ‘point out’ imply that the movable property must be 37 something that can be physically pointed out. The return should show whether the debtor pointed out the goods; and, if he did not, in whose possession they were attached. If the debtor points out assets which the sheriff deems insufficient, he has no right to release them and make a nulla bona return; the sheriff’s duty is to make an inventory and valuation of so much movable property as may be pointed out in part execution of the warrant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43b281a0673c3d0b6e8276b5a840a821",
+    "text": "A judgment debtor should not be deprived of the opportunity to point out movable property before the sheriff searches for 38 property and proceeds to attach so much of the judgment debtor’s movables as is sufficient to satisfy the writ.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64cc89325127b2543a3f9887e829e002",
+    "text": "If the debtor fails to point out assets for attachment on request, the sheriff is authorized by the subrule to proceed to attach and inventory so much of the debtor’s movables as he deems sufficient to satisfy the writ. The judgment creditor’s right to satisfaction cannot be frustrated by the debtor’s refusal or failure to point out assets for attachment. 39",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40213ef00f802a0050fb7565e8739dc9",
+    "text": "‘Movable.’ Rule 46(1)(a)(i) provides that, subject to the provisions of rule 46A, no writ of execution against the immovable property of any judgment debtor shall be issued unless a return has been made of any process issued against the movable property of the judgment debtor from which it appears that the said person has insufficient movable property to satisfy the writ. Rule 46A applies whenever an execution creditor seeks to execute against the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdee316d8941e6e486557dc5c47fa57b",
+    "text": "RS 22, 2023, D1 Rule 45-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6b9ae79e23580414191fd62ca1c8682",
+    "text": "residential immovable property of a judgment debtor. See further the notes to rule 46(1)(a)(i) s v ‘A return . . . that the said person has insufficient movable property to satisfy the writ’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a019f60db14f007cb058e2c28dc2625a",
+    "text": "‘Disposable property.’ This phrase has been considered in a number of cases. 40 The phrase brings this subrule into line with s 8(b) of the Insolvency Act 24 of 1936 in terms of which a debtor’s failure to point out disposable property amounts to an act of insolvency.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b9ad577778606cf873f2199b6e3458c",
+    "text": "See further the notes to subrule (4) s v ‘A return of what he has done thereon’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "598957bcd65511aaf6e5d1d6005dfd21",
+    "text": "Subrule (3)(c): ‘Search for such property.’ The debtor is the person best situated to know what property he has and the whereabouts thereof and if the sheriff fails to enquire from the debtor, when it is possible to do so, what property he has and where it can be found, then the sheriff could hardly be said to have taken all the appropriate steps to ascertain what property 41 the debtor has.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab294deb0623269e0b877072f010206a",
+    "text": "‘Shall be immediately inventoried and . . . taken into the custody of the sheriff.’ The attachment process provided for in this subrule contemplates (a) an inventory of the goods which the sheriff proposes to sell; and (b) retention of possession of those goods by the sheriff unless the judgment debtor has given a guarantee that the goods will be produced on the day of sale. A mere inventory coupled with a warning not to make away with the goods is of no effect in effecting a valid 42 attachment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2dfaf464a733e60d48d2268a901912cc",
+    "text": "Subrule (3)(c)(ii): ‘Shall give to the judgment debtor written notice of the attachment.’ Failure to comply with the 43 provisions of this subrule may render the attachment and subsequent sale in execution invalid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f79592faff8348bfcd402635478e746f",
+    "text": "Subrule (4): ‘A return of what he has done thereon.’ The return of process must be made to the registrar and the 44 party at whose instance the process was issued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "953b4c4349cb492465b55047201d1fa3",
+    "text": "See further the notes to s 44(1) of the Superior Courts Act 10 of 2013 s v ‘Make return of the manner of execution thereof’ in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40a3a390a374f7c0f939eabbb67ef008",
+    "text": "Subrule (5): ‘Where any movable property has been attached.’ Attachment in execution creates a pignus judiciale, the effect of which is that the control of the property attached passes from the judgment debtor to the officer entrusted with the 45 execution of the writ. However, the dominium remains in the debtor, who can up to the last moment before the sale 47 46 redeem his attached property. An attachment operates in rem.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "054cac3f11ae85ff0991c0f36fabd2ef",
+    "text": "RS 22, 2023, D1 Rule 45-11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4372bf3da266beee84760c5002084a90",
+    "text": "The custody and control which the sheriff holds over the attached property in terms of a pignus judiciale terminate when 48 insolvency ensues and passes to the Master, and after his appointment to the trustee of the insolvent estate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "48bb7d3166f1e028f929d33366d535ad",
+    "text": "Subrule (6): ‘Keep possession thereof.’ It has been held that ‘keep possession’ means leaving an officer in possession and, accordingly, that if the sheriff leaves the goods with the debtor and merely sends an officer occasionally to inquire as to their 49 safety, he does not keep possession and is not entitled to his fees.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b5d39921f9c551753e6b12317aae878",
+    "text": "Subrule (7)(a): ‘The sheriff shall . . . sell it by public auction . . . after due advertisement.’ The sale in execution is an essential step in the process of levying execution; a mere attachment puts nothing in the execution creditor’s pocket and does 50 not make available to him the fruits of his judgment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "148912b8b4d342a719b95d14f6f1afc1",
+    "text": "The subrule requires the sheriff himself, and not an agent of the judgment creditor, to sell the property. 51 A sale conducted by such an agent is not a sale in terms of the subrule and the property may be recovered from the purchaser by a 52 It is, however, the duty of the judgment (i e execution) creditor to advertise the sale as contemplated in the rei vindicatio. 53 (amended) subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0f91409d098a0934c4ceb545e54a66a",
+    "text": "Section 45 of the Consumer Protection Act 68 of 2008 read with regulations 20–33 sets out the requirements for an auction. In terms of s 45(1) of the Consumer Protection Act 68 of 2008 the word ‘auction’ in s 45 includes a sale in execution of or pursuant to a court order, to the extent that the order contemplates that the sale is to be conducted by an auction. In 54 55 Sheriff, Piketberg v Lourens it was held that, despite regulation 22(2) not explicitly mentioning the sheriff of the High Court, it did apply to a sale in execution pursuant to a court order declaring the property executable. Further, having regard to its unique role in the context of auctions, the sheriff must be regarded as a ‘rightful holder (who has the right to sell)’ as contemplated in the proviso to regulation 22, i e that a ‘written agreement’ was required ‘[u]nless the auctioneer is also the owner or the rightful holder (who has the right to sell) of the goods to be auctioned’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6dcf61117077fa221ad00ad07c0f30c",
+    "text": "The sale, once completed, can only be interfered with if there was a reviewable irregularity in the process which prejudiced 56 the debtor. Ulterior motives, hidden agendas, etc do not constitute ground for interference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "91d64efd72eaa2d3225cc60ac95fdda0",
+    "text": "A sale of property of a deceased estate in contravention of s 30 of the Administration of Estates Act 66 of 1965 is null and void, irrespective of whether the attachment of the property took place before or after the death of the deceased. 57",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af80f2fa53bdf2572f9bf9338b68d0c8",
+    "text": "Subrule (8): ‘Incorporeal property.’ This subrule deals with three categories of incorporeal property. Paragraph (a) is",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "74b87bd572dbf611bd5ed1039ff1914e",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "98c702026c350a25a6737a06b1f48575",
+    "text": "Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "442a317fdbb221b5d084f7c933bc4869",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b95f17ae7e39bfdb2df59ea2d9731878",
+    "text": "concerned with leases, bills of exchange, promissory notes, bonds and other securities for the payment of money; paragraph (b) is concerned with interests in",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77a4f46df9de1f7e042ba1da46316a62",
+    "text": "RS 22, 2023, D1 Rule 45-12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef4a5e6c75ce0695949ffe9583738990",
+    "text": "property pledged, leased or sold under a suspensive condition, while paragraph (c) relates to the attachment of all other incorporeal property (that is, other than those types of incorporeal property which are the subject of paragraphs (a) and (b)) 58 or incorporeal rights in property.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60f845bba587e5b65f1a2bfed75de266",
+    "text": "59 Examples of incorporeal property that may be attached are the right, title and interest in an action; the right to money in 60 63 62 61 a banking account; debts which have been ceded; a a vested right in an inheritance; intellectual property rights; 64 member’s interest in a close corporation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c22a7fe791231d2c6303304e476a3e95",
+    "text": "Certain rights are so personal that they can never be transferred to anyone else and are accordingly not capable of 65 attachment in execution. These would include, for example, the ‘right’ to make a will; the ‘right’ not to be assaulted; the 66 ‘right’ to freedom of speech and, in the law of cession, where a delectus personae is involved.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69113b7e1fa58253cf75cd5625800118",
+    "text": "Attachment of a debtor’s interest in a pension fund, the rules of which prohibit attachment, is not competent. 67",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7ef30cdc3f1255620f03c465b69384b1",
+    "text": "The General Pensions Act 29 of 1979 provides in s 2(1) that no annuity or benefit or right in respect of an annuity or benefit payable under a pension law (as defined in the Act) shall be liable to be attached or subjected to any form of execution under a judgment or order of a court of law. Similar provisions are contained in a number of other Acts dealing with pensions, for 68 example: s 37A of the Pension Funds Act 24 of 1956; s 2(1) of the Statutory",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d8dc6c10c5dab8fe80c05a112eb2f84",
+    "text": "RS 22, 2023, D1 Rule 45-13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c49180ea872ed4bee79ad1bb8c4cbea1",
+    "text": "Pensions Protection Act 21 of 1962; s 14 of the Aged Persons Act 81 of 1967 (repealed by the Older Persons Act 13 of 2006 which came into operation on 1 April 2010) and s 20(3) of the Social Assistance Act 13 of 2004.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49c7660a4892459f5b3a9d671ffa39b8",
+    "text": "A right to a benefit or gratuity to which any person is entitled under the Occupational Diseases in Mines and Works Act 78 of 1973 is not subject to execution of a judgment or order of a court of law, except at the instance of the Compensation Commissioner for Occupational Diseases in proceedings to recover an amount to which the payee was not entitled. 69 If a person to whom or on whose behalf such a gratuity or benefit (other than a monthly allowance or a pension) has been paid has purchased any movable or immovable property, and the purchase price or not less than one-quarter of the purchase price has been paid out of a gratuity or benefit, the property is not subject to attachment for a debt (or a novation thereof) which 70 arose before the gratuity or benefit in question was paid to or on behalf of the judgment debtor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fcb8f9140c0a20d249c44f63c16cba05",
+    "text": "The levying of execution upon insurance policy benefits is dealt with in s 63 of the Long-term Insurance Act 52 of 1998.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d665d955a1e1a4583c277a551da41d3",
+    "text": "‘Without the necessity of a prior application to court.’ Previously the leave of the court had to be obtained before 71 This subrule now makes it possible to attach any type of incorporeal property incorporeals could be attached in execution. 72 without a prior application to court. What it does not do is give the judgment creditor the right to choose which of the judgment debtor’s movable property must be attached by the sheriff. The subrule, in other words, does not serve as authority for the judgment creditor to choose to only attach a particular incorporeal right belonging to the judgment debtor, and to authorize the registrar to issue a writ that limits the authority of the sheriff to the attachment of specific movable incorporeal property. Subrule (8) cannot derogate from the issuing of a writ as envisaged in subrule (1), in substantial compliance with 73 Form 18.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b7252ceba799140ea3a77889484de0a9",
+    "text": "Subrule (8)(b): ‘The interest of the execution debtor in property pledged, leased or sold under a suspensive condition to or by a third person.’ This subrule clearly provides for the attachment only of the debtor’s interest in the property concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93249b05d27f1cf62c2c402861c29a97",
+    "text": "The purchaser in execution of such interest does not acquire ownership in the goods; what he acquires is the execution 74 debtor’s interest in the goods.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffcc81b9cb06756b72d88ec3af95eeda",
+    "text": "In magistrates’ courts practice it has been held that under rule 42(2) (which materially corresponds with this subrule), read with the National Road Traffic Act 93 of 1996, a sheriff must give notice of the intention to sell a motor vehicle in execution to 75 both the ‘title holder’ and ‘owner’ of the vehicle as defined in the National Road Traffic Act 93 of 1996.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52afd704cca3735be82ff5965adabea8",
+    "text": "The effect of s 1(1) of the Security by Means of Movable Property Act 57 of 1993 is that the notarial bondholder acquires a 76 real right over the property concerned as if it was pledged to him. Such right constitutes an interest in the property concerned as contemplated in this subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4900a856f1183e15d37909c2b807513f",
+    "text": "As to property ‘leased’, see the National Credit Act 34 of 2005.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a54a8c8618eee51ff5e5479b285b9380",
+    "text": "RS 22, 2023, D1 Rule 45-14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "327b53b290dabd266f7216cf45d1618c",
+    "text": "Subrule (8)(c)(i): ‘The attachment shall only be complete.’ An attachment will only be complete once the sheriff has complied with all the provisions of this subrule. In terms of subrule (8)(c)(i)(a) the sheriff has to give notice of the attachment 77 Failure by the sheriff to comply with this requirement will render a in writing to, amongst others, all interested parties. 78 subsequent sale null and void.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21eaf59d8c939ea8f7cf60bcf8e6106e",
+    "text": "Subrule (8)(c)(i)(b): ‘Of the writing or document evidencing the ownership of such property or right.’ It is essential for the validity of an attachment under this subrule that the sheriff shall take possession of the documents in question or attempt 79 to do so.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "464d843194f8baa9afbfdf07ab3c4b62",
+    "text": "Subrule (8)(c)(ii): ‘May make an inventory and valuation of the right attached.’ This subrule does not make it obligatory for the sheriff to make an inventory or valuation of the right attached; it merely empowers him to do so if he thinks it 80 necessary and advisable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c8d896f7ce6d21235d1c7e6ebe1f893a",
+    "text": "Subrule (11)(a)(i): ‘Lodged with any sheriff . . . before or on the day of the sale.’ In magistrates’ courts practice all warrants lodged ‘on or before the day immediately preceding the date of the sale in execution’ rank pro rata in the distribution 81 82 of the proceeds of the sale in execution. It would seem that the decision in Humphreys v Pickles no longer applies. In that case it was held that, by reason of the different times within which a judgment creditor had (at that time) to lodge his writ of execution with the messenger or the sheriff in order to share in the proceeds of execution, where Supreme Court and magistrates’ courts writs compete, the creditors thereunder rank, in accordance with the rules of the common law, pro rata in respect of the proceeds of the sale in execution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a11e7c05609277745015dd297549fba",
+    "text": "Subrule (12)(a): ‘Debts . . . subject to attachment, and . . . owing or accruing.’ An accruing debt is a debt not yet 83 actually payable but a debt which is represented by an existing obligation. For example, during the subsistence of a contract of lease the rent payable for the unexpired period of the contract is a debt which is capable of attachment by a 84 garnishee order. The existence of a relationship of debtor and creditor between a third party and the judgment debtor is a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2f1c9dd00aa468b6ae66207598743366",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d4cdc84c61b2ccd587e76b8f5c1382c9",
+    "text": "Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "38c1cea5cf3002a7e28ffc59144fe273",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b947f8a4ea793bcb3fe8752260aa96e",
+    "text": "prerequisite for an attachment under this subrule. Thus, for example, the legal relationship between a banking institution and 85 and the credit balance of a customer’s current its customer whose account is in credit is that of debtor and creditor 86 account may be the subject of a garnishee order. Similarly, money representing a debt due by a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50c7f571147f6c689928bff3c3e38326",
+    "text": "RS 22, 2023, D1 Rule 45-15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "549332a7a3f911024df2876437f76708",
+    "text": "third party to the judgment debtor which has been lodged with the sheriff may be made the subject of a garnishee order. 87",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "022522a5329e8bae0de7d7ec1aac3cf2",
+    "text": "The question whether salary, earnings and emoluments are debts which are subject to attachment within the meaning of 88 this subrule has given rise to diversity of opinion: in Foley v Taylor it was held they are, while in Gouws v Theologo 89 this view was not approved and not followed. The common-law practice in accordance with the view of Voet is that wages can be arrested, but the portion of the wages that should be garnished is a matter that lies in the discretion of a prudent and 90 91 circumspect judge. In Pienaar v Pienaar the court considered the aforesaid conflicting views and held that the Foley approach disregards the discretion of the court and could provide an irresponsible practitioner with a drastic remedy while little or no protection is being afforded to the judgment debtor and, should the whole salary of the judgment debtor be attached, he 92 93 will not be able to support his dependants. The court accepted the approach followed in the Gouws case. It 94 held, however, that since subrules (j) and (k) had been repealed, no legal attachment of an employee’s salary could be effected in terms of this subrule without the sanction of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "83a42a4ece18d371ec56cddad3f72797",
+    "text": "‘Shall be a discharge, pro tanto, of the debt attached.’ The legal relationship created by garnishee procedure and by the order made under it is not that of debtor and creditor, i e the judgment creditor does not become a creditor of the garnishee 95 — there is no transfer or cession of the debt to the judgment creditor. The garnishee is obliged to pay the amount stipulated to the garnishor, and any such payment operates as a discharge pro tanto of the garnishee’s obligation to the 96 judgment debtor. Failure on the part of the garnishee to make payment to the judgment creditor is a breach of his 97 obligation to his creditor, the judgment debtor who may sue him for breach of contract.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "80582064dc44aacf9107dbc12a69ecab",
+    "text": "Subrule (12)(c): ‘The garnishee disputes his liability.’ The garnishee is not entitled to question the correctness of the 98 judgment against the judgment debtor, but is entitled to raise against the judgment creditor any defence that he could 99 validly raise against the judgment debtor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9299b4655558613e07c39626bf9f74b9",
+    "text": "‘Be tried and determined in any manner.’ In Marshall Timbers Ltd v Hauser and Battaglia (Pty) Ltd 100 the judgment creditor and the garnishee agreed upon the terms of a special case for the adjudication of the court in terms of rule 33.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e54b34c17b28cbbf75378775e366d930",
+    "text": "1 Subrule (7) was amended by GN R1343 of 12 December 2008 (GG 31690) with effect from 12 January 2009. The word ‘the’, which is part of the subrule, was omitted from the amendment. This calls for a rectification of the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97ad5ee8580a574a933fa7d419fb6fcc",
+    "text": "2 The date of commencement of this section of the Act is still to be proclaimed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "948e71a52716dee25965ca6baa46cdb9",
+    "text": "3 As to which, see Moodley v Kenmont School 2020 (1) SA 411 (CC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ed25969f6bc4031d539f45aadc07e07",
+    "text": "4 See Riaan de Jager ‘Immunity from jurisdiction and execution by international organisations’ 2021 (March) De Rebus 16 where, amongst other things, African Development Bank v TN 2019 (2) SA 437 (GP) is discussed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "df781b058b2c507443917876c66abd8d",
+    "text": "5 MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraph [74] (footnotes omitted). On a plain reading of rule 45(3) to (6), it is the sheriff himself who must take the property into his ‘custody’ and who must ‘retain’ and ‘keep the property that has been attached. Accordingly, it is the sheriff alone who must take into and maintain in his possession the property that has been attached (Spartan SME Finance (Pty) Ltd In re: Insurance Underwriting Managers (Pty) Ltd v Zululand Bus Services CC (unreported, GP case no 38929/2022 dated 7 December 2022) at paragraph 35).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c30bbec8404cc92b41047d84921dfeb6",
+    "text": "6 Cf Muniamma v Ramalingam 1932 NPD 29 at 37; De Crespigny v De Crespigny 1959 (1) SA 149 (N); Le Roux v Yskor Landgoed (Edms) Bpk 1984 (4) SA 252 (T) at 257F; Road Accident Fund v Nnosa 2005 (4) SA 575 (T) at 578B and 580D (and see the authorities referred to at 578C–579G). One of the functional components of a judgment is that it is a command to the party at whom it is aimed, coupled in an appropriate case with a warrant to the sheriff to enforce the command (Lurlev (Pty) Ltd v Unifreight General Services (Pty) Ltd 1978 (1) SA 74 (D) at 79A). See also Nu-Shelf Investments CC v Bangaar 2012 (3) SA 136 (KZD) in which it was held (at 137G–H) that under rule 45(1) and (2) an attachment should be made on a duly taxed bill of costs only if it arose from an order contained in a judgment, such an order or judgment being a prerequisite for the validity of the writ of execution on which the attachment is based.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6cf00b75f496225107449624afd02fb4",
+    "text": "7 McNutt v Mostert 1949 (3) SA 253 (T) at 255; Du Preez v Du Preez 1977 (2) SA 400 (C) at 403.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e61444885d65e44ef8966ef207f62a22",
+    "text": "8 De Crespigny v De Crespigny 1959 (1) SA 149 (N); Ras v Sand River Citrus Estates (Pty) Ltd 1972 (4) SA 504 (T) at 510E; Le Roux v Yskor Landgoed (Edms) Bpk 1984 (4) SA 252 (T) at 257G; Van Dyk v Du Toit 1993 (2) SA 781 (O) at 783D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86bc8be066618415e05b92be16c45996",
+    "text": "9 Ras v Sand River Citrus Estates (Pty) Ltd 1972 (4) SA 504 (T) at 510A–E; Le Roux v Yskor Landgoed (Edms) Bpk 1984 (4) SA 252 (T) at 257B–D; Van Dyk v Du Toit 1993 (2) SA 781 (O) at 783C; Gois t/a Shakespeare’s Pub v Van Zyl 2011 (1) SA 148 (LC) at 155F–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "96d531ea75cd48e19d2daf8676a1d518",
+    "text": "10 Road Accident Fund v Nnosa 2005 (4) SA 575 (T) at 580C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a62e05d8623b56c31cfb765669020db1",
+    "text": "BR",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bba860832f767b2c0fa729be614b206f",
+    "text": "11 Road Accident Fund v Nnosa 2005 (4) SA 575 (T) at 580D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8d0b47668ae3659e941fb0b0d391f128",
+    "text": "12 Road Accident Fund v Nnosa 2005 (4) SA 575 (T) at 580D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0527a28afdf7d76aae1ebb418b36d798",
+    "text": "13 Graphic Laminates CC v Albar Distributors CC 2005 (5) SA 409 (C) at 412I–J.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "218a1997df6d7087c74a9aadd480bbf1",
+    "text": "14 Butchart v Butchart 1996 (2) SA 581 (W); 1997 (4) SA 108 (W). In this case it was held that it is competent for a judgment creditor to issue a writ of execution to recover amounts for medical, dental, pharmaceutical, hospitalization, ophthalmic, orthodontic and related expenses payable in terms of a settlement agreement incorporated in a divorce order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d4597a8812203d846239dd54eb89b6f",
+    "text": "15 Rule 26 of the Rules of the Labour Court provides as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "95d89594d39b4f19b798c958a8747a0b",
+    "text": "‘In terms of section 163 of the Act, service and execution of the court’s decisions, judgments or orders must take place in accordance with the procedure for service and execution of decisions, judgments or orders of the High Court of South Africa.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03a5a88ba45bfe85385c423cbedcd94a",
+    "text": "16 See Lea v Maister Directories (1881) (Pty) Ltd 1994 (1) SA 84 (T) at 87D. This does not, it is submitted, mean that a party who fails to comply with an order of the Labour Court can be committed to a correctional centre for contempt of court by a High Court (see Food and Allied Workers Union v Sanrio Fruits CC 1994 (2) SA 486 (T)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f70d3774c731dc49d026e703932d2bc2",
+    "text": "17 If a successful party approaches the court with such an application under circumstances where the parties have waived their right to have their dispute relitigated or reconsidered, the proper relief for the unsuccessful party who challenges the award on the ground of alleged irregularities or misconduct on the part of the arbitrator is to invoke the review provisions of s 33(1) of the Arbitration Act 42 of 1965 (Telcordia Technologies Inc v Telkom SA Ltd 2007 (3) SA 266 (SCA) at 292A–C (in this case, at 292C–301C, the Supreme Court of Appeal analyzed in depth the meaning of the words ‘gross irregularity’ and ‘exceeding powers’ in s 33(1)(b) of the Arbitration Act 42 of 1965); Bantry Construction Services (Pty) Ltd v Raydin Investments (Pty) Ltd 2009 (3) SA 533 (SCA) at 541I–542B; and see Termico (Pty) Ltd v SPX Technologies (Pty) Ltd 2020 (2) SA 295 (SCA); Insurance Underwriting Managers (Pty) Ltd v Blue Crest Holdings (Pty) Ltd; Blue Crest Holdings (Pty) Ltd v Insurance Underwriting Managers (Pty) Ltd (unreported, GJ case nos 4327/2021; 38025/2021; 04842/2022 dated 26 January 2023) at paragraph [47]); Vleissentraal Bethlehem (Pty) Ltd v Konsortium Operations (Pty) Ltd (unreported, FB case nos 1611/2022; 1728/2022 dated 31 January 2023 — a decision of the full bench) at paragraphs [3]–[4].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8cb70d77ad9f9adcf3b6949939efdd5",
+    "text": "18 This sentence, appearing in the first edition of this work, is cited with approval in Butchart v Butchart 1997 (4) SA 108 (W) at 116C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "50feef77557b031f6fd78eb754d34d3f",
+    "text": "19 See McNutt v Mostert 1949 (3) SA 253 (T) at 255.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e0863a7b8e71a478884fc6d96ff19c25",
+    "text": "REREE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d5f896acc3786a93550f726f4d4724b",
+    "text": "20 2020 (5) SA 626 (GP).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f7fddd1fe89af87520dcbfc04981d137",
+    "text": "21 At paragraphs [71]–[82].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6c7747fa542d0f7cc2e90d69d7998af",
+    "text": "22 Unreported, SCA case no 497/20 dated 26 October 2021.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76176797b0f700e875b73000742cdc5f",
+    "text": "23 At paragraph [6].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "205bbf0ddd2dc3cb6e122cae22f67f45",
+    "text": "24 Weeks v Amalgamated Agencies Ltd 1920 AD 218 at 225; MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraph [75].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "16f51bbd57992bb55ce27d33c1366668",
+    "text": "25 This paragraph was referred to with approval in Kennedy v Nedbank Limited (unreported, GP case no 73083/2009 dated 11 March 2022) at paragraph 5.10.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7f60b1ef5d99d48c0684108d5bfd0ebe",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "66dececcca7eadf25bf74b8752a5d271",
+    "text": "Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "442a317fdbb221b5d084f7c933bc4869",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd0b20dffec9ae145389812e3a4950a2",
+    "text": "26 MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraph [72].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e85d7be56af36acc5af1e5e2e412039",
+    "text": "27 De Clerk v Balju van die Hooggeregshof, Empangeni 1994 (3) SA 564 (D) at 568B–C. See also Perelson v Druain 1910 TPD 458; Du Preez v Du Preez 1977 (2) SA 400 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "258d6987fb810c15f34abbc571f214c5",
+    "text": "28 See, for example, Cornforth v Dalton and Roux (1922) 43 NLR 116; Albow Bros v Wirth 1924 CPD 251; Sachs v Katz 1955 (1) SA 67 (T); De Clerk v Balju van die Hooggeregshof, Empangeni 1994 (3) SA 564 (D) at 565I–566I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c93e5392f68943b6df40890a757f6d7",
+    "text": "29 Road Accident Fund v Nnosa 2005 (4) SA 575 (T) at 578B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "32367dfc95df8a6287c8986c43352b0a",
+    "text": "30 Administrateur, Transvaal v J D van Niekerk en Genote BK 1995 (2) SA 241 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c9a5ce5fb793c036367a374a09ca19d2",
+    "text": "31 Reichenberg v Deputy Sheriff, Johannesburg: In re Reichenberg v Joel Melamed & Hurwitz 1992 (2) SA 381 (W) at 382H; and see",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3c6b228085b6451298661b303723dbb6",
+    "text": "Dorasamy v Messenger of the Court, Pinetown 1956 (4) SA 286 (D) at 289 and Messenger of the Magistrate’s Court, Durban v Pillay 1952 (3)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4dca60c25ee4c4a5c1a504880a90de8",
+    "text": "SA 678 (A) at 683.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "940d14ae0d9f2f95f4f2c72a6bec8351",
+    "text": "32 Caluza v Nyongwana 1930 NPD 157; Van der Walt v Kolektor (Edms) Bpk 1989 (4) SA 690 (T); Reichenberg v Deputy Sheriff,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9f9997e78d6c39d9fed486d3ae149305",
+    "text": "Johannesburg: In re Reichenberg v Joel Melamed & Hurwitz 1992 (2) SA 381 (W) at 383F; and see R v Molotsi 1931 EDL 211; R v Van der",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b0f705eb5fd30bfe7c0d19b8f0661568",
+    "text": "Westhuizen 1951 (2) SA 338 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "028e8b2b65339da1d1682e220d1651ed",
+    "text": "33 Wilken and Others NNO v Reichenberg 1999 (1) SA 852 (W) at 858I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f14484b6e81d38cfeff3dd381c5edd17",
+    "text": "34 De Beer v Isaacson 1929 AD 345.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b12cc5a6ff63807be3158d607ebb272",
+    "text": "35 Gerber v Stolze 1951 (2) SA 166 (T); Muller v Mulbarton Gardens (Pty) Ltd 1972 (1) SA 328 (W) at 331.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7c7cb8535ef95f97eb2f747585d643a9",
+    "text": "36 Reichenberg v Deputy Sheriff, Johannesburg: In re Reichenberg v Joel Melamed & Hurwitz 1992 (2) SA 381 (W) at 383F; and see",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7bffa4e0223bfbc483c10b94c5addf35",
+    "text": "Nedbank Ltd v Norton 1987 (3) SA 619 (N) at 621G. See, however, Cochrane v Ngesman (1906) CTR 222 in which it was held that failure to",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "997312f528f597e0df566e1e4ae1e278",
+    "text": "demand payment if a demand would clearly have been nugatory, will not render an attachment invalid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ef5035c08e7a17f159f3d445c1fe5a5c",
+    "text": "37 Connolly v Ferguson 1909 TS 195 at 198; Hogan v Messenger, Johannesburg 1915 WLD 101; Poffley v Goldblatt 1933 TPD 222; Samuel v Pagadia 1963 (3) SA 45 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7068fbb011c1391617c757aa2d67d062",
+    "text": "38 MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraph [75].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8fd893a7b35714a37e9217a399953aad",
+    "text": "39 See Rosenberg v Madnitsky 1948 (3) SA 1123 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7e228d7b0fe8815ea28707475e904102",
+    "text": "40 See, for example, Rose-Innes & Co v Theron 1928 CPD 181; Horace Sudar & Co (Pty) Ltd v Cassja & Co 1950 (1) SA 203 (N); Natalse",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "534f5f0e37e7f3cd805ed13cc14c1ce4",
+    "text": "Landbou Koöperasie Bpk v Moolman 1961 (3) SA 10 (N); Barclays Nasionale Bank Bpk v Badenhorst 1973 (1) SA 333 (N); Nedbank Ltd v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "849c776a9a55267f59891abaad205c88",
+    "text": "Norton 1987 (3) SA 619 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "295abdf22fc97f39baf0174c6a426b2d",
+    "text": "41 Nedbank Ltd v Norton 1987 (3) SA 619 (N) at 621J–622A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5ffe5dcdfe654458ff60fd701581ff48",
+    "text": "42 Reynolds Grofts (SA) Ltd v Wessels 1977 (1) SA 583 (C) at 585G–586E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87dcbce4b6ae4364d2ff94c372b9a43b",
+    "text": "43 Van der Walt v Kolektor (Edms) Bpk 1989 (4) SA 690 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "afec0bf1c054eb1570f478c50b0525da",
+    "text": "GRS",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "583c149ced2e8ae44f1436f966f73887",
+    "text": "44 In terms of rule 1 ‘party’ includes the attorney acting for any party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17de167e597beb69086ca2f3383b8fe1",
+    "text": "45 Liquidators Union and Rhodesia Wholesale Ltd v Brown & Co 1922 AD 549 at 558–9; Syfrets Bank Ltd v Sheriff of the Supreme Court, Durban Central 1997 (1) SA 764 (D) at 772; Hiralal v Naicker 2009 (1) SA 636 (D) at 642F–G; South African Congo Oil Co (Pty) Ltd v Identiguard International (Pty) Ltd 2012 (5) SA 125 (SCA) at 132E–F. See also Menzies Motor Co (Pty) Ltd v Turkstra 1955 (3) SA 408 (T) at 412; Liquidator, Mr Spares (Pty) Ltd v Goldies Motor Supplies (Pty) Ltd 1982 (4) SA 607 (W); Simpson v Klein NO 1987 (1) SA 405 (W) at 411C–D; Syfrets Bank Ltd v Sheriff of the Supreme Court, Durban Central 1997 (1) SA 764 (D) at 772E–773D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "45a01d2d849c30a8079fb4c63e0b482b",
+    "text": "46 Liquidators Union and Rhodesia Wholesale Ltd v Brown & Co 1922 AD 549 at 558–9; South African Congo Oil Co (Pty) Ltd v Identiguard",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0167f43f474542919ccab5efae12982e",
+    "text": "International (Pty) Ltd 2012 (5) SA 125 (SCA) at 132E–F. See also Menzies Motor Co (Pty) Ltd v Turkstra 1955 (3) SA 408 (T) at 412;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "22fa1de8daa531b5268d0c6be3f5bb85",
+    "text": "Morrison NO v Rand NO 1967 (2) SA 208 (D) at 210; Liquidator, Mr Spares (Pty) Ltd v Goldies Motor Supplies (Pty) Ltd 1982 (4) SA 607 (W);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "db8982692d42de56392a19e3435e3537",
+    "text": "Simpson v Klein NO 1987 (1) SA 405 (W) at 411C–D; Syfrets Bank Ltd v Sheriff of the Supreme Court, Durban Central 1997 (1) SA 764",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "610849a8029a0103cfae9a4805207b4e",
+    "text": "(D) at 772E–773D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b87a1349fcbaafb9a7a1ddac8a9a70ba",
+    "text": "47 Symons v The Messenger 1909 TS 749; Barrow v Baker 1911 TPD 957; Grobbelaar v Wilken 1915 OPD 140; Maharaj Brothers v Pieterse Bros Construction (Pty) Ltd and Another 1961 (2) SA 232 (N) at 238; Menzies Motor Co (Pty) Ltd v Turkstra 1955 (3) SA 408 (T); Reynders v Rand Bank Bpk 1978 (2) SA 630 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d85b77aa7b9c1a47cb2456b0d88eace4",
+    "text": "48 Syfrets Bank Ltd v Sheriff of the Supreme Court, Durban Central 1997 (1) SA 764 (D) at 776E and 778C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3435bf442fdb6cfacaaeae1395570712",
+    "text": "49 Deputy-Sheriff v Curtis 1910 TS 18; Adjunk-Balju, Vanderbijlpark v Sentraal Westelike Ko-op Maatskappy Bpk 1970 (2) SA 124 (T) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c2c9e476e75b9eb77dafd035e08bae96",
+    "text": "127D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e16be81c03e8a764a2900f3849b4401",
+    "text": "50 Mattoida Construction (SA) (Pty) Ltd v E Carbonari Construction (Pty) Ltd 1973 (3) SA 327 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "300ad7a74fd688c8955d9bbaa6d01f34",
+    "text": "51 Van der Walt v Kolektor (Edms) Bpk 1989 (4) SA 690 (T) at 696A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56c75cee30d3e1edfd7309d3808362d3",
+    "text": "52 Van der Walt v Kolektor (Edms) Bpk 1989 (4) SA 690 (T) at 697B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b606fd2d123ef36afe4ab86b37ab511",
+    "text": "53 Paragraph (a) of subrule (7) was amended by GN R1343 of 12 December 2008 (GG 31690) with effect from 12 January 2009.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "52dea87652b3d22ba1b73eb4fa8217ee",
+    "text": "54 2016 (6) SA 110 (WCC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f98b78711d1812bee8761b74a668c8a3",
+    "text": "55 At 118G, 119A–I, 120C and 120F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4766508c51c6f00aaf7326f6b8decd71",
+    "text": "56 Brummer v Gorfil Brothers Investments (Pty) Ltd 1997 (2) SA 411 (T) at 413J–414A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "63ea6cbb9f6515410bd16406d5f7c4a1",
+    "text": "57 De Faria v Sheriff, High Court, Witbank 2005 (3) SA 372 (T) at 380D–G; and see Standard Bank of South Africa v Nkahlele 2021 (5) SA 642 (WCC) at paragraphs [8]–[9].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "944c3a4ed9993f5e7d814220db866e3a",
+    "text": "58 See Ormerod v Deputy Sheriff, Durban 1965 (4) SA 670 (D) at 672H–673A. A clear distinction must be made between execution of a writ under rule 45(8)(c) and one under rule 45(12)(a). The former rule provides for the attachment of ‘other’ incorporeal rights, for example a judgment debtor’s right to moneys standing to its credit in its banking account. Importantly, rule 45(8)(c) does not envisage the attachment of actual moneys but rather the right to the money in the bank account. Like any movable property that is attached, the right must be realised by its sale at a sale in execution. Rule 45(8)(c) does not place any obligation on the bank in question to pay actual moneys to either the sheriff or the judgment creditor. Rule 45(12)(a), instead, contemplates payment of actual moneys. The procedure created by it is not that of an attachment followed by the sale of the attached property at a sale in execution. It creates a garnishee procedure, dealing with execution against debts which are accruing to the judgment debtor (MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraphs [77]–[80]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0ce8ac7246846b390f4bd3c63f8e5278",
+    "text": "59 Mahabeer v Rajpathi 1961 (4) SA 269 (N); Madden v BP Southern Africa (Pty) Ltd 1967 (2) SA 326 (D); Marais v Aldridge 1976 (1) SA 746 (T) at 750B; Brummer v Gorfil Brothers Investments (Pty) Ltd 1999 (3) SA 389 (SCA) at 409E–411F; Stratgro Capital (SA) Ltd v Lombard NO 2010 (2) SA 530 (SCA) at 536D. However, a debtor’s right, title and interest in a pending appeal cannot be attached (Soja (Pty) Ltd v Tuckers Land and Development Corporation (Pty) Ltd 1981 (2) SA 407 (W)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2387f95de783977850e5a1a1c8f81f40",
+    "text": "60 Simpson v Standard Bank of SA Ltd 1966 (1) SA 590 (W); Ormerod v Deputy Sheriff, Durban 1965 (4) SA 670 (D). In view of the wording",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c88f49ca0f2493a278b0950dbeb3731e",
+    "text": "of the rule it is not necessary to obtain an order of court for the attachment of the money of the debtor which is in the hands of a third party,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a7bef08839ec457efb927e4ee11a0f47",
+    "text": "for example, a bank.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "555d4dd7fa5ec014acf8a9bcc6542257",
+    "text": "61 Re Ebert v Edy (1893) 8 EDC 95; Humphreys v Engelbrecht 1924 EDL 140; Vrede Ko-op Landboumaatskappy Bpk v Lourens 1962 (3) SA 952 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fd12cf9007511d23088a21dea79cb5a5",
+    "text": "62 Bieber v Columbia Pictures Industries Inc 1981 (2) SA 405 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "745b4ea0563db45182deab9232652b18",
+    "text": "63 Ex parte Deputy Sheriff for the District of Kempton Park: In re J I Case South Africa Ltd v Volkskas Ltd 1989 (2) SA 646 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14550495499fd2375583b396cf045eed",
+    "text": "64 A member’s interest in a close corporation cannot be attached merely by the intention or decision of the sheriff. Some document or similar item representing the interest has to be attached (Badenhorst v Balju, Pretoria Sentraal 1998 (4) SA 132 (T) at 138H–139I). In addition, it is submitted, there has to be actual notice of the attachment to the close corporation failing which the purported attachment will be invalid (see Schmidt v Weaving 2009 (1) SA 170 (SCA) at 173F–175D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cf670ad7ab69e6c8d28f3529ea81f5d5",
+    "text": "65 Nkwana v Hirsch 1956 (2) SA 219 (T); Nkwana v Hirsch 1956 (4) SA 450 (A); Soja (Pty) Ltd v Tuckers Land and Development",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6f6d4a7b012e3791b837699fcd8403ef",
+    "text": "Corporation (Pty) Ltd 1981 (2) SA 407 (W) at 410A; McPhee v McPhee 1989 (2) SA 765 (N) at 768C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1e552f123fcddce187ff851ba364602d",
+    "text": "66 See Nkwana v Hirsch 1956 (2) SA 219 (T); Nkwana v Hirsch 1956 (4) SA 450 (A); Soja (Pty) Ltd v Tuckers Land and Development",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c3f469a69ffee6ad47a230306e7d65ac",
+    "text": "Corporation (Pty) Ltd 1981 (2) SA 407 (W) at 410A; McPhee v McPhee 1989 (2) SA 765 (N) at 768C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3eb40fa32992b2c2d8d73c29e96820a3",
+    "text": "67 Vorster v Vorster 1958 (3) SA 755 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "971d7f100849a15e9ee063c0820af310",
+    "text": "68 See ABSA Bank Ltd v Burmeister 2004 (5) SA 595 (SCA) and Msunduzi Municipality v Natal Joint Municipal Pension/Provident Fund 2007 (1) SA 142 (N) at 154B–156E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8b7cf8d906ef5befe6cfb7be5df75196",
+    "text": "69 Section 131(1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "693b2c17767133656aa84f5009ff3f86",
+    "text": "70 Section 131(2).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d53554d22cb9f5c3821cc93a322a3388",
+    "text": "71 See, for example, Suliman v Volkskas Bpk 1956 (2) SA 474 (T); Lutuli v Hirsch 1956 (2) SA 586 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fbe8627a796661316b26fd8efa318fb3",
+    "text": "72 Ormerod v Deputy Sheriff, Durban 1965 (4) SA 670 (D); MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e0fc4babb5715ee9f0a810b9156f2b25",
+    "text": "(ECB) (a decision of the full court) at paragraph [73].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d7c1c5d447b892d8f9429acfea7f370c",
+    "text": "73 MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraph [73].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ec1408a95105fb8ea0e58c74df756840",
+    "text": "74 See Trust Bank of Africa Ltd v Imperial Garage and Filling Station 1963 (1) SA 123 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b3a8c28939c5ac3d2a3b524c0054d38d",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "38c1cea5cf3002a7e28ffc59144fe273",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2fcd27112425c27d00e23c3f069c4cc",
+    "text": "75 Absa Bank Ltd v Van Eeden 2011 (4) SA 430 (GSJ) at 439F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8529e5cf480cb603b1a75bb1a904963",
+    "text": "76 Bokomo v Standard Bank van SA Bpk 1996 (4) SA 450 (C) at 454E–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7dcd4805efd22d5a0cfe5b75c772715d",
+    "text": "77 Stratgro Capital (SA) Ltd v Lombard NO 2010 (2) SA 530 (SCA) at 536D–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7d77f9cd57c29dbbeb79f1ce4dbd096",
+    "text": "78 Stratgro Capital (SA) Ltd v Lombard NO 2010 (2) SA 530 (SCA) at 536H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c82b892bc6d2fd612bcfe6d2d8b51c5",
+    "text": "79 Badenhorst v Balju, Pretoria Sentraal 1998 (4) SA 132 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53d8b85d9b497f01f2d0648b5dc802a6",
+    "text": "80 Marais v Aldridge 1976 (1) SA 746 (T) at 751B. On the application of this subrule, see further Simpson v Standard Bank of SA Ltd 1966 (1) SA 590 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9cd1d3e1e82c28fa5733f9d2332ca018",
+    "text": "81 Magistrates’ courts rule 39(2)(a).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0af21ec948780fdf039e9157529f2968",
+    "text": "82 1925 AD 471.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8addd3ab232faee0ad066bfe26f535b",
+    "text": "83 Honey and Blankenberg v Law 1966 (2) SA 43 (SR) at 48A; see further Webb v Stenton (1883) 11 QBD 518 (CA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4987342d3c3c69a4e8f98428e8800dac",
+    "text": "84 Honey and Blankenberg v Law 1966 (2) SA 43 (SR) at 48B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7041e9af9935b978596e6deb8e375cd",
+    "text": "85 Ormerod v Deputy Sheriff, Durban 1965 (4) SA 670 (D) at 673D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "521fc8f1d1ec08eaa2dac713afe93d6b",
+    "text": "86 Cowen Negotiable Instruments 418. A clear distinction must be made between execution of a writ under rule 45(8)(c) and one under rule 45(12)(a). The former rule provides for the attachment of ‘other’ incorporeal rights, for example a judgment debtor’s right to moneys standing to its credit in its banking account. Importantly, rule 45(8)(c) does not envisage the attachment of actual moneys but rather the right to the money in the bank account. Like any movable property that is attached, the right must be realised by its sale at a sale in execution. Rule 45(8)(c) does not place any obligation on the bank in question to pay actual moneys to either the sheriff or the judgment creditor. Rule 45(12)(a), instead, contemplates payment of actual moneys. The procedure created by it is not that of an attachment followed by the sale of the attached property at a sale in execution. It creates a garnishee procedure, dealing with execution against debts which are accruing to the judgment debtor (MEC, Department of Public Works v Ikamva Architects 2022 (6) SA 275 (ECB) (a decision of the full court) at paragraphs [77]–[80]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b345a2b7636674c2fdd66951e01cfe6",
+    "text": "87 Henderson & Rowell and Shimwell Bros: In re Lee (1910) 31 NLR 439; and see Merber v Xesi 1917 EDL 105.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a7e669a87a3ae47710d582545a487276",
+    "text": "HHE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a08c6b1b6cca002655f7bc53288a734d",
+    "text": "88 1971 (4) SA 515 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cc80e8189636716dd548041544d12ecc",
+    "text": "89 1980 (2) SA 304 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d458e96d0c6169ed40333340ab8e36fb",
+    "text": "90 Shaw and Bosman v Tatham 1912 WLD 75.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc36201d1bea3a60f2604e0953dd98d2",
+    "text": "91 2000 (1) SA 231 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af4f0d324884981bb848e8df20a0cc6e",
+    "text": "92 Pienaar v Pienaar 2000 (1) SA 231 (O) at 240C–E. The Foley approach is also inconsistent with the procedure provided for in s 65J of the Magistrates’ Courts Act 32 of 1944 which provides that certain requirements be complied with prior to the issue of a warrant, including notice to the debtor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c4fb194ac81eea43a4a576c58518b637",
+    "text": "93 At 240F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a2633ae13437aab31fc5af4e71e7f554",
+    "text": "94 At 240F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "93dbcc6c33e8a0b341cb6e03bd75266a",
+    "text": "95 Paramount Furnishers v Lezar’s Shoe Store and Outfitters 1970 (3) SA 361 (T) at 364; African Distillers Ltd v Honiball 1972 (3) SA 135 (R) at 136H; Reichenberg v Röntgen 1983 (3) SA 745 (W) at 748.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "80d770e7daad07ce9a609c5c17bb1086",
+    "text": "96 Paramount Furnishers v Lezar’s Shoe Store and Outfitters 1970 (3) SA 361 (T) at 364–5, cited with approval in Reichenberg v Röntgen 1983 (3) SA 745 (W) at 748A–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b105999b093091480265435099a88f09",
+    "text": "97 Reichenberg v Röntgen 1983 (3) SA 745 (W) at 748F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3f6cae9dc5282ab28fb5ba043097a56c",
+    "text": "98 Higgins v Ellery & Noble (1919) 40 NLR 49.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7778ceacd4f0ec4def0e51b1833ce4fc",
+    "text": "99 Marshall Timbers Ltd v Hauser and Battaglia (Pty) Ltd 1976 (3) SA 437 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "420adcd8aad7563b07b2876025d321e2",
+    "text": "100 1976 (3) SA 437 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ff36f8b3a3bec901d3edc271599aec5a",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 08:50:55 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 45.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "442a317fdbb221b5d084f7c933bc4869",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 45.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

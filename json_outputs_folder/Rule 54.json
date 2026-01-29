@@ -1,0 +1,339 @@
+[
+  {
+    "type": "Title",
+    "element_id": "584930955cee0998ac09c71991c4c42f",
+    "text": "54 Criminal proceedings — Provincial and local divisions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d99a34d4922b71a79a759a3c88eafd4e",
+    "text": "RS 22, 2023, D1 Rule 54-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "699e403b2353df084adc5793c27cc7af",
+    "text": "(1) The process for summoning an accused to answer any indictment shall be by writ sued out by the chief clerk to the Attorney-General who presents the indictment, or in the case of a private prosecution by the prosecutor or his attorney, and shall be directed to the sheriff: Provided that in the case of the Witwatersrand Local Division the writ may be sued out of the office of the registrar of that division by the Deputy Attorney- General, Johannesburg.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8ba8d1bdb98910472308a42b7df2146",
+    "text": "[Subrule (1) substituted by GN R480 of 30 March 1973 and amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ae56cec1f86c8a5a151a64f227008eb4",
+    "text": "(2) When any person committed for sentence under the provisions of s 121 of the Criminal Procedure Act, 1977 (Act 51 of 1977), is indicted before a superior court he may be brought up for sentence at any sitting for criminal business of the court before which he is indicted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "717ae54842a1d23b9bb578860be56614",
+    "text": "[Subrule (2) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6750712a6e004b0792718202973383d3",
+    "text": "(3) The Attorney-General or other prosecutor or his attorney shall endorse on, or annex to, every indictment and every copy of any indictment delivered to the sheriff for service thereof, a notice of trial, which notice shall specify the court before which, and the particular session and time when, he will bring the accused to trial on the said indictment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75765ceb003ab17c604d0b5c7929cd33",
+    "text": "[Subrule (3) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17a22f143c50dcc66e4ce3182515128f",
+    "text": "(4) The Attorney-General or other prosecutor or his attorney shall deliver to the sheriff for service the writ, a copy of the indictment and notice of trial or, if there are more than one accused, as many writs and copies of the indictment and notice of trial as there are accused. In the case of a private prosecution the prosecutor or his attorney shall at the same time hand to the sheriff his lawful costs and charges for serving the same. [Subrule (4) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f07799c48a1f78fa5fa7281da4aa80a",
+    "text": "(5) The subpoena or process for procuring the attendance of any person before a superior court (other than a Circuit Court) to give evidence in any criminal case or to produce any books, documents or things, shall be sued out of the office of the registrar of that court, by the chief clerk to the Attorney-General (or where the prosecution is at the instance of a private party, by himself or his attorney); and the same shall be delivered to the sheriff, at his office, for service thereof, together with so many copies of the subpoena or process as there are persons to be served. In the case of the Witwatersrand Local Division, the process may also be sued out by the Deputy Attorney-General, Johannesburg, and delivered to the sheriff concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69524fca7f46502f21a28b52673a0082",
+    "text": "[Subrule (5) substituted by GN R480 of 30 March 1973 and amended by",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3581a6284986db13ce73806e38650548",
+    "text": "GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fdacc8c4131180cc57e4cf047f842efb",
+    "text": "(6) The subpoena shall be served upon the witness (a) personally, or (b) at his residence or place of business or employment by delivering it to some person thereat who is apparently not less than sixteen years of age and apparently residing or employed thereat.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9c27b0f13d7fdd74583865aae9e97313",
+    "text": "(7) The person serving the subpoena shall, if required by the person upon whom it was served, exhibit to him the original.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1804259c4a21987273a13b5be05df780",
+    "text": "RS 22, 2023, D1 Rule 54-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a9fbfe02b71baa52bbd10f4d69c3b1ce",
+    "text": "(8) If the person to be served with a subpoena keeps his residence or place of business closed so as to prevent the service of the subpoena, it shall be sufficient service to affix a copy thereof to the outer or principal door of such residence or place of business.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf3e867e1d02dbced4fdad8bc6d00555",
+    "text": "(9) When a court imposes upon any person whatsoever a fine for contempt of court for default in appearance or otherwise, and such fine is not duly paid, the registrar of the court shall furnish the sheriff with particulars of such fine and deliver to him a completed warrant. The sheriff, immediately on such warrant being delivered to him, shall execute it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f77bea0fd0867521fc089fc4cd827873",
+    "text": "[Subrule (9) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e5fc40ba40adc736af65956284b08524",
+    "text": "(10) An application under s 149 of the Criminal Procedure Act, 1977 (Act 51 of 1977), to change the place of trial in criminal proceedings may be made to the court, upon notice, by or on behalf or the Attorney-General or the accused. The court may thereupon make such order thereon as to it seems meet.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4192c3bfe5b34904c34322621becd9c",
+    "text": "[Subrule (10) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf",
+      "parent_id": "584930955cee0998ac09c71991c4c42f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2a77cf38bd12e709a746a2aa4887bc60",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "573197d30e7988d2b676691f0257295a",
+    "text": "Downloaded: Mon Feb 17 2025 12:07:57 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 54.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0f40c07be40a1172a58788781cf30ccb",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 54.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

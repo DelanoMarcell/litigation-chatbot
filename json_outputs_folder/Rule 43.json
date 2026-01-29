@@ -1,0 +1,5395 @@
+[
+  {
+    "type": "Title",
+    "element_id": "11ded6ba0021197d812712210b986da1",
+    "text": "43 Interim relief in matrimonial matters",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6a3539f27e06c98d23bc184181a054eb",
+    "text": "RS 22, 2023, D1 Rule 43-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b43d1cda3ccdf90f36131999d73baf1",
+    "text": "(1) This rule shall apply whenever a spouse seeks relief from the court in respect of one or more of the following matters:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0fe5d5bc48f6ba17b6caa6bcba0eebc0",
+    "text": "(a) Maintenance pendente lite;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7cb74030e32b4cd427e042c7c5e2746e",
+    "text": "(b) A contribution towards the costs of a matrimonial action, pending or about to fbe instituted;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0d9f2459ea9a0072b7672e9e7351d89",
+    "text": "(c) Interim care of any child;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ef5b6af0b82307226ef4b575909ff2ad",
+    "text": "(d) Interim contact with any child.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b78c82bd4e029c2054e41b5155f125e6",
+    "text": "(2)(a) An applicant applying for any relief referred to in subrule (1) shall deliver a sworn statement in the nature of a declaration, setting out the relief claimed and the grounds therefor, together with a notice to the respondent corresponding with Form 17 of the First Schedule.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b65d125928367f37a3a4ab0989bf0e7b",
+    "text": "(b) The statement and notice shall be signed by the applicant or the applicant’s attorney and shall give an address within 25 kilometres of the office of the registrar and an electronic mail address, where available, as referred to in rule 6(5)(b) at either of which addresses service will be accepted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79cd349a0a57c4cafafb831178c7890d",
+    "text": "[Paragraph (b) substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5658837c8891cf57967cdc5e5944bf1a",
+    "text": "(c) The application shall be served by the sheriff: Provided that where the respondent is represented by an attorney, the application may be served on the respondent’s attorney of record, other than by the sheriff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7280c9125729bf4cdd0e0444e628d17f",
+    "text": "[Subrule (2) substituted by GN R2021 of 5 November 1971 and amended by GN R960 of 28 May 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41ba12984c18d3120c37bf72ce91a870",
+    "text": "(3)(a) The respondent shall within 10 days after receiving the application deliver a sworn reply in the nature of a plea.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e53fd80a90b4a7df89286d737f5353e8",
+    "text": "(b) The reply shall be signed by the respondent or the respondent’s attorney and shall give an address for service within 15 kilometres of the office of the registrar, as referred to in rule 6(5)(b).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f6dc6b1418833cfa1aa9273ff525e17",
+    "text": "(c) In default of delivery of a reply referred to in paragraph (a), the respondent shall be automatically barred.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92a176510483a2e645810decc2d960e9",
+    "text": "[Subrule (3) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b7f21a6bed0b9bee8ca9e68708b9b1a",
+    "text": "(4) As soon as possible after the expiry of the period referred to in paragraph (a) of subrule (3), the registrar shall bring the matter before the court for summary hearing, on 10 days’ notice to the parties: Provided that no notice need be given to the respondent if the respondent is in default.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ab86a448aefba029b1ea6f3e77c4bcc",
+    "text": "[Subrule (4) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82190e30367236a6fbeb708a7d4bb565",
+    "text": "(5) The court may hear such evidence as it considers necessary and may dismiss the application or make such order as it deems fit to ensure a just and expeditious decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f7a12fd5ecdab5f7c3d2471213c7385",
+    "text": "[Subrules (3) and (5) substituted by GN R235 of 18 February 1966.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b1293cfa379ccd754d9650afa880cf06",
+    "text": "(6) The court may, on the same procedure, vary its decision in the event of a material change occurring in the circumstances of either party or a child, or the contribution towards costs proving inadequate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c654b21aa804b7cd5bde77bed3cf8ecc",
+    "text": "RS 22, 2023, D1 Rule 43-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4bc6569c9d431a939d5605c8b71ed4be",
+    "text": "(7) . . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c28f696918c43157ba2ffd5e1ac90249",
+    "text": "[Subrule (7) repealed by GN R1055 of 29 September 2017.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "39b75c16df175577ca2056f07eecf5de",
+    "text": "(8) . . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45ab7a4a10e1fd23262c80547fbf16fc",
+    "text": "[Subrule (8) repealed by GN R1055 of 29 September 2017.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1206f9a775bc69659d33c4a7e241f989",
+    "text": "[Rule 43 substituted by GN R1318 of 30 November 2018.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "11ded6ba0021197d812712210b986da1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "53bff0dbdae23fc2509631f60b946782",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aea033874c389bf04081aa8af54f4cd4",
+    "text": "Form. Notice in terms of rule 43, 17.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "575cf467fb298d550f6f341cff7a2207",
+    "text": "General. Rule 43 is a special rule governing certain specific applications in contrast with the provisions of rule 6 which govern applications in general. Urgency does not take applications for relief under this rule outside the scope and limitations of the 1 rule. The provisions of rule 6 can find application only in respect of aspects which are not governed by this rule. The only such provisions are those relating to urgency contained in subrule (12)(a) and (b) of rule 6, but the applicability of those provisions does not mean that an applicant has a choice which enables him to proceed under rule 6 and thus escape the 2 limitations imposed by this rule. The first proviso to subrule (5)(b)(iii) of rule 6, in terms of which the days between 21 December and 7 January, both inclusive, shall not be counted in the time allowed for the delivery of a notice of intention to 3 oppose or of any affidavit for purposes of that subrule, does not apply to applications under rule 43.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c63c5635319d5541883a30baf7b5aff",
+    "text": "The usual order relating to costs of the application under rule 43 is that the costs should be costs in the trial. The court hearing the application for a contribution towards costs in terms of subrule (1)(b) is usually in the best position to determine the issue of costs in the application. In such case, a court should be reluctant to refer the determination of the costs of the 4 application to the trial court and do so in only exceptional circumstances.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dd3ebd86b4d1c64634240f6d124c9d96",
+    "text": "5 6 In CT v MT it was held that, to the extent that the applicant intended to advance a case that rule 43 is invalid for violating one or more of the sections of the Bill of Rights, such argument was rejected. The rules of court are concerned with 7 the procedure by which substantive rights are enforced. They do not lay down substantive law. The court’s power to make pendente lite orders for maintenance, contribution to costs, and access to and custody of children, is a power which vests in it by virtue of substantive law. It is a power that was exercised for many decades before rule 43 was introduced. If rule 43 were abolished, the substantive power would not disappear. Only the procedure by which it is invoked would change (a spouse 8 would seek pendente lite relief by way of an ordinary application).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5dd20e410eefbb5016c01918c92f8373",
+    "text": "There is no appeal from a judgment of a court on any matter governed by the rule. 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0eee47e40d72e119bc7d52c20979f215",
+    "text": "Subrule (1): ‘This rule shall apply whenever.’ Rule 43 regulates the procedure to be followed in applications for ancillary relief of an interim nature in matrimonial matters. The rule governs procedure and does not affect the substantive law. 10 The object of the rule is that",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9767409c58c1d8c3af554cc6aefe015",
+    "text": "RS 23, 2024, D1 Rule 43-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30bcc3959f354358f37ea853a7307db0",
+    "text": "applications of the kind contemplated therein should be dealt with as inexpensively and expeditiously as possible; prolixity in 11 averments and the unnecessary proliferation of papers and affidavits should be avoided. Rule 67A(2)(c) provides that in considering all relevant factors when awarding costs, the court may have regard to unnecessary or prolix drafting and unnecessary annexures.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc266e4e67834a9fc48af48742d3bb58",
+    "text": "The rule applies to a pending divorce action between spouses married under Muslim law. 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ef7bfe117281604306878efd2679988",
+    "text": "In SJ v SE 13 the respondent raised a point in limine in an application under rule 43 to the effect that he had issued a Talaq against the applicant, to whom he had been married in terms of Islamic law, thereby divorcing her. The court held that the parties owed each other the reciprocal duty of support arising from the Islamic marriage and the question of the legal effect of the Talaq was an issue for determination in the pending divorce action. Until that issue was resolved there was a matrimonial dispute between the parties that served as a jurisdictional factor for the rule 43 application and, accordingly, the point in 14 limine stood to be dismissed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b619da0fbaf236a21d49ab8fa2c8ba2d",
+    "text": "Ancillary or pendente lite relief contemplated under the Divorce Act 70 of 1979 is available to same-sex partners in an action for the dissolution of a same-sex marriage or same-sex civil partnership concluded under the Civil Union Act 17 of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf",
+      "parent_id": "53bff0dbdae23fc2509631f60b946782"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f61b121f98eda2d6a1f38bd5c5683d94",
+    "text": "15 © 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "709199b2776cde9652d68003b0da58fb",
+    "text": "Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6763f626a963094a2ee06b99752cfbd7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64feb2b5587eda4dfcdded7127342b36",
+    "text": "2006. 15 The rule, accordingly, also applies to a pending action for such dissolution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d2e3f5c6888b42fd633e02ea3290304",
+    "text": "If the respondent is resident within the jurisdiction, the court is entitled to grant ancillary relief pendente lite under this rule 16 even where the jurisdiction of the court to issue a decree of divorce in the main action is in dispute.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0abf460caf13637d865e34129ab76348",
+    "text": "‘A spouse seeks relief.’ ‘Spouse’ includes one who claims to be a spouse, even where that allegation be denied; in other 17 words rule 43 also applies where the validity of the marriage or its subsistence is disputed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4893663693be0bdaa8b867d741605c96",
+    "text": "The legal rules pertaining to the reciprocal duty of support between spouses are gender neutral so that an indigent husband 18 may claim support from an affluent wife.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2352f3fae1c7e6a6252bda7334ffc0f0",
+    "text": "‘From the court.’ The application should, in the absence of urgency, be brought in the court where the main lis between the parties is pending and not in another court which may have jurisdiction to hear a divorce action between the parties. 20 21 v SW it was held that a litigant who is a party to a divorce action pending before a magistrate’s court for a regional 19 In SW division",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22a35eb13014b5ffb32ae459fdc3d0a0",
+    "text": "RS 23, 2024, D1 Rule 43-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4cab71e4bfd757ea12bc827a4416779b",
+    "text": "cannot invoke the jurisdiction of the High Court to secure relief in terms of this rule. The High Court could, however, exercise its inherent common-law jurisdiction to act in appropriate circumstances in the interests of minor children to make an order, notwithstanding such proceedings. To invoke such inherent jurisdiction the applicant must establish (a) that considerations of urgency justify the intervention; and (b) that intervention is necessary to protect the best interests of the minor. It is not a 22 jurisdiction that will be lightly exercised by the High Court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "27d579a1a6e6987aade1b623a0e3e9e7",
+    "text": "In TC v SC 23 the main issue in an application in terms of rule 43 for interim relief pending a matrimonial action was whether the High Court had the power, by virtue of its common-law inherent jurisdiction as the upper guardian of minor children, to make an interim order appointing a parenting coordinator (‘PC’) to deal with parenting disputes over the objection of one of the 24 parents. In summary the court held:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "accef9f71078d0e086e9540c9d5e267e",
+    "text": "‘[71] To summarise then: I consider that a High Court may, in the exercise of its inherent jurisdiction as the upper guardian of minor children:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f260248562e3534e7e057f0c9e19f5f7",
+    "text": "[71.1] appoint a PC with the consent of both parties, provided that:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "33dcb1426d8d34b7480645987a38531b",
+    "text": "(a) there is already an agreed parenting plan in existence, whether interim or final, which has been made an order of court;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17064609cefc0c7f0e701482f84bef3e",
+    "text": "(b) the role of the PC is expressly limited to supervising the implementation of and compliance with the court order;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9dcb282e247a593cea3d992924a73fd9",
+    "text": "(c) any decision-making powers conferred on the PC are confined to ancillary rulings which are necessary to implement the court order, but which do not alter the substance of the court order or involve a permanent change to any of the rights and obligations defined in the court order;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6f1b76cb72ed3607e7a943312209e84",
+    "text": "(d) all rulings or directives of the PC are subject to judicial oversight in the form of an appeal in the wide sense 25 described in Tikly and Others v Johannes NO and Others, i e “complete re-hearing of, and fresh determination of the merits of the matter with or without additional evidence or information”.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2ce37c91179d0bb1c9a5fff012f15c8a",
+    "text": "[71.2] appoint a PC without the consent of both parties, provided that the court is satisfied not only that the conditions listed in (a)–(d) are met, but also that:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3af17ac9208df3c70b702321cf4b31c",
+    "text": "(e) the welfare of the child is at risk from exposure to chronic parental conflict based on evidence of the parents’ inability or unwillingness to co-parent peacefully;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18e6e3b2d39c6174bfb21eb1485f4195",
+    "text": "(f) mediation has been attempted and was unsuccessful, or is inappropriate in the particular case;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4554c2a219f07d01ba87234d9817bf1d",
+    "text": "(g) the person proposed for appointment as the PC is suitably qualified and experienced to fulfil the role of PC;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d5cb3ec328c3454af6679d674c9488d",
+    "text": "(h) the fees charged by the proposed PC are fair and reasonable in the light of his or her qualifications and experience, that the parents can afford to pay for the services of the PC, and that at least one of the parents agrees to pay for the services of the PC.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43eacd75ff4c88c5dc726e0a79a5a92a",
+    "text": "RS 23, 2024, D1 Rule 43-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b7dabb210034a35d06a5c62b785a1bc",
+    "text": "‘In one or more of the following matters.’ Rule 43 deals only with pending matrimonial disputes and has no application to 26 A matrimonial action may be ‘pending’ even though any matrimonial dispute which has come to an end by a final divorce. 27 summons has not yet been issued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afe5083b3dd003a978ed66881796f459",
+    "text": "Subrule (1)(a): ‘Maintenance pendente lite.’ It was held in Gunston v Gunston 28 that a wife cannot apply for maintenance pendente lite under this subrule unless the contemplated lis is a matrimonial one, i e an action for divorce or nullity, and proceedings incidental to such actions, such as an application by the wife for leave to sue in forma pauperis or for a contribution towards her costs, or for maintenance pendente lite, or for an interdict restraining her husband from disposing of assets pendente lite, or for an order awarding her the custody of the minor children of the marriage pendente lite or on 29 divorce.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b67e3f491aae8e53e502b506ad53cd5",
+    "text": "As stated in Nilsson v Nilsson, 30 a rule 43 order is not meant to provide an interim meal ticket to a person who quite clearly at the trial will not be able to establish a right to maintenance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d19b10b833cbb979ca7486c3c8aa8706",
+    "text": "In TM v ZJ 31 the wife sought maintenance pendente lite, and certain other relief, for herself and two minor children pending a divorce action against her husband. The marriage was one under Islamic law and was not registered under the Marriage Act 25 of 1961. In the divorce action the wife sought, inter alia, recognition of the validity of the marriage under the Marriage Act 25 of 1961. The husband objected in limine, arguing that no marriage existed and that rule 43 accordingly did not apply. His grounds for so arguing were that he had already terminated the marriage by pronouncing a Talaq (i e divorce) and that the 32 marriage according to Islamic law was not valid in terms of the Marriage Act 25 of 1961. The court held that it was unnecessary for the applicant in a rule 43 application to prove prima facie the validity of the marriage. The entitlement to maintenance pendente lite arose from the general duty of the husband to support his wife and children. Accordingly, the wife could not be precluded from obtaining relief in terms of rule 43 by virtue of a Muslim marriage, irrespective of whether the husband had pronounced a Talaq or not.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92061bc6a7f4ba49c4ae6406069a02bb",
+    "text": "It is against public policy that a woman should be entitled to claim maintenance pendente lite from her husband when she is 33 flagrantly living with another man.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5e64181c06d6aec7ea30d7b130dee4a",
+    "text": "Each case decided under this subrule must depend upon its own particular facts. 34 There are, however, certain basic principles which govern applications under the subrule. Maintenance pendente lite is intended to be interim and temporary and cannot be determined with the same degree of precision as would be possible in a trial where detailed evidence is adduced. 35",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fea4ad65c7b2234f6ab44b0e66d33fe6",
+    "text": "RS 23, 2024, D1 Rule 43-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01a07af6d3c6b9b3a4eede9a03a153b1",
+    "text": "The applicant is entitled to reasonable maintenance pendente lite dependent upon the marital standard of living of the parties, 36 the applicant’s actual and reasonable requirements and the capacity of the respondent to meet such requirements which 37 are normally met from income although in some circumstances inroads on capital may be justified. If a dependent child and © 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "be60aa71a34c8917129a66c73c45bc84",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ce1cf35894970ec8e913436d0b21349",
+    "text": "the spouse against whom the divorce is sought live in the marital home and consume household items, the spouse seeking maintenance pendente lite is entitled to such maintenance to cover the expenditure on household items as increased by 38 consumption of those items by the dependent child and other spouse. A court dealing with an application under this subrule should be satisfied that major children of the marriage who are still financially dependent on the spouses are properly provided 39 for. It has been held that a dependent major child retains locus standi in rule 43 maintenance claims on such child’s behalf and must be joined (or must at the very least file a confirmatory affidavit) in the proceedings. This would ensure that the child’s financial needs are squarely before the court and protect children from having to bring discrete maintenance claims against their parents. Failure to join the child could negatively affect the applicant’s claim in respect of the child. 40 It has been said that a claim supported by reasonable and moderate details carries more weight than one which includes extravagant or extortionate demands. Similarly, more weight will be attached to the affidavit of a respondent who evinces a 41 willingness to implement his lawful obligations than to that of one who is seeking to evade them. The court usually orders periodic payments of money but may order that other assets (such as furniture) be made available 42 43 for use by the applicant. The court has no jurisdiction under this subrule to award lump sum payments. Under a writ of execution issued in the High Court pursuant to an order in terms of this subrule, a pension benefit falling 44 under the Pension Funds Act 24 of 1956 can be attached. A maintenance court has in terms of s 16(1)(b) of the Maintenance Act 99 of 1998 jurisdiction to substitute or discharge an 45 order for the payment of maintenance pendente lite made under this subrule. The maintenance court, however, has to display caution in such circumstances and not lightly change an order made in terms of rule 43 in the absence of altered 46 circumstances.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7804ded8905ed47e2e5b0aca5488929",
+    "text": "RS 23, 2024, D1 Rule 43-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f02301ce154c166a61bc5fcf3854b648",
+    "text": "Subrule (1)(b): ‘A contribution towards the costs.’ It is well established that the claim for a contribution towards costs in a matrimonial suit is sui generis. It has its origin in Roman-Dutch procedure and has been sanctioned through many decades in 47 48 High Court practice. Its basis is the duty of support the spouses owe each other. The legal rules pertaining to the reciprocal duty of support between spouses are gender neutral so that an indigent husband may claim support from an affluent wife but the reality must be acknowledged that given traditional childcare roles and the wealth disparity between men and women, it has usually been women who have had to approach the court for a contribution towards costs in divorce 49 litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d1c9efae9b8fa2ac54e74393cf5783a",
+    "text": "The purpose of the remedy provided by the subrule has consistently been recognized as being to enable the party in the principal divorce litigation who is comparatively financially disadvantaged in relation to the other side, to adequately put such 50 party’s case before the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2579cd431c570e1440530ce495060d5",
+    "text": "In our constitutional dispensation the subrule must be interpreted and applied through the prism of the Constitution, with 51 52 specific regard to the right to equality. In AF v MF Davis AJ stated (footnotes omitted):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe03299eaa61c5b5ec3843e85c7adb37",
+    "text": "‘[41] The importance of equality of arms in divorce litigation should not be underestimated. Where there is a marked imbalance in the financial resources available to the parties to litigate, there is a real danger that the poorer spouse — usually the wife — will be forced to settle for less than that to which she is legally entitled, simply because she cannot afford to go to trial. On the other hand the husband, who controls the purse strings, is well able to deploy financial resources in the service of his cause. That situation strikes me as inherently unfair. In my view the obligation on courts to promote the constitutional rights to equal protection and benefit of the law, and access to courts, requires that courts come to the aid of spouses who are without means, to ensure that they are equipped with the necessary resources to come to court to fight for what is rightfully theirs.’ 53",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb3a78c93a0bde31b6c69ff779aed3eb",
+    "text": "RS 23, 2024, D1 Rule 43-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fcb9ef2a60d4b273a20655ceb7c7a579",
+    "text": "Thus, in exercising its discretion in the determination of the quantum of the contribution towards the costs to be awarded, a court is bound by s 9(1) of the Constitution to guarantee both parties the rights to equality before the law and equal 54 In addition, the court is bound to ensure access to court as envisaged in s 34 of protection of the law. 55 the Constitution. The right to dignity in s 10 of the Constitution is also impacted when a spouse is deprived of the necessary means to litigate. A person’s dignity is impaired when she has to go cap in hand to family or friends to borrow funds for legal costs, or forced to be beholden to an attorney who is willing to wait for payment of fees — in effect to act as her 56 ‘banker’. The cases are not harmonious on the question whether a court may order a contribution to legal costs that have already 57 59 58 In AF v MF been incurred. Davis AJ, after an analysis of the different approaches and relevant principles, convincingly concluded that past legal costs, including debts incurred to fund legal costs, could be taken into account in the assessment of an appropriate contribution towards costs in terms of rule 43(1)(b), at least to the extent that the court considers the past 60 62 61 In A.L.G v L.L.G expenditure to be reasonable. Binns-Ward J held that rule 43 fell to be construed and applied in the context of the modern legal environment and, accordingly, could not conceive why there should be any obstacle to the making of an order for a contribution towards costs that included costs already incurred. The cases are also not harmonious on the question whether a court may order a contribution towards the costs of interim applications in the principal divorce proceedings. On the one hand, it has been held that the costs of such applications are 63 excluded from the operation of this subrule. On the other hand, and this seems to be the preferable approach, it has been held that such costs are included under the subrule, provided that they relate to applications which are truly interlocutory to 64 the principal divorce proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "807bcf73cf089d1abd6ca640f5faf888",
+    "text": "RS 23, 2024, D1 Rule 43-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b8840cf1dca1279dea9ed11b53ccbae7",
+    "text": "An applicant for a contribution towards costs must show that, if she prima facie case; if she is the defendant, that she is defending in good faith. 67 insufficient means of her own. 65 is the plaintiff in the main action, that she has a 66 The applicant must further show that she has",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0ff00d574bcf11a33f9081aa9b73375",
+    "text": "It has been held that the applicant is not entitled to all her anticipated costs, even though the respondent can well afford 68 to pay them, but only a substantial contribution towards them. In contrast, it has been held that by interpreting rule 43(6) 69 through the prism of the Constitution, it is possible for one spouse to be entitled to a claim for all her legal costs. It is respectfully submitted that the correctness of this approach is not beyond doubt. The court’s power to make orders for a contribution towards costs is a power which vests in it by virtue of substantive law, i e the common law. It is a power that was exercised for many decades before rule 43 was introduced. Rule 43 only regulates procedure, and if it were abolished, the substantive power would not disappear. The starting point in determining a spouse’s entitlement to claim a contribution to costs should therefore be the common law and not rule 43. The common-law position was set out as follows by Ogilvie 70 Thompson J in Van Rippen v Van Rippen:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "66065364dacb0dff71d09cd18cdf81bb",
+    "text": "‘In the short time which has been available to me I have not had any opportunity to canvass the Roman-Dutch authorities; but these, so far as they are cited in the reported cases, appear to me to support the view which was expressed by MASON, J., in",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0066b3731579f2565cf34f055c7595c8",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "512b868d65e1e238f78678ebc2976a69",
+    "text": "Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6763f626a963094a2ee06b99752cfbd7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fb2a7c21671df109af2f4e9f1d8dafa",
+    "text": "van Gorkom and Noonan v Davis (1914 TPD 572 at p. 575) in these words:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "28be005638716c2a355929e212162668",
+    "text": "“The wife, however, can only obtain these costs upon the specific order of a Judge, who has discretion not only as to the amount but also to the granting or refusal of the order. That discretion he exercises upon consideration of the condition and position of both the parties, and the circumstances of the case.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8136ace7bd56291e9cbba5cffccb1663",
+    "text": "Merula and Leyser, quoted in Boezaart and Potgieter v Wenke (1931 TPD 70 at p. 84), cited by Mr. Friedlander, appear to me to be in conformity with this view. The former says:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be0e8f9ca2ac724783445f00b8de7487",
+    "text": "“In causa divortii word by provisie geageerd dat de gedaagde gecondemneerd zy d’Impetrant te geven alimentatie en uit te reiken de kosten noodig tot uitvoeringe van den processe.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a620281acd9f00ee85c8ae8b3018e35a",
+    "text": "And Leyser — who uses the phrase “ein gewisses quantum” appears to be to the same effect. See also the case of Motatamoli v Motatamoli (1946 OPD 316 at p. 320 et seq.).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfc0534a8f55e314b82db020791b3fec",
+    "text": "In my view the governing principle in regard to these matters is not that submitted by Mr. Lang, but is that the quantum which an applicant for a contribution towards costs should be given is something which is to be determined in the discretion of the Court. In the exercise of that discretion the Court should, I think, have the dominant object in view that, having regard to the circumstances of the case, the financial position of the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f1175bbbe00beea7a10f2e536512ec1",
+    "text": "RS 23, 2024, D1 Rule 43-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5568786c94db6f8272700c5ba433cd12",
+    "text": "parties, and the particular issues involved in the pending litigation, the wife must be enabled to present her case adequately before the Court. In any such assessment the question of essential disbursements must necessarily be a very material factor. Equally it seems to me that it is inevitable in the procedure that the solicitor acting for the wife must run some potential risk, to this extent, that he is not fully secured in advance; he has not, in the usual phrase, full cover in advance for his fees. That appears to me to be unfortunate, but also to be inevitable. The paramount consideration is that, as I have indicated, the Court should have as its object the determining of an amount which in its discretion it considers necessary for the wife adequately to place her case before the Court. Beyond that it is, in my view, undesirable to attempt to state any more specific rules. In matters of discretion it is not desirable to attempt to propound detailed rules.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b1e3e3fb5b045c0b40dd84a515ec2eb",
+    "text": "The common-law position appears to be in harmony with the constitutional values of equality, dignity and access to court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c56828a5bc7adce5008d648b4ab16626",
+    "text": "It is submitted that the sum to be contributed is determined by the court’s view, in the exercise of its discretion, of the 71 If she herself is unable to contribute at all amount necessary for the applicant adequately to put her case before the court. 72 to her costs, the respondent must contribute the whole amount required. So too if the applicant is able to contribute only 73 in part to the costs required to enable her to litigate on a scale commensurate with that of the respondent. This does not, however, mean that a court should award an impecunious wife all her estimated litigation costs in advance, regardless of the stage of the litigation. Obviously, where future costs are under consideration, a court will take into account that the matter may settle, and will only award what is reasonably required at that particular stage of the litigation, knowing that further 74 contributions to costs may, under rule 43(6), be ordered if required. Thus, there may be instances where, upon exercising its discretion in the light of all relevant factors and circumstances, only a partial rather than a full contribution would be found 75 reasonable by the court. It is submitted that the applicant will have to make out a reasonable claim from the outset if she 76 actually requires full costs adequately to put her case before the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c99163f872a48c274e012d4a4cdb543a",
+    "text": "77 An applicant is not entitled to have her attorney and client costs covered or substantially covered. The contribution to 78 The emphasis in obtaining a contribution on this basis is the applicant’s costs may include the applicant’s attorneys’ fees. premised on the following: (1) the fees so payable have to be reasonable and as ordinarily payable as between an attorney",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c200d2d62593f6de213e68fac7c9dc82",
+    "text": "RS 23, 2024, D1 Rule 43-11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8c6e937a729fabe7615f70cd2f97018a",
+    "text": "and his own client; (2) not all the fees payable on the criteria set out in (1) should be granted in advance in an application under rule 43 and the attorney should bear some risk with regard to his fees; and (3) the fees set out in (1) are those that are 79 necessary and as would be adequate for the applicant to prepare for and conduct her pending litigation. Before trial, the applicant is ordinarily entitled to be awarded a contribution only up to and including the first day of trial; the rationale for this 80 restriction is said to be that the case may be settled, as such cases often are, on the first day of trial. In determining the quantum of the contribution, the court will have regard to the circumstances of the case, the financial position of the parties and the issues involved in the pending litigation. The question of essential disbursements is a material factor to be considered, 81 as well as the scale on which the party from whom the contribution was required was litigating.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "91865a6bb2467cc4545fb12c42d5f076",
+    "text": "If a party against whom an order for a contribution towards costs has been made fails to comply with such order and proves 82 that such failure is due to his poverty, an application for his committal for contempt of court will fail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4d2231726eb7639423c8a2b0e2e117f2",
+    "text": "‘Of a matrimonial action.’ The subrule applies both to pending matrimonial actions and to matrimonial actions to be instituted. See further the notes to subrule (1) s v ‘In one or more of the following matters’ and the notes to subrule (1)(a) s v ‘Maintenance pendente lite’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e59d6702db7ca5e66abfa5bb0bb22c1",
+    "text": "Subrule (1)(c): ‘Interim care of any child.’ The court will generally be reluctant to upset the status quo concerning the care of minor children. The principle of preserving the status quo is, however, subject to the considerations that the 83 and that the status quo must not constitute an unreasonable paramount interest of the children must nevertheless prevail 84 85 Normally young children should go to the mother; state of affairs. the separation of children from one another should 86 where possible be avoided; and only in exceptional circumstances will the courts permit children to be placed in the hands 87 of third persons.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ebda4a02ddd5e0c55ba62284e83f28d5",
+    "text": "The court is entitled to refer an application for interim care under this subrule to the family advocate in terms of s 4 of the 88 Mediation in Certain Divorce Matters Act 24 of 1987. The function of the family advocate, in a matter in which the care of minor children is in issue, is to assist the court by placing facts and a balanced recommendation before the court;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c75be9298f92942a7249c6ada5abe54c",
+    "text": "RS 23, 2024, D1 Rule 43-12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c4a5ff7c5cac455c3c4da0b71d04fc1",
+    "text": "the family advocate should not take sides in the dispute, nor create the impression that he has taken a decision and wishes to 89 prescribe to the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0344ddbe03df2f311529ff720533a6d6",
+    "text": "The procedure under this rule cannot be used to vary an existing order made by a maintenance court, though in exceptional 90 circumstances the court may be requested to supplement the order of the maintenance court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8ae8873efdca013bffecaffbdb4f5a9",
+    "text": "A court in which a divorce action and an application in terms of this subrule are pending is entitled to make an order for the handing over to its custodian parent of a child which had been removed from the jurisdiction by the non-custodian parent, 91 despite the fact that the child is outside the jurisdiction of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f42f57afb9a58106cc70cc1680491432",
+    "text": "It has been held that the High Court’s inherent common-law powers as upper guardian of all minors to make any order which it deems fit in the best interests of the child include the power to set aside an interim protection order granted in a 92 magistrate’s court in terms of the Domestic Violence Act 116 of 1998.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6f0bd7c0b1bbf08d2fa87af7cccf9a07",
+    "text": "Subrule (1)(d): ‘Interim contact with any child.’ See the notes to subrule (1)(c) s v ‘Interim care of any child’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ffd2fa730388590c991826a8bbc3bca7",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "be6bcd91c297b5d6aa52ca8b79d24034",
+    "text": "Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "be60aa71a34c8917129a66c73c45bc84",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c0d5ec524e0ee5b4f29a8170de94d07",
+    "text": "Subrule (2)(a): ‘A sworn statement in the nature of a declaration.’ It has been suggested that in the use of these words the draftsman of the rule presumably had in contemplation the requirements of a declaration as set out in rule 20(2). 93 Rule 20(2) provides that a declaration must set forth the nature of the claim, the conclusions of law which the plaintiff shall be entitled to deduce from the facts stated therein, and a prayer for the relief claimed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "470a8f82bcc888c0ba22a902cbc273e3",
+    "text": "Lengthy affidavits may frustrate the object of the rule to decide applications thereunder as inexpensively and expeditiously as possible, and may for that reason amount to an abuse of the process of the court and may result in no order being made on 94 the application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77871e9176b738d3601a97471be2731e",
+    "text": "RS 23, 2024, D1 Rule 43-13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0f87c7c0b0e7a2f6a79813f1cdfebda",
+    "text": "Rule 67A(2)(c) provides that in considering all relevant factors when awarding costs, the court may have regard to unnecessary or prolix drafting, unnecessary annexures and unnecessary procedures followed in proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c11833cc5819ac01c39817cf0e2350a4",
+    "text": "In Dodo v Dodo 95 it was held that in special circumstances deviation from this norm may be justified. In E v E 96 the full court, however, held that:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "095ab8a253ff9a7d67795f7b104a6e5b",
+    "text": "(a) the High Court does not have a discretion to permit departure from the strict provisions of rule 43(2) and (3) unless it decides to call for further evidence in terms of rule 43(5);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "db58d6d90228e009aeb224d90e891b0d",
+    "text": "(b) the discretion provided by rule 43(5) ought to be exercised where the respondent’s affidavit raises a dispute of fact in order to allow the applicant to file a further affidavit;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dfc36f269d7bdce410cd1aebab2d0d07",
+    "text": "(c) relevance should govern the length of the papers, and so long as facts were relevant, it should be admitted;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9ef6a4a3f9a62435eedbbeef4d46d78",
+    "text": "(d) any predetermined length restriction would likely be unconstitutional.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca8638235f791f5d085d43f76632c450",
+    "text": "RS 23, 2024, D1 Rule 43-14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "16c7eed0337f97196a0b6fa47e39e6e2",
+    "text": "The full court made the following order: 97",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e46adde0a90b2bb8d60019b6a2829328",
+    "text": "‘1. On receipt of the rule 43(2) and 43(3) affidavits, the judge allocated to hear the matter shall, if he or she deems it appropriate, issue a directive to the parties in terms of rule 43(5) calling on the applicant and/or the respondent to file (a) supplementary affidavit(s) making a full and frank disclosure of their financial and other relevant circumstances to the court and to the other party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8aab0ca4762ca415ae28a4e4c002108",
+    "text": "2. The affidavits referred to above must be accompanied by a financial disclosure form, annexed hereto, 98 which must be filed seven days before the date of hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2ca18c19a798f3d76963beada6f74221",
+    "text": "3. Affidavits filed in terms of rule 43(2) and (3) shall only contain material or averments relevant to the issues for consideration. It shall not be competent for a court to dismiss an application in terms of rule 43, only on the basis of prolixity. If the court finds that the papers filed by a party contain irrelevant material, the court only has the power to strike off the irrelevant and inadmissible material from the affidavit in question, and make an appropriate cost order.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79fa45138169acdd5be5ef86d74b7e98",
+    "text": "In KT v AT 99 the applicant’s affidavit in support of maintenance pendente lite and a contribution towards costs was 68 pages long; its supporting annexures 290 pages; and confirmatory affidavits and notice of motion another 10 pages. The first respondent contended that the application was an irregular step under rule 30. In upholding this contention, 100 the court found that the rule 43 application constituted a wide-ranging and egregious abuse of process and the rules of court, and that the first respondent should not be compelled to respond to it unless and until it was brought in the proper format. 101 The application was accordingly struck from the roll and the applicant’s attorneys in the rule 43 application were ordered to be liable de bonis propriis for the costs of both the rule 30 application and the rule 43 application, on the scale as between attorney and own client. It was also ordered that the applicant’s attorneys in the rule 43 application were not entitled to recover from the applicant any costs in respect of either application, or any costs which were payable in terms of the court’s order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b34a19fbdba578a4f9db9303d6f014ed",
+    "text": "Sufficient details should be given in the applicant’s affidavit to enable the court to deal with the matter, if possible, without 102 recourse to further evidence under subrule (5).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a877a692e6f0047110612bedeb9512ea",
+    "text": "Supporting affidavits are not allowed except by an order of court under subrule (5). 103 So too supplementary affidavits. 104",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ff7e455fb685a326a459112b70f29316",
+    "text": "105 Annexures to affidavits are admissible provided that (a) the contents thereof constitute admissible evidence; and (b) 106 they are documents which may be annexed to a pleading such as a declaration or a plea.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ac05b411746dd38409d29e9ac2b9bb68",
+    "text": "RS 23, 2024, D1 Rule 43-15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9912b1deeba321b1786d5cd57f9bfc3c",
+    "text": "‘And the grounds therefor.’ The word ‘grounds’ in this subrule embraces factual allegations and not merely the inference 107 which an applicant makes and alleges from facts which he has not set out.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6a075a0df40b64b95691ee3f44dde01",
+    "text": "The application must disclose facts showing that the court has jurisdiction to grant the interim relief. 108 See further the notes to subrule (1) s v ‘This rule shall apply whenever’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f75d8df063fb5b0d73b615965b31ba69",
+    "text": "The proceedings under the rule should be self-contained and the court should not be required to search for and peruse 109 another file of papers, such as the file in the main action between the parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cf7c3caaa534883145d018ed4725b5b8",
+    "text": "‘Notice to the respondent corresponding with Form 17.’ A notice that does not set out the order that is prayed for as 110 required by Form 17 is an irregular step as contemplated in rule 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4fecbf7ba4e32c63e822479725b7ffbf",
+    "text": "Subrule (2)(b): ‘An electronic mail address, where available.’ Where an electronic mail address is not available the only other address allowed by the subrule for acceptance of notices by and service of documents on the applicant is the one appointed by the applicant within 25 kilometers of the office of the registrar. The subrule, unlike rule 6(5)(b)(ii), does not provide for the applicant to state the applicant’s postal or facsimile addresses, where available. The subrule is not included in the provisions of rule 4A above, and the provisions of that rule therefore do not apply to the subrule. The reasons for these omissions are unclear.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b1397c2529809f86b05109c25195b35",
+    "text": "Subrule (3)(a): ‘A sworn reply in the nature of a plea.’ It has been suggested that in the use of these words the draftsman of the rule presumably had in contemplation the requirements of a plea as set out in rule 22(2). 111 Rule 22(2) provides that a defendant must in his plea either admit or deny or confess and avoid all the material facts alleged in the combined summons or declaration or state which of the said facts are not admitted and to what extent, and must clearly and concisely state all material facts upon which he relies.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ec60a535a1fea568c7ea77ab9c5ebea",
+    "text": "The rule makes no provision for the filing of a replying affidavit by the applicant. 112",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f709879b20e94842a7a37bde656845bf",
+    "text": "See further the notes to subrule (2) s v ‘A sworn statement in the nature of a declaration’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77266a9a9859a6dc7a2372e4358181a3",
+    "text": "‘An address for service within 15 kilometres . . . as referred to in rule 6(5)(b).’ This provision is in need of an amendment by the Rules Board for Courts of Law to bring it in line with the distance of ‘25 kilometres’ provided for in rule 6(5)(d)(i).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65363a6add20d786668243f1df60d3e1",
+    "text": "Subrule (3)(c): ‘Shall be automatically barred.’ The fact that a respondent is barred from delivering a sworn reply does not",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6c14f2d8b0ec95e0b6d841159e554123",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cb8b9b7c6ddd0c18094a38becc676a51",
+    "text": "Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6763f626a963094a2ee06b99752cfbd7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "178afd855c672cab8f43c45c41b22d66",
+    "text": "debar him from appearing at the hearing of the application and arguing the application on the sworn statement of the 113 applicant or convincing the court to hear such evidence as is considered necessary in terms of subrule (5).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6eea80a265609394f1ab976fb01f0b78",
+    "text": "RS 23, 2024, D1 Rule 43-16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b26b74b97e8030911b547e238d875f2c",
+    "text": "Subrule (4): ‘On 10 days’ notice to the parties.’ In terms of the proviso to this subrule notice need not be given to the respondent if he is in default. If an application under this subrule is postponed sine die and then reinstated, ten days’ notice of 114 the new date for hearing must be given.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43df7e586a536ba8b11731b5c6804c86",
+    "text": "Subrule (5): ‘Hear such evidence as it considers necessary.’ The further evidence which the court may receive in terms of this subrule may be either orally or adduced on affidavit. In either case such evidence should be received only as a result of 115 a deliberate decision of the court — no party can adduce such evidence as of right.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30efb86728df5ed03a8d26bd1b727ad0",
+    "text": "The court should be wary of hearing evidence and giving rulings on credibility and probabilities which may lead to the 116 prejudging of issues more properly left to the trial court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed389b09403e5e048d5ab5789d8ffdc7",
+    "text": "In an application under subrule (1)(c) for the interim custody of any child, the court is entitled to refer the application to 117 the family advocate in terms of s 4 of the Mediation in Certain Divorce Matters Act 24 of 1987. Indeed, a court sitting as upper guardian in a custody matter has wide powers in establishing what is in the best interests of minor children; it is not bound by procedural strictures or by the limitations of the evidence presented or contentions advanced by the parties and 118 may have recourse to any source of information that may assist it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d91bad6a169c2e4d3020b445d949052",
+    "text": "‘Such order as it deems fit to ensure a just and expeditious decision.’ Subrule (5) gives a court the power to manage and order disclosure of financial information and specified financial documents regarding the parties’ income and assets. 119",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "48fb99756279c5f57143e5292b43993c",
+    "text": "Subrule (6): ‘On the same procedure.’ This means that in the event of a material change in circumstances as set out in this 120 subrule, an application in terms of rule 43 can be made.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed26d455a8e688a5881c6ff8b36bab3d",
+    "text": "‘In the event of a material change.’ This subrule must be strictly interpreted and employed only in the circumstances set out therein, i e where there has been a material change in the circumstances of either party or a child, or where a contribution 121 towards costs proves inadequate. If an application is not necessarily an abuse of the court process but unreasonable the 122 court may exercise its discretion against the applicant and dismiss the application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb129acd91deba0462e0ef900b323f63",
+    "text": "In an application in terms of this subrule for a reduction in the interim maintenance payable based on a decline in the financial situation of the applicant, a ‘full and frank disclosure in regard to all of the numerous and varied elements which make 123 up the broad overview of the applicant’s financial situation’ should be made. The applicant bears the onus of establishing on a balance of probabilities that a material change has occurred. To succeed in that endeavour, an applicant must demonstrate, not only that a change or even a significant",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49420fc8178df0382168db9221086b7b",
+    "text": "RS 23, 2024, D1 Rule 43-17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31b1eb06240278496301b5a82be8748f",
+    "text": "change in circumstances has occurred but must place sufficient facts before the court to enable it to determine the 124 materiality of that change in the context of the applicant’s broader financial circumstances. Stress from divorce proceedings is not material enough a factor as to warrant the intervention of a court as envisaged in the subrule. 125",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a16f2c08b7228717ea744bb80c1b391",
+    "text": "1 Henning v Henning 1975 (2) SA 787 (O) at 789G; Leppan v Leppan 1988 (4) SA 455 (W) at 458A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "413c6c92347ed7c955a0f1ff85756565",
+    "text": "2 Leppan v Leppan 1988 (4) SA 455 (W) at 457F–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e7731028a5dbb28247005dbc5b353cc3",
+    "text": "3 Rule 6(5)(b)(iii)(bb).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac6467f1df3e736ee90f7d78c32a378f",
+    "text": "4 Senior v Senior 1999 (4) SA 955 (W) at 967D–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ce1d94e3e06ef90017d0348d88b3054",
+    "text": "5 2020 (3) SA 409 (WCC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "406e05702e469fad42e57b9020487e4b",
+    "text": "6 At paragraphs [19]–[20].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87ba622802a6a85dacbb08a16ec85547",
+    "text": "7 In this regard the court (at paragraph [19]) referred to United Reflective Converters (Pty) Ltd v Levine 1988 (4) SA 460 (W) at 463B–E; Prism Payment Technologies (Pty) Ltd v Altech Information Technologies (Pty) Ltd t/a Altech Card Solutions 2012 (5) SA 267 (GSJ) at paragraph [21]; Standard Bank of South Africa Ltd v Hendricks and Related Cases 2019 (2) SA 620 (WCC) at paragraph [26] and, specifically in relation to rule 43, to the judgment of Vos J in Harwood v Harwood 1976 (4) SA 586 (C) at 588E–F that rule 43 governs procedure and does not affect the substantive law.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9869cd5de13dab5083d2f504d4b007bf",
+    "text": "8 At paragraph [20].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2ba048db1389ec71076d200d8cd83df5",
+    "text": "9 Section 16(3) of the Superior Courts Act 10 of 2013. See, in this regard, Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "add179326f304377f5fec2079591771f",
+    "text": "10 Harwood v Harwood 1976 (4) SA 586 (C) at 588E; Jeanes v Jeanes 1977 (2) SA 703 (W) at 706F; PT v LT 2012 (2) SA 623 (WCC) at 634E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fc48d539ce470e6a82473225ddd29067",
+    "text": "11 Colman v Colman 1967 (1) SA 291 (C) at 292A; Zaphiriou v Zaphiriou 1967 (1) SA 342 (W); Varkel v Varkel 1967 (4) SA 129 (C) at 131G; Mather v Mather 1970 (4) SA 582 (E); Maree v Maree 1972 (1) SA 261 (O); Henning v Henning 1975 (2) SA 787 (O) at 789E; Zoutendijk v Zoutendijk 1975 (3) SA 490 (T); Verster v Verster 1975 (3) SA 493 (W); Smit v Smit 1978 (2) SA 720 (W); Van der Walt v Van der Walt 1979 (4) SA 891 (T); Nienaber v Nienaber 1980 (2) SA 803 (O) at 806F; Andrade v Andrade 1982 (4) SA 854 (O) at 855F; Grauman v Grauman 1984 (3) SA 477 (W) at 478I–479A; Patmore v Patmore 1997 (4) SA 785 (W); Du Preez v Du Preez 2009 (6) SA 28 (T) at 30C; TS v TS 2018 (3) SA 572 (GJ) at 584D–E and 585B–C; C.A.D v J.D (unreported, ECMk case no 4017/2021 dated 18 May 2023) at paragraph [2]. See further the notes to rule 43(2)(a) s v ‘A sworn statement in the nature of a declaration’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5075da61a17baf3caea5edf926bc1c7c",
+    "text": "12 AM v RM 2010 (2) SA 223 (ECP); R.B v S.A.E.R (unreported, GJ case no 2023/014603 dated 18 September 2023) at paragraph [8]. For a discussion of rule 43 and Muslim divorces, see Fareed Moosa ‘Rule 43 and Muslim divorces: Can relief be granted if the marriage was dissolved by Sharia law?’ 2023 (July) De Rebus 17.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85797584fd70473f38e04c468e37f9f5",
+    "text": "13 2021 (1) SA 563 (GJ). See also R.B v S.A.E.R (unreported, GJ case no 2023/014603 dated 18 September 2023) at paragraph 21.3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "69aa75c0a689bc6cefacb73c9108edeb",
+    "text": "14 At paragraph [48].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "be289969658f4d7b2a868f82efa363f9",
+    "text": "15 AS v CS 2011 (2) SA 360 (WCC) at 366C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b28255df8be64946857f893e38149a0",
+    "text": "16 Massey v Massey 1968 (2) SA 199 (T) at 202B–203D; Glen v Glen 1971 (3) SA 238 (R) at 239B–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c6dde999e2a248889c80b747c30d8eb",
+    "text": "17 Zaphiriou v Zaphiriou 1967 (1) SA 342 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "81237862c939300252f6db14e43de4ac",
+    "text": "18 AF v MF 2019 (6) SA 422 (WCC) at paragraph [14]. See further the notes to subrule (1)(b) s v ‘A contribution towards the costs’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c4e113375e90998977d6b0825a2d5f09",
+    "text": "=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6df1aee8b1daba997f989eccedfbeb70",
+    "text": "19 Van der Sandt v Van der Sandt 1947 (1) SA 259 (T); Venter v Venter 1970 (1) SA 11 (T) at 12H; Green v Green 1987 (3) SA 131 (SE) at 132F–134D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b1f16caf80abcc37a7bf2c7e1e6358e7",
+    "text": "20 2015 (6) SA 300 (ECP).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "92f36bafcc798c743d9b8e7ab9e5a4a2",
+    "text": "21 At 305B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "80d3f6dae406cc6cb13d070c8626333a",
+    "text": "22 SW v SW 2015 (6) SA 300 (ECP) at 305C–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d45b86980e4365fbc8ae261c526e69a0",
+    "text": "23 2018 (4) SA 530 (WCC). See also Marici C Samuelson ‘Parenting coordinators: What is classified as their decision-making powers?’ 2018 (September) De Rebus 37–8.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e10e6a6d5767e30f8b34da7f7c4d4a33",
+    "text": "24 At 551A–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "acfcf3bc14fdc8d34690dfe47a2ad36e",
+    "text": "25 Author’s note: Tikly v Johannes NO 1963 (2) SA 588 (T) at 590G–591A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c979619e72e5e391bf72c071141de35b",
+    "text": "26 Bienenstein v Bienenstein 1965 (4) SA 449 (T) at 451D–H; Van Oudenhove De St Gery v Grüber 1981 (3) SA 737 (E); NK v KM 2019 (3) SA 571 (GJ). Rule 43(1)(b) now also deals with matrimonial actions about to be instituted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a5695d45bf436b2d625675b63676eda5",
+    "text": "27 Bienenstein v Bienenstein 1965 (4) SA 449 (T) at 451E; Varkel v Varkel 1967 (4) SA 129 (C) at 131G; and see Noah v Union National South British Insurance Co Ltd 1979 (1) SA 330 (T) at 332B–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2525b67c5e908ae8c4ecacf4cc1ee186",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "54b71cedbf73c7ec436d40002769a07e",
+    "text": "Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "be60aa71a34c8917129a66c73c45bc84",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9228fdaaa9e2bfef8006c1d5e96388aa",
+    "text": "28 1976 (3) SA 179 (W), approved in, for example, Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12 January 2024) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "28807c4e18113744190d1b98bd94ef66",
+    "text": "paragraphs [87]–[88].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "07c85060612a91ecf6e81036b5e51db0",
+    "text": "29 Gunston v Gunston 1976 (3) SA 179 (W); Hahlo Husband and Wife 237.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "19117cf1587928dbf7ad40b5782e8717",
+    "text": "30 1984 (2) SA 294 (C) at 295F; and see B.R v D.R (unreported, WCC case no 14189/2022 dated 17 March 2023) at paragraph [14]; S.K v J.L.K (unreported, WCC case no 3198/23 dated 24 March 2023) at paragraph [16].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "256601f260da9f317d7bec311d7071f3",
+    "text": "31 2016 (1) SA 71 (KZD).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c46a7978f0a26aaf16c8882895d4af92",
+    "text": "32 At 77B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ad36a18c4a5ca2a2040c534d1eccfcdb",
+    "text": "33 Carstens v Carstens 1985 (2) SA 351 (SE) at 353F; SP v HP 2009 (5) SA 223 (O) at 225I–226F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9c5c63707ed9f848a99fb8ff91afd174",
+    "text": "34 Taute v Taute 1974 (2) SA 675 (E); B.R v D.R (unreported, WCC case no 14189/2022 dated 17 March 2023) at paragraph [4].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "60a4fde6a2f9e293fc068ccd4ec44b28",
+    "text": "35 Levin v Levin 1962 (3) SA 330 (W) at 331D; Taute v Taute 1974 (2) SA 675 (E) at 676C–D; Grauman v Grauman 1984 (3) SA 477 (W) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4d88e13f8b4833988784b5781201685",
+    "text": "479F; SAT v GJT (unreported, GJ case no 22224/2019 dated 4 November 2022) at paragraph 4; B.R v D.R (unreported, WCC case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4f5f92d8a4db182ae101dd2924d2591d",
+    "text": "14189/2022 dated 17 March 2023) at paragraph [5]; Y.B v L.B (unreported, GP case no 5413/2020 dated 28 March 2023) at paragraph [23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4cab0ebb4b940880839344a35d05439d",
+    "text": "36 It hardly needs explanation to recognize that a claimant’s reasonable requirements depend on the circumstances prevailing when those",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2ebec3f918358994766a68cb796a7ecc",
+    "text": "requirements fall to be met. It is, after all, only with regard to such circumstances that the reasonableness of the requirements can be",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2500e225c9fe0a22c9d0725bcec7ea5d",
+    "text": "assessed (C v C (unreported, WCC case no 16742/2021 dated 9 November 2021) at paragraph [14]). See also J.K v E.S.K [2024] 1 All SA",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a283c14206f526e8d6eba94f4d7550ee",
+    "text": "775 (WCC) at paragraph [49].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e571b3bb63ee77820fd791adf6beb8c9",
+    "text": "37 Taute v Taute 1974 (2) SA 675 (E) at 676E; Botha v Botha 2009 (3) SA 89 (W) at 105C–106J; C v C (unreported, WCC case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "59db882fb575072863f5b121b5d37e5a",
+    "text": "16742/2021 dated 9 November 2021) at paragraph [15]; B.R v D.R (unreported, WCC case no 14189/2022 dated 17 March 2023) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a4010bc56e7faecf94ddd14f631171fb",
+    "text": "paragraph [4]; Y.B v L.B (unreported, GP case no 5413/2020 dated 28 March 2023) at paragraphs [26]–[27]; J.K v E.S.K [2024] 1 All SA 775",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "768b6013ca494ec958638a8a67aabec4",
+    "text": "(WCC) at paragraph [49].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34f2bd55d5ad951a5a13a254cdd83b31",
+    "text": "38 JG v CG 2012 (3) SA 103 (GSJ) at 120D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a6492decc80f95d60451af59eebc1eec",
+    "text": "39 AF v MF 2019 (6) SA 422 (WCC) at 438G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9838b65c37bed37eff80e10416a37f3c",
+    "text": "40 CL v CJL 2023 (1) SA 513 (WCC) at paragraphs [40]–[44].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4552e1ee86e0fc3979b4f7b987f23d9a",
+    "text": "41 Taute v Taute 1974 (2) SA 675 (E) at 676H; Y.B v L.B (unreported, GP case no 5413/2020 dated 28 March 2023) at paragraph [31].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4e404523cc192b504d7dee8e4f559929",
+    "text": "42 Van der Spuy v Van der Spuy 1981 (3) SA 638 (C); and see G v G (unreported, KZD case no D9175/2020 dated 20 September 2022).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "31ee8e89c3ad501abd9ef62ba3461325",
+    "text": "43 Greenspan v Greenspan 2000 (2) SA 283 (C), followed in K.F v M.F (unreported, WCC case nos 10237/2037; 4001/2023 dated 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e50108edf1360f36f01f3bf8c5fd853b",
+    "text": "October 2023) at paragraphs 35–41. It is submitted that the decision in G v G (unreported, KZD case no D9175/2020 dated 20 September",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5ea2bc748fa01aa835e49f6a4225adb0",
+    "text": "2022) at paragraph [26] should not be interpreted as being in conflict with that in the Greenspan case. No lump-sum payment in the ordinary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "803cef15cfc6ac32eac065c9f130ab94",
+    "text": "sense of the word was claimed in G v G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "222c69804be10643ed69d8f3b449c0a5",
+    "text": "44 Greenhill v Discovery Preservation Pension Fund 2022 (3) SA 236 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c55e492c80db8af3c966dab0cc3f8c74",
+    "text": "45 De Witt v De Witt 1995 (3) SA 700 (T); Thompson v Thompson 1998 (4) SA 463 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b9f30005e7d1d6c1d79c7a485c1175a4",
+    "text": "46 Cf Thompson v Thompson 1998 (4) SA 463 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a0e8d32ef0f4c5cc6012cf46a8163230",
+    "text": "47 See, for example, Van Rippen v Van Rippen 1949 (4) SA 634 (C) at 637; Chamani v Chamani 1979 (4) SA 804 (W) at 806C; AF v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "879ac94381c6088c648c73c834bcc19f",
+    "text": "MF 2019 (6) SA 422 (WCC) at 428E; A.L.G v L.L.G (unreported, WCC case no 9207/2020 dated 25 August 2020) at paragraphs [16]–[17];",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "072f609841e3f6e1f4fe3f7478c2f94a",
+    "text": "Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12 January 2024) at paragraph [40]. See also Hahlo Husband and Wife 424–9.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "39228cfe3a948be006d068258440c8c6",
+    "text": "48 Lyons v Lyons 1923 TPD 345 at 346; Botes v Botes 1969 (3) SA 168 (R) at 170C; Lalla v Lalla 1973 (2) SA 561 (D) at 564G; Barass v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "347a1c7da0995988a7de5cf64c133468",
+    "text": "Barass 1979 (1) SA 245 (R) at 247F; Chamani v Chamani 1979 (4) SA 804 (W) at 806E; Cary v Cary 1999 (3) SA 615 (C); AF v MF 2019 (6)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f0c2ee7fa36e5c67b56869f91afa12a6",
+    "text": "SA 422 (WCC) at 428E–F; A.L.G v L.L.G (unreported, WCC case no 9207/2020 dated 25 August 2020) at paragraph [16]; SH v MH 2023 (6)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f04613524cf4ce3b3243557d65b14d32",
+    "text": "SA 279 (GJ) at paragraph [74]; S.K v J.L.K (unreported, WCC case no 3198/23 dated 24 March 2023) at paragraph [16]; B.J.M v W.R.M",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a9c23ede36d5209e00b728a9ce91467b",
+    "text": "(unreported, GJ case no 2022/9405 dated 26 April 2023) at paragraph [45]; Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8132c49ed5d3dcbac7241a557389afb1",
+    "text": "January 2024) at paragraph [40]. See, however, Griesel v Griesel 1981 (4) SA 270 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f169f15edd572c243f4dd1aebe635542",
+    "text": "49 AF v MF 2019 (6) SA 422 (WCC) at paragraph [30]; SH v MH 2023 (6) SA 279 (GJ) at paragraph [73]; B.J.M v W.R.M (unreported, GJ",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2f2dd7cf76f6fcd244de8fe5b074add2",
+    "text": "case no 2022/9405 dated 26 April 2023) at paragraph [47].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "21b1fde4188ba980d0ea47ff1dcc1f55",
+    "text": "50 See, for example, Van Rippen v Van Rippen 1949 (4) SA 634 (C) at 638 and 639; A.L.G v L.L.G (unreported, WCC case no 9207/2020",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8ae8f0f2cc9700c381aca3c1f3780895",
+    "text": "dated 25 August 2020) at paragraph [17]; SH v MH 2023 (6) SA 279 (GJ) at paragraph [74]; B.J.M v W.R.M (unreported, GJ case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "06a9d95697cc865ed1fa024422085e46",
+    "text": "2022/9405 dated 26 April 2023) at paragraph [43]; K.F v M.F (unreported, WCC case nos 10237/2037; 4001/2023 dated 13 October 2023) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e43d86fdd322f48ed555805e18f68799",
+    "text": "paragraph 44; Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12 January 2024) at paragraph [40].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e76ab1b6bbf0b0b0565910c84844108f",
+    "text": "51 SH v MH 2023 (6) SA 279 (GJ) at paragraph [75].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c77da410af5468af551ddb3e326784b6",
+    "text": "52 2019 (6) SA 422 (WCC). See also B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26 April 2023) at paragraph [50].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8c0fd302c13a1fcf3f57a0f51649bdb4",
+    "text": "53 Implicit in the consideration of a legal costs contribution is the role that gender dynamic plays (B.J.M v W.R.M (unreported, GJ case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d817464e3e5e201bad6a06780368d98d",
+    "text": "2022/9405 dated 26 April 2023) at paragraph [48]). See also SH v MH 2023 (6) SA 279 (GJ) at paragraphs [76]–[79], where Victor J (at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f108012c317abdef2b15ff04d6f18fda",
+    "text": "paragraph [77]) referred to S v S 2019 (6) SA 1 (CC) where the Constitutional Court said (at paragraph [31]):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "385677211973de0d7fb4975a5463ad9a",
+    "text": "‘It is the more financially vulnerable spouses, usually the wives, who disproportionately bear the brunt of all this. Generally, they are the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "566932fb5412065acb56873875f3e51b",
+    "text": "ones who launch rule 43 applications. This is so because it is women who, more often than not, are the primary caregivers.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "81c460bb7f3806af3bdfd527e7725380",
+    "text": "54 Cary v Cary 1999 (3) SA 615 (C) at 621B–D; AF v MF 2019 (6) SA 422 (WCC) at paragraph [45]; SH v MH 2023 (6) SA 279 (GJ) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d778fd2b4f7f62aecf3dec868e2d7808",
+    "text": "paragraphs [83]–[88] and [91]–[92]; Y.B v L.B (unreported, GP case no 5413/2020 dated 28 March 2023) at paragraph [32]; S.K v J.L.K",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5268e540438d3d3f62402425a7e59fd6",
+    "text": "(unreported, WCC case no 3198/23 dated 24 March 2023) at paragraph [18]; B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "69b5a01fa8b79c24751992863efa98b1",
+    "text": "April 2023) at paragraph [44]; L.D.P (Born G) v T.J.D.P (unreported, ECMk case no 3622/2023 dated 10 November 2023) at paragraph [14];",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "49e862b5421369b16c7e24649feeb4b6",
+    "text": "J.K v E.S.K [2024] 1 All SA 775 (WCC) at paragraph [53].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3f02ea48f30c534c2bd5545abde975b",
+    "text": "55 SH v MH 2023 (6) SA 279 (GJ) at paragraphs [89]–[90].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "933490993c67b0c8b098d24279d2138c",
+    "text": "56 AF v MF 2019 (6) SA 422 (WCC) at paragraph [42]; and see SH v MH 2023 (6) SA 279 (GJ) at paragraph [105]; J.K v E.S.K [2024] 1 All",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4f8725756ac4ea23cbcb4ab3fa335af5",
+    "text": "SA 775 (WCC) at paragraph [53].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ee713fa144a3a7981e25a45875d57963",
+    "text": "57 See the observations made by Binns-Ward J in A.L.G v L.L.G (unreported, WCC case no 9207/2020 dated 25 August 2020) at paragraphs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "92ec0b7984dc0314ce1b97a8a91911a1",
+    "text": "[15]–[16] and those made by Marumoagae AJ in Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12 January 2024) at paragraphs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "562f71d63225c0ce5c87daec17f54596",
+    "text": "[50]–[57].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "acb3df58553e23196c35a33907f2cd00",
+    "text": "58 2019 (6) SA 422 (WCC), followed by F Bezuidenhout AJ in B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26 April 2023) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9437c7bc02eb6f39386e8adb0a8d6a05",
+    "text": "paragraph [51]; and see SH v MH 2023 (6) SA 279 (GJ) at paragraphs [92]–[93]; Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d1a56672a8e100e886feda3197ad123c",
+    "text": "12 January 2024) at paragraphs [55]–[57].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2c7abf16cdd2d4e8e9e25a425e6c77bd",
+    "text": "59 At 428E–432G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "35f6653291e6a065fd87e8972eaa589f",
+    "text": "60 At 432C and 432H–433A. Davis AJ held that, depending on the circumstances, all such costs could be ordered to be paid as a lump sum",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "20f1060f4c5901fbbd7854e5b7d9bdee",
+    "text": "to the applicant (at 432F–G and 434I). In this regard the relevant questions are (at 434G): ‘(a) whether the costs were reasonably incurred",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3c0f2c0e46f6da4b671d57ed5abdd88c",
+    "text": "by the applicant; (b) how much the applicant can afford to pay towards the costs; and (c) how much the respondent can afford to pay",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8a3740d5baed6f8929a453cc4d13e58c",
+    "text": "towards the costs.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4a5ef0c91fcc7d9fae0b17071c0c83a8",
+    "text": "61 Unreported, WCC case no 9207/2020 dated 25 August 2020, followed by Rogers J in AVR v JVR (unreported, WCC case no 4366/2016",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1a39067d71c05e578960ea90c0e0bbca",
+    "text": "dated 23 October 2020) at paragraph [2].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ccbaf6b7355a3e80a00c45b05ae0b422",
+    "text": "62 At paragraph [16].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8891c9099f0665f74c31eafbbc839fff",
+    "text": "63 See, for example, Service v Service 1968 (3) SA 526 (D) at 528F; Micklem v Micklem 1988 (3) SA 259 (C) at 263B; Maas v Maas 1993",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "20d6192ce83da006d773e5213d0092c3",
+    "text": "(3) SA 885 (O) at 888J–889B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "979f9d053e6af18685641d4e6bc0be10",
+    "text": "64 RM v AM (unreported, WCC case no 8698/2019 dated 10 July 2019); at paragraph [24]; AVR v JVR (unreported, WCC case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8479a7744c9f9b304855a53e9041ee90",
+    "text": "4366/2016 dated 23 October 2020) at paragraph [2]; A.L.G v L.L.G (unreported, WCC case no 9207/2020 dated 25 August 2020) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "574408ae794a231bb78492c1c4b42335",
+    "text": "paragraph [2]; B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26 April 2023) at paragraphs [54]–[60].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "92ee7e1ccd9d5d521d3233fdb0a84978",
+    "text": "65 The applicant is usually the wife but can also be an indigent husband (Lyons v Lyons 1923 TPD 345; Von Abo v Von Abo 1927 OPD 70).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c8965b2c3f3ed659276b26fe7bcbdd76",
+    "text": "66 Good faith will be presumed in the absence of any indication to the contrary (Jones v Jones 1974 (1) SA 212 (R)). See further Hahlo",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2fcc9feb3f946d1ccb17ea55e6b6e487",
+    "text": "Husband and Wife 426n69.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "52e9c80c104614396224e7250b0b101b",
+    "text": "67 See, for example, Engelbrecht v Engelbrecht 1944 NPD 186; Von Broembsen v Von Broembsen 1948 (1) SA 1194 (O); Greyling v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ca1fde182a2db22b2f87d5c7e7aa6168",
+    "text": "Greyling 1959 (3) SA 967 (W); Harwood v Harwood 1976 (4) SA 586 (C); Griesel v Griesel 1981 (4) SA 270 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "86e070f4c5756ba0d142f03a588d2340",
+    "text": "68 See, for example, Van Rippen v Van Rippen 1949 (4) SA 634 (C) at 638–41 (a case decided under the court’s common-law power to",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6bfbc57d3535262952e9df0c0586a9c5",
+    "text": "make an order for a contribution towards costs); Service v Service 1968 (3) SA 526 (D) at 528B–D; Dodo v Dodo 1990 (2) SA 77 (W) at 98F;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a957ca7fb950368d7cf817276a8b4d3e",
+    "text": "Maas v Maas 1993 (3) SA 885 (O) at 888E; Nicholson v Nicholson 1998 (1) SA 48 (W) at 51I; A.L.G v L.L.G (unreported, WCC case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ee362deaef17e0f6929fe92e58b3a023",
+    "text": "9207/2020 dated 25 August 2020) at paragraph [19].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2f1fd0de302a228dde08774a8485234f",
+    "text": "69 SH v MH 2023 (6) SA 279 (GJ) at paragraph [101].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e38604585f4b57619fcea390d0615f7b",
+    "text": "70 1949 (4) SA 634 (C) at 639–640.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9f1aca7fcc9bd25f1a67e2d06b982cbd",
+    "text": "71 Van Rippen v Van Rippen 1949 (4) SA 634 (C) at 639–40; Muhlmann v Muhlmann 1984 (1) SA 413 (W) at 418G; Micklem v Micklem 1988",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9c295a9032a0b8d4c3858fb968baf97b",
+    "text": "(3) SA 259 (C) at 262H–263A; Dodo v Dodo 1990 (2) SA 77 (W) at 98C–D; Nicholson v Nicholson 1998 (1) SA 48 (W) at 50D; AF v MF 2019",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ed38750ce502d7fee1e9fefc10e8791e",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bbc9d021d2dda850de57d7a5ff95bc83",
+    "text": "Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6763f626a963094a2ee06b99752cfbd7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f1d779305e8380568ee62b06709b9f17",
+    "text": "(6) SA 422 (WCC) at 428F–429B; A.L.G v L.L.G (unreported, WCC case no 9207/2020 dated 25 August 2020) at paragraphs [17]–[19]; V v V (unreported, WCC case no 18559/2016 dated 21 October 2020) at paragraph [18]; AVR v JVR (unreported, WCC case no 4366/2016 dated 23 October 2020) at paragraph [2]; SH v MH 2023 (6) SA 279 (GJ) at paragraph [83]; B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26 April 2023) at paragraph [43]; V.N.D v V.N.J-J (unreported, GP case no 63604/2021 dated 2 August 2023) at paragraph [7] (where it was pointed out that the applicant should be placed in a position adequately to present her case ‘as far as the available resources allow’); K.F v M.F (unreported, WCC case nos 10237/2037; 4001/2023 dated 13 October 2023) at paragraphs 44 and 51; L.D.P (Born G) v T.J.D.P (unreported, ECMk case no 3622/2023 dated 10 November 2023) at paragraph [14].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b3d52a2bdfa1e49df52e8a2f17d917a",
+    "text": "72 AF v MF 2019 (6) SA 422 (WCC) at paragraphs [48]–[51], followed in SH v MH 2023 (6) SA 279 (GJ) at paragraphs [94]–[97] and B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26 April 2023) at paragraphs [51] and [53].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "731a5666b72c4928904476087cf739d8",
+    "text": "73 B.J.M v W.R.M (unreported, GJ case no 2022/9405 dated 26 April 2023) at paragraph [52].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91737ef21f2b8f6ff29878ead3693734",
+    "text": "74 AF v MF 2019 (6) SA 422 (WCC) at paragraph [52].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f34fc96eb17fe06345cda82ebf8a5337",
+    "text": "75 SH v MH 2023 (6) SA 279 (GJ) at paragraph [98].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ea6fe0a227351560c5617d52c73bb3b3",
+    "text": "76 See also SH v MH 2023 (6) SA 279 (GJ) at paragraph [100].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85e94b825f540774effd9228cc4ef02d",
+    "text": "77 Nicholson v Nicholson 1998 (1) SA 48 (W) at 51H–J.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c3a92645e77913faaa4e17b5db4c5c59",
+    "text": "78 Nicholson v Nicholson 1998 (1) SA 48 (W) at 52B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "44adef3ddcc153642fced444bb4da08d",
+    "text": "79 Senior v Senior 1999 (4) SA 955 (W) at 963H–964A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8c1eccf1ce9aa718f7fddf5f366ac8ec",
+    "text": "80 Service v Service 1968 (3) SA 526 (D) at 528G; Botes v Botes 1969 (3) SA 168 (R) at 170D; Dodo v Dodo 1990 (2) SA 77 (W) at 98G. See Brown v Brown 1970 (2) SA 625 (W); Maas v Maas 1993 (3) SA 885 (O) at 888B and 890E–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "46b9552459f17fe1761e3d5a37912bd4",
+    "text": "81 Van Gorkom and Noonan v Davis 1914 TPD 572 at 575; Van Rippen v Van Rippen 1949 (4) SA 634 (C) at 639 and the authorities there referred to; Cary v Cary 1999 (3) SA 615 (C) at 619H–I and 620A–D; J.K v E.S.K [2024] 1 All SA 775 (WCC) at paragraph [52]; Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12 January 2024) at paragraph [40].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e26f12ab768715093ef98461ba5b7bfd",
+    "text": "82 Dezius v Dezius 2006 (6) SA 395 (T). On contempt of court in general, see the excursus to s 41 of the Superior Courts Act 10 of 2013 s v ‘Contempt of court’ in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e4e89e9564315d95b4fba31c430f962",
+    "text": "83 As to the paramount interest of a child, see M v N (unreported, GJ case no 2021/22911 dated 10 November 2022).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "709de74c557643e13f352e9089be556f",
+    "text": "84 Madden v Madden 1962 (4) SA 654 (T) at 657B. See also Cronje v Cronje 1907 TS 871 at 872; Ackerman v Ackerman 1940 CPD 16 at 19; Hawthorne v Hawthorne 1944 CPD 491 at 494; Wille v Wille 1944 WLD 96 at 99; Kritzinger v Kritzinger 1951 (2) SA 11 (N) at 14; Du Plooy v Du Plooy 1953 (3) SA 848 (T) at 853F; Bashford v Bashford 1957 (1) SA 21 (N) at 24F–25B; Eksteen v Eksteen 1969 (1) SA 23 (O) at 25H; Whitehead v Whitehead 1993 (3) SA 72 (SE) at 75C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b3ea06b174df50d7cf14fab97d2bfea8",
+    "text": "85 Wille v Wille 1944 WLD 96 at 99 and 101; Scheuer v Scheuer 1945 NPD 232; Green v Green 1948 (2) SA 1054 (N) at 1056; Du Plooy v Du Plooy 1953 (3) SA 848 (T) at 853; Bashford v Bashford 1957 (1) SA 21 (N) at 24H; Madden v Madden 1962 (4) SA 654 (T) at 657C and 658C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a1db39b785f149ddb34e616577456b95",
+    "text": "86 Simleit v Cunliffe 1940 TPD 67 at 82; Madden v Madden 1962 (4) SA 654 (T) at 658D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0fd897e78652c3d5fc56b9083d6c9ad",
+    "text": "87 Madden v Madden 1962 (4) SA 654 (T) at 657E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "11dd3411285e63fab3fa8afbd42e4671",
+    "text": "88 Terblanche v Terblanche 1992 (1) SA 501 (W) in which the court declined to follow the decision to the contrary in Davids v Davids 1991 (4) SA 191 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "77737d880d3f89e639571e332633d32d",
+    "text": "89 Whitehead v Whitehead 1993 (3) SA 72 (SE).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "50f7ba4f448427fbd2da04c0254f3a4e",
+    "text": "90 Rabie v Rabie 1992 (2) SA 306 (W). See also Bergh v Coetzer and the Minister of Social Welfare 1963 (4) SA 990 (C) at 992G; Hoffmann v Hoffmann 1964 (1) SA 746 (C) at 749C; Kirk v Kirk 1970 (1) SA 128 (R).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc587fe21c80f76aa04277455af62588",
+    "text": "91 Desai v Desai 1987 (4) SA 178 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f635d1a01ba8273bdda32bc0a4e76727",
+    "text": "92 B v B 2008 (4) SA 535 (W) at 541F–543E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "988042c2594cc0be67f093140dd6898d",
+    "text": "93 Zoutendijk v Zoutendijk 1975 (3) SA 490 (T) at 492C; TS v TS 2018 (3) SA 572 (GJ) at 585A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7b5153b49b0e80c38508d879c935423d",
+    "text": "94 Maree v Maree 1972 (1) SA 261 (O) at 263H; Smit v Smit 1978 (2) SA 720 (W) at 722G; Nienaber v Nienaber 1980 (2) SA 803 (O) at 806F; Micklem v Micklem 1988 (3) SA 259 (C) at 262C; Visser v Visser 1992 (4) SA 530 (SE); TS v TS 2018 (3) SA 572 (GJ) at 584D–E and 585A–C; Patmore v Patmore 1997 (4) SA 785 (W) at 788D. In the latter case the court ordered that the applicant’s attorneys may not claim any costs from the applicant in respect of the drafting and preparation of the application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9a104b82b38356c71f20e4c3cac4366c",
+    "text": "In Du Preez v Du Preez 2009 (6) SA 28 (T) at 33B Murphy J stated the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "83bad039ac4a9fef5af55463b12cff67",
+    "text": "‘The applicant’s papers are anything but brief and the respondent’s reply is less than succinct. The tendency by parties, aided by their legal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cc54d629ca242c100193679625cc890f",
+    "text": "representatives, to engage in prolixity in rule 43 proceedings has been criticised more than once by courts across the country. Yet the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7882acf4f52d07d7c40b53b0b561bc70",
+    "text": "criticism has been insufficiently heeded. I align myself with the remarks made by Kroon J in Visser v Visser 1992 (4) SA 530 (SE) at 531D,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f658bec3538c704a47bad4e1747fb0cd",
+    "text": "where he observed:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b5f7ee0a0d2104e778252ce3e2563e2f",
+    "text": "“It is my experience, and I understand that of my Brothers to be the same, that there is a tendency for the provisions of rule 43 to be",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e58ceddb1e420c18ed7c83e09f18c981",
+    "text": "disregarded and for the applications and the reply thereto to assume voluminous proportions. That practice must be firmly discouraged and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c7ee26f2dd0700069741d633abc4c72c",
+    "text": "the present is an appropriate case where the discouragement will commence.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d73943fb9e4ec25f131a7789c0736379",
+    "text": "Prolixity in a rule 43 proceeding is an abuse of process because it defeats the purpose or object of the rule (Smit v Smit 1978 (2) SA 720",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "177d4603e8fc3152c0c0b848cbfd56f0",
+    "text": "(W) at 722G).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2640cbddd6e85316f83d733c535f17da",
+    "text": "In Patmore v Patmore 1997 (4) SA 785 (W) at 788D, Epstein AJ elaborated on the undesirable nature of prolixity in rule 43 applications as",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4ba118ac7240c04cc4fe6219db0c36be",
+    "text": "follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ce0db07495b6f2eeb2ad1ebe6f7707ff",
+    "text": "“In this Division, where there are so many rule 43 applications on the roll each week, the abuse of the process of this Court (by frustrating",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "10175bad98f6e2ef2a89aa33de304305",
+    "text": "and/or defeating the purpose or object of rule 43) places an unnecessary burden on the Judges who have to read prolix affidavits containing",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a5780834f000881f7fb3b2bb7e8dd404",
+    "text": "matter irrelevant to the rule 43 proceedings.”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bd39cd557427582574fdf577c9ce2f33",
+    "text": "In Patmore (supra) the application was struck from the roll because the applicant’s papers ran to 47 pages. In Smit (supra) the application",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0e780029ca89a687919f4bf6e2d582d8",
+    "text": "suffered the same fate because the complete set of papers ran to 69 pages. In the present matter the papers total 192 pages.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cee9557a8826af776e16aff9d8fe23a8",
+    "text": "Murphy J struck the application from the roll, made no order as to costs and ordered that neither party would be charged any fees by their",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c6a8dd32ae34acdbf3223dc48b2a422f",
+    "text": "attorneys in respect of the application and the opposition thereto.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "aa93a0053c915cea45964238e8980c89",
+    "text": "In SAT v GJT (unreported, GJ case no 22224/2019 dated 4 November 2022) the situation in an application under rule 43 of the Uniform Rules",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "897951a7c6be5e068c6ef239c91106d2",
+    "text": "of Court was as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "72fd971469ecfab185d18d9ee669a8dc",
+    "text": "‘6 It is often observed that Rule 43 proceedings are frequently allowed to stray beyond the issues that they are meant to address, and to become inappropriately costly and involved. This case is a good example of that tendency. The application has taken over two years to finalise. The papers in it run to 2330 pages. Three sets of affidavits have been filed, instead of the usual one. Despite a directive issued to the parties that they jointly produce “a hardcopy set of those papers on the court file that [they] agree are necessary for the determination of the matter” (Wilson AJ, Family Court Roll, 10 October 2022, paragraph 2), the approach was to print out all 2330 pages and deliver them to me in five lever arch files just over 48 hours before the matter was due to be argued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3eba773743c7e7b8d92b67d5dc95fe72",
+    "text": "7 The papers are replete with inappropriate and irrelevant ad hominem attacks. Mrs. T speaks to what she considers to be Mr. T’s controlling personality and secretive approach to his financial affairs. Mr. T misses few opportunities to emphasise what he believes to be Mrs. T’s duplicitous nature and her financial profligacy. The undertone (not very far beneath the surface of Mr. T’s affidavits) is that Mrs. T’s financial greed has driven her to emotional instability.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "63520e3dce7d297478efc7c71ec6d042",
+    "text": "8 The papers fail, for the most part, to focus attention on the material issues.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "164ffcbcbd6ea9cc168708e2abac0217",
+    "text": "The court did not strike the application from the roll (at paragraph 9) but was, however, impelled to record its dissatisfaction at the way in",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0300036a2d99afa2ce5b110104f02101",
+    "text": "which the matter had been litigated, and to observe that special costs orders of the nature granted by Murphy J in the Du Preez case (supra)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f65b10d2e5ed68f06274be26fb2246ac",
+    "text": "might well have to become more frequent if the unfortunate trend towards overworked rule 43 applications was to be arrested (at paragraph",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "802996edfe6aa02f22ff9d308c8d260f",
+    "text": "10).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ecb2605506c0987266eb5447deb3b32f",
+    "text": "In SH v MH 2023 (6) SA 279 (GJ) the rule 43 application concerned maintenance pendente lite to the wife and minor children, interim care of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7e56c95826aca8e71e6e72c958f50ea0",
+    "text": "the children and a contribution towards the costs of the applicant. The papers had burgeoned to almost 1 000 pages by the time Victor J",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8ac86a0746384b2abe9045a64d3168e3",
+    "text": "heard the matter. The papers included lengthy expert reports concerning the best interests of the minor children and a report by the Family",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "04cc6d4a94f9c03262bdb9d08eb99d21",
+    "text": "Advocate which was compiled at the request of the court. This appears to be an extraordinary case which justified the prolixity of the papers",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4fc45fd968c46e29e469e8d4ba103788",
+    "text": "because, as observed by Victor J, ‘the level of acrimony between the parents has reached a critical and dangerous level’ (at paragraph [1]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "37409f6f9fc1d3443c9da1ec12ad2660",
+    "text": "In I.P v N.P (unreported, WCC case no 16768/2023 dated 20 November 2023) the rule 43 application was held to be an irregular step in",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bbe53dfb29bf2b52f25aa696b459d6f5",
+    "text": "terms of rule 30 for failure to comply with rule 43(2). The application was struck from the roll and the respondent in the rule 30 application",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4fd59393482053a1e463c1615884975b",
+    "text": "was ordered to pay the applicant’s costs of the rule 30 application, as well as any costs incurred by him to date in respect of the rule 43",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "455c79c327e0696fab24f660b66c0f08",
+    "text": "application, on the scale as between attorney and client and including the costs of one counsel (at paragraphs [8]–[18] and [22]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "592eff5e2dcb9fadc9f9da9bd16e9c2e",
+    "text": "95 1990 (2) SA 77 (W) at 79C–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "11f32398433d883c4d5a981a6364c6b7",
+    "text": "96 2019 (5) SA 566 (GJ) at 575B–577A. For a discussion of E v E and an investigation of how the courts have interpreted rule 43(2) and (3),",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "26b42fb4bba1d480416ce6e14df1b2ff",
+    "text": "see Mothokoa Mamashela ‘Is there a prescribed length for a declaration by an applicant and/or a plea by a respondent in rule 43(2) and (3)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "748ec18257c5376505e3b3c91eb6e3ca",
+    "text": "applications?’ (2023) 44.2 Obiter 500. See also Maresa Kurz ‘A new future for family law: Significant changes to r 43 applications’ 2019",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "206a5c23ce8c1e6e69ca0ce7901698a8",
+    "text": "(November) De Rebus 10–12.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "adb0e2d24f56305a3576486a88329d61",
+    "text": "97 At 577A–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "09661e301caeb6ef032d6eb5a80c628c",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "be60aa71a34c8917129a66c73c45bc84",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d5b034f83058dc4472d4d254b64f1eba",
+    "text": "98 Author’s note: The financial disclosure form is reproduced in Appendix K below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "99158984196ab6ad38c67b394943671c",
+    "text": "99 2020 (2) SA 516 (WCC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "abe631fc33c58725f8b6fb9b636c2f28",
+    "text": "100 Referring (at paragraphs [12]–[15]) to Micklem v Micklem 1988 (3) SA 259 (C); Patmore v Patmore 1997 (4) SA 785 (W); RM v AM (unreported, WCC case no 8698/2019 dated 10 July 2019); ME v AE (unreported, WCC case no 9028/2019 dated 26 August 2019) and E v E 2019 (5) SA 566 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3facba0c6b3ad7ac139f2e1a0092eb91",
+    "text": "101 At paragraph [30].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "115f290a2cb6b5ce685eb6f40d8d0afe",
+    "text": "102 Boulle v Boulle 1966 (1) SA 446 (D) at 449H; Eksteen v Eksteen 1969 (1) SA 23 (O) at 25A; but see Varkel v Varkel 1967 (4) SA 129 (C) at 132C–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "46f81dabde3de7e72e456ea8ce547a26",
+    "text": "103 Verster v Verster 1975 (3) SA 493 (W) at 494A; Leppan v Leppan 1988 (4) SA 455 (W) at 458C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "effb19cde2582f2cb68eff2da4b3ca20",
+    "text": "104 L.D.P (Born G) v T.J.D.P (unreported, ECMk case no 3622/2023 dated 10 November 2023) at paragraphs [6]–[9].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f2d088f26414b76ad55ab45eb35126ce",
+    "text": "105 Williams v Williams 1971 (2) SA 620 (O) at 622A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7750a9463b62f6dbfe4230edac42e6c0",
+    "text": "106 Maree v Maree 1972 (1) SA 261 (O) at 265B; Henning v Henning 1975 (2) SA 787 (O) at 790A; Smit v Smit 1978 (2) SA 720 (W) at 722E. In Gerber v Gerber 1979 (1) SA 352 (C) at 353E it is suggested that in these cases the rule might have been stated too widely and that in certain circumstances a party may be entitled to annex exhibits which, strictly speaking, cannot be annexed to pleadings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da8cb0a2a8d7d64b723fd32ee13b680b",
+    "text": "107 Eksteen v Eksteen 1969 (1) SA 23 (O) at 24H–25A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8188dfa91dc3890dfd7e6e979583b60",
+    "text": "108 Lawrence v Lawrence 1967 (1) SA 314 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "115e7b4a1a40a7a3fcebcbfc7bc5b995",
+    "text": "109 Carstens v Carstens 1985 (2) SA 351 (SE).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a3ba128d1b55fa375bede93124dc6e0e",
+    "text": "110 TJ v TA (unreported, GJ case no 2019/22224 dated 31 March 2021) at paragraphs [26]–[31]. In this case the application to set aside the notice as an irregular step was, however, dismissed because of lack of proof that the applicant had suffered prejudice (at paragraphs [44] and [48]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "943c8e1eb068e6bc54b70152a6a6216b",
+    "text": "111 Zoutendijk v Zoutendijk 1975 (3) SA 490 (T) at 492C; and see Visser v Visser 1992 (4) SA 530 (SE) at 531B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8442224a8f317877d93e08ea14e90a26",
+    "text": "112 Mather v Mather 1970 (4) SA 582 (E) at 585B; Henning v Henning 1975 (2) SA 787 (O) at 789H; Van der Walt v Van der Walt 1979 (4) SA 891 (T) at 892C; unless it is in reply to a counter-application by the respondent (Steenkamp v Steenkamp 1965 (3) SA 207 (O)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85ab89f8fc9553248086f616f0124ef9",
+    "text": "113 Moghambaram v Travagaimmal 1963 (3) SA 61 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d17c72c2f5961e91a3408abc922652ca",
+    "text": "114 Myburgh v Myburgh 1970 (1) SA 681 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e076683bcb502a16b21c4b71eb617c3f",
+    "text": "115 Verster v Verster 1975 (3) SA 493 (W) at 494C; Leppan v Leppan 1988 (4) SA 455 (W) at 458D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47f337145e1911c5dce7f8ded4cc0490",
+    "text": "116 Dodo v Dodo 1990 (2) SA 77 (W) at 91J–92A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "450ff029b88e2b77fe28c2897fa76f03",
+    "text": "117 Terblanche v Terblanche 1992 (1) SA 501 (W) in which the court declined to follow the decision to the contrary in Davids v Davids 1991 (4) SA 191 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2fc62463bf64175b21e9df17b0e1b06a",
+    "text": "118 Terblanche v Terblanche 1992 (1) SA 501 (W) at 504C; and see Shawzin v Laufer 1968 (4) SA 657 (A) at 662G–663B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "57e488c797d8a440ada24b79dffb1631",
+    "text": "119 TS v TS 2018 (3) SA 572 (GJ) at 588D–E, 601B–E and 602B–603H. See also the notes to subrule (2)(a) s v ‘A sworn statement in the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5448852b23b973690aca9302646546ab",
+    "text": "nature of a declaration’ above where reference is made to E v E 2019 (5) SA 566 (GJ) and the order made by the full court in that case.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c4bde226c5ee74a01cbc85dab4a58d74",
+    "text": "120 Jeanes v Jeanes 1977 (2) SA 703 (W) at 706G; Andrade v Andrade 1982 (4) SA 854 (O) at 855G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a2dc400ce10a7ecb0e644d07092d3307",
+    "text": "121 Grauman v Grauman 1984 (3) SA 477 (W) at 480C; Micklem v Micklem 1988 (3) SA 259 (C) at 262E–G; Maas v Maas 1993 (3) SA 885",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "664f3dcf161211dc42a76b08537768b2",
+    "text": "(O) at 888C; C.L.J v C.L.E (unreported, GJ case no 34367/19 dated 26 April 2023) at paragraph [19]; Z.G v J.G.C.G (unreported, GP case no 77979/2018 dated 12 January 2024) at paragraphs [43–[44] and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "004b79b84facbe09e7f7bac545587af8",
+    "text": "122 Greenspan v Greenspan 2001 (4) SA 330 (C) at 335E–F; C.L.J v C.L.E (unreported, GJ case no 34367/19 dated 26 April 2023) at paragraph [20].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a3d84d674e0304fdabbbf17c51563100",
+    "text": "123 C.L.J v C.L.E (unreported, GJ case no 34367/19 dated 26 April 2023) at paragraph [22] and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "19d96f382b478b4c74ff240c86f00e08",
+    "text": "124 C.L.J v C.L.E (unreported, GJ case no 34367/19 dated 26 April 2023) at paragraph [22] and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "329c804b999a9a16a7ad73b3c3e8e49d",
+    "text": "125 C.L.J v C.L.E (unreported, GJ case no 34367/19 dated 26 April 2023) at paragraph [22] and the case there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "5901f02f231a0e1e152b0589d7b9b0e0",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 11:18:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 43.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6763f626a963094a2ee06b99752cfbd7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 43.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

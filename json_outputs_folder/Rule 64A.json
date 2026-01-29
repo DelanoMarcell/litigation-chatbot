@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Title",
+    "element_id": "f87635af8ed4423273ab409a70c6f1d1",
+    "text": "64A . . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "2188526f00602cda527da8c5b068ff5c",
+    "text": "RS 22, 2023, D1 Rule 64A-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9e3d4cdc9fb38e854134ed314e72eca",
+    "text": "Records of minutes of evidence and proceedings in criminal cases shall be transferred to an archives depot as contemplated in s 5 of the Archives Act, 1962 (Act 6 of 1962), 30 years after disposal of such cases. [Rule 64A inserted by GN R773 of 23 April 1982.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf",
+      "parent_id": "2188526f00602cda527da8c5b068ff5c"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "f7f4137f9bcdcd4225f30599a4dc5c26",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf",
+      "parent_id": "2188526f00602cda527da8c5b068ff5c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec06e40cb11b99176dce7e224596a29b",
+    "text": "‘The Archives Act, 1962 (Act 6 of 1962).’ The Archives Act 6 of 1962 was repealed by the National Archives and Record Service of South Africa Act 43 of 1996. Archives depots under the former Act have been replaced by archives depositories provided for in s 11 of the Archives Act 43 of 1996.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf",
+      "parent_id": "f7f4137f9bcdcd4225f30599a4dc5c26"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0c51cfd8c239f54ae033386cd9c8cc78",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d115bf3779f5c65c70ce8316f607f841",
+    "text": "Downloaded: Mon Feb 17 2025 12:14:45 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "f96c6f33e9930fff4e023ba3c33e610e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 64A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

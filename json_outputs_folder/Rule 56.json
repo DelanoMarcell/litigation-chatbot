@@ -1,0 +1,115 @@
+[
+  {
+    "type": "Title",
+    "element_id": "66b563a7682e795ef10ee70a24ac67a2",
+    "text": "56 Criminal proceedings — general",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b153d16c4000493258bac74cdc81e46c",
+    "text": "RS 22, 2023, D1 Rule 56-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf",
+      "parent_id": "66b563a7682e795ef10ee70a24ac67a2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41fba9086fc952d6876a6fee3a54f923",
+    "text": "(1) Any process or document referred to in rules 54 and 55 may be served by a police officer referred to in s 329 of the Criminal Procedure Act, 1977 (Act 51 of 1977).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf",
+      "parent_id": "66b563a7682e795ef10ee70a24ac67a2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "72505366320922bec967baae95b859d0",
+    "text": "[Subrule (1) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf",
+      "parent_id": "66b563a7682e795ef10ee70a24ac67a2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30e0060186594cad577143718e34552c",
+    "text": "(2) The provisions of subrules (16)–(19) and (21) of rule 39 shall apply mutatis mutandis to all proceedings in criminal cases.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf",
+      "parent_id": "66b563a7682e795ef10ee70a24ac67a2"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3374fb719148c108ffce455b2f14fdc8",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6ea7201676e11a209e03acc6e2cb4921",
+    "text": "Downloaded: Mon Feb 17 2025 12:09:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 56.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "ddf41ba902b8158bd66f8487428d6cbd",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 56.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

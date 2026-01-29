@@ -1,0 +1,554 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "00948aa7f842a37e0156200e26ab0f0b",
+    "text": "26 Failure to deliver pleadings — barring",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "11e55ba8b61acb72a4e58232516ed097",
+    "text": "RS 22, 2023, D1 Rule 26-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "684a2449c88a74732021e9c12b047733",
+    "text": "Any party who fails to deliver a replication or subsequent pleading within the time stated in rule 25 shall be ipso facto barred. If any party fails to deliver any other pleading within the time laid down in these rules or within any extended time allowed in terms thereof, any other party may by notice served upon him require him to deliver such pleading within five days after the day upon which the notice is delivered. Any party failing to deliver the pleading referred to in the notice within the time therein required or within such further period as may be agreed between the parties, shall be in default of filing such pleading, and ipso facto barred: Provided that for the purposes of this rule the days between 16 December and 15 January, both inclusive shall not be counted in the time allowed for the delivery of any pleading.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "11e55ba8b61acb72a4e58232516ed097"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b447dd624bd8b85458e1d3460c360d3",
+    "text": "[Rule 26 substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "11e55ba8b61acb72a4e58232516ed097"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cf20d8083726a3677edfcae92f6a6072",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "11e55ba8b61acb72a4e58232516ed097"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5d5c60c067c0a161b048b052d3d17b86",
+    "text": "‘Fails to deliver a replication . . . fails to deliver any other pleading.’ The effect of this rule is as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6251d29a3e7d9e379fe694b7fbf9df54",
+    "text": "(a) Failure to deliver a declaration or plea within the time stated does not entail an automatic bar; notice of bar must be 1 given.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6f6e8da8dbed035e248966343e45fe8e",
+    "text": "(b) Failure to deliver a replication or subsequent pleading within the time stated entails an automatic bar, and no notice of 2 bar is necessary.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b69b9deefbed181f0da02557efb1835a",
+    "text": "The rule does not deal explicitly with the case where a plaintiff is in default of delivering a declaration. It is submitted that the rule applies in such a case and that the plaintiff will be barred only if the defendant serves a notice requiring delivery of the declaration within the time prescribed and the plaintiff fails to comply with the notice. The court may, in appropriate 3 circumstances, grant an extension of time for the delivery of a declaration.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f997d329588f03a5455e3d7af703de0f",
+    "text": "The delivery by a defendant of a notice in terms of rule 35(12) and (14) within the period of bar afforded to the defendant in a notice of bar does not suspend the operation of the notice of bar. On receipt of a notice of bar a defendant is put to an election of either delivering a pleading or applying for an extension of time within which to compel delivery of documents sought in terms of rule 35(12) and (14) and to deliver the intended pleading. The defendant’s failure to do either will result in 4 the defendant being ipso facto barred on completion of the period of bar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "41cc2a70a0e3ee1dffd14d76d50f7904",
+    "text": "An exception is a pleading and cannot be objected to as having been filed out of time unless notice of bar has been 5 given. See further, in this regard, the notes to rule 23(1)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "53bf15c921ddf8d727bd526de11ed139",
+    "text": "RS 22, 2023, D1 Rule 26-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9949fcf9bb7a4184bb24986912b7e187",
+    "text": "s v ‘Within the period allowed for filing any subsequent pleading’ above where the question whether a notice in terms of rule 23(1)(a) (i e a notice that the plaintiff’s particulars of claim or declaration is vague and embarrassing) is a proper response to a notice of bar is also discussed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3864e6820b85a5c3ee62ca4d63a3b39",
+    "text": "‘Shall be ipso facto barred.’ The fact that a plaintiff is barred from replicating or from delivering a subsequent pleading does not debar him from proceeding with the action: the pleadings are merely deemed to be closed and the action may be set down 6 for trial. See rule 25(2) above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b47d4e1a66a56cfe1b4f55e8dcc6af1",
+    "text": "If a plaintiff has been given leave to file amended particulars of claim within a certain time and fails to do so, notice of bar 7 must be given before the defendant is entitled to apply for dismissal of the action. An application for the dismissal of the plaintiff’s action based on such failure without first having served a notice of bar in terms of rule 26 is premature and 8 constitutes an irregular step under rule 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca011abf0c7694fd17f10420f2b8060b",
+    "text": "If a plaintiff does not effect an unopposed amendment, a defendant who wishes to resort to a notice in terms of rule 23(1) in respect of the plaintiff’s unamended particulars of claim should first demand delivery of the amended pages of the particulars 9 of claim in terms of rule 26 before resorting to rule 23(1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be80c7ecbcf65ba2c6396410c3b07a3c",
+    "text": "With regard to removal of bar, see rule 27 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf",
+      "parent_id": "cf20d8083726a3677edfcae92f6a6072"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a61e093332937487058c5958359c8328",
+    "text": "1 Landmark Mthatha (Pty) Ltd v King Sabata Dalindyebo Municipality: In re African Bulk Earthworks (Pty) Ltd v Landmark Mthatha (Pty) Ltd 2010 (3) SA 81 (ECM) at 86B–C. In Standard Bank of South Africa Ltd v Piper (unreported, KZD case no 15325/2010 dated 18 February 2021) it was held that an application for the removal of proceedings from one division of the High Court to another division under s 27 of the Superior Courts Act 10 of 2013 did not stay the time period within which a plea had to be delivered. Consequently, the plaintiff was entitled to deliver a notice of bar and the first defendant’s reliance on rule 30 that the notice of bar was an irregular step was inappropriate and did not bring the parties any closer to having the real issues determined (at paragraph [26]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "35354f426f1a04e4d0f1e399b74ac152",
+    "text": "2 Landmark Mthatha (Pty) Ltd v King Sabata Dalindyebo Municipality: In re African Bulk Earthworks (Pty) Ltd v Landmark Mthatha (Pty) Ltd 2010 SA 81 (ECM) at 86A-B.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4ab6e3589751bbc46f89cda411a3528",
+    "text": "(3)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7327c22af8942268b595ed66b5d7e23c",
+    "text": "3",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a36ce82b1f365e44dfa4e9feb55e323e",
+    "text": "See Ford v South African Mine Workers’ Union 1925 TPD 405; Irvin v Nefdt 1950",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ef5af71438ff941031a11592d507520e",
+    "text": "(1)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "07ddfe4db506c21c3fbec88e5dca6cd0",
+    "text": "SA 431 (T).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2e469a5e6e016adbf9b07633a0744b09",
+    "text": "4 Potpale Investments (Pty) Ltd v Mkize 2016 (5) SA 96 (KZP) at 100I and 105E–G; Madzibadela v Standard Bank of South Africa Limited (unreported, FB case nos 1878/2022; 1879/2022 dated 22 February 2023) at paragraph [8].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d71a3ff0b3111e1e4f84ff1e20470dab",
+    "text": "5 Tyulu v Southern Insurance Association Ltd 1974 (3) SA 726 (E); Felix v Nortier NO (2) 1994 (4) SA 502 (SE) at 506E; Landmark Mthatha (Pty) Ltd v King Sabata Dalindyebo Municipality: In re African Bulk Earthworks (Pty) Ltd v Landmark Mthatha (Pty) Ltd 2010 (3) SA 81 (ECM) at 86G; Hill NO v Brown (unreported, WCC case no 3069/20 dated 3 July 2020) at paragraphs [4]–[8].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "962837d3c197d760b3eebef06bbb4cb6",
+    "text": "6 See Moghambaram v Travagaimmal 1963 (3) SA 61 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a0415d79da96a83ad6c37b5846c73c6d",
+    "text": "7 Santam Insurance Co Ltd v Manqele 1975 (1) SA 607 (D) at 610E; Princeps (Edms) Bpk v Van Heerden NO 1991 (3) SA 842 (T) at 845D–",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b9966878eff249da4965878cadf8f284",
+    "text": "F; Standard Bank of SA Ltd v Van Dyk 2016 (5) SA 510 (GP) at 511F–513B where it is pointed out that the contrary view in Natal Fresh Produce Growers’ Association v Agroserve (Pty) Ltd 1991 (3) SA 795 (N), was effectively overruled in Group Five Building Ltd v Government of the Republic of South Africa (Minister of Public Works and Land Affairs) 1993 (2) SA 593 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1872458a8408c5bbca295750dbba48ce",
+    "text": "In Woolf v Zenex Oil (Pty) Ltd 1999 (1) SA 652 (W) at 654G–I the court considered the conflicting judgments but distinguished the Natal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "acb51a839cc2e826b71ca8b10ea5b680",
+    "text": "Fresh Produce case on the facts and held that as the declaration was to be filed within an extended time period laid down by the court acting",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "590b1a6f71ab32258a8d3f35402c8407",
+    "text": "in terms of rule 6(5)(g), the said period was a period laid down in the rules for purposes of rule 26, and a notice of bar had to be served",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ddef35d4c8215e9c1be874c2ac72fb6e",
+    "text": "requiring the party in default of delivering a declaration to do so within five days after the date upon which the notice of bar was delivered. In",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5889f2a0d12587269310e24f89f48477",
+    "text": "the event of continued inaction, the notice of bar could be followed by an application for absolution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd3be22cdce0ef5cbefda74b8e992a47",
+    "text": "8 Standard Bank of SA Ltd v Van Dyk 2016 (5) SA 510 (GP) at 513B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fc3b7bd95eb0f4a967438033dc88c56a",
+    "text": "9 Beukes v MEC, Agriculture and Environmental Affairs, Eastern Cape 1999 (4) SA 772 (TkD) at 778I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "20620962bae4cb3b76cc6f1b84cd0d3e",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "93fa66fd3107948d9fbf30ae5c08981b",
+    "text": "Downloaded: Mon Feb 17 2025 11:22:33 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 26.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "fffb2cf74fda699835ba07c4d06e0f52",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 26.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

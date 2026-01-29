@@ -1,0 +1,189 @@
+[
+  {
+    "type": "Title",
+    "element_id": "5ab2816265662afe24ba77a4c5aa1a30",
+    "text": "3 Registrar’s office hours",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8d0e675122398d988d61eb744dd0b472",
+    "text": "RS 22, 2023, D1 Rule 3-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "5ab2816265662afe24ba77a4c5aa1a30"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "df1ab3ef05935d5b1ab4f1c5f8fdba90",
+    "text": "Except on Saturdays, Sundays and Public Holidays, the offices of the registrar shall be open from 9:00 to 13:00 and from 14:00 to 16:00, save that, for the purpose of issuing any process or filing any document, other than a notice of intention to defend, the offices shall be open from 9:00 to 13:00, and from 14:00 to 15:00. The registrar may in exceptional circumstances issue process and accept documents at any time, and shall do so when directed by a judge.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "5ab2816265662afe24ba77a4c5aa1a30"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "774026f31176592aefe6fd90d445987f",
+    "text": "[Rule 3 amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "5ab2816265662afe24ba77a4c5aa1a30"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6158f9630ee603b229538bc9474818fe",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6125b002c0e731e9a1be19061ff0092",
+    "text": "General. The effect of the rule is that a notice of intention to defend may be filed at all hours when the registrar’s office is open, but in the afternoons process may only be issued and documents filed between 14h00 and 15h00.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "6158f9630ee603b229538bc9474818fe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b7b498e6cc82e10827436016dce19a4",
+    "text": "‘Notice of intention to defend.’ The term ‘notice of intention to defend’ is not defined in the rules. It appears in rule 19 in the context of action proceedings and, in terms of rule 19(1), it must be delivered as contemplated in the definition of ‘deliver’ (i e copies must be served on all parties and the original filed with the registrar). In terms of rule 6(5)(b)(iii) and (d)(i) any person opposing the grant of an order sought in a notice of motion need only notify the applicant in writing of such person’s intent to oppose the application. Such notice is not required to be delivered as contemplated in the definition of ‘deliver’ in rule 1; no filing of the original notice with the registrar is therefore necessary.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "6158f9630ee603b229538bc9474818fe"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "53aea43123e704e1dbb55660c40cbfb9",
+    "text": "‘At any time.’ The rule does not exclude Sundays when it provides that the registrar may in exceptional circumstances issue 1 process ‘at any time’. The rule needs not to be read subject to rule 4(1)(c) and, therefore, does not require the intervention 2 of the court or a judge before summons can be issued on a Sunday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "6158f9630ee603b229538bc9474818fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "971f8e90efd3ac13225b5b95aeb7c9c4",
+    "text": "1 Minister of Police v Johannes 1982 (3) SA 846 (A) at 854.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "6158f9630ee603b229538bc9474818fe"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e813495cf0b9ac88b9f6047399bd4f3d",
+    "text": "2 Minister of Police v Johannes 1982 (3) SA 846 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf",
+      "parent_id": "6158f9630ee603b229538bc9474818fe"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9959da22318b2052a5c2ae94549e6278",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "52fc7f10caecda761c449f73fb638c5c",
+    "text": "Downloaded: Mon Feb 17 2025 11:11:52 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 3.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "62561f88f5ec01cabea48a49b50f9e8a",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 3.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

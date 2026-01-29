@@ -1,0 +1,1521 @@
+[
+  {
+    "type": "Header",
+    "element_id": "78a398292168cbb7bebe795ff9b53d0d",
+    "text": "37A Judicial Case Management",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "29599725d85c19572c7681d73d711fef",
+    "text": "RS 22, 2023, D1 Rule 37A-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e80d74e858d890ec34e7851232b21db",
+    "text": "(1) A judicial case management system shall apply, at any stage after a notice of intention to defend is filed —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4772423cd37e6e582aaf1e995bbcdd86",
+    "text": "(a) to such categories of defended actions as the Judge President of any Division may determine in a Practice Note or Directive; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6fa9de4808af695c60472a1e6774a8e9",
+    "text": "(b) to any other proceedings in which judicial case management is determined by the Judge President, of own accord, or upon the request of a party, to be appropriate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d4afeb3709b00284ecc9941c216f1c04",
+    "text": "(2) Case management through judicial intervention —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "67be7ed8b4c17047d7e795750d466115",
+    "text": "(a) shall be used in the interests of justice to alleviate congested trial rolls and to address the problems which cause delays in the finalisation of cases;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c159a2365f2222afd8fcce300a809a74",
+    "text": "(b) the nature and extent of which shall be complemented by the relevant directives or practices of the Division in which the proceedings are pending; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a03f7b882513c8eee68b017e1931771",
+    "text": "(c) shall be construed and applied in accordance with the principle that, notwithstanding the provisions herein providing for judicial case management, the primary responsibility remains with the parties and their legal representatives to prepare properly, comply with all rules of court, and act professionally in expediting the matter towards trial and adjudication.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2807a971c0acfcc0c517935a94fb8ba5",
+    "text": "(3) The provisions of rule 37 shall not apply, save to the extent expressly provided in this rule, in matters which are referred for judicial case management.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f6e27f76b75b12a2b21c60652cba4f95",
+    "text": "(4) In all matters designated to be subject to judicial case management in terms of subrule (1)(a) at any stage before the close of pleadings, the registrar may —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8de227df7a308f0f62a9636c879dc004",
+    "text": "(a) direct compliance letters to any party which fails to comply with the time limits for the filing of pleadings or any other proceeding in terms of the rules; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b3b4d55761636f9b42618a518e4b771",
+    "text": "(b) in the event of non-adherence to the directions stipulated in a letter of compliance, refer a matter to a case management judge designated by the Judge President who shall have the power to deal with the matter in terms of the practice directives of the particular Division concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef9db5124d6c1f2120b581d3ff91e033",
+    "text": "(5)(a) Notwithstanding the allocation of a trial date, a case that is subject to judicial case management shall not proceed to trial unless the case has been certified trial-ready by a case management judge after a case management conference has been held, as provided for in subrule (7).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9f194002b0ea00602122f5c33490364",
+    "text": "(b) A case management judge shall not certify a case as trial-ready unless the judge is satisfied —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f2bc0c5aa2bc28f877d173c070f61592",
+    "text": "(i) that the case is ready for trial, and in particular, that all issues that are amenable to being resolved without a trial have been dealt with;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b2c6af1a4b641c70278d2bd4dbb3a215",
+    "text": "(ii) that the remaining issues that are to go to trial have been adequately defined;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91b15f6214f938da195468542f268666",
+    "text": "(iii) that the requirements of rules 35 and 36(9) have been complied with if they are applicable; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3802e785aeb13c8b8fac1ad4411b5fec",
+    "text": "(iv) that any potential causes of delay in the commencement or conduct of the trial have been pre-empted to the extent practically possible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d2e663519a15115c07e526b72deed11",
+    "text": "(c) A case management judge may order directions on the making of discovery where the judge considers that such directions may expedite the case becoming trial-ready.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b1dafb51179769b8231e86f9ac16846",
+    "text": "RS 22, 2023, D1 Rule 37A-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d57fb9019256409f46bf7596b1a47c0",
+    "text": "(6) In every defended action in a category of case which has been identified in terms of subrule (1)(a) as being subject to judicial case management in which any party makes application for a trial date following the close of pleadings, the registrar shall issue a notice electronically to the parties, at the addresses furnished in terms of rules 17(3)(b) or 19(3)(a) in respect of the holding of a case management conference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "510a36cab69c032b56f81fb67cf2c8e5",
+    "text": "(7) The notice by the registrar in terms of subrule (6) shall inform the parties —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68feae137df118338fce8a653e2e522d",
+    "text": "(a) of the date, time and place of a case management conference in the matter to be presided over by a case management judge;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cbcb250a27995d6191d9f4a049f3e179",
+    "text": "(b) of the name of the case management judge, if available;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a11d26c6d553b4894cf19a583d4ce3a",
+    "text": "(c) that they are required to have held a pre-trial meeting before the case management conference at which the issues identified in subrule (10) in relation to the conduct and trial of the action must have been considered; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4c93808103a2cec2b7f2aa7a7b2764ff",
+    "text": "(d) that the plaintiff is required, not less than two days before the time appointed for the case management conference, to —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c700d8744fcf4e387c405d80723737a2",
+    "text": "(i) ensure that the court file has been suitably ordered, secured, paginated and indexed; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "139e23db14c50b32a45d1025d04989c8",
+    "text": "(ii) deliver an agreed minute of the proceedings at the meeting held in terms of paragraph (c), alternatively, in the event that the parties have not reached agreement on the content of the minute, a minute signed by the party filing the document together with an explanation why agreement on its content has not been obtained.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93a2e68e4b5593b93836f3f699009a0d",
+    "text": "(8) The minute referred to in subrule (7)(d)(ii) shall particularise the parties’ agreement or respective positions on each of the issues identified in subrule (10) and, to the extent that further steps remain to be taken to render the matter ready for trial, explicitly identify them and set out a timetable according to which the parties propose, upon a mutually binding basis, that such further steps will be taken.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d0e4865e55c3e2c6c6790e91d8973829",
+    "text": "(9)(a) In addition to the minute referred to in subrule (7)(d)(ii), the parties shall deliver a detailed statement of issues, which shall indicate —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03bfcbff26c2e2fe86fdb170e6bcd1c4",
+    "text": "(i) the issues in the case that are not in dispute; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f0e4fd4aa534638042a611a0c9a89664",
+    "text": "(ii) the issues in the case that are in dispute, describing the nature of the dispute and setting forth the parties’ respective contentions in respect of each such issue.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e9b3f180d8232bd46ff559f294b4f904",
+    "text": "(b) A case management judge may, upon considering the statement by the parties referred to in paragraph (a), direct that appearance by one or all of the parties is dispensed with.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9dabe2e60e74f95dfed01d3b7d10ee1d",
+    "text": "(10) The matters that the parties must address at the pre-trial meeting to be held in terms of subrule (7) are as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0bc5da9f902a374028ae8be5db2d7fdc",
+    "text": "(a) The matters set forth in rules 35, 36 and 37(6);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6da23b92f4e630ecde20d7f2ffc5e5b1",
+    "text": "(b) the soliciting of admissions and the making of enquiries from and by the parties with a view to narrowing the issues or curtailing the need for oral evidence;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ed00eb67ab00bbc84d1e10baa70e654",
+    "text": "(c) the time periods within which the parties propose that any matters outstanding in order to bring the case to trial readiness will be undertaken;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0f9367de373106f6a3d54f4130f01621",
+    "text": "(d) subject to rule 36(9), the instruction of witnesses to give expert evidence and the feasibility and reasonableness in the circumstances of the case that a single joint expert be appointed by the parties in respect of any issue;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2d705b0dc907f5d558a3fd49651f880b",
+    "text": "RS 22, 2023, D1 Rule 37A-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "44e235d4c3462248a90b8828edaa00db",
+    "text": "(e) the identity of the witnesses they intend to call and, in broad terms, the nature of the evidence to be given by each such witness;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b89a89ffb878c63f63bd8e1c2a7d7338",
+    "text": "(f) the possibility of referring the matter to a referee in terms of section 38 of the Act;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e5e4d1e7b0b25da34b1558e11822a5ed",
+    "text": "(g) the discovery of electronic documents in the possession of a server or other storage device;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3c83fd85fb8557495cfe1db1d9f9e7b4",
+    "text": "(h) the taking of evidence by video conference;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8177052ece5573043d22370e37737689",
+    "text": "(i) suitable trial dates and the estimated duration of the trial; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b60ca3634c1f3df979a6f6609ce54850",
+    "text": "(j) any other matter germane to expediting the trial-readiness of the case.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b4f5ce4cefa657102389755364a3de6",
+    "text": "(11) Without limiting the scope of judicial engagement at a case management conference, the case management judge shall —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f31b0141f2d57e1b2e1cf32ac7c83381",
+    "text": "(a) explore settlement, on all or some of the issues, including, if appropriate, enquiring whether the parties have considered voluntary mediation;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7916127e7bf599a047aada472be1f0e",
+    "text": "(b) endeavour to promote agreement on limiting the number of witnesses that will be called at the trial, eliminating pointless repetition or evidence covering facts already admitted; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "610cf2c2819827ffd3fad929bf00ed8e",
+    "text": "(c) identify and record the issues to be tried in the action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34745e59c32636fa0f6ec5857be9a973",
+    "text": "(12) The case management judge may at a case management conference —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f3d9737da437a794fec7dc49b711269e",
+    "text": "(a) certify the case as trial-ready;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ece36fb25c3be66b00504bdc31d8cbe",
+    "text": "(b) refuse certification;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2f6281714b6d60422708ac1a5eaa3214",
+    "text": "(c) put the parties on such terms as are appropriate to achieve trial-readiness, and direct them to report to the case management judge at a further case management conference on a fixed date;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "78a398292168cbb7bebe795ff9b53d0d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2d3c615a47287ed189e60a0fbc804862",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c96255e7fae794fbd579ddcab3c90005",
+    "text": "Downloaded: Mon Feb 17 2025 11:07:43 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "15da8637e75886de31e78417a5037d25",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0893cd628e37d009b0bcf7479b4053ab",
+    "text": "(d) strike the matter from the case management roll and direct that it be re-enrolled only after any non-compliance with the rules or case management directions have been purged;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "66c5bf5de617a5c02c5cc06c8d195c57",
+    "text": "(e) give directions for the hearing of opposed interlocutory applications by a motion court on an expedited basis;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68389af812a3d3ada99d387f96021459",
+    "text": "(f) order a separation of issues in appropriate cases notwithstanding the absence of agreement by the parties thereto;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "46e47348ba3f2d2f2666cc3b7fc8c3c9",
+    "text": "(g) at the conclusion of a case management conference, record the decisions made and, if deemed convenient, direct the plaintiff to file a minute thereof;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eb59327bf8684698c6f01486d97a3d52",
+    "text": "(h) make any order as to costs, including an order de bonis propriis against the parties’ legal representatives or any other person whose conduct has conduced unreasonably to frustrate the objectives of the judicial case management process.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e5a839343b6f296ba3df5469d3d2952",
+    "text": "(13) The record of the case management conference, including the minutes submitted by the parties to the case management judge, any directions issued by the judge and the judge’s record of the issues to be tried in the action, but excluding any settlement discussions and offers, shall be included in the court file to be placed before the trial judge.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1240c9dbe2c7ca453204923ff34198aa",
+    "text": "(14) The trial judge shall be entitled to have regard to the documents referred to in subrule (13) in regard to the conduct of the trial, including the determination of any applications for postponement and issues of costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2714602619698cd674c0d49f682e1a75",
+    "text": "(15) Unless the parties agree thereto in writing, the case management judge and the trial judge shall not be the same person.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d18073cba965af54246d0e94afb0d41f",
+    "text": "RS 22, 2023, D1 Rule 37A-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a460da3f714b6bfff306c3f6e84338af",
+    "text": "(16) Any failure by a party to adhere to the principles and requirements of this rule may be penalised by way of an adverse costs order. [Rule 37A was repealed by GN R373 of 30 April 2001 and inserted by GN R842 of 31 May 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c5fc0b29c0eb32307c2e355d3dfe7872",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ec79a851e071ad8cfa6ce4568f1392e",
+    "text": "General. The purpose of rule 37A is, evidently, to promote the effective disposal of defended actions or other opposed proceedings which, in the discretion of a Judge President, call for case management through judicial intervention. Ultimately, however, as is clear from the provisions of rule 37A(2)(c), our adversarial system of civil procedure and, in particular, party control prevails.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdb8ccc24da04f1e5933c34dd92e43cf",
+    "text": "Rule 37A makes judicial case management after the filing of a notice of intention to defend applicable to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "372c6de1a42c28e04bed2a2ae39c0573",
+    "text": "(a) such categories of defended actions as a Judge President may determine in a Practice Note or Directive;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10ddd6e4ce860c18c9e4e6f7777a38b5",
+    "text": "(b) such opposed proceedings as a Judge President may of own accord determine to be appropriate for case management;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b34003ce21193d3c1b9e1e58abd31815",
+    "text": "(c) such opposed proceedings as a Judge President may upon the request of a party determine to be appropriate for case management.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "914b30c4ab09677f5bd991d2fa17fa21",
+    "text": "The case management procedure in regard to (a) is different from the procedure in regard to (b) and (c). In so far as (a) is concerned, the case management procedure commences with a trial compliance letter by the registrar in terms of rule 37A(4), followed by a referral of the matter to a case management judge designated by the Judge President in the event of non- compliance with the letter, on the one hand, or with a notice by the registrar in terms of rule 37A(6) informing the parties of the date, time, place, etc of a case management conference, on the other hand. Whereas the letter in terms of subrule (4) may be issued by the registrar at any stage before the close of pleadings, the notice in terms of subrule (6) may be issued by the registrar only after the close of pleadings. Furthermore, the letter is discretionary but the notice is compulsory. The case management proceedings must then comply with the provisions of rule 37A(7)(c) and (d), (8), (9), (10), (11), (12) and (13). In so far as (b) and (c) are concerned it would seem that the case management process commences with the appointment of a case management judge by the Judge President, either before or after the close of pleadings. If the case management judge is appointed before the close of pleadings, it would seem that the judge shall have the power to deal with the matter in terms of the practice directives of the particular division of the High Court concerned as provided in rule 37A(4)(b). If the case management judge is appointed after the close of pleadings, it would seem that the provisions of rule 37A(6)–(13) apply mutatis mutandis.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eb051ced5e34130c751f0ef7d854a0af",
+    "text": "In terms of rule 37A(15) the case management judge and the trial judge shall not be the same person unless the parties agree thereto in writing. It is submitted that this aspect should be addressed at a case management conference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9790452f205f793a3310e9e1c20bf01",
+    "text": "An expert notice and summary must be delivered before a first case management conference held in terms of rule 37A(6) 1 and (7) or as directed by a case management judge.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1719478c364bdcb171f7e99d16427057",
+    "text": "Where a party fails to comply with an order or direction made in a judicial case management process referred to in rule 37A 2 the provisions of rule 30A apply to such non-compliance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "74e407a8a5e058d3b61b39216f41c68a",
+    "text": "In terms of rule 37A(3) the provisions of rule 37 do not apply, save to the extent expressly provided in rule 37A, in matters which are referred for judicial case management.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "51d3881cf4c980b4c5be44c475e51564",
+    "text": "Rule 37A should be read together with rule 37B, which deals with administrative archiving of case files by the registrar and the referral of matters to judicial case management in terms of rule 37A in the circumstances contemplated in rule 37B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ac11bdd0697ce90a0f0f46fe0c7d6c86",
+    "text": "RS 23, 2024, D1 Rule 37A-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ceaacf5da5be74da5292557be391656",
+    "text": "Subrule (1)(a): ‘Determine in a Practice Note or Directive.’ Practice notes and directives are reproduced in Volume 3, Parts F–N.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4fc1df896b0b68151b28deecc1e51db8",
+    "text": "Subrule (4)(b): ‘Case management judge.’ In terms of the definition of ‘judge’ in rule 1 the judge contemplated in this subrule means a judge sitting otherwise than in open court, i e a judge in chambers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "693859d0fb7c6c4dfca6c231e2c45a1a",
+    "text": "‘The practice directives of the particular Division concerned.’ Practice directives are reproduced in Volume 3, Parts F–N.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e1da73924225970d410b796de6736a11",
+    "text": "Subrule (7)(a): ‘Case management judge.’ In terms of the definition of ‘judge’ in rule 1 the judge contemplated in this subrule means a judge sitting otherwise than in open court, i e a judge in chambers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc399000f6e58cb30941bdba1edf82d4",
+    "text": "Subrule (8): ‘A timetable . . . upon a mutually binding basis.’ This subrule makes it clear that a timetable can only be implemented with the consent of the parties: a case management judge has no power to compel a party to agree to a timetable. In practice this result may be achieved by reason of the sanction of an adverse award of costs against a recalcitrant party as contemplated in subrules (12)(h) and (16). The failure by a party to follow directions given to it at a case management conference is capable of being addressed through the provisions of rule 30A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a34b2d5f8b00c27e60c93b9a7cc4baee",
+    "text": "Subrule (9)(a): ‘The parties shall deliver a detailed statement of issues.’ In HAL obo MML v MEC for Health, Free 3 4 State neither the pleadings nor the pre-trial conference addressed the issues properly. On appeal the majority of the Supreme Court of Appeal stated in conclusion:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9e3843fddb97940ea78a6b443e312dd",
+    "text": "‘[199] The remedy is straightforward. In any case where the pleadings and pre-trial procedures have not resulted in a clear statement of the issues, the trial judge should require the parties to deliver a statement of the issues in accordance with rule 37A(9)(a), that is, a statement of what is not in dispute and a statement of what is in dispute, setting out the parties’ respective contentions on those issues. If the matter is subject to judicial case management under that rule such a detailed 5 statement is a requirement. If it is not, it is within the judge’s powers, under rule 38(8)(c) and their inherent power to regulate the proceedings, to require that such a statement be provided.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf",
+      "parent_id": "c5fc0b29c0eb32307c2e355d3dfe7872"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "05d102ce2ed00268565ae0eac3897bba",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ff24717b4adb8f6b5b7ffb2e03041354",
+    "text": "Downloaded: Mon Feb 17 2025 11:07:43 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9f4d004f681d96cca3f4b737460422d1",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "41e18d8be3d5372cb5e0b7b0e1827599",
+    "text": "Subrule (10)(f): ‘Referring the matter to a referee.’ See further rule 38A below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0f9dfc4e157c0e9f10b7764a6452a4c2",
+    "text": "Subrule (10)(h): ‘Taking of evidence by video conference.’ See s 37C of the Act which provides for evidence by means of audiovisual link in Volume 1 third edition, Part D. See also rule 38(9) and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "398936adf173d0a030bf25879c05762e",
+    "text": "Subrule (12)(f): ‘Order a separation of issues in appropriate cases.’ The issue to be separated could be one of law or fact or both. It is submitted that a case management judge should be guided by the test in rule 33(4), viz whether the issue concerned may conveniently be decided either before any evidence is led or separately from any other question. It is submitted, further, that in ordering a separation of issues in terms of the subrule, the case management judge may make an order directing the disposal of the issue concerned in such manner as the judge may deem fit and may order that all further proceedings be stayed until such issue has been disposed of.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "419970e3d9ca5a6cabf9241f02758ad2",
+    "text": "In terms of the subrule the case management judge may order a separation of issues notwithstanding the absence of agreement by the parties to such a separation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca2e2831b220bec5ec9f388d1a5eb463",
+    "text": "RS 23, 2024, D1 Rule 37A-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1774997cd1b7c2c1dd80d9d7646fd2a7",
+    "text": "Subrule (16): ‘May be penalised by way of an adverse costs order.’ This subrule is not a model of clarity: is it the case management judge or the trial judge who may make a punitive costs order? In the context of subrules (13)–(15) it seems to be the trial judge. Rule 67A(2)(a) now provides that in considering all relevant factors in awarding costs, the court hearing the case may have regard to the failure by any party or such party’s legal representative to comply with the provisions of rule 37A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "25c1111df680ba4fdc4a0ec45642201f",
+    "text": "1 In terms of the proviso to rule 36(9).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "702af2fb0ea6e13b68ca248771486915",
+    "text": "2 Rule 30A(1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c010746059518851af9960d2323eb0a",
+    "text": "3 2022 (3) SA 571 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "74418889c561f936105961952c048580",
+    "text": "4 See the decision of the majority at paragraphs [189]–[198].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd38533896b716765b489bd143145a05",
+    "text": "5 Author’s note: Evidently this should be a reference to rule 37(8)(c).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bb430ee07705395a3edabf06e1622f8a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6080a9f8f0d1311be96ebf1d2d18507b",
+    "text": "Downloaded: Mon Feb 17 2025 11:07:43 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "15da8637e75886de31e78417a5037d25",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

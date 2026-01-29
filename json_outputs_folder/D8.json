@@ -1,0 +1,2683 @@
+[
+  {
+    "type": "Title",
+    "element_id": "928486e717dc71fc9ec33ddb07c60d5f",
+    "text": "D8 Anton Piller Orders",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "581bb2679b12b12f3399e6dfff1d0093",
+    "text": "RS 24, 2024, D8-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c316004e8320cebe194c97d31e18073a",
+    "text": "1 Nature of remedy",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "581bb2679b12b12f3399e6dfff1d0093"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8c4ce3f861996f65692340c8fdc55fc",
+    "text": "(a) Definition. An order directed at the preservation of evidence, commonly known as an Anton Piller order, derives its name 1 from the English case Anton Piller KG v Manufacturing Processes Ltd in which the court of appeal confirmed the granting of an order authorizing the search and seizure of documents and related material or things relevant to proceedings which 2 the applicant intended to pursue.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "04b1023bb12ceebfe4bd553c3f1fb87c",
+    "text": "3 (b) Nature of relief. In Mathias International Ltd v Baillache Binns-Ward J concluded that the Anton Piller procedure qualifies as ‘law of general application’ within the meaning of s 36 of the Constitution of the Republic of South 4 Africa, 1996. He stated the corollary of his conclusion to be as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "16a8e3969d20d6f2b938e81a21a93422",
+    "text": "‘The corollary of the conclusion, that Anton Piller orders are made in terms of “law of general application”, within the meaning of s 36(1) of the Constitution, is that such orders are competent only when they comply with the requirements of the postulated law. The fact that the decisions to grant or confirm such orders are made in the exercise of judicial discretion should not obfuscate the fact that, notwithstanding that the law in issue is judge-made, such discretion is subject to the underlying constraints of legality, and therefore by no means an unfettered one.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7dac2d70b7c86e55dcaa1971ef25eb2d",
+    "text": "5 The Anton Piller order is a remedy of a general nature. The order relates to procedural relief, viz the preservation of 6 evidence to be used ultimately for securing substantive relief. The order grants instant relief, subject to the possibility of later variation or discharge of the order, and requires the respondent to submit to the search of his premises",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6fcd2007dc84dd61b5be6389caaa85a",
+    "text": "RS 24, 2024, D8-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b4230281c8a276799d2fd490af7f517",
+    "text": "and to the other demands of the order. 7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ecb475391170ac807872a4833d9ab45",
+    "text": "The Anton Piller order is an interlocutory order. It assists the successful applicant by ensuring the greater effectiveness of other proceedings in which substantive relief is claimed. It does not dispose of any issue in those 8 proceedings, and is always open to revision by a court of concurrent jurisdiction. It has been described as ‘a Draconian 9 10 form of relief’ which ‘should be granted only under exceptional circumstances’. Its use has been described as an 11 example of the outer extreme of judicial power.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "c316004e8320cebe194c97d31e18073a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3463adf53633193c4fd2435f7b26d268",
+    "text": "2 Purposes for which Anton Piller orders may be granted",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "581bb2679b12b12f3399e6dfff1d0093"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c80bd061e5bfb7ae915d59c17658b8d2",
+    "text": "The essential purpose of an Anton Piller order is to preserve evidence in proceedings already instituted or about to be 12 instituted, not to enable a prospective litigant to ‘see’ his adversary’s documents. An Anton Piller order is not to be used as a fishing expedition to obtain",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f6d5d191c3336705de39fc9f07c17f00",
+    "text": "RS 24, 2024, D8-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc11ee91d06c64ee14102b026c4fc8c2",
+    "text": "13 evidence that may found a cause of action or as a blanket search for unspecified documents or evidence that may or may 14 In appropriate circumstances the court has jurisdiction to make an Anton Piller order to prevent a defeat of not exist. justice, for example, after judgment for the purpose of eliciting documents essential to execution and which would otherwise 15 be unjustly denied to the judgment creditor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a8edb00e2239617f37f8f7e501a54c0",
+    "text": "An Anton Piller order is not a substitute for possessory or proprietary claims. 16 Such orders have been granted in various forms, including the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0967d25c3b61e5d40970f9de10034cb",
+    "text": "(a) Orders authorizing the attachment of documents and related items or things to be preserved for and produced as 17 evidence.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03a7dec36493604af3f88dfd22188829",
+    "text": "(b) Orders directing the disclosure of information. 18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97ec6367183ff64f6841ed7d06b4f3ce",
+    "text": "(c) Orders authorizing the production and delivery of a thing as part of an interdict to render it effective. 19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "22dd80275c1f6cac24bf57d942e4462f",
+    "text": "3 Requirements for an Anton Piller order",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "660abd782349636a7747c6fba8fd1975",
+    "text": "An applicant seeking an Anton Piller order ex parte (and in camera) 20 must prima facie 21 establish the following: 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae44df7035516b6b1fd95b6df51cf54f",
+    "text": "RS 24, 2024, D8-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f68bc6f83276fcdc46d10a811c220ec",
+    "text": "(a) That the applicant has a cause of action against the respondent which it intends to pursue. 23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d1100a4005f4339a13257102ee488634",
+    "text": "24 (b) That respondent has in his possession specific (and specified) documents or things which constitute vital 25 in substantiation of the applicant’s cause of action (in evidence",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "150da68f29c635df4b5d893e26652750",
+    "text": "RS 24, 2024, D8-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0bf96b71958b27a55e0409949a4d99e1",
+    "text": "respect of which applicant cannot claim a real or personal right). 26",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c5823a2a0b01a7e396b7e3a01a2c46f",
+    "text": "RS 24, 2024, D8-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d375646ebecfa78364186aa3ff8b03ea",
+    "text": "(c) That there is a real and well-founded apprehension that this evidence may be hidden or destroyed or in some manner 27 spirited away by the time the case comes to trial or to the stage of discovery.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aced347e18ff4ae0b6aad1fe0c3b727d",
+    "text": "(d) That the remedy is the only reasonable and practicable means of protecting the applicant’s rights. 28",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "3463adf53633193c4fd2435f7b26d268"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "e26a0c8d70a76ffa042f14e51f730d9c",
+    "text": "4 Discretion of court",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "581bb2679b12b12f3399e6dfff1d0093"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e14fe538902fec031a0475245d1c7542",
+    "text": "The court to which application is made for an Anton Piller order has a discretion whether to grant the remedy or not, and, if it 29 does, upon what terms. As to the nature of the discretion, see the notes s v ‘Nature of the remedy’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "e26a0c8d70a76ffa042f14e51f730d9c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc6090ec575b567102344ce2928f2664",
+    "text": "The court may, in its discretion, (a) issue a rule nisi informing the respondent of the right to contest the making final of the order on a specified date; or (b) make an order informing the respondent of the right to have the order reconsidered in terms 30 31 of rule 6(12)(c). In appropriate circumstances the court may grant an Anton Piller order ex parte and in camera. 32",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "e26a0c8d70a76ffa042f14e51f730d9c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81644318f7e49da4e19ebca725a482a3",
+    "text": "In exercising its discretion, the court will have regard to the importance and value of the interests that the applicant seeks to protect and this will be weighed against the potential harm that will be suffered by the respondent if the remedy is granted as compared with the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "e26a0c8d70a76ffa042f14e51f730d9c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a29873306436e0242dc04ce0d0d8a76a",
+    "text": "RS 23, 2024, D8-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "e26a0c8d70a76ffa042f14e51f730d9c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5390e14254dfddb5ebaaebbbf723d32c",
+    "text": "potential harm to the applicant if the remedy is withheld. The court will also consider whether the terms of the order sought 33 are no more onerous than is necessary to protect the interests of the applicant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "e26a0c8d70a76ffa042f14e51f730d9c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "51cff9de6b29f1930315e45c65b19e2a",
+    "text": "The onus resting on an applicant at the hearing of an ex parte application for an Anton Piller order is to make out a ‘clear 34 case’ or an extremely strong prima facie case.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf",
+      "parent_id": "e26a0c8d70a76ffa042f14e51f730d9c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6f8d9240693ab9f374b787fd38abe41f",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fe59073a458affd3c4ca70a64e2f37fa",
+    "text": "35 Downloaded: Mon Feb 17 2025 11:26:40 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "7b848bcf6478c09a3d7c477563041fdb",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "D8.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "00dd13a41a554db3b3b719d131d05987",
+    "text": "An ex parte application by its nature requires the utmost good faith on the part of the applicant. 35 A failure on the part of the applicant to make a full and fair disclosure of all material facts may lead the court to set aside the rule nisi on that ground 36 alone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e073887caf31db230d0a1ee96baeb0ab",
+    "text": "The wide framing of an order need not be wilful or mala fide to result in the discharge of a rule nisi. If the order is too wide, 37 The court does, however, have an applicant has to establish cogent reasons as to why the order should not be discharged. 38 a discretion to discharge such an order. Non-compliance with the order as far as execution is concerned may also attract a punitive costs order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42b52a2827875fe58d3a76605608b61c",
+    "text": "It has been held that the onus to be discharged on the return day of a rule nisi in respect of causes of action is on a 39 On the other balance of probabilities, and that the ordinary rules relating to proof of facts in motion proceedings apply. 40 hand it has been held that there is no distinction between the rehearing of an Anton Piller application on the return date of a rule nisi and a reconsideration of such order under rule 6(12)(c); the essence of the further hearing remains the same, namely whether the initial order should remain in force pending the discovery process in the intended action to which it 41 relates, or whether it should be discharged or set aside. It was held that on the return day or at the reconsideration stage 42 it is required of an applicant to make out a strong prima facie case for its cause of action, and to prove, on a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f57351c5e194da37e02c0ff2a1b92ed6",
+    "text": "RS 23, 2024, D8-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "89785573689c6ec81b4fef27edb7a95a",
+    "text": "balance of probabilities, (a) possession of specific documents or things; and (b) the existence of a real and founded apprehension that evidence might be hidden or destroyed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "503bc0d7fbfd024e74898e69030ed9af",
+    "text": "In Interpark South Africa (Pty) Limited v Acuity On Point Solutions (Pty) Limited adopted on the return date of a rule nisi involving an Anton Piller order as follows: 43 44 the full court stated the approach to be",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4bc0384cf751773f22d2dc7c4b74ccc2",
+    "text": "‘The question to be decided in this appeal is whether the court a quo had, on the return day of the rule nisi, correctly applied the applicable legal principles as enunciated inter alia in Shoba v Officer Commanding Temporary Police Camp, Wagendrift Dam and Another 1995 (4) SA 1 (A) and Non-Detonating Solutions (Pty) Ltd v Dune 2016 (3) SA 445 (SCA). The question is whether the appellant, which was the applicant in the court a quo, had proven on the return day that at the time of applying for the Anton Piller preservation order: (1) it had a prima facie cause of action; (2) prima facie the respondents were in possession of documents important to that cause of action; and (3) it (the appellant) had a reasonable apprehension that the respondents might not discharge its duty to make full discovery. If those requirements had been met in the appellant’s application, and provided that there were no other grounds to set aside the order, such as serious flaws in its execution, the preservation order should have been allowed to stand.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5502ffd2fed11a84ff440de9bf0a0b4",
+    "text": "45 It has been held that when the court reconsiders the original order under rule 6(12)(c) a general and undifferentiated 46 namely that the applicant would be required to prove all the requirements on a balance of probabilities, is not approach, appropriate. The applicant bears the onus to establish a strong prima facie cause of action, in the sense of showing ‘no more 47 than that there is evidence, which, if accepted, will establish a cause of action’. However, with regard to the other two requirements, i e that the respondent has vital evidence in his possession and that there is a real and well-founded apprehension that it may be hidden or destroyed, the applicant has the onus to prove these requirements upon a balance of 48 probabilities on all the affidavits, but the court retains a discretion to allow the hearing of oral evidence if no such preponderance of probabilities in favour of the applicant appears from the papers. If the probabilities favour the respondent, referral to oral evidence will be rare. See further the notes to rule 6(12)(c) s v ‘Set the matter down for reconsideration’ in Part D1 above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ecf1fc78461defe9b601c6c35cbb0174",
+    "text": "Where the court reconsiders an Anton Piller-type order in terms of subrule 6(12)(c) and it appears that the application was an abuse of the process of court, the court may in its discretion order the applicant to pay costs on an attorney and own 49 client scale.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c636c021a8f58bcba751b5c824ba0878",
+    "text": "5 Form of order",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f49e22272c62b167ec2c87b228b6e797",
+    "text": "Various divisions of the High Court have their own procedures and specimen orders. See, in this regard, Volume 3, Parts F–N.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fb44458ebaccb23d3f8a28df4d9d360",
+    "text": "It has been suggested that a standard form be devised which would apply in all the divisions of the High Court. 50 A standard form order will take account of the conflicting interests",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6b913f85610a72a3f914fee6fddad60",
+    "text": "RS 24, 2024, D8-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2852dd1d21ecfaf86712ff11b3df4c79",
+    "text": "of the applicant and the respondent and include safeguards which are normally required and will operate as an appropriate 51 deterrent to abuse.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e386da9ad438d976c09cf38eaad62fbf",
+    "text": "The terms of an Anton Piller order should ordinarily not be so wide as to give the applicant access to documents to which 52 53 the evidence did not show him to be entitled. The terms of the order The order requires built-in protection measures. 54 should normally go no further than strictly necessary for the preservation of the evidence sought to be preserved.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49bcabcf12db0a22b26ce5dba0a4d06f",
+    "text": "The order will normally provide for service of the order by the sheriff which is to be accompanied by written notice of the application to the respondent.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fed68fc61eb2e2221163a7cc06e09efc",
+    "text": "Specific provision can also be made for the attendance of a supervising attorney, who is a person whom the court considers 55 suitable in the circumstances and who is not a member or an employee of the firm acting for the applicant. The supervising attorney together with the sheriff, may be required to make an inventory of all items removed by the sheriff in terms of the Anton Piller order and he may be required to also file with the registrar a concise report describing the manner in which the order was complied with. The order will normally provide for retention by the sheriff of all items in his possession and may if so provided, preclude or allow inspection of those items or the making of copies thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0a15607b220e57adc5c93b06f840b5e",
+    "text": "It has been held 56 that an applicant must frequently have an opportunity to inspect the documents. An order to copy documents or photograph articles should not be allowed unless the respondent requests this as a matter of convenience or the 57 applicant can persuade the court that his rights can be protected only if copying is permitted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f4b97a1b6728ab5d3b6bde8e5421ab96",
+    "text": "The order will ordinarily direct the applicant to initiate his main action within a limited time, failing which the respondent shall be entitled to apply to court for an order directing the return of the items so removed and costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4827dc520d1ec19fa862a2a554cbc4a9",
+    "text": "The order may inform the respondent of the right to have the order reconsidered in terms of rule 6(12)(c) or to contest the 58 making final of the order by calling upon the respondent to exercise these rights by a specified date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64ae69c1242674f277a2e5a7329ee0bf",
+    "text": "It is not uncommon for an applicant, in obtaining the order, to give a ‘damages undertaking’ in more or less the following terms:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fae5472754a36f8ba46e26c92483729b",
+    "text": "‘(a) The applicant will compensate the respondent for any damage caused to the respondent by anyone exceeding the terms of this order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf",
+      "parent_id": "c636c021a8f58bcba751b5c824ba0878"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fd05c94cadde459b22c03bd090b8be07",
+    "text": "RS 24, 2024, D8-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "961e20d4df27d31e8a6659fe30366d81",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d2f76da4872f4af5ab37f3bd83a896a5",
+    "text": "Downloaded: Mon Feb 17 2025 11:26:40 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "89a9db6eed27e154cf8f16f050e872cc",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "D8.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5fce867fe4d39b56dd4cfb5776c696a8",
+    "text": "(b) The applicant will compensate the respondent for any damage caused to the respondent by reason of the execution of 59 this order should this order subsequently be set aside.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8be4e5d088f9442304d564ce2f294c6a",
+    "text": "6 Execution of Order",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d51ec264d0aa7cc889d7b93f1e4b032",
+    "text": "The execution of the order must be meticulous and according to the letter thereof. In the Western Cape Division of the High 60 Court, Cape Town, for example, strict rules have been laid down for the execution of the order. It is settled law that serious 61 Not irregularities in the execution of the order can render it susceptible to being discharged on a reconsideration thereof. 62 every failure to comply with the order will justify the discharge or setting aside of the order. The test is whether the 63 execution is so seriously flawed that the court should show its displeasure or disapproval by setting aside the order. A serious flaw would include conduct that could be regarded as blatantly abusive, oppressive or contemptuous, but would not be limited to conduct of such extreme nature. The more drastic and potentially harmful the remedy may be, the more closely it has to be scrutinized by the court and the more meticulously it must be applied and executed by all involved. Non-compliance with the order as far as execution is concerned may also attract a punitive costs order. Other options include the setting aside of the entire order or the setting aside of certain aspects of the execution. Where the applicant failed to serve the application before execution and thereafter failed to furnish the application until the matter was contested in court, it was held 64 that the setting aside of the order was justified.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "8be4e5d088f9442304d564ce2f294c6a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c9d79fb73d68ff09b1e7e42a878c1f4",
+    "text": "In the execution of an Anton Piller order, the sheriff will often find it difficult to identify all articles to be attached by him. He may also have difficulty in accessing information stored in a computer. For this reason the practice normally is to have forensic experts appointed to search and examine all electronic storage media in the possession of the respondent. 65",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "8be4e5d088f9442304d564ce2f294c6a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6482e017f3e8586be9dc4d8e0ef9e2bc",
+    "text": "If the court order provides for the attendance of an independent attorney to be present at the execution of the order, such attorney is to provide the court with an independent account of what happened at the execution of the court’s 66 order. Failure to do so may in appropriate circumstances result in the setting aside of the order by the court. 67",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "8be4e5d088f9442304d564ce2f294c6a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "447dda3f394fba8d0d11c32539bb3453",
+    "text": "RS 24, 2024, D8-11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "8be4e5d088f9442304d564ce2f294c6a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c41d7e4fa218cd81072d5761af0f42e4",
+    "text": "An applicant for an Anton Piller order normally gives to the court an express undertaking not to use the information obtained 68 In exceptional circumstances in terms of the order for any other purpose than that for which it was averred to be sought. 69 the breach of such an undertaking could be condoned by the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "8be4e5d088f9442304d564ce2f294c6a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4ec22fd589b4ac0a09cea7e9ed0df624",
+    "text": "7 Appeal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "878e194452c3e71375b508059d9da06c",
+    "text": "The granting of an Anton Piller order is not appealable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb90d50176c414b57aa27affe6d387fd",
+    "text": "In Van Niekerk v Van Niekerk the Supreme Court of Appeal remarked that the question of appealability of the refusal of an Anton Piller order has not yet arisen, presumably because it is settled law that the refusal, but not the granting, of interim 70 interdicts is appealable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b20f28952d286e004cb2bc17546f8bd",
+    "text": "1 [1976] 1 ALL ER 779 (CA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d183a60df838abef169960425183493f",
+    "text": "2 See, in general, Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 364C-367A; Prest Interdicts 182ff; Prest The Law & Practice of Interdicts 172-200; Erasmus ‘Anton Piller Orders in South African Practice’ (1984) 101 SALJ 324; Erasmus ‘The Anton Piller Muddle’ (1991) 108 SALJ 379; Erasmus 'Anton Piller Orders’ (1996) 113 SALJ 1; Taylor ‘Outdrawn by a USB: The Sheriff and Technology in Anton Piller Orders’ (2009) 24 SA Public Law 668; Herbstein & Van Winsen Civil Practice 1495-1518. In terms of s 83 of the Financial Markets Act 19 of 2012 a court may, in relation to any matter referred to in Chapter X of that Act, on application by the Financial Services Board, grant an interdict.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b196ecbb24139f502157d5b0bd374870",
+    "text": "3 2015 (2) SA 357 (WCC) at 367A–368B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fcb2c9f1b025f960f030aa85594fd4a8",
+    "text": "4 At 367H–368A (footnotes omitted).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "13b32e5f42450c798070da8c1c6ff030",
+    "text": "5 Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 16E–17H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57aa852df3ca886167376a19ad457014",
+    "text": "6 Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 19E; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 368C–G (where it is emphasized that the procedure is aimed at the preservation of evidence and not the search for evidence, i e a fishing expedition); Viziya Corporation v Collaborit Holdings (Pty) Ltd 2019 (3) SA 173 (SCA) at 181D–E; Interpark South Africa (Pty) Limited v Acuity On Point Solutions (Pty) Limited (unreported, GJ case no A5073/2018 dated 2 February 2021 — a decision of the full court) (the procedure is not a form of early discovery or mechanism for the applicant to determine whether it has a cause of action); Samancor Chrome Limited v Tennant Metals South Africa (Pty) Ltd (unreported, GJ case no 2021/17223 dated 25 October 2021) at paragraph [7]; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [18].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b3ed76e1d14bb904381e25f6d9f7406",
+    "text": "7 Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 19E. It was held in Dabelstein v Hildebrandt 1996 (3) SA 42 (C) that the power to grant Anton Piller orders in appropriate cases is necessary in our society and that, provided the orders granted contain adequate safeguards, the grant and execution of such orders may be justified under s 33 of the Constitution of the Republic of South Africa Act 200 of 1993. It seems well established that the Anton Piller procedure is one that is reasonable and justifiable in an open and democratic society based on human dignity, equality and freedom as contemplated in s 36 of the Constitution of the Republic of South Africa, 1996 (Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 363D–364C; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [17]; and see Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at 453F– 454C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b32afdae676d09ae0ea5e81edd156ad3",
+    "text": "8 Hall v Heyns 1991 (1) SA 381 (C) at 385C–H; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 368C; Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 173E; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [18]. See also the notes s v ‘Appeal’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8175c3340d79855d13ae0576d9e7eb6",
+    "text": "9 In Rath v Rees 2007 (1) SA 99 (C) at 107H, the reasons being that ‘it authorises access to the respondent’s premises for purposes of searching for and seizing documents and material relevant to a proposed action before an action has been instituted against the respondent’ and that ‘the application for such order is brought ex parte, without notice to the respondent, while the hearing is frequently in camera, with a view to avoiding any form of publicity which might arise should the application be brought in open court’ (at 107H–I). See also Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 362E and 363D; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [17] and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d78920eb2935fed257f0b3f2e39aa692",
+    "text": "10 Rath v Rees 2007 (1) SA 99 (C) at 108A; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [50].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8124f061ce8b70ed1bb60b65e36129d9",
+    "text": "11 See Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 363D and 363H–I and the cases there referred to; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [17] and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "69bff1210ef72bae42ce143f529f90bb",
+    "text": "12 Telefund Raisers CC v Isaacs 1998 (1) SA 521 (C) at 535C; Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 15G and 16D; Hall v Heyns 1991 (1) SA 381 (C); The MV Urgup: Owners of the MV Urgup v Western Bulk Carriers (Australia) (Pty) Ltd 1999 (3) SA 500 (C) at 509A–J and 510A–H; Van Niekerk v Van Niekerk 2008 (1) SA 76 (SCA) at 79A–B; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 362G–H; Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at 453E; Quindell Business Process Outsourcing (Pty) Ltd v Bespoke BPO (Pty) Ltd (unreported, KZD case no 9796/2015 dated 22 March 2017) at paragraph [16]; Viziya Corporation v Collaborit Holdings (Pty) Ltd 2019 (3) SA 173 (SCA) at 181D–E; Interpark South Africa (Pty) Limited v Acuity On Point Solutions (Pty) Limited (unreported, GJ case no A5073/2018 dated 2 February 2021 — a decision of the full court) (the procedure is not a form of early discovery or mechanism for the applicant to determine whether it has a cause of action); Cheickhart General Sales (Pty) Ltd v B & W Autobody Experts",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf",
+      "parent_id": "4ec22fd589b4ac0a09cea7e9ed0df624"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2507b3ff7456d62382eae6f1fae6cec1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4995288552f43a8f80ecd279e14606d5",
+    "text": "Downloaded: Mon Feb 17 2025 11:26:40 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "7b848bcf6478c09a3d7c477563041fdb",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "D8.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da94eb160d60d9789bd05febdfaea9cc",
+    "text": "CC T/A Autobody Experts (unreported, NWM case no UM 156/2020 dated 18 August 2021) at paragraphs [12] and [14]; Paul’s Homemade (Pty) Ltd v Boshoff (unreported, GJ case no 21/38141 dated 29 November 2021) at paragraphs [60]–[62] (documents seized in the execution of an Anton Piller order, which is subsequently rescinded, should not, in subsequent motion proceedings, be used by the party who brought the application for seizure absent a proper application for authorization and absent exceptional circumstances and compelling reasons being provided to a court to condone its use); Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [69]; Lasercraft Mergence (Pty) Ltd v Dreyer (unreported, GJ case no 2023-044109 dated 26 February 2024) at paragraph 15.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "71df3815ff83a78bad9acc90c2b4d34e",
+    "text": "13 Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 272–273.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "81fb3e07cbabe658714d8e89bb72175f",
+    "text": "14 Samancor Chrome Limited v Tennant Metals South Africa (Pty) Ltd (unreported, GJ case no 2021/17223 dated 25 October 2021) at paragraph [19].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "71805ede3014f5d9ab5542e8f7f2ca90",
+    "text": "15 Dabelstein v Hildebrandt 1996 (3) SA 42 (C) at 68F–69E; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "af533ee26b97de40794620cc859f0233",
+    "text": "18 July 2022) at paragraphs [34]–[35] (a case where the documents were sought to prevent a previous order being rendered nugatory).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "307149bf0f16bc5107eada2696726617",
+    "text": "16 Memory Institute SA CC t/a SA Memory Institute v Hansen 2004 (2) SA 630 (SCA) at 633E–F; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 374C–D; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [29].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b0285c7e4e7b02ad3d08dd924626ec4",
+    "text": "17 These orders are discussed in the notes s v ‘Requirements for an Anton Piller order’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "02aae7e32e30c234f1eafe41774c8f15",
+    "text": "18 Both the English and South African courts have granted this relief in a number of decisions: RCA Corporation v Reddington’s Rare Records [1974] 1 WLR 1445 (ChD), Norwich Pharmacal Co v Customs & Excise Commissioners [1974] AC 133 (HL); Colonial Government v Tatham (1902) 23 NLR 153 at 157; Stuart v Ismail 1942 AD 327 at 332. A distinction is drawn between cases in which disclosure is sought of the names of persons who would be cited in respect of a claim against an identified body and cases in which disclosure is sought of the name of a party whom the applicant is unable to identify, but against whom he may have a cause of action. See also Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 281–2; House of Jewels & Gems v Gilbert 1983 (4) SA 824 (W); Cerebos Food Corporation Ltd v Diverse Food SA (Pty) Ltd 1984 (SA) 149 (T) at 164G–168B; Krygkor Pensioenfonds v Smith 1993 (3) SA 459 (A) at 469B–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c327815de2777d01a5d485488a9d6e57",
+    "text": "19 It often happens that application for a temporary interdict is made in the same application in which an Anton Piller order is sought. In cases concerning the infringement of trademarks, orders to deliver things were granted as an alternative to an order that the respondent erase the infringing mark or deliver the goods (Adidas Sportschuhfabriken Adi Dassler KG v Harry Walt & Co (Pty) Ltd 1976 (1) SA 530 (T) at 540E–541D; Hudson & Knight (Pty) Ltd v D H Bros Industries (Pty) Ltd t/a Willowtown Oil & Cake Mills 1979 (4) SA 221 (N) at 227H). There are, however, conflicting judgments with regard to the competency of the court to make this order in general (see Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 284D–286A as opposed to Cerebos Food Corporation Ltd v Diverse Foods SA (Pty) Ltd 1984 (4) SA 149 (T) at 173G–174A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f0f4014a1181d4f815da1936546609e",
+    "text": "20 See Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 362E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b5ada7e1c9455cd91b5de6637445b0e",
+    "text": "21 The requirement of a prima facie cause of action is simply that an applicant should show no more than that there is evidence which, if accepted, will establish a cause of action (Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at 454C–E and the cases there referred to; Samancor Chrome Limited v Tennant Metals South Africa (Pty) Ltd (unreported, GJ case no 2021/17223 dated 25 October 2021) at paragraph [8]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68ece502ee98368b0f988ed28a59ef67",
+    "text": "22 Universal City Studios Inc v Network Video (Pty) Ltd 1986 (2) SA 734 (A) at 755A–C; Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 15G–I; Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at 453B–E. The requirements are also summarized in Ex parte Dyanti 1989 (4) SA 826 (Ck) at 836A–G; Rhino Hotel & Resort (Pty) Ltd v Forbes 2000 (1) SA 1180 (W) at 1182G; Pohlman v Van Schalkwyk 2001 (1) SA 690 (E) at 696C–F; Rath v Rees 2007 (1) SA 99 (C) at 109A–C; Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 442G–I; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 362I–363B; Viziya Corporation v Collaborit Holdings (Pty) Ltd 2019 (3) SA 173 (SCA) at 181A–D. See also 2003 (September) De Rebus 26; Frangos v Corpcapital Ltd 2004 (2) SA 643 (T); Cheickhart General Sales (Pty) Ltd v B & W Autobody Experts CC T/A Autobody Experts (unreported, NWM case no UM 156/2020 dated 18 August 2021) at paragraphs [12]–[13]; Samancor Chrome Limited v Tennant Metals South Africa (Pty) Ltd (unreported, GJ case no 2021/17223 dated 25 October 2021) at paragraph [7]; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [16]; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [27]; Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [58]; Lasercraft Mergence (Pty) Ltd v Dreyer (unreported, GJ case no 2023-044109 dated 26 February 2024) at paragraph 2.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "737e5503668e612bb843b14a09977aa7",
+    "text": "23 The applicant must make out a prima facie case against the respondent irrespective of the evidence which may or may not be found in the possession of the respondent (Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 272D–G; Universal City Studios Inc & Others v Network Video (Pty) Ltd 1986 (2) SA 734 (A) at 755A–B; Hall v Heyns 1991 (1) SA 381 (C) at 388F–389G; Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 15G–H; Samancor Chrome Limited v Tennant Metals South Africa (Pty) Ltd (unreported, GJ case no 2021/17223 dated 25 October 2021) at paragraph [19]; Lasercraft Mergence (Pty) Ltd v Dreyer (unreported, GJ case no 2023-044109 dated 26 February 2024) at paragraphs 19–21; Network for Animals NPC v Dewah (unreported, GJ case no 2024/050757 dated 16 May 2024) at paragraph 5). In considering whether an applicant in an Anton Piller application who has the condictio furtiva or another delictual remedy to its disposal, succeeds in establishing prima facie that it has a cause of action, the court needs to determine whether the facts that the applicant places before the court provide reasonable grounds for establishing the elements of delictual liability, inclusive of fault or mala fides, if the latter is required (Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [64]). In Rhino Hotel & Resort (Pty) Ltd v Forbes 2000 (1) SA 1180 (W) it was held (at 1184J–1185C) that actions for defamation ought not to give rise to Anton Piller applications.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f7ef3a0e958ec7405f80d68ec43ebd8",
+    "text": "24 The specificity requirement implicitly requires that the order ultimately granted must not be overly wide or stretch beyond what is reasonable and lawful. An overly wide order is not competent (Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at paragraph [29]; Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [71]). The specificity requirement, however, does not prohibit search and seizure orders for specific classes of documents (Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at paragraph [36]). In Non-Detonating Solutions the Supreme Court of Appeal expressly stated that the requirement does not mean that ‘only individual documents identified by, for example, date or origin are properly liable to be attached’ (at paragraph [39]); and see Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [73]. The applicant must produce clear evidence that the respondent has the items in his possession or that there are good grounds for believing so; a respondent should not be exposed to attachment and removal of his documents on grounds that are speculative or fail clearly to make out a case for relief (Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 272–273; Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 15H–I; Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at paragraph [36]; Viziya Corporation v Collaborit Holdings (Pty) Ltd 2019 (3) SA 173 (SCA) at 185F–G; Samancor Chrome Limited v Tennant Metals South Africa (Pty) Ltd (unreported, GJ case no 2021/17223 dated 25 October 2021) at paragraph [19]; Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [72]; Lasercraft Mergence (Pty) Ltd v Dreyer (unreported, GJ case no 2023-044109 dated 26 February 2024) at paragraph 14). The requirement of specificity fulfils a vital function (Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [18]) (a case where the rule nisi was discharged for want of the specificity requirement because the nature of the documentation subject to the order was far too widely stated).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4387cfc2270cbebc6a18543b543ace15",
+    "text": "25 This means evidence of great importance to the applicant’s case (Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 15J–16A). The test posed in Ex parte Matshini 1986 (3) SA 605 (E) at 613A–C, that the evidence must be ‘essential’ or ‘absolutely necessary’, poses too stringent a test (Sun World International Inc v Unifruco Ltd 1998 (3) SA 151 (C) 151 at 169G–170B). In Lourenco v Ferela (Pty) Ltd (No 1) 1998 (3) SA 281 (T) the applicant failed to satisfy this requirement (see at 299E–I). So too in RKSA DC (Pty) Ltd v Unique Colours (Pty) Ltd (unreported, GP case no 53194/2021) dated 28 September 2023) at paragraphs [38]–[44] and in Network for Animals NPC v Dewah (unreported, GJ case no 2024/050757 dated 16 May 2024) at paragraphs 7–13. In Viziya Corporation v Collaborit Holdings (Pty) Ltd 2019 (3) SA 173 (SCA) it was held (at 185F–G) that if a party can obtain information on discovery it means that an Anton Piller order is not needed by such party, unless it shows that what would be discoverable would be concealed or destroyed, thereby defeating the purpose of discovery. See also Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraphs [24]– [25].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c23a53ac4f9764d62f527d5cdf01b99",
+    "text": "26 The seeking of an order to authorize the search for and attachment of property in the possession of a respondent when the applicant has a real or personal right to it (i e a right under the common law, for example ownership or a right to delivery flowing from a contract, or a statutory right) is not a ‘true Anton Piller remedy’ as, for many years, our courts have granted interim attachment orders where the plaintiff alleged an existing right in a thing and the only way in which that thing could be preserved or irreparable harm be prevented would be by the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8c686c8f9cd2cf32736a03165d3fd255",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1e1e12a8f44a971fabf7ffa777ed6b96",
+    "text": "Downloaded: Mon Feb 17 2025 11:26:40 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "89a9db6eed27e154cf8f16f050e872cc",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "D8.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c9d2d841373544b02a7620372d0b74f6",
+    "text": "attachment thereof pendente lite (Cerebos Food Corporation Ltd v Diverse Foods SA (Pty) Ltd 1984 (4) SA 149 (T) at 164C–F; Universal City",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a9c1c8587a0908bd017f18c48b08ed89",
+    "text": "Studios Inc v Network Video (Pty) Ltd 1986 (2) SA 734 (A) at 751E–F; Shoba v Officer Commanding, Temporary Police Camp, Wagendrift",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9839f552ff0c7b026f44bdcccd232431",
+    "text": "Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 8B–C). In",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c67ec5f47d3cc46504cde678afb268b5",
+    "text": "practice, however, it is usually characterized by the name ‘Anton Piller’ (Universal City Studios Inc v Network Video (Pty) Ltd 1986 (2) SA 734",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5f0a159986c70936f5247a1337b620e2",
+    "text": "(A) at 747C). In Eiser v Vuna Health Care (Pty) Ltd 1998 (3) SA 139 (W) Wunsh J extended the return day of an order granted ex parte by",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cb3c581c06dea2d916a169863934e90c",
+    "text": "Cameron J, which included the following paragraphs:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5713f23b6fe204b4a4e1865f1b5b4cea",
+    "text": "‘6.1 All listed items or copies thereof taken into possession by the sheriff pursuant to this order, shall be retained by him until the Court orders otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ffd314382a7de2d23db62cd98cafedca",
+    "text": "6.2 The applicants and their attorneys are hereby authorised to inspect the items taken into possession by the sheriff and shall be entitled to make copies of such items, as are necessary for attachment to any summons or founding papers in the contemplated proceedings.’ Wunsh J summarized the background to the application as follows (at 141C–F):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3084a32f4716957f382a84b7e12cee2d",
+    "text": "‘The background to the application is that the first applicant, to whom I refer as Eiser, concluded a written agreement with the first",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5bdd129b0f9002cd89da1400cd081a5c",
+    "text": "respondent, which I shall call “the Vuna company”, in terms of which they became equal shareholders of the second applicant, which I shall",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9bd4e091c9c0d5f93c7f4003b7abec5f",
+    "text": "call “the company”. The third and fourth respondents were appointed as directors of the company. The company entered into negotiations",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "32c77b8afc79f7203a65b71888f12eaf",
+    "text": "with Sanlam Health Care (Pty) Ltd for the creation of a joint venture for managed health care. In his founding affidavit Eiser alleged that, in",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "284800d500535211aeb52ebc901209a9",
+    "text": "breach of their respective contractual and common-law fiduciary obligations, the Vuna company entered into a joint venture with Sanlam",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ca01475badd87c8f19cc864beb6b823f",
+    "text": "Health Care (Pty) Ltd, also for managed health care, for which the second respondent is the corporate vehicle; the third and fourth",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b446ea7723d30b97f57440e0496a0fa6",
+    "text": "respondents have, while still directors of the company, become directors of the second respondent and the Vuna company and the second",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "43bdc5ad00f175354dfb9c661c577eeb",
+    "text": "respondent are utilising confidential information obtained from the applicants for the purpose of the second respondent’s business. Eiser said",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cf2e79c90a181e4eda0e4d97a6492bfd",
+    "text": "that the applicants intend to institute proceedings against the respondents for relief.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c700a11104387eebcf134b17b816bd5c",
+    "text": "In Kebble v Wellesley-Wood 2004 (5) SA 274 (W) Schwartzman J, with reference to the Eiser case, stated (at 280C–F):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e278f0ba7a26686273670e1c572f9deb",
+    "text": "‘The Eiser decision had to do with Anton Piller relief in which the applicant was asserting a real right in that it was alleged that the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a58064fa2aee5fe0098a3fdf075f9e0b",
+    "text": "respondents were making use of its confidential information for the purpose of the respondents’ business (at 141D–F). In such a case, where",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "521f3215eed8833faa9e1891abd480d9",
+    "text": "a real right is being asserted, it is conceivable that there could be a case in which an applicant may need to make copies of attached",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d9aab4d666adfea4eb62ae9bb3c7f716",
+    "text": "documents for the purpose of annexing them to its summons or founding affidavit in an action to establish the unlawful use of its property. If",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "01c3068520502cc4402a88e27ea0f808",
+    "text": "such right is to be sought, the reason or need to copy the documents should be set out in the applicant’s founding affidavit.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "11cc28d8c073feefc387e221d6fc083b",
+    "text": "It is submitted that the Eiser case did not involve ‘a true Anton Piller remedy’ and that the reference thereto by Schwartzman J in the Kebble",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9b07e31c18b9d2c75f70d001e2cb3d6d",
+    "text": "case was merely a characterization of the relief as pointed out by the Appellate Division in Universal City Studios Inc v Network Video (Pty)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ec03cfd9f3f9a15d26750bbe04f3db92",
+    "text": "Ltd (supra). Be that as it may, of importance is the fact that it has been held that in an appropriate case where a real or personal right is",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dc63a8bf284d633269fc6723b3587a74",
+    "text": "being asserted, an applicant and its attorney could be authorized to inspect the items taken into possession by the sheriff and to make copies",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cf571df76be02a97d33afc8e42587618",
+    "text": "of such items as are necessary for attachment to any summons or founding papers in the proceedings contemplated by the applicant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70336bc33999755115ca44106afb6691",
+    "text": "27 There must be ‘a grave danger’ and ‘a real possibility that documents will be destroyed’ (Hall v Heyns 1991 (1) SA 381 (C) at 390D). See also Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 15I–J where it is stated that there must be ‘real and well-founded apprehension that [the] evidence may be hidden or destroyed or in some manner be spirited away by the time the case comes to trial or to the stage of discovery’; Telefund Raisers CC v Isaacs 1998 (1) SA 521 (C) at 535F–G; Richards Bay Titatnium (Pty) Ltd v Cosco Shipping Logistics Africa (Pty) Ltd (unreported, GP case no 020911/ 2023 dated 2 June 2023) at paragraph [74]. In Lourenco v Ferela (Pty) Ltd (No 1) 1998 (3) SA 281 (T) it was held (at 299I–J) that in the absence of an allegation that the evidence may be hidden or destroyed or spirited away, there was no evidence to justify a reasonable apprehension. In Network for Animals NPC v Dewah (unreported, GJ case no 2024/050757 dated 16 May 2024) the applicant failed to satisfy this requirement (at paragraphs 14–16).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9157ecbe95796232517549ebbbf7f680",
+    "text": "28 Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 272H. See also Krygkor Pensioenfonds v Smith 1993 (3) SA 459 (A) at 469E–470H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e18fbd75f0406a2b34690ff5323a5ea6",
+    "text": "29 Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 16B–C; Rath v Rees 2007 (1) SA 99 (C) at 109G–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10cf69f62fb6f605ca270d5458f4d616",
+    "text": "30 Sun World International Inc v Unifruco Ltd 1998 (3) SA 151 (C) at 161I–162B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d04246da619e3001f80c51ea1ee1c2bf",
+    "text": "31 Section 35 of the General Law Amendment Act 62 of 1955 precludes the issue of a rule nisi operating as an interlocutory interdict against the government, the SAR&H, any provincial administration, Minister, Premier, or other officer of the government or an administration in his official capacity, unless notice of the intention to apply for such a rule, accompanied by copies of the application and of the affidavits which are intended to be used in support thereof, was served at least 72 hours or a lesser period as the court may in all the circumstances of the case consider reasonable, before the time mentioned in the notice for the hearing of the application. The section was considered in Cassim v The Master 1960 (2) SA 347 (N); Freinkel v Scheepers 1961 (1) SA 271 (W); Maharaj Brothers v Pieterse Bros Construction (Pty) Ltd and Another 1961 (2) SA 232 (N); Mkhize v Swemmer 1967 (1) SA 186 (D). In Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) it was held (at 19D–E) that an Anton Piller order aimed at the preservation of evidence cannot properly be regarded as a rule nisi operating as an interlocutory interdict for the purposes of s 35. Where there exists no statutory bar, the court will always retain a discretion whether or not to grant this relief (Roamer Watch Co SA v African Textile Distributors also t/a M K Patel Wholesale Merchants and Direct Importers 1980 (2) SA 254 (W) at 273B; Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 16B–D and 17E–I). See also Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1fafbb009aa8f7564b904b05852def2d",
+    "text": "32 When the applicant wishes the application to be heard in camera he should, if required by practice in certain divisions of the High Court, furnish a certificate by counsel that in counsel’s opinion special circumstances render it necessary to hear the matter in camera. This rule was suggested in Cerebos Food Corporation Ltd v Diverse Foods SA (Pty) Ltd 1984 (4) SA 149 (T) at 159E–H and was approved in Universal City Studios Inc v Network Video (Pty) Ltd 1986 (2) SA 734 (A) at 755E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5cb98de015e6be90f6d6a8666d9964d7",
+    "text": "33 Shoba v Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga v Officer Commanding, South African Police Murder and Robbery Unit, Pietermaritzburg 1995 (4) SA 1 (A) at 16B–C; Non-Detonating Solutions (Pty) Ltd v Durie 2016 (3) SA 445 (SCA) at 453F– 454C. See also Dabelstein v Hildebrandt 1996 (3) SA 42 (C) at 66C–E; Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f02c4e6faa0609ca3ad71b6285665010",
+    "text": "34 Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 170H–171D and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2bad77c4a6a8398d4bc0b5497cc612f2",
+    "text": "35 Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443D; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [50]. See also the notes to rule 6 s v ‘Every application brought ex parte’ in Part D1 above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f72c5e5e327081ced1c929d3a39dd56",
+    "text": "36 Frangos v Corpcapital Ltd 2004 (2) SA 643 (T) at 649C–G; Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443A–B; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 373C–D; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [50]. See also Quindell Business Process Outsourcing (Pty) Ltd v Bespoke BPO (Pty) Ltd (unreported, KZD case no 9796/2015 dated 22 March 2017) at paragraphs [20]–[38]. See also the notes to rule 6 s v ‘Every application brought ex parte’ in Part D1 above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d338bdba4089e40f385e090e1250c8f",
+    "text": "37 Quindell Business Process Outsourcing (Pty) Ltd v Bespoke BPO (Pty) Ltd (unreported, KZD case no 9796/2015 dated 22 March 2017) at paragraph [33].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e93470bac84b2e659fa2c062ecb21972",
+    "text": "38 Enterprise Connection Cape (Pty) Ltd v Clarotech Consultants [2001] 3 All SA 194 (C); Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443B–C; Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 374D–375H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2f45ce18e1bc297a80d3b10ae4e12e5f",
+    "text": "39 Frangos v Corpcapital Ltd 2004 (2) SA 643 (T) at 649C–D; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [47] footnote [19].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b0f84169af09d82f1c9e6be5eac99c6",
+    "text": "40 Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 171H–I, followed in Air and Allied Technologies CC v Advanced Air Control Technologies (Pty) Ltd (unreported, GJ case no 25911/2017 dated 28 February 2020) at paragraph [40]; Cheickhart General Sales (Pty) Ltd v B & W Autobody Experts CC T/A Autobody Experts (unreported, NWM case no UM 156/2020 dated 18 August 2021) at paragraphs [16]–[21].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e178ec79b28147996dd84194acb109c9",
+    "text": "41 At 172C–D and 174D; Cheickhart General Sales (Pty) Ltd v B & W Autobody Experts CC T/A Autobody Experts (unreported, NWM case no UM 156/2020 dated 18 August 2021) at paragraph [18].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "db92644bde0c5a4e73f34db896c3e215",
+    "text": "42 See also Air and Allied Technologies CC v Advanced Air Control Technologies (Pty) Ltd (unreported, GJ case no 25911/2017 dated 28 February 2020) at paragraph [40]; Cheickhart General Sales (Pty) Ltd v B & W Autobody Experts CC T/A Autobody Experts (unreported, NWM case no UM 156/2020 dated 18 August 2021) at paragraph [21].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4cbf8061f6254cdead297a74c1325319",
+    "text": "43 Unreported, GJ case no A5073/2018 dated 2 February 2021.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd3e6903106bbfe454f422afd3898b89",
+    "text": "44 At paragraph [4].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e36979b59f15211c3a3842ab91bf2f1",
+    "text": "45 The Reclamation Group (Pty) Ltd v Smit 2004 (1) SA 215 (SE) at 222A–D, followed and applied in Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 171I–J and 173I–174D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2649fc5961be55095abe8af538ced3e2",
+    "text": "46 Sun World International Inc v Unifruco Ltd 1998 (3) SA 151 (C) at 162C–163C, not followed in Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "43c00040fed4067d2004806a698db1b4",
+    "text": "47 Cargo Laden and Lately Laden on Board the MV Thalassini Argi v MV Dimitris 1989 (3) SA 820 (A) at 831H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b606cfea4af0b789d6b6e0f07ee01066",
+    "text": "48 Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 172C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b4c91805119bcc242825d0c8d1bb5ac0",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c0e56a70ccecec6460f56c755d57984e",
+    "text": "Downloaded: Mon Feb 17 2025 11:26:40 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "7b848bcf6478c09a3d7c477563041fdb",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "D8.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c8782647852dc23f6be952ab1dc78b5",
+    "text": "49 Rhino Hotel & Resort (Pty) Ltd v Forbes 2000 (1) SA 1180 (W) at 1185A–B; Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "85298445e9c87808b1df145cf6e72a46",
+    "text": "S K",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f44b6dd1cde92d88a489b80e70812b90",
+    "text": "50 By Wunsh J in Eiser v Vuna Health Care (Pty) Ltd 1998 (3) SA 139 (W) at 150I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e4faea078251e0e5fb56be7ab0329e80",
+    "text": "51 Eiser v Vuna Health Care (Pty) Ltd 1998 (3) SA 139 (W) at 150I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b340b9397d009da31cd9f979a45254b",
+    "text": "52 Sun World International Inc v Unifruco Ltd 1998 (3) SA 151 (C) at 174D–E; Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a99e0f619d24bb5918ca39eb8423fbb3",
+    "text": "53 Memory Institute SA CC t/a SA Memory Institute v Hansen 2004 (2) SA 630 (SCA) at 633F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2182e89526299007f288da2271046158",
+    "text": "54 Enterprise Connection Cape (Pty) Ltd v Clarotech Consultants [2001] 3 All SA 194 (C) at 205a–h; Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 443E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3bd5eddf32d973995ad0e7669e05d764",
+    "text": "55 Memory Institute SA CC t/a SA Memory Institute v Hansen 2004 (2) SA 630 (SCA) at 633F. In Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 371E–F it is stated that it is ‘practice’ for the service and execution of an Anton Piller order to be done in the presence of ‘a supervising attorney’ and that the requirement that there be ‘an independent supervising attorney is one of the built-in protections against abuse’ of the procedure. See also Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 164H–I; Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [11]. In Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) the ex parte order provided for access to the premises by the sheriff, the supervising attorney, the applicants’ auditor, any partner or professional assistant of the applicants’ attorney, and a computer operator. On the return date the court found that there was no impropriety in allowing the applicants’ attorney, auditor and computer expert to be present during the execution (at paragraph [64]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c9e30d6ee91ce08e63f0eaa80f984e06",
+    "text": "56 Eiser v Vuna Health Care (Pty) Ltd 1998 (3) SA 139 (W) at 148H–I. The court noted, without deciding, that the need to make copies may arise. It was argued (at 149F–H) that the right to copy can generally be dealt with more appropriately after the respondent has had an opportunity to be heard, but before the applicant is required to institute its substantive action or application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "561cf288a99ae1b3544eb24665ecc1a8",
+    "text": "57 Hall v Heyns 1991 (1) SA 381 (C) at 389H–390B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47b7a16a8f07e1608a91c97758b659b5",
+    "text": "58 Sun World International Inc v Unifruco Ltd 1998 (3) SA 151 (C) at 161I–162B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3c1c95de1a68aa0cbda475d9613cebe8",
+    "text": "59 For a discussion of the nature, scope and enforcement of such an undertaking, in the context of an exception, see Pathways Holdings (Pty) Limited v Ribeiro (unreported, GJ case no 2022/6747 dated 5 June 2024).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ba10508d4b3e55ebe1563321eac9053",
+    "text": "60 See paragraph 35 of the Consolidated Practice Notes of that division of the High Court in Volume 3, Part N1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5401cbae323afe0dd933742fdc012dae",
+    "text": "61 Audio Vehicle Systems v Whitfield 2007 (1) SA 434 (C) at 444G–445B and 453F–G; Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 167H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "398a7c207490779d68a79868af26c068",
+    "text": "62 See, for example, Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraphs [66]–[84] and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd4c4084f6484198ba05532dfa7f63df",
+    "text": "63 Retail Apparel (Pty) Ltd v Ensemble Trading 2243 CC 2001 (4) SA 228 (T) at 233I–234F; Audio Vehicle Systems v Whitfield 2007 (1) SA",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2ee745cdff8fb9e8618b6f61b5e8fd20",
+    "text": "434 (C) at 443E–G; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [69].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b4b751f21ce29041127194009a3e79e0",
+    "text": "64 Retail Apparel (Pty) Ltd v Ensemble Trading 2243 CC 2001 (4) SA 228 (T) at 235D–I; 236C–E and 237F–G; Van Der Merwe v Van Wyk Auditors (unreported, GP case no 48149/2021 dated 18 July 2022) at paragraph [69].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "501ee735d78503e5ebc10983984b268e",
+    "text": "65 Cf Friedshelf 1509 (Pty) Ltd t/a RTT Group v Kalianji 2015 (4) SA 163 (GJ) at 164H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d371297ffe51a04510ffe2597c74b21",
+    "text": "66 The presence of an independent supervising attorney is one of the in-built protections against abuse of the Anton Piller procedure and is intended to afford a measure of protection to the party who is subject to the invasiveness of a search and seizure order. In the discharge of his functions in the Anton Piller procedure a supervising attorney acts solely in the capacity of an officer of the court (Cratos Capital (Pty) Ltd v Zimri Investments CC (unreported, WCC case no 20968/2021 dated 24 May 2022) at paragraph [11]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "66164e5d2271cf8c39cd16bddf9f59e3",
+    "text": "67 Retail Apparel (Pty) Ltd v Ensemble Trading 2243 CC 2001 (4) SA 228 (T) at 233I–234F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1723a344ddeed05dae58a1362590678d",
+    "text": "68 In Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 379F–G the undertaking was found to be an implied one.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "09d94a4848a1f1e4af486926886b1e46",
+    "text": "69 Mathias International Ltd v Baillache 2015 (2) SA 357 (WCC) at 381B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fbe156088d248bcaa4a21e46a5d6dbbd",
+    "text": "70 2008 (1) SA 76 (SCA) at 78G–I. In Lourenco v Ferela (Pty) Ltd (No 2) 1998 (3) SA 302 (T) it was held (at 309B–310D) that an Anton Piller order was purely interlocutory and that the refusal of such relief did not have the attributes of a judgment which is appealable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e04ccd8d23fb8e30d349052af77f0879",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ff3bbf53980ff65edcc6e1d8447ec823",
+    "text": "Downloaded: Mon Feb 17 2025 11:26:40 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "D8.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "89a9db6eed27e154cf8f16f050e872cc",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "D8.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

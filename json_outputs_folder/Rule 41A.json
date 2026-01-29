@@ -1,0 +1,1514 @@
+[
+  {
+    "type": "Title",
+    "element_id": "68ea423e5ddc68e431ddd9f6e1e1b178",
+    "text": "41A Mediation as a dispute resolution mechanism",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "e2204f18879a759f2203e371f5e568a9",
+    "text": "RS 23, 2024, D1 Rule 41A-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6eaa526837f5113a5f922a63509c78a8",
+    "text": "(1) In this rule —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2552584009ddbb9fba3f11378f46f842",
+    "text": "‘dispute’ means the subject matter of litigation between parties, or an aspect thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fa3dc0bfcc2b99feb9d342fb6cf74359",
+    "text": "‘mediation’ means a voluntary process entered into by agreement between the parties to a dispute, in which an impartial and independent person, the mediator, assists the parties to either resolve the dispute between them, or identify issues upon which agreement can be reached, or explore areas of compromise, or generate options to resolve the dispute, or clarify priorities, by facilitating discussions between the parties and assisting them in their negotiations to resolve the dispute.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd1cbc5136a8eb882844670c5a6208e2",
+    "text": "(2)(a) In every new action or application proceeding, the plaintiff or applicant shall, together with the summons or combined summons or notice of motion, serve on each defendant or respondent a notice indicating whether such plaintiff or applicant agrees to or opposes referral of the dispute to mediation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3035000ee19e80c55fe2f60d13c66a2e",
+    "text": "(b) A defendant or respondent shall, when delivering a notice of intention to defend or a notice of intention to oppose, or at any time thereafter, but not later than the delivery of a plea or answering affidavit, serve on each plaintiff or applicant or the plaintiff’s or applicant’s attorneys, a notice indicating whether such defendant or respondent agrees to or opposes referral of the dispute to mediation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "33243beff85a81d73d69e420f85852ab",
+    "text": "(c) The notices referred to in paragraphs (a) and (b) shall be substantially in accordance with Form 27 of the First Schedule and shall clearly and concisely indicate the reasons for such party’s belief that the dispute is or is not capable of being mediated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0a12fa43a5dff3a31d35cf77e2f7f0f1",
+    "text": "(d) Subject to the provisions of subrule 9(b) [sic] the notices referred to in this subrule shall be without prejudice and shall not be filed with the registrar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4a80e75fd05dba4117725d1fc9e4714",
+    "text": "[Paragraph (d) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3a4bad55dd6bcbb8081f21332e280923",
+    "text": "(3)(a) Notwithstanding the provisions of subrule (2), the parties may at any stage before judgment, agree to refer the dispute between them to mediation: Provided that where the trial or opposed application has commenced the parties shall obtain the leave of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "38652d3d88ada070ea0b23d115cb2c8f",
+    "text": "(b) A Judge, or a Case Management Judge referred to in rule 37A or the court may at any stage before judgment direct the parties to consider referral of a dispute to mediation, whereupon the parties may agree to refer the dispute to mediation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8049ef3456dbd3e8c9459982f4b15221",
+    "text": "(4) Where a dispute is referred to mediation —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0dbc92b2e5e875bc084e40e82d228a68",
+    "text": "(a) the parties shall deliver a joint signed minute recording their election to refer the dispute to mediation;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fb0bded68ca7a0fb95d3d4ee6992f50b",
+    "text": "(b) the parties shall prior to the commencement of mediation proceedings enter into an agreement to mediate;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9f33de23d5c6eefb2bec1bbff194158",
+    "text": "(c) the time limits prescribed by the Rules for the delivery of pleadings and notices and the filing of affidavits or the taking of any step shall be suspended for every party to the dispute from the date of signature of the minute referred to in paragraph (a) to the time of conclusion of mediation: Provided that any party to the proceedings who considers that the suspension of the prescribed time",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "737ca9a76326845ccfc04518077c9376",
+    "text": "RS 23, 2024, D1 Rule 41A-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "812fc6c7317609d8db873f7c5ed851c0",
+    "text": "limits is being abused, may apply to the court for the upliftment of the suspension of the prescribed time limits; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c8a508d2a8b9c51a06dbbd5af726f95a",
+    "text": "(d) the process of mediation shall be concluded within 30 days from the date of signature of the minute referred to in paragraph (a): Provided that a Judge or the court may on good cause shown by the parties extend such time period for completion of the mediation session.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30307132b7fcc07da85b64354fb5dee4",
+    "text": "(5)(a) In proceedings where there are multiple parties some of whom are agreeable to mediation and some of whom are not, parties who are agreeable to mediation may proceed to mediation notwithstanding any other party’s refusal to mediate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d24d693b4e33a54c82f20383903d4810",
+    "text": "(b) The time limits prescribed for the delivery of pleadings and notices and the filing of affidavits or the taking of any step shall be suspended for every party from the date of signature of the minute referred to in subrule (4)(a) to the time of conclusion of mediation by the parties who have elected to mediate: Provided that any party to the proceedings who considers that such suspension of time limits is being abused, may apply to the court for the upliftment of such suspension.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d4ab21fcacda2c78adbb3e5bd45950ce",
+    "text": "(c) In any matter where there are multiple issues, the parties may agree that some issues be referred to mediation and that the issues remaining in dispute may proceed to litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd02e5536613e1d71b6d7d4aff3c9625",
+    "text": "(d) If any issue remains in dispute after mediation, the parties may proceed to litigation on such issue in dispute.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e24560475e45479cb8e1ff50ac60aaa1",
+    "text": "(6) Except as provided by law, or discoverable in terms of the Rules or agreed between the parties, all communications and disclosures, whether oral or written, made at mediation proceedings shall be confidential and inadmissible in evidence.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0d5f167d4812bca8e0fe6e49a711ff74",
+    "text": "(7)(a) Upon conclusion of mediation the parties who engaged in mediation shall inform the registrar and all other parties by notice that mediation has been completed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41c94ab274e888088d7217feb241c8fc",
+    "text": "(b) Notwithstanding the failure of parties who have engaged in mediation to deliver the notice referred to in paragraph (a), the suspension of the time limits referred to in subrule (4)(c) shall lapse unless a Judge or a court has extended the time limit and notice thereof has been given to all parties to the proceedings within 5 days of such order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "feb028e42a5df34c0d7531acd887f464",
+    "text": "(8)(a) Mediation shall be deemed to be completed within 30 days from the date of signature of the joint minute referred to in subrule (4)(a), from which date the suspension of the time limits prescribed for the delivery of pleadings and notices and the filing of affidavits or the taking of any step referred to in subrule (4)(c) shall lapse: Provided that where mediation is completed before the aforesaid period of 30 days, the parties who engaged in mediation shall deliver a notice contemplated in subrule (7) indicating that mediation has been completed.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "32d1bb3830107ad085a559d9f492e6b5",
+    "text": "(b) The parties who engaged in mediation and the mediator who conducted the mediation shall within five days of the conclusion of mediation, issue a joint minute indicating —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ba2f3795c659eec22448e474fbbac2ff",
+    "text": "(i) whether full or partial settlement was reached or whether mediation was not successful; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dad26ea216758efe9a0890eec99059b1",
+    "text": "RS 23, 2024, D1 Rule 41A-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56d450979139b5d30e9f9580916096f6",
+    "text": "(ii) the issues upon which agreement was reached and which do not require hearing by the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56232fcc85f77d1e560203676c145bc9",
+    "text": "(c) It shall be the joint responsibility of the parties who engaged in mediation to file with the registrar, the minute referred to in paragraph (b).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5f953715ea8281d206e123c21e06c70f",
+    "text": "(d) No offer or tender made without prejudice in terms of this subrule shall be disclosed to the court at any time before judgment has been given.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4fc89102005860a14879986fb1b3cec9",
+    "text": "(e) Where the parties have reached settlement at mediation proceedings the provisions of rule 41 shall apply mutatis mutandis.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86237d68fc59173a2cb245e78a77dee3",
+    "text": "(9)(a) Unless the parties agree otherwise, liability for the fees of a mediator shall be borne equally by the parties participating in mediation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6bef339ae3594659fabc1a8af7fe5ab0",
+    "text": "(b) When an order for costs of the action or application is considered, the court may have regard to the notices referred to in subrule (2) or any offer or tender referred to in subrule (8)(d) and any party shall be entitled to bring such notices or offer or tender to the attention of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "deb8d0bbc4a8033452ef6543204cbb29",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "e2204f18879a759f2203e371f5e568a9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4daf8bfc73e2f2b61f5dd64acd665420",
+    "text": "Form. Notice of agreement or opposition to mediation, 27.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec7eeb5d9697ea602bc3c5c954ce48d8",
+    "text": "General. It lies outside the scope of this work to deal with the practical aspects of mediation and the academic writings on 1 whether mandatory mediation is worth following in South Africa.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "41a74a3f661bd6b5bf015b18d7a7b1ef",
+    "text": "Subrule (1): General. Rule 41A serves an important purpose of facilitating an expeditious and cost-effective resolution of a 2 dispute between litigants. See further the notes s v ‘Costs’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81828c53c44dbdfbc37b9a52abe4a444",
+    "text": "Having regard to the definitions of ‘dispute’ and ‘mediation’ in this subrule, the position seems to be as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4540acee426e4f108cb55d8ea2b05d11",
+    "text": "(a) the mediation process is an entirely voluntary process and the court cannot direct the parties to subject the subject 3 matter of the litigation between them to mediation;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26ccb79f736cb8a70f69a58dda70c89a",
+    "text": "(b) the subject matter of the litigation must be determined from the pleadings;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb9f5ef78dc0dc7e35f5f3a25465b95b",
+    "text": "(c) the parties must be in agreement as to what constitutes the subject matter of the litigation;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "917479db8cb6318532020a28bfb02f41",
+    "text": "(d) the parties must be in agreement as to whether the whole of the subject matter or only an aspect thereof will be 4 mediated upon and, if only an aspect of the subject matter, then precisely what aspect;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "deb8d0bbc4a8033452ef6543204cbb29"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e6cfad081c8544a3b56bab8112ce54f7",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9f01ea6774aed2832990eb367c8c4f4a",
+    "text": "Downloaded: Mon Feb 17 2025 11:05:53 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "f8bfb617fd82a2b09d43191eefbb5c57",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 41A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "886e8a2a283f268aeb300f98693be2d1",
+    "text": "RS 23, 2024, D1 Rule 41A-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51556ce6b2feff37897f6435625b2f24",
+    "text": "(e) the terms of the process to be adopted are those agreed upon by the parties; 5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d500559f324de6da02f2878f2f91b41a",
+    "text": "(f) the role of the mediator is limited to assisting the parties, through facilitating discussions between them and assisting them in their negotiations, to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7ab614dd7eaacf56c04bb1a0ee198799",
+    "text": "(i) resolve the dispute between them; 6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3265943258ed609909f4387ed000675",
+    "text": "(ii) identify issues in the dispute upon which agreement can be reached;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0984a2d1099c666f46211603ea331832",
+    "text": "(iii) explore areas in the dispute where compromise between the parties can be reached; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af306576350c9c6c4d432b4d3b3ac24e",
+    "text": "(iv) identify and clarify priorities regarding the dispute which should be dealt with in order of preference;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "804252c272602011f3c276883dc447ee",
+    "text": "(g) the process is confidential. 7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e57a33da8bcbcc930c01fe9b8008bd78",
+    "text": "It is clear that the role of the mediator is neither that of a referee or umpire, nor that of an adjudicator. If a deadlock arises between the parties despite all reasonable efforts by the mediator to assist the parties in resolving the dispute, the mediator must terminate the mediation. The mediation agreement contemplated in rule 41A(4)(b) must provide for such termination. In the event of such termination, the mediator and the parties must, it is submitted, record in their joint minute referred to in subrule (8)(b)(i), that the mediation was not successful.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b01c3c44a42b5617f40dcc2f7547178",
+    "text": "In terms of rule 41A(8)(a) mediation shall be deemed to be completed within 30 days from the date of signature of the joint minute recording the parties’ election to refer the dispute to mediation referred to in subrule (4)(a).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77d3ecd6955265944c6eb4d4a9b69081",
+    "text": "8 Subrule (2)(a): ‘The plaintiff or applicant shall.’ In Nomandela v Nyandeni Local Municipality the applicant’s urgent application for interim relief was met with respondent’s point in limine that the applicant failed to comply with this subrule. At 9 issue was whether the court should allow the application to proceed as it stood. It was held that subrule (2)(b) compels a respondent to also file its notice as to whether it agrees to or opposes referral of the dispute for mediation. The rule did not suggest that the respondent’s compliance was dependent on the applicant’s filing of a rule 41A(2)(a) notice. Even if it were, nowhere in the answering affidavit was it stated that the respondent would have wished to explore or not explore the mediation process, but could not do so for reason of the applicant’s non-filing. The respondent could have complied with its part of the obligation in terms of the rule or communicated its stance on mediation regardless of the applicant’s failure. The rules were meant to be complied with, but they were meant for the court, and not the other way round. While it was ideal that litigants comply with rule 41A, in the interests of justice the issues raised in the application called for immediate resolution rather than removing the matter from the roll in order for the litigants to pronounce on whether they would agree to or oppose 10 mediation. The point in limine was accordingly dismissed. In Ethypersadh v Minister of Police NO it was, however, held that 11 an application brought on an urgent basis would of necessity not be subject to the provisions of rule 41A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8101ab81db4d5cac1600bf08252deeb",
+    "text": "In Growthpoint Properties Ltd v Africa Master Blockchain Company (Pty) Ltd 12 the court observed 13 that there was no sanction for non-compliance provided for in rule 41A and that courts had thus far been disinclined to uphold technical objections of non-compliance with the rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "89869cf315d81ddda647cf86684342f2",
+    "text": "RS 23, 2024, D1 Rule 41A-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e482998bf291376a1712a75ae466b30",
+    "text": "In Sibanda v Firstrand Bank Limited 14 the court observed 15 that a party’s election not to engage in mediation does not impact upon the validity and correctness of a judgment granted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0863bd93c9531ca24a029d606f6a58f1",
+    "text": "In MEC, Department of Public Works Eastern Cape Province v Moleshe 16 it was held 17 that for a party to rely successfully on the other party’s failure to deliver a notice in terms of rule 41A(2), it would have to demonstrate that such non-compliance had created prejudice. It would be necessary to show that non-delivery of the notice had hampered the preparation and conduct of its defence, or that it had caused harm in the wider sense. The court would need to be satisfied, overall, that it would be in the interests of justice for the case to be removed from the roll.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5813c9d4a6de4529bb83ff3277f155d6",
+    "text": "In G.M.M v J.M.M 18 the court held that it was not clear how the applicant’s failure to serve a rule 41A notice prevented the respondent from using rule 41A(3)(a) to engage in mediation with the applicant. No fault could be found where the 19 respondent also took the initiative to resolve the issues at hand with the applicant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b568e3c8add5089f75db459cb7d85307",
+    "text": "In Braude NO v Blackwood-Murray 20 the plaintiff did not deliver a rule 41A(2)(a) notice together with his combined summons. During the course of the action proceedings he was ordered to furnish security for costs to the defendants. That he failed to do. The defendants then brought an application under rule 47(4) for the dismissal of the plaintiff’s claim. The plaintiff gave notice of his intention to oppose the application and simultaneously delivered a notice in terms of rule 41A(2)(a). He then sought an order for the referral of the case to mediation. The court regarded the plaintiff’s application for a referral as a 21 delaying tactic and held that even if the notice of mediation could be entertained, the court had no power to force 22 mediation upon the parties. Consequently, the court dismissed the plaintiff’s claim in the action with costs. 23",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c27537b5f98fd1ba825cd2190f7c7ccf",
+    "text": "‘Referral of the dispute to mediation.’ In terms of subrule (1) ‘dispute’ means the subject matter of litigation between parties, or an aspect thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2401e9e8c083c5fb2c005f3ffa7ff354",
+    "text": "Subrule (2)(b): ‘A defendant or respondent shall.’ See the notes to rule 41A(2)(a) s v ‘The plaintiff or applicant shall’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "24552716c99fc2db08f43e2260d72688",
+    "text": "Subrule (3)(b): ‘May at any stage before judgment direct the parties to consider referral of a dispute to mediation, whereupon the parties may agree to refer the dispute to mediation.’ The power of a judge or court under this subrule is limited to directing the parties to consider a referral of the dispute to mediation. Upon such a direction the parties may agree to refer the dispute to mediation. They are, however, not obliged to do so. In other words, the court does not have the power 24 to refer the dispute to mediation of its own accord.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "15bba93d85ba1087d86e70aa03ad2500",
+    "text": "Subrule (8)(b)(ii): ‘The issues upon which agreement was reached.’ The issues agreed upon must be clearly identified as, in terms of this subrule, they will not require hearing by the court. In terms of subrule (5)(d) the parties may proceed to litigation on any issue that remains",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f36ffbfc5740588c6917503a1a817cb6",
+    "text": "RS 23, 2024, D1 Rule 41A-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "89b70032d57868050d6246106d3f890b",
+    "text": "in dispute after mediation. Although this subrule does not require that such issues be indicated in the joint minute, it is submitted that it is advisable to indicate them in the minutes as the court will eventually have regard to the minutes. It is submitted that it is imperative that there should be clarity on the issues that the court will be called upon to decide. If separate issues are to be determined, the questions to be determined must be expressed with clarity and precision. A failure to specify an issue with clarity would impact on the ability of the court to arrive at a proper decision on the issue.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c02e4c094068fd5367805f3d3c977ca",
+    "text": "Costs. Rule 67A(2)(a) provides that in considering all relevant factors in awarding costs, the court may have regard to the provisions of rule 41A. Although the court cannot direct the parties to subject the subject matter of the litigation between them to mediation, non-compliance with rule 41A is one of the relevant factors that the court may take into account when",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf",
+      "parent_id": "886e8a2a283f268aeb300f98693be2d1"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8f5a4f428e18d9b78b4be5c6b9a4cfb1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3d8c20f8dba1f0b1c51ce6e07b25085b",
+    "text": "Downloaded: Mon Feb 17 2025 11:05:53 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "07709e56d090fe79596bfe7a7edce657",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 41A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ef85b3c034ab05c2a0be6f677a81e29",
+    "text": "awarding costs. Thus, if the parties, or any of them, for example, unreasonably refuse to agree to referral of the dispute to mediation or unreasonably oppose a referral, they run the risk of an adverse costs order being awarded against them. So too, it is submitted, if the provisions of rule 41A are employed as a delaying tactic.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "110b443a340f8ee9b37318f716c0658d",
+    "text": "1 As to which, see E Hurter ‘The shift from formal civil dispute resolution towards mandatory mediation — a cause for concern’ 2020 2 TSAR 292; T Broodryk ‘Mediation as a tool to manage and resolve class actions’ (2020) 31.2 SLR 226.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "743b81e59901034b3c5322eb3df9383d",
+    "text": "2 Nedbank Limited v Groenewald Famille Trust (unreported, FB case no 3809/2020 dated 2 June 2021) at paragraph [9] (a case where it was clear on the facts that no mediation was forthcoming); Monkwe Dietetics Services (Pty) Ltd v MEC Department of Education (unreported, LP case no 4663/2021 dated 22 February 2022) at paragraph [6] (a case where, despite the parties’ non-compliance with rule 41A, the court refused to strike the review application from the roll); Lamroo (Pty) Ltd v Theron (unreported, FB case no 3019/2023 dated 8 February 2024) at paragraph [42] (a case where the court refused to dismiss the matter as a result of the parties’ non-compliance with rule 41A — at paragraph [45]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd4b494caecd80a61861debad93cc89f",
+    "text": "3 Kalagadi Manganese (Pty) Ltd v Industrial Development Corporation of South Africa Ltd (unreported, GJ case no 2020/12468 dated 22 July 2021) at paragraph [24]; Sibanda v Firstrand Bank Limited (unreported, GJ case no 2021/1135 dated 21 November 2022) at paragraph [22]; Braude NO v Blackwood-Murray (unreported, GJ case no 42542/2018 dated 2 October 2023) at paragraph [10]; Lamroo (Pty) Ltd v Theron (unreported, FB case no 3019/2023 dated 8 February 2024) at paragraph [45]. Under rule 41A(3)(b) a judge, or a case management judge referred to in rule 37A, or the court, may at any stage before judgment direct the parties to consider referral of a dispute to mediation, whereupon the parties may agree to refer the dispute to mediation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76e3953279cb8a9b16feca3d00d9e330",
+    "text": "4 In any matter where there are multiple issues, the parties may agree that some issues be referred to mediation and that the issues remaining in dispute may proceed to litigation (rule 41A(5)(c)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f8fa62569e3361c166da1375685247d",
+    "text": "5 Kalagadi Manganese (Pty) Ltd v Industrial Development Corporation of South Africa Ltd (unreported, GJ case no 2020/12468 dated 22 July 2021) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9ae53954b3fe90a4d80f3d08a28c4e10",
+    "text": "6 Kalagadi Manganese (Pty) Ltd v Industrial Development Corporation of South Africa Ltd (unreported, GJ case no 2020/12468 dated 22 July 2021) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4c2bf63674d1651343a37202d8adcd91",
+    "text": "7 Kalagadi Manganese (Pty) Ltd v Industrial Development Corporation of South Africa Ltd (unreported, GJ case no 2020/12468 dated 22 July 2021) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "444181844187376735e7f9d4da081b27",
+    "text": "8 2021 (5) SA 619 (ECM).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10296bd953970974e6323cf75219fb18",
+    "text": "9 At paragraphs [9]–[11].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "79554d0ccee78e21a06f6185146e8618",
+    "text": "SERERERREERE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d156a70089c311d3eb7e57879dd2487",
+    "text": "10 Unreported, GP case no 2023-064414 dated 25 July 2023.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "15c3df1c5fc52250cd914702c106f547",
+    "text": "11 At paragraph [7].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f2c69c358f5f28c9dcbe339dfa9fdbf9",
+    "text": "12 Unreported, GJ case no 2020/43806 dated 26 October 2022.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b54a40f171b66a93d51ad7ce4502ade3",
+    "text": "13 At paragraph 27.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b8d2c321a9e86451d714ca3f112163a",
+    "text": "14 Unreported, GJ case no 2021/1135 dated 21 November 2022.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6101bd6d729fa745ac70241365463a8c",
+    "text": "15 At paragraph [22].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dedee734beca0264cbb57bd428d4edd4",
+    "text": "16 Unreported, ECB case no 751/2020 dated 31 January 2023.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7aab22edbeb23f50d602949003ad6281",
+    "text": "17 At paragraph [17].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98dd4619311f8d305337ea6902358ffe",
+    "text": "18 Unreported, GJ case no 2022/016326 dated 2 May 2023.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "107482beb294811d6930244eddd79c8f",
+    "text": "19 At paragraph 13.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "84dfe44b67aa0760d3e47bd1a935639f",
+    "text": "20 Unreported, GJ case no 42542/2018 dated 2 October 2023.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9aaa9545eaa04d66ab761a4e9c41944c",
+    "text": "21 At paragraph [9].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8bd74d0a9ce11095d56149b935cb34dc",
+    "text": "22 At paragraph [10].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7bb1f3f50d6eab616b7ef3dadb09efb",
+    "text": "23 At paragraph [13].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8057c4e23dd64a6e79bda35f80987697",
+    "text": "24 CS Oosthuizen Boerdery CC v Radiant Hour Ministry International (NPC) (unreported, FB case no 4261/2023 dated 30 November 2023) at paragrahs [9]–[10].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "89851c3f178c81595681f80162802c18",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d1d04f71c88960b5f32a50c8b0fabc0f",
+    "text": "Downloaded: Mon Feb 17 2025 11:05:53 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 41A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "f8bfb617fd82a2b09d43191eefbb5c57",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 41A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

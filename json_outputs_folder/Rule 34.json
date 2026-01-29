@@ -1,0 +1,2900 @@
+[
+  {
+    "type": "Title",
+    "element_id": "2d1edd9c2c3efeae633becdf2fe3023a",
+    "text": "34 Offer to settle",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dd5bcb3ef49d66bd1db76e3b69aa9d73",
+    "text": "RS 22, 2023, D1 Rule 34-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "59f1f43ec79c791407da45aa5fd82eed",
+    "text": "(1) In any action in which a sum of money is claimed, either alone or with any other relief, the defendant may at any time unconditionally or without prejudice make a written offer to settle the plaintiff’s claim. Such offer shall be signed either by the defendant himself or by his attorney if the latter has been authorised thereto in writing.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f201a2ad329e7e6d5d878e7108e7e6f",
+    "text": "(2) Where the plaintiff claims the performance of some act by the defendant, the defendant may at any time tender, either unconditionally or without prejudice, to perform such act. Unless such act must be performed by the defendant personally, he shall execute an irrevocable power of attorney authorising the performance of such act which he shall deliver to the registrar together with the tender.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cc8feefaa9a9aa9caced417800d9945",
+    "text": "(3) Any party to an action who may be ordered to contribute towards an amount for which any party to the action may be held liable, or any third party from whom relief is being claimed in terms of rule 13, may, either unconditionally or without prejudice, by way of an offer of settlement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a909e6a1f90ce0146f54cbd2249d5aba",
+    "text": "—",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fc284702c0273cc7555275e977915edc",
+    "text": "(a) make a written offer to that other party to contribute either a specific sum or in a specific proportion towards the amount to which the plaintiff may be held entitled in the action; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7d25238f138072d65e9f25a9482d875e",
+    "text": "(b) give a written indemnity to such other party, the conditions of which shall be set out fully in the offer of settlement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1a9ccacbd03aac94e11d997b9187f413",
+    "text": "(4) One of several defendants, as well as any third party from whom relief is claimed, may, either unconditionally or without prejudice, by way of an offer of settlement make a written offer to settle the plaintiff’s or defendant’s claim or tender to perform any act claimed by the plaintiff or defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e546b2883e74543a9a5e481983b5e53b",
+    "text": "(5) Notice of any offer or tender in terms of this rule shall be given to all parties to the action and shall state —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98ada089f370a395e1fcd07c05d1c1e4",
+    "text": "(a) whether the same is unconditional or without prejudice as an offer of settlement;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4529286631af388872bf0c28792b244b",
+    "text": "(b) whether it is accompanied by an offer to pay all or only part of the costs of the party to whom the offer or tender is made, and further that it shall be subject to such conditions as may be stated therein;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e40a892dfa82986d495a5b67390701fa",
+    "text": "(c) whether the offer or tender is made by way of settlement of both claim and costs or of the claim only;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6378a40784c0d4062c43c862a314c8ac",
+    "text": "(d) whether the defendant disclaims liability for the payment of costs or for part thereof, in which case the reasons for such disclaimer shall be given, and the action may then be set down on the question of costs alone.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06064e24897f70be5b60e3d05ab3c61c",
+    "text": "(6) A plaintiff or party referred to in subrule (3) may within 15 days after the receipt of the notice referred to in subrule (5), or thereafter with the written consent of the defendant or third party or order of court, on such conditions as may be considered to be fair, accept any offer or tender, whereupon the registrar, having satisfied himself that the requirements of this subrule have been complied with, shall hand over the power of attorney referred to in subrule (2) to the plaintiff or his attorney.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2441d45fac8161c7b4f941520702f50c",
+    "text": "(7) In the event of a failure to pay or to perform within 10 days after delivery of the notice of acceptance of the offer or tender, the party entitled to payment or performance may, on five days’ written notice to the party who has failed to pay or perform apply through the registrar to a judge for judgment in accordance with the offer or tender as well as for the costs of the application.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b58470f91a9d1c049aa17db61ce3325b",
+    "text": "RS 22, 2023, D1 Rule 34-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac40304078a1f879b5a5a553edae2a89",
+    "text": "(8) If notice of the acceptance of the offer or tender in terms of subrule (6) or notice in terms of subrule (7) is required to be given at an address other than that provided in rule 19(3), then it shall be given at an address, which is not a post office box or poste restante, within 25 kilometres of the office of the registrar and an electronic mail address, if available, at either of which addresses such notice shall be delivered. [Subrule (8) substituted by GN R464 of 22 June 2012 and by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "08f42acde66473a289821c9036d2b38b",
+    "text": "(9) If an offer or tender accepted in terms of this rule is not stated to be in satisfaction of a plaintiff’s claim and costs, the party to whom the offer or tender is made may apply to the court, after notice of not less than five days, for an order for costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a8f8ac74967fc779f1dd5ed7fc78c76c",
+    "text": "(10) No offer or tender in terms of this rule made without prejudice shall be disclosed to the court at any time before judgment has been given. No reference to such offer or tender shall appear on any file in the office of the registrar containing the papers in the said case.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8ebb93383798b4d432d5ba20ad5a1ed",
+    "text": "(11) The fact that an offer or tender referred to in this rule has been made may be brought to the notice of the court after judgment has been given as being relevant to the question of costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "33ef1b22e7174d4fe831c031c43f6332",
+    "text": "(12) If the court has given judgment on the question of costs in ignorance of the offer or tender and it is brought to the notice of the registrar, in writing, within five days after the date of judgment, the question of costs shall be considered afresh in the light of the offer or tender: Provided that nothing in this subrule contained shall affect the court’s discretion as to an award of costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "195e620a7b1586f0505b9c9a8fe6ec8d",
+    "text": "(13) Any party who, contrary to this rule, personally or through any person representing him, discloses such an offer or tender to the judge or the court shall be liable to have costs given against him even if he is successful in the action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f962542f122309727f3f51b8425cf76a",
+    "text": "(14) This rule shall apply mutatis mutandis where relief is claimed on motion or claim in reconvention or in terms of rule 13. [Rule 34 substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "2d1edd9c2c3efeae633becdf2fe3023a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "aa832d307646aacccb2187009f8e2eb7",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b08fb29ea5c2098c193877a9f73ad503",
+    "text": "General. The practice of paying money into court is derived from the English and not from the Roman-Dutch practice. It is 2 said to have been first introduced to avoid the hazard and difficulty of pleading a tender, which in English law is a more 1 complicated procedure than in Roman-Dutch law. The object of a payment into court was to limit costs and to act as a 3 deterrent against the prosecution by a plaintiff of unnecessary litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad0be5faabb3840585acd60288bcbc1d",
+    "text": "The practice of actual payment into court was abolished in 1987 and the rule was amended to make provision for a system of offer and tender. The offer of settlement procedure is the direct successor of the payment into court procedure, and the 4 principles and cases applicable to the latter remain applicable to the former. Both create a formal procedure for the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46ccce711fad2692cd4bb1d7a33a5acb",
+    "text": "RS 22, 2023, D1 Rule 34-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c643572ff839b6a731036204cbceab64",
+    "text": "defendant to offer to terminate or curtail the litigation, unconditionally or without prejudice, by making an offer to satisfy the plaintiff’s claim. The present procedure is less cumbersome, and involves less bureaucratic complexity, than its 5 predecessor. If the defendant fails to perform in terms of an offer or tender which has been accepted, the plaintiff is entitled 6 to apply for judgment. The rule is, therefore, designed to enable a defendant to avoid further litigation, and failing that to 7 avoid liability for the costs of such litigation. The rule is there not only to benefit a particular defendant, but for the public 8 good, generally, as well. Courts should take account of the purpose behind the rule and not give orders which undermine it. 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8ad257837bc9bda425b8e6d73f60abe",
+    "text": "Offers of settlement and tenders to perform made under rule 34 must comply with the requirements thereof. An offer of settlement made under the rule must therefore be (a) a written offer; (b) signed personally by the defendant or by the 10 defendant’s attorney if the latter has been authorized thereto in writing; and (c) comply with the provisions of subrule (5).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0f86ddd97d3ce7d0a165cb005e171559",
+    "text": "By virtue of the provisions of subrule (14), this rule applies mutatis mutandis to motion proceedings, claims in reconvention and a third party procedure under rule 13.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12bc85435036704a5ae4497116e229ab",
+    "text": "An offer to settle need not be made in terms of rule 34. A tender can be made before action is brought and, if sufficient, will 11 protect the defendant from all the costs incurred in the action, from summons onwards. If the defendant wishes to avail himself of a tender made before action was brought in order to disavow liability for costs, the tender should be 12 pleaded. Rule 34 does not provide, expressly or by necessary implication, that a secret tender made by the plaintiff outside 13 the rules, cannot be relied upon when it comes to costs. See further the notes to rule 35(2)(b) s v ‘Statements without prejudice’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6cb313353dd528d5fa1b9c1296ca8e4",
+    "text": "RS 22, 2023, D1 Rule 34-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42061d5fadbeec44c5f3055153f86fb6",
+    "text": "Offer of compromise and conditional payment. A careful distinction must be drawn between an offer of compromise (i e an 14 offer to settle the claim made animo contrahendi) and a so-called conditional payment which are both not made in terms of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf",
+      "parent_id": "aa832d307646aacccb2187009f8e2eb7"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a6abdf793bc321c5065b51be8487d3e7",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2930a9fbd7606ac1dae2cd00bcee850b",
+    "text": "Downloaded: Mon Feb 17 2025 07:57:50 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "e07c475d1f2574674529d21bdd829f3e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 34.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05141ab67a418623e40ea4b7fb88213a",
+    "text": "rule 34. The consequences of the acceptance and rejection of a conditional payment, on the one hand, and of an offer of compromise, on the other, are entirely different. Conditional payment takes place where the debtor pays an admitted debt, or an admitted portion of a debt, but in so paying purports to impose a condition on the creditor’s acceptance. Any such condition is invalid, for the debtor, in paying what is admittedly due, cannot engraft upon such payment a condition which was 15 not agreed upon between the parties or is not implied by law. This is equally so if the condition which the debtor purports to impose is that the creditor should accept the money paid in full settlement of his claim, and should forgo the balance, which may or may not be disputed. Such a condition is valid if the debtor is making an offer to effect a compromise of a disputed 16 debt, but is invalid if he is paying what is admittedly due. The creditor is entitled to disregard the invalid condition, to retain 17 the money paid, and to sue for the balance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5e6b5f8c8f4336735c00b8785508d40",
+    "text": "It often happens that an offer of compromise is accompanied by money or a cheque. In such cases the distinction between a conditional payment and an offer to effect a compromise becomes blurred. Such money or cheque is offered to the creditor conditionally, the condition being that he can retain it only if he accepts the offer of settlement and abandons the balance of 18 19 his claim. In this case the condition is valid; indeed it is inherent in the nature of the tender. The creditor can neither object to it nor disregard it. It follows that if he keeps the money, he will be regarded as having accepted the offer and will be 20 debarred from proceeding to recover the balance of his claim. If he refuses such an offer, he is refusing a valid offer with a valid condition and therefore runs the risk of bearing the costs of any subsequent action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c65f0896eaa17edc5ac10982f0033f66",
+    "text": "The question whether money or a cheque sent to the creditor ‘in settlement’ or ‘in full settlement’ is intended to accompany an offer to compromise, or is sent in payment of an",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b8c7fca36c1489271a1834af008b2d5",
+    "text": "RS 22, 2023, D1 Rule 34-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "22cdcdcbc7ef4a571390354fc403ee14",
+    "text": "admitted debt, but subject to a condition, is not always an easy one. 22 assistance: 21 The following general propositions may be of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a0534e314a1a6292a01de01f54405780",
+    "text": "(a) Whether an offer to compromise or the payment of an admitted debt was intended is a matter to be settled upon the 23 facts of each case, and the intention of the parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "50bc8a33f72b126c8ced67a92d4de347",
+    "text": "24 (b) The words ‘in full settlement’ are ambiguous. They indicate prima facie that the offer is one of compromise, 26 they are not conclusive, and may indicate a conditional payment. 25 but",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70db055088c0ad70a7f25dd3b43b3093",
+    "text": "(c) When a debtor offers to make payment ‘in full and final settlement’, he may impose conditions as to the mode of acceptance, such as that the payment or cheque, as the case may be, should be returned by the creditor if the offer is not accepted. In case of doubt the construction should be against the debtor, since he has it in his power to make his 27 meaning clear.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "66ca6a14c5b9d13c7f8b391ff65dc39a",
+    "text": "(d) If the answer to the above question is that the money was intended to accompany an offer of compromise, the creditor 28 is not entitled to accept it on his own conditions, which differ from those imposed by the debtor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "df692eeef9d3f229b0b1e6363e8b5dd5",
+    "text": "RS 22, 2023, D1 Rule 34-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a357a7623cb449a5eace55fffb2b4052",
+    "text": "(e) If the answer to the preliminary question is that the money was intended to constitute a conditional payment, the question may arise whether the creditor, in retaining it, has accepted or disregarded the invalid condition.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91c8539930f19997833a716d50a35a5b",
+    "text": "(f) The essential issue is whether an agreement of compromise was concluded: one is concerned simply with the principles 29 of offer and acceptance. In this regard it has been pointed out that although, generally, a contract is founded on consensus, contractual liability could also be incurred in circumstances where there is no real agreement between the parties but one of them is reasonably entitled to assume from the words or conduct of the other that they were in 30 agreement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "02baa369b84c05897598a1133c887143",
+    "text": "The person who alleges the compromise bears the onus of establishing it. 31",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8b24f4559a079ecff6a1e2ca105de59e",
+    "text": "Subrule (1): ‘At any time.’ The offer to settle or the tender must clearly be made before judgment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d17ec0e11b38a66ecb1c6208a029f31",
+    "text": "‘Unconditionally.’ An unconditional offer is designed for the case where the defendant admits liability on the plaintiff’s claim, 32 In Visser v in whole or in part, entitling the plaintiff to accept the offer and to sue for the balance of his claim at his peril. 33 34 the court, in an obiter dictum, remarked Visser that the nature of liability where an offer to settle had been accepted 35 was ‘not uncomplicated’ and pointed out that in Orton v Collins it was held that the obligation that arose was not primarily 36 Erasmus v Santam contractual but was sui generis. On the analogy of Modise v Standard General Insurance Co Ltd, 38 37 it seems, however, that the acceptance of an unconditional offer Insurance Ltd and Hassett v Santam Insurance Co Ltd creates a settlement agreement which could be enforced.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a3edb190e2bcbfef7ed153902ca07ef",
+    "text": "The effect of an unconditional offer is to place the plaintiff in a position where he, if he rejects it, will run the risk of having 39 to pay the costs subsequently incurred, unless he is able to prove an amount in excess of the sum tendered. Once the plaintiff has rejected the offer, he cannot fall back on it: the offer neither creates a cause of action nor fixed minimum liability 40 41 in the amount offered. To hold otherwise would be to defeat the entire purpose of the rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4bc59d29c53897b0d8a5f49461e93a8",
+    "text": "RS 22, 2023, D1 Rule 34-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6bec65ccb055dc7adfaf4d96f3adaded",
+    "text": "In High Court practice an action is neither stayed nor terminated by an unconditional offer; the plaintiff is entitled to reject 42 the offer and to increase the amount of his claim by amendment of his summons.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f7a4fcd0e30aa6cf6d2d44af5b4afee",
+    "text": "‘Without prejudice.’ An offer made without prejudice is an offer of settlement under denial of liability. If the plaintiff accepts the offer, his claim is extinguished and he has no further recourse against the defendant except, if applicable, for costs as 43 provided in subrule (9).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52381014912c865c689296432fe68ca5",
+    "text": "‘A written offer.’ The offer must comply with the provisions of subrule (5).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b756bc567d98c082407df1737351d24",
+    "text": "‘Shall be signed . . . attorney.’ Offers of settlement and tenders to perform made under the rule must comply with the requirements thereof. This means that it is obligatory for an offer made under the rule to be signed by the attorney only when 44 he has been given written authority to do so by the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bddc46a2631681d21d9e6d896a89c491",
+    "text": "Subrule (2): ‘The performance of some act.’ For example, the passing of transfer of property, to vacate property or to do/abstain from doing something claimed in interdict proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "58a71fbc423ad94b09dac898e5b7225f",
+    "text": "‘At any time.’ See the notes to subrule (1) s v ‘At any time’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1359829d98cf56bc780a150a6659dce9",
+    "text": "‘Unconditionally.’ See the notes to subrule (1) s v ‘Unconditionally’ above which apply mutatis mutandis to the performance of an act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9d77a38ffdb295460e090e5b4c91e59",
+    "text": "‘Without prejudice.’ See the notes to subrule (1) s v ‘Without prejudice’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc271017f3da856bb6db432939a038d5",
+    "text": "‘Tender . . . to perform such act.’ This subrule does not state that the tender must be in writing or that it must be signed by the defendant himself or by his attorney. Subrule (5), however, clearly contemplates a written tender.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "14d14bb971905a8e6c0e1b88c064062a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "424cb2fa7ffdcd540460da732ae276f5",
+    "text": "Downloaded: Mon Feb 17 2025 07:57:50 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "a44bf2c84b1749bd8947d5bc86a3ba22",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 34.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d71babc7c8e3a6cae16203cf1a9d2678",
+    "text": "Subrule (3): ‘Any party . . . who may be ordered to contribute . . . or any third party.’ This subrule enables a party who is sued as a joint wrongdoer or any other party who may be ordered to contribute, for example, under the Apportionment of Damages Act 34 of 1956, towards an amount for which any party to the action may be held liable, to make an offer or give an 45 indemnity to such party. In many such cases it would make little sense to make an offer to the plaintiff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da73d5c73d7acda3f462c68caa2f47fd",
+    "text": "Subrule (4): ‘One of several defendants, as well as any third party.’ This subrule overcomes the difficulties caused by the 46 decision in Tsitsi v British Overseas Insurance Co Ltd in which it was held that one of two defendants could not make a tender.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e3b6baf44c666d4dea80f3e6cdafc00",
+    "text": "Subrule (5): ‘Notice . . . shall state.’ The provisions of this subrule are peremptory. The notice must comply with the provisions of the subrule and, where applicable, deal explicitly with the matters referred to in paragraphs (a) to (d). object of the notice is to eliminate factual disputes as to the nature and content of the offer or tender. 48 47 The",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e935bdbba28a5febfeb02e8d1364842",
+    "text": "RS 22, 2023, D1 Rule 34-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b546a80a4b1abcc6cc6492ad2888811",
+    "text": "Subrule (5)(b): ‘Shall be subject to such conditions.’ This subrule makes it clear that the decision in Van Rensburg v AA 49 Mutual Insurance Co Ltd, in which it was held impermissible for a defendant to impose conditions on the acceptance of a payment into court without prejudice, does not apply to an offer or tender made in terms of rule 34.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "290478d66e1915dd17602b7b8123257d",
+    "text": "Subrule (5)(d): ‘Disclaims liability for the payment of costs.’ This subrule makes it possible for an offeror to raise special 50 The subrule issues relating to costs; for example, that he should not be liable for the wasted costs of a postponement. 51 obviates the problem adverted to in Erasmus v Viljoen where it is said that it is ‘heeltemaal sinneloos dat ’n eiser wat tevrede is met die bedrag wat inbetaal is ter skikking van die eis as sulks, ’n hele verhoor moet voortsit bloot teneinde sekere spesiale bevele van die Hof te verkry betreffende koste’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b4e20f39e28b89d7ab25b4f7f29bc51",
+    "text": "Subrule (6): ‘May within 15 days after receipt of the notice.’ This subrule affords the offeree a spatium deliberandi whether or not to accept the offer or tender and during that period the offeror is not entitled to resile from the offer or 52 tender. It has, however, been suggested that there may be ‘very exceptional cases’, such as fraud, genuine error or that no legal basis exists for any claims by the plaintiff against the defendant, in which the defendant may withdraw his offer of 53 settlement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f73a26c0ae3a25965024ad3b36a3a52d",
+    "text": "The subrule does not allow the plaintiff to keep the defendant waiting while costs mount up — in the exercise of its discretion in regard to costs the court will determine whether the plaintiff acted reasonably in delaying the acceptance of the 54 offer.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a14ae48a5f72df3dda25681140e6a9fe",
+    "text": "‘With the written consent of . . . or order of court.’ If the plaintiff wishes to accept an offer or tender after the expiry of the period of fifteen days provided for in the subrule, he needs the consent of the offeror or an order of court. 55 There is nothing in the rule which obliges the defendant to allow his offer or tender to stand after the expiry of the period of fifteen 56 days.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e572ec8b3a8c306ac509cfe52036fb3",
+    "text": "‘On such conditions as may be considered to be fair.’ The court will exercise its discretion under the subrule according to 57 the circumstances of the case before it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8e4974cf593b03ed0ab662939352914",
+    "text": "‘Accept any offer or tender.’ The offer or tender must be accepted on the terms upon which it was made. 58 If the costs issues have been settled by agreement between the parties in terms of a tender made in terms of this rule which has been 59 accepted, the court has no discretion to go outside the agreement between the parties. The court has no discretion to award a plaintiff costs other than those which the defendant undertook to pay in terms of the tender.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0763b5dcfaec02f2bebc48e10a530931",
+    "text": "RS 22, 2023, D1 Rule 34-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71c85c8b719d3dd37f6e497c823cdbe1",
+    "text": "However, costs incurred subsequent to the date of tender and not covered by the settlement agreement constituted by the 60 acceptance of the tender, are to be dealt with in accordance with the discretion of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52868f03d4215e75ea0742f290c20ed4",
+    "text": "Subrule (7): ‘Judge.’ In terms of the definition of ‘judge’ in rule 1 this means a judge sitting otherwise than in open court, i e a judge in chambers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "218aec4f68e033c5679128dfde5966ab",
+    "text": "Subrule (9): ‘Is not stated to be in satisfaction of a plaintiff’s claim and costs.’ If the offer or tender does include costs 61 and the plaintiff wishes to accept the offer, he must do so on the terms upon which it is made. Once such an offer or tender has been accepted under subrule (6) the court has no power under this subrule to grant the plaintiff costs other than 62 those contained in the offer or tender that has been accepted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4695edbed159c45bd0ed7997054a4fb3",
+    "text": "‘May apply to the court.’ As to the meaning of ‘court’, see the notes to rule 1 s v ‘Court’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "337c0a4c78682ed2399c42d444ab0747",
+    "text": "‘For an order for costs.’ This subrule does not create a substantive right to costs — it prescribes the procedure to be adopted by a party who has accepted an offer in terms of the rule and who believes that he is entitled to an order for 63 costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4d53d743d4793e6c848555833e64899d",
+    "text": "Subrule (10): ‘Shall be disclosed to the court.’ The prohibition against disclosure applies only to an offer or tender made without prejudice; it does not apply to an unconditional offer or tender. The idea underlying this subrule is that the court should approach a question of damages unaffected by the knowledge of an offer made by the defendant, thus avoiding the possibility of the court being influenced by such knowledge to award something more than the amount paid in or tendered, in 64 The provisions of the subrule are imperative both in form and in the sense that order that the judgment should carry costs. 65 a court cannot grant dispensation in advance from its requirements. The court, however, has a discretion in a proper case 66 to condone a breach of the provisions of the rule and to order a trial to continue before it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "23b21543afc116b0f3045756d269094c",
+    "text": "The question whether or not an offer or tender in terms of the rule should be disclosed to a court of appeal was left open in 67 Bruwer v Joubert.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de41b16e89f4854a5ecb5c64e38ed07b",
+    "text": "Subrule (12): ‘The question of costs shall be considered afresh.’ The object of this subrule is to enable the court to take into account the fact that what, in the event, proved to be a generous offer of settlement had been refused by the plaintiff or by one of the defendants, when it exercised its discretion as to what order as to costs would be fair in all the circumstances of the case. As the court would have been unaware of the circumstances of the offer when judgment was delivered it would have been unable at that stage to take it into account, and the subrule gives the court an opportunity to consider the matter 68 afresh after it has learned about the secret tender.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d04b8a9c046a058eb0ae8b9eb44b318a",
+    "text": "RS 22, 2023, D1 Rule 34-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f51e625442f729c1c8480ead892865a5",
+    "text": "If the award of the court a quo is increased on appeal so as to beat the tender, the court of appeal will refer the question of the costs in the court a quo to that court for reconsideration unless (semble) the court of appeal is in possession of all the 69 relevant facts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e72ca46adb98acab4e2b3831e50d5d6b",
+    "text": "‘Provided that nothing . . . shall affect the court’s discretion as to an award of costs.’ The trial court has an overriding",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "670652c0e2f6a45c14f7982438c0c73d",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "33c0dae2eb4546599003e41d7bec262f",
+    "text": "70",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c015785788ae07775742ba750ca2892b",
+    "text": "Downloaded: Mon Feb 17 2025 07:57:50 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "e07c475d1f2574674529d21bdd829f3e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 34.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bda23c236d0d3f2fe2d4d441bedf9316",
+    "text": "discretion on costs under the rule. 70 The proviso to the subrule makes it clear that when the court is required to reconsider the question of costs, the court’s discretion remains unfettered despite the fact that it had already given a judgment on the 71 costs. In the exercise of its discretion on how costs should be apportioned when a tender has been made, the starting point for the court will ordinarily be whether the tender beats the amount awarded. This means that, apart from determining 72 the spatium deliberandi, the discretion at this stage of the proceedings is fairly limited. The usual practice is, if the offer or tender exceeds the amount of the judgment, to order the defendant to pay the plaintiff’s costs incurred up to the date of the 73 offer or tender, and the plaintiff to pay the defendant’s costs incurred thereafter. In appropriate circumstances the court 74 may make a different apportionment of the costs in the exercise of the discretion that it retains under the subrule. If an appellant achieves substantial success on appeal by obtaining an increased award of damages, the fact that an offer of settlement had been made prior to the trial which exceeds the award as increased by the court of appeal, does not affect the issue of the costs of appeal. The appellant who has achieved substantial success on appeal is entitled to the costs of 75 appeal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4c4053457170015efe80622ab05c5e26",
+    "text": "1 Frenkel, Wise & Co v Cuthbert Ltd 1946 CPD 735 at 741; Van Rensburg v AA Mutual Insurance Co Ltd 1969 (4) SA 360 (E) at 363C;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d5c12bceb413f39663f524d8ec09bc35",
+    "text": "Kgolokwane v Smit 1987 (2) SA 421 (O) at 425–6. See also Cilliers Costs paragraph 7.08 and H J Erasmus ‘Restrictions on disclosure of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "db4d9db1af39b2b1371a455bd2f74212",
+    "text": "without prejudice offers’ 2012 (January/February) De Rebus 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c2cf4710ebda37f19e06a4a84956cc5f",
+    "text": "2 Shepherd v Commissioner of Railways 1905 TS 189 at 195.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "615fc76603d6d0614371dd879b608ce9",
+    "text": "3 Van Rensburg v AA Mutual Insurance Co Ltd 1969 (4) SA 360 (E) at 367A. See also Doyle v Salgo (2) 1958 (1) SA 41 (FC); Nicholaides v Marcus Stores (Pty) Ltd 1960 (4) SA 694 (SR); Gush v Protea Insurance Co Ltd 1973 (4) SA 286 (E) at 288H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "761aa6655c0cedff2b0f760eb2ec3dcd",
+    "text": "4 Turbo Prop Service Centre CC v Croock t/a Honest Air 1997 (4) SA 758 (W) at 764G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "215a329a6a497ba9d328f0ee45da89af",
+    "text": "5 Turbo Prop Service Centre CC v Croock t/a Honest Air 1997 (4) SA 758 (W) at 764C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7e6248fa5d6d2ab433d54a83837c2342",
+    "text": "6 See subrules (6) and (7) and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bc017cb0ca83b754ab25bf6d30d7b2ed",
+    "text": "7 Naylor v Jansen 2007 (1) SA 16 (SCA) at 22I–23A. See also H J Erasmus ‘Restrictions on disclosure of without prejudice offers’ 2012",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "81b7e80336377cf25589c41fa0772853",
+    "text": "~IN",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "21ba57479fd383b294cd6509e52133b0",
+    "text": "(January/February) De Rebus 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "37a82adb87a1bccec05d3c5eb36e922c",
+    "text": "8 Naylor v Jansen 2007 (1) SA 16 (SCA) at 23A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8d2a9364bc9f289c30ca5ca1935b023d",
+    "text": "9 Naylor v Jansen 2007 (1) SA 16 (SCA) at 23B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "25c72391a9eb3d8030d455faf84b10b5",
+    "text": "10 Van der Merwe v FirstRand Bank Ltd t/a Wesbank and Barloworld Equipment Finance 2012 (1) SA 480 (ECG) at 483D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7e38bea82a4deeaf6a4c22ca232afab",
+    "text": "11 King v Sikonyela (1891) 12 NLR 245; Duggan v Brownlee 1910–17 GWL 118; Odendaal v Du Plessis 1918 AD 470; Boland Bank Bpk v Steele 1994 (1) SA 259 (T) at 265D–266C; Unit Inspection Co of SA (Pty) Ltd v Hall Longmore & Co (Pty) Ltd 1995 (2) SA 795 (A) at 801F. In Origo International (Pty) Ltd v Smeg South Africa (Pty) Ltd 2019 (1) SA 267 (GJ) it was reiterated (at 270E) that in order to qualify as a proper tender for payment, the tender must be unconditional and made ‘met openbeurs en klinkende munt’. It must be for payment of the full amount owing. It was held (at 271F–I) that although a tender to pay is a promise or undertaking to pay and not actual payment, it is not without legal effect. By way of analogy to an offer to settle and tender under rule 34, the tender for payment has the following consequence: should it be found that the admitted amount (or the lesser amount subsequently paid) was in fact the true amount owing, the party making the tender will be protected from the consequences of non-compliance set forth in the demand for payment (i e, in casu, cancellation of the agreement between the parties).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "29cc8e60de6e06bbe1c5c76fd9b0cc11",
+    "text": "12 Naudé v Kennedy 1909 TS 799 at 808–9; Foord v Lake and Others NNO 1968 (4) SA 395 (W) at 399A; De Beer v Rondalia",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "23b12a6de03968708f2c454b6439fcb7",
+    "text": "Versekeringskorporasie van SA Bpk 1971 (3) SA 614 (O) at 616C; Unit Inspection Co of SA (Pty) Ltd v Hall Longmore & Co (Pty) Ltd 1995 (2)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5aed5edd9a23836c36a8117c55b262c5",
+    "text": "SA 795 (A) at 802I. These cases were considered in AD v MEC for Health and Social Development, Western Cape 2017 (5) SA 134 (WCC) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a933e6b105fc64e3ee298f81ffee7e58",
+    "text": "147B–148C, after which the court concluded as follows (at 148D–F):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2dd0f2c9f80af6461ebb8f1253781ae7",
+    "text": "‘In my respectful view, those cases in which Naudé was applied to without prejudice offers failed to appreciate the need to distinguish",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "57aef287e73248506b38d9df99914884",
+    "text": "between open tenders and without prejudice offers. It is inherent in a without prejudice offer that it will not be made known to the court, at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9999b0697f52d096391dbe4d44791e90",
+    "text": "least not until judgment has been delivered. It is self-defeating to say that if a defendant wishes to rely on a without prejudice offer as",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d6e6df24f465ed2b7267c60d6af432f6",
+    "text": "protection against costs he must plead it. . . . A defendant cannot permissibly plead and prove the making of the without prejudice offer, at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7b9ff5f42ae292dc51ea92750b115dc9",
+    "text": "least not without the consent of the plaintiff. The defendant could, of course, make the same tender in his plea, i e as an open tender, but his",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "87416f0c41ed48edcadbaf9f1382ffe9",
+    "text": "protection would then operate only from the date of the plea. He could not allege that the tender in his plea was a repetition of a without",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a1b363d0a2c7bdb940be5f86b86a32fc",
+    "text": "prejudice offer made at an earlier stage.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ba4bd12de44eac8b4679698e3ae5a74e",
+    "text": "13 AD v MEC for Health and Social Development, Western Cape 2017 (5) SA 134 (WCC) at 145I–146A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c214f18675e175a798ccf34f7b7ed13f",
+    "text": "14 The problem is fully considered in Harris v Pieters 1920 AD 644; Van Breukelen v Van Breukelen 1966 (2) SA 285 (A); SA Scottish Finance Corporation Ltd v Smit 1966 (3) SA 629 (T); Blumberg v Atkinson 1974 (4) SA 551 (T). See De Villiers (1954) 17 THRHR 217 and 220; Zeffertt (1972) 89 SALJ 35.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a1dc353ca3c525da3bc45e2006cb4cb5",
+    "text": "15 Harris v Pieters 1920 AD 644 at 650.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c236f8ab036d6a31dc28ab6e3b2d6c5f",
+    "text": "16 If the condition is accepted, a compromise (transactio) results (Reilly v Seligson and Clare Ltd 1976 (2) SA 847 (W) at 850D; ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) at 404H). If the creditor proceeds with his claim to recover anything over and above the amount tendered, he will be met with the plea that he has accepted a compromise which has the effect of res judicata (Cachalia v Harberer & Co 1905 TS 457 at 464; Western Assurance Co v Caldwell’s Trustee 1918 AD 262 at 270; Mothle v Mathole 1951 (1) SA 785 (T); Van Zyl v Niemann 1964 (4) SA 661 (A) at 669H; Gollach & Gomperts (1967) (Pty) Ltd v Universal Mills & Produce Co (Pty) Ltd 1978 (1) SA 914 (A) at 922B–C). As to compromise (transactio) and the effect thereof, see also Theodosio v Schindlers Attorneys 2022 (4) SA 617 (GJ) at paragraphs [69]–[70].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39c2cbb7fa68162ff0fc0f00df3bfec3",
+    "text": "17 Harris v Pieters 1920 AD 644 at 650; SA Scottish Finance Corporation Ltd v Smit 1966 (3) SA 629 (T) at 635; ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) at 404A–B and 404H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "12d1771dbbc2f5f5b322ace72f9e6d62",
+    "text": "18 De Villiers (1954) 17 THRHR 217 points out (at 220) that ‘[i]n sulke gevalle maak die aanbieder in werklikheid gelyktydig ’n skikkingsaanbod en ’n voldoeningsaanbod, maar dit moet in gedagte gehou word dat so ’n voldoeningsaanbod nie gemaak word ten opsigte van ’n bestaande verpligting nie; dit is eintlik ’n voldoeningsaanbod in anticipando, nl ten opsigte van ’n verbintenis wat die aanbieder verwag sal ontstaan met die aanname van sy skikkingsaanbod’. See further Paterson Exhibitions CC v Knights Advertising and Marketing CC 1991 (3) SA 523 (A) at 528G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6e570f55a44e806da9dec0de827eef29",
+    "text": "19 Odendaal v Du Plessis 1918 AD 470 at 475; Van Breukelen v Van Breukelen 1966 (2) SA 285 (A) at 289F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "49df36ed40b4da6ffad968d2397ffa8a",
+    "text": "20 Neville v Plasket 1935 TPD 115; Tractor & Excavator Spares (Pty) Ltd v Lucas J Botha (Pty) Ltd 1966 (2) SA 740 (T); Andy’s Electrical v Laurie Sykes (Pty) Ltd 1979 (3) SA 341 (N); Paterson Exhibitions CC v Knights Advertising and Marketing CC 1991 (3) SA 523 (A) at 529C; ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) at 402B–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed2ad73c3ee617be0ad9b68929fb148a",
+    "text": "21 Paterson Exhibitions CC v Knights Advertising and Marketing CC 1991 (3) SA 523 (A) at 528B; Bam v Rafedam Boerdery BK 2004 (1) SA 484 (O) at 489F–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47048d60739ba09617c4cb1e7298caa7",
+    "text": "22 For a full discussion, see Zeffertt (1972) 89 SALJ 35. The authorities are also considered in some detail in Andy’s Electrical v Laurie Sykes (Pty) Ltd 1979 (3) SA 341 (N) and in the judgment of Kroon J in Kei Brick & Tile Co (Pty) Ltd v AM Construction 1996 (1) SA 150 (E) at 152H– 158B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ec083ab899a2bbec458a3d3075997898",
+    "text": "23 Harris v Pieters 1920 AD 644; Burt NO v National Bank of South Africa Ltd 1921 AD 59 at 62; Boustred Ltd v Standard Bank of SA Ltd 1927 WLD 88; Moosa v Essa 1931 NPD 365; SA Scottish Finance Corporation Ltd v Smit 1966 (3) SA 629 (T) at 635D; Cecil Jacobs (Pty) Ltd v MacLeod & Sons 1966 (4) SA 41 (N) at 46C; Andy’s Electrical v Laurie Sykes (Pty) Ltd 1979 (3) SA 341 (N); Paterson Exhibitions CC v Knights Advertising and Marketing CC 1991 (3) SA 523 (A) at 529D; ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) at 404H; Bam v Rafedam Boerdery BK 2004 (1) SA 484 (O) at 491G–492B. In ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) the Supreme Court of Appeal remarked (at 405A–B) that sending one’s creditor a cheque ‘in full settlement’ coupled with a denial of liability would almost certainly signify an offer of compromise. See also Gerolomou Constructions (Pty) Ltd v Van Wyk 2011 (4) SA 500 (GNP) at 503G–505G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8ee50db3d2ecaa07175551897036f3af",
+    "text": "24 Harris v Pieters 1920 AD 644 at 654; Briggs v Titlestad 1938 NPD 446 at 451–2; Cecil Jacobs (Pty) Ltd v MacLeod & Sons 1966 (4) S A 41",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a7046fecf1b68496cb9a57a20b1b4dbb",
+    "text": "(N) at 46C. In ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) the Supreme Court of Appeal held (at 404F–I) that the expression",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ffe56524f1989d6f98c283470584a667",
+    "text": "‘in full settlement’ is not in itself ambiguous because it always serves to do no more, legally speaking, than import the condition that on",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8aedd9b7902a2ce70b9a3a40c022a11c",
+    "text": "acceptance the creditor has no further claim to any balance of the debt. With regard to the two different situations in which it is employed (i e",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cfbac52a96e1ba49451bad311b80937a",
+    "text": "offer of compromise or conditional payment), however, its effect differs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "68358d3d13b5c274e048ca40bcb304e3",
+    "text": "25 Attwell & Co v Purcell, Yallop and Everett (1897) 14 SC 368 at 372; African Agricultural and Finance Corporation Ltd v Bougenon 1904 TS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f80bb284f4feba636d490de579c4b62f",
+    "text": "535; Woolf v Kalter & Flymen 1908 TS 529 at 533; Nel v Von Molkte 1910 OPD 17 at 23; Hurwitz v Rhodesia Railways Ltd 1912 AD 698;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "80d885fb2f20a5847700e980151f9769",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "aeb889e7027efeefc16f7afc7f5acab1",
+    "text": "Downloaded: Mon Feb 17 2025 07:57:50 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "a44bf2c84b1749bd8947d5bc86a3ba22",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 34.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "532864fa6bdf2aedff16b30305286042",
+    "text": "Gordon v Botha 1916 OPD 218; and dicta in Odendaal v Du Plessis 1918 AD 470; Harris v Pieters 1920 AD 644; Burt NO v National Bank of South Africa Ltd 1921 AD 59; Turgin v Atlantic Clothing Manufacturers 1954 (3) SA 527 (T); Cecil Jacobs (Pty) Ltd v MacLeod & Sons 1966 (4) SA 41 (N) at 46C; Tractor & Excavator Spares (Pty) Ltd v Lucas J Botha (Pty) Ltd 1966 (2) SA 740 (T); Van Breukelen v Van Breukelen 1966 (2) SA 285 (A) at 289F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8c80f278e66507cb01be9fe23581657a",
+    "text": "26 Lewis v Sutton 1912 TPD 117; Richardson v Central News Agency 1915 CPD 347; Warren v Union Government 1916 TPD 695; Harris v Pieters 1920 AD 644; Moosa v Essa 1931 NPD 365; Liebenberg v Loubser 1938 TPD 414; Briggs v Titlestad 1938 NPD 446; David & Co (Pty) Ltd v Coetzee & Jordaan (Pty) Ltd 1966 (2) PH A80 (GW); SA Scottish Finance Corporation Ltd v Smit 1966 (3) SA 629 (T) at 635D, where it is stressed that the words ‘in full settlement’ are often used merely to assert the payer’s view of the extent of his liability rather than to stipulate a condition of acceptance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7ce5c47b35fc56dc055ea751aff57761",
+    "text": "27 Harris v Pieters 1920 AD 644 at 655; Briggs v Titlestad 1938 NPD 446 at 453; Cecil Jacobs (Pty) Ltd v MacLeod & Sons 1966 (4) SA 41",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bbb1b5ccc728a638e47b4de68ca1983e",
+    "text": "(N) at 48H; Kei Brick & Tile Co (Pty) Ltd v AM Construction 1996 (1) SA 150 (E) at 157G; Be Bop A Lula Manufacturing & Printing CC v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "02fae68ede718e37d0f3da697ed47e89",
+    "text": "Kingtex Marketing (Pty) Ltd 2006 (6) SA 379 (C) at 393A–B; and see ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) at 405C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "60a19d8fa77f0739c7b2771ab6699dbc",
+    "text": "28 Van Breukelen v Van Breukelen 1966 (2) SA 285 (A) at 289F, following Harris v Pieters 1920 AD 644 at 648–9. See also Burt NO v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1e0069eff7232ee46ea43a91e05fa215",
+    "text": "National Bank of South Africa Ltd 1921 AD 59 at 67; Van Coller v Swartz 1921 TPD 40 at 43–4; Briggs v Titlestad 1938 NPD 446 at 452–3;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "45c18c4a869dd5c215b18bb2861db770",
+    "text": "Turgin v Atlantic Clothing Manufacturers 1954 (3) SA 527 (T) at 532; Paterson Exhibitions CC v Knights Advertising and Marketing CC 1991",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "26b1d0fa8b930f270c5b150040578f30",
+    "text": "(3) SA 523 (A) at 528D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d854460a49156a6681ed8e76d5dd8b4",
+    "text": "29 ABSA Bank Ltd v Van de Vyver NO 2002 (4) SA 397 (SCA) at 404I–405A; Be Bop A Lula Manufacturing & Printing CC v Kingtex Marketing (Pty) Ltd 2008 (3) SA 327 (SCA) at 332A–B. In Gerolomou Constructions (Pty) Ltd v Van Wyk 2011 (4) SA 500 (GNP) at 505E–F the facts were held to be distinguishable from those in the Be Bop case (supra).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d89894d1aea0cc9e3f4d0aa86812e435",
+    "text": "30 Sonap Petroleum SA (Pty) Ltd (formerly known as Sonarep (SA) (Pty) Ltd) v Pappadogianis 1992 (3) SA 234 (A) at 238I–240B; Be Bop A Lula Manufacturing & Printing CC v Kingtex Marketing (Pty) Ltd 2008 (3) SA 327 (SCA) at 332D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "481c6f91884253d7047d9e5f0877a1e7",
+    "text": "31 The Torch Moderne Binnehuis Vervaardiging Venn (Edms) Bpk v Husserl 1946 CPD 548; Hubbard v Mostert 2010 (2) SA 391 (WCC) at 395H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58b0d7f577c115cc22e9730514df4933",
+    "text": "32 Van Rensburg v AA Mutual Insurance Co Ltd 1969 (4) SA 360 (E) at 364E; Gush v Protea Insurance Co Ltd 1973 (4) SA 286 (E) at 288H; Reilly v Seligson and Clare Ltd 1976 (2) SA 847 (W) at 850G; Bokamoso Painting Firm (Pty) Ltd v Masilonyana Local Municipality (unreported, FB case no 4396/2022 dated 10 August 2023) at paragraph [11].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2d2d07d66654238a87e67d046b30d975",
+    "text": "33 2012 (4) SA 74 (KZD).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b00a4e58c0cce2f213f51007130aa9a6",
+    "text": "BREREERERERERRRE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "01dc84a27e5dca5b868fdec04863402c",
+    "text": "34 At 89H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f1391a8be6b349529090e1fac8c7f74f",
+    "text": "35 [2007] 3 All ER 863 (Ch).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6966c4b4c0cc95565df8781458a57abf",
+    "text": "36 1989 (2) SA 276 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "69fbc007489a3f868ef29cb827ee91e7",
+    "text": "37 1992 (1) SA 893 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "832a8aa613a4215026b592c1f8127616",
+    "text": "38 2000 (1) SA 403 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc8a9435921d23f9f5a912cb42f529a0",
+    "text": "39 Visser v Visser 2012 (4) SA 74 (KZD) at 89B–90F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0929876e0f7d4aab5373671e8eabafe",
+    "text": "40 Visser v Visser 2012 (4) SA 74 (KZD) at 89B–90A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0d1b6235b2d6e11bde6a0cd0ef2bedb8",
+    "text": "41 Visser v Visser 2012 (4) SA 74 (KZD) at 89B–90A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5fd58467dd75c8b2d9b1198f324adb41",
+    "text": "42 Molete v Union National South British Insurance Co Ltd 1982 (4) SA 178 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "efd89ee136c6f3e419797fc3ab6ed46c",
+    "text": "43 Van Rensburg v AA Mutual Insurance Co Ltd 1969 (4) SA 360 (E) at 364F; Henry v AA Mutual Insurance Association Ltd 1979 (1) SA 105 (C) at 112D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "146e5543213e4f96df00e9e4a06118d7",
+    "text": "44 Van der Merwe v FirstRand Bank Ltd t/a Wesbank & Barloworld Equipment Finance 2012 (1) SA 480 (ECG) at 483D–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "59e2e5b2870e7579c45b693fb943dafb",
+    "text": "45 See the remarks of James J in Bloom v General Accident and Life Assurance Corporation Ltd 1967 (2) SA 116 (D) at 120A–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4a8aecf5159c33658bea6fdeee823e9a",
+    "text": "46 1960 (4) SA 337 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "720673f67fbe2650be3c393cc6cd83ce",
+    "text": "47 As to the meaning of ‘state’ in the subrule, see Erasmus v Santam Insurance Ltd 1992 (1) SA 893 (W) at 895C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "685f12497e81a2c28b7002caabc456fe",
+    "text": "48 Reilly v Seligson and Clare Ltd 1976 (2) SA 847 (W)h at 850C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34b4547bdabef7eaedcb1579dc41504c",
+    "text": "49 1969 (4) SA 360 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b270772c5d51c5fdd60474fab2fe57a4",
+    "text": "50 Erasmus v Santam Insurance Ltd 1992 (1) SA 893 (W) at 895J–896A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ead7c82fa9d0a7238c21eadcd6a2d161",
+    "text": "51 1968 (3) SA 496 (GW) at 499B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "31ae8398187438cb9cf7536952ba93e6",
+    "text": "52 Frenkel, Wise & Co v Cuthbert Ltd 1946 CPD 735 at 742; Scott v Norwich Union Fire Insurance Society Ltd 1966 (1) SA 72 (SR) at 73B–F; Omega Africa Plastics (Pty) Ltd v Swisstool Manufacturing Co (Pty) Ltd 1978 (4) SA 675 (A) at 678G; Henry v AA Mutual Insurance Association Ltd 1979 (1) SA 105 (C) at 113F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "29b9a7f1e6d0dfe04fe8ab97d497c449",
+    "text": "53 Ngwalangwala v Auto Protection Insurance Co Ltd (in liquidation) 1965 (3) SA 601 (A) at 608H–609B; Turbo Prop Service Centre CC v Croock t/a Honest Air 1997 (4) SA 758 (W) 762I–764I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f7ccf5cb62171883a68fbccb4db0320c",
+    "text": "54 Scott v Norwich Union Fire Insurance Society Ltd 1966 (1) SA 72 (SR); Kakana v Commercial Union Assurance Co of SA Ltd 1975 (3) SA 230 (C) at 232B; Henry v AA Mutual Insurance Association Ltd 1979 (1) SA 105 (C) at 111C–114A. See also Minister van Bantoe Administrasie en Ontwikkeling v Makhfula 1971 (4) SA 568 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e79c8cb9e75e9d1c74e44a9153374ff",
+    "text": "55 Minister van Landboukrediet en Grondbesit v McDonald 1969 (2) SA 473 (A); Omega Africa Plastics (Pty) Ltd v Swisstool Manufacturing Co (Pty) Ltd 1978 (4) SA 675 (A) at 678H; Henry v AA Mutual Insurance Association Ltd 1979 (1) SA 105 (C) at 113E; Tinta v AA Mutual Insurance Association Ltd 1979 (4) SA 203 (E) at 205F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa208f5792252d544239032464c548ab",
+    "text": "56 Tinta v AA Mutual Insurance Association Ltd 1979 (4) SA 203 (E) at 207D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cc166aa93d9aa9c8403bf8d68fe68f30",
+    "text": "57 Minister van Landboukrediet en Grondbesit v McDonald 1969 (2) SA 473 (A) at 481A; Tinta v AA Mutual Insurance Association Ltd 1979 (4) SA 203 (E) at 205F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6ff78c0c2cf90cacc24d899edae21ec4",
+    "text": "58 Modise v Standard General Insurance Co Ltd 1989 (2) SA 276 (W) at 278E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "faae27675c4f79848742f77589eca2f8",
+    "text": "59 Hassett v Santam Insurance Co Ltd 2000 (1) SA 403 (C) at 406C–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c6eaacd51ae296f268606556f444a1dd",
+    "text": "60 Hassett v Santam Insurance Co Ltd 2000 (1) SA 403 (C) at 406C–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76318ecd04c4db1620cbddfa48371eb7",
+    "text": "61 Modise v Standard General Insurance Co Ltd 1989 (2) SA 276 (W) at 278E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "80f1039ef9e7e347f32856d6bed0eac7",
+    "text": "62 Modise v Standard General Insurance Co Ltd 1989 (2) SA 276 (W) at 278I. The decision to the contrary in Moyer v Shield Insurance Co Ltd 1980 (3) SA 468 (C) is, it is submitted, not correct (see Erasmus v Santam Insurance Ltd 1992 (1) SA 893 (W) at 899H).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0a503528e6f0053d9a61e1c38bb93028",
+    "text": "o",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fab24620d20c1252c67a05c219ee3d97",
+    "text": "63 Erasmus v Santam Insurance Ltd 1992 (1) SA 893 (W) at 895G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "65afabc444915c59b38b543fe565aec0",
+    "text": "64 See the remarks of Baker J in Jacobs v Santam Insurance Co Ltd 1974 (3) SA 455 (C) at 463C–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2e3b4af7d0dc0baf308f0231561f84b6",
+    "text": "65 Jacobs v Santam Insurance Co Ltd 1974 (3) SA 455 (C) at 464G. See also H J Erasmus ‘Restrictions on disclosure of without prejudice offers’ 2012 (January/February) De Rebus 30 at 31.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bda16a85ad6eefab7a37fc1fa3eac7cb",
+    "text": "66 Jacobs v Santam Insurance Co Ltd 1974 (3) SA 455 (C) at 462G and 464H. See also H J Erasmus ‘Restrictions on disclosure of without prejudice offers’ 2012 (January/February) De Rebus 30 at 31–2.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "27d053723e657006285ff667f41694e1",
+    "text": "67 1966 (3) SA 334 (A) at 339C. See also H J Erasmus ‘Restrictions on disclosure of without prejudice offers’ 2012 (January/February) De Rebus 30 at 32.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "13a6521d965c5fe55ab94322f70db0ef",
+    "text": "68 Bloom v General Accident and Life Assurance Corporation Ltd 1967 (2) SA 116 (D) at 118H–119A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "041f3f6390d55f27ecfc4176b10c86ce",
+    "text": "69 Radell v Multilateral Motor Vehicle Accidents Fund 1995 (4) SA 24 (A) at 30I–J.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0dfd85fa6a09250b8ae874030c58d925",
+    "text": "70 Omega Africa Plastics (Pty) Ltd v Swisstool Manufacturing Co (Pty) Ltd 1978 (4) SA 675 (A) at 678H; Griffiths v Mutual & Federal Insurance Co Ltd 1994 (1) SA 535 (A) at 549B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a81ebdcc03d91dff6e7873112ab96969",
+    "text": "71 Oliveira v Kurvarjer 1977 (3) SA 918 (W) at 920D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "09223239486c5df5e4e7cce1379bb4cd",
+    "text": "72 Winlite Aluminium Windows & Doors (Pty) Ltd v Pyramid Freight (Pty) Ltd t/a UTI 2011 (1) SA 571 (SCA) at 573G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8d47ca9f4dee19339bc7c5014f36ebb5",
+    "text": "73 Van Rensburg v AA Mutual Insurance Co Ltd 1969 (4) SA 360 (E) at 366H–367A; Omega Africa Plastics (Pty) Ltd v Swisstool",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d5e1a8ee087894c073717f598b541e2",
+    "text": "Manufacturing Co (Pty) Ltd 1978 (4) SA 675 (A) at 677H–678A; Naylor v Jansen 2007 (1) SA 16 (SCA) at 23D–E (where it is also pointed out that there is no ‘rule’ to this effect from which departure is only justified in the case of ‘special circumstances’ as was suggested in the Van Rensburg case (supra) at 366H–367B and Mdlalose v Road Accident Fund 2000 (4) SA 876 (N) at 885B–C; Bokamoso Painting Firm (Pty) Ltd v Masilonyana Local Municipality (unreported, FB case no 4396/2022 dated 10 August 2023) at paragraph [11]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cc05d4f4a5b370113eeeedc87fb48305",
+    "text": "74 Van Rensburg v AA Mutual Insurance Co Ltd 1969 (4) SA 360 (E) at 367A; Omega Africa Plastics (Pty) Ltd v Swisstool Manufacturing Co (Pty) Ltd 1978 (4) SA 675 (A) at 678A; Naylor v Jansen 2007 (1) SA 16 (SCA) at 23E–24F. See also Doyle v Salgo (2) 1958 (1) SA 41 (FC); Nicholaides v Marcus Stores (Pty) Ltd 1960 (4) SA 694 (SR); Erasmus v Viljoen 1968 (3) SA 496 (GW); and see Dumbe Transport CC v Alex Carriers 2011 (3) SA 664 (KZP) at 669D–G. Where the court gives judgment in a foreign currency but the tender was expressed in rands, the award must be converted into rands in order to decide whether or not the award exceeds the tender. For the purposes of this subrule the conversion has to be made at the date of judgment (Radell v Multilateral Motor Vehicle Accidents Fund 1995 (4) SA 24 (A) at 30C–E). 75 Griffiths v Mutual & Federal Insurance Co Ltd 1994 (1) SA 535 (A) at 549C–E, not approving Kgolokwane v Smit 1987 (2) SA 421 (O) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9342e1a00d63fb0d807f5601fa4523d3",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ab8505734523664a8bd295d70ed5823f",
+    "text": "Downloaded: Mon Feb 17 2025 07:57:50 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "e07c475d1f2574674529d21bdd829f3e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 34.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "e8f73b81bd1ba901c26db53bc34baaf6",
+    "text": "434–5.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4320ff3d466cc0ae62ab20910588a06c",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a8d4aedaa468f7d478405149128f8cb9",
+    "text": "Downloaded: Mon Feb 17 2025 07:57:50 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 34.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "a44bf2c84b1749bd8947d5bc86a3ba22",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 34.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

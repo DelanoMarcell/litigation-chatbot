@@ -1,0 +1,1884 @@
+[
+  {
+    "type": "Header",
+    "element_id": "6189ec08ad6a4a9497690bec5fd2cc9a",
+    "text": "1 Definitions",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "5774165b64e37d85a77caf057f855eac",
+    "text": "RS 22, 2023, D1 Rule 1-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1563ed5821138b519541de6ba35b8cac",
+    "text": "In these rules and attached forms, unless the context otherwise indicates —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cee2c0dbfa9344f49c1a84bfce159950",
+    "text": "‘Act’ means the Superior Courts Act, 2013 (Act 10 of 2013);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "553243faa709bf77eed23ea56efba22b",
+    "text": "‘action’ means a proceeding commenced by summons;",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "07bf98e631ba9e2473188c7f40f9c4df",
+    "text": "‘advocate’ means a legal practitioner as defined, admitted and enrolled as such, under the Legal Practice Act, 2014 (Act 28 of 2014);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2136d4a0a9b5672a6404e0d6cc23788b",
+    "text": "‘application’ means a proceeding commenced by notice of motion or other forms of applications provided for by rule 6;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fecbe245ad962d7c6250586e96b726f9",
+    "text": "‘attorney’ means a legal practitioner as defined, admitted and enrolled as such, under the Legal Practice Act, 2014 (Act 28 of 2014);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3a00746740ab702838a7dbff65a054a",
+    "text": "‘combined summons’ means a summons with particulars of plaintiff’s claim annexed thereto in terms of subrule (2) of rule 17;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4bcedacf323e38ec48b57a31c9f1593d",
+    "text": "‘court’ in relation to civil matters means the High Court as referred to in section 6 of the Act;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cedeecf8b3247886daa615aa271ae013",
+    "text": "‘court day’ means a day that is not a public holiday, Saturday or Sunday and only court days shall be included in the computation of any time expressed in days prescribed by these rules or fixed by any order of court;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "68ea8534e195616539891bf2417a58bb",
+    "text": "‘deliver’ means to serve copies on all parties and file the original with the registrar;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8842b26ef3f2bca0de17fb4c68d95a74",
+    "text": "‘judge’ means a judge sitting otherwise than in open court;",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f2027195e4771f5083aaa7823a8d5d7",
+    "text": "‘Master’ means the Master of the High Court as defined in the Administration of Estates Act, 1965 (Act 66 of 1965);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "85e1b6c0e0087bf141d411c2d1e6af45",
+    "text": "‘mutatis mutandis’ means ‘subject to the necessary changes’;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6e7b884dc84729c40036ee6902faa2a",
+    "text": "‘party’ or any reference to a plaintiff or other litigant in terms, includes such party’s attorney with or without an advocate, as the context may require;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6aa4090aa8e3dd126951bc9f4920b3a",
+    "text": "‘registrar’ includes an assistant registrar;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "345d94849d92143987ffa137038c295f",
+    "text": "‘sheriff’ means a person appointed in terms of section 2 of the Sheriffs’ [sic] Act, 1986 (Act 90 of 1986), and includes a person appointed in terms of section 5 and section 6 of that Act as an acting sheriff and a deputy sheriff, and a person designated to serve process in terms of section 6A of the said Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1faf5e73c3ce11c05921ccb5160e2be",
+    "text": "[Rule 1 amended by GN R480 of 30 March 1973, by GN R2410 of 30 September 1991, by GN 992 of 7 December 2012 and substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d5415559ead3da1053c0afd685cd2ff8",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "5774165b64e37d85a77caf057f855eac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5d572d3a941757c5b8d42e133a4b168",
+    "text": "‘In these rules and attached forms.’ As a general rule the definitions contained in the rules apply only to the language of 1 the rules and forms themselves and not to the language of the Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8371d537a7a4d943a745411a6614fd20",
+    "text": "‘Unless the context otherwise indicates.’ By these words effect is given to the rules that a definition section does not necessarily apply in all possible contexts in which the word may be found in a statute. If a defined expression is used in a 2 context which the definition will not fit, it may be interpreted according to its ordinary meaning.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1bb5d32fdf84796413de180a5ab03753",
+    "text": "RS 22, 2023, D1 Rule 1-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b27ca3210b5f0c1360dd16fa8c75790a",
+    "text": "In regard to phrases such as ‘unless the context otherwise indicates’ and ‘unless inconsistent with the context’ which often occur in definition sections, some difference of opinion existed as to the principle of interpretation to be adopted. According 4 to Davies J the criterion is the intention of the legislature: 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae26b05a48253f68406947497ae94637",
+    "text": "‘The principle . . . is that the statutory definition should prevail unless it appears that the Legislature intended otherwise and, in deciding whether the Legislature so intended, the Court has generally asked itself whether the application of the statutory definition would result in such injustice or incongruity or absurdity as to lead to the conclusion that the Legislature could never have intended the statutory definition to apply.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05580f9a31da99ea966973d433924b68",
+    "text": "Coetzee J advocates the narrower ‘contextual approach’ on the ground that there is ‘a difference between contextual meaning 5 of words in the same statute and the concept of the intention of the legislature’ which finds expression in s 1 of the 6 Interpretation Act 33 of 1957. He puts the principle as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef092c644072ae3bf3da71649a84e263",
+    "text": "‘. . . another meaning is to be given to the particular word or phrase so defined only if the parts which precede or follow that particular word or phrase indicate that it is used in a different sense or with a different meaning. One therefore has to examine the language used in the particular section to determine whether the defined word is used clearly in a different sense in any related passage which precedes or follows the one that falls to be interpreted and, if so, whether contextually the same meaning is intended in the passage in question.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "205f4ed7483eecfdb628f45bfe71eb6e",
+    "text": "7 Cameron has rightly pointed out that ‘it must be doubted whether a distinction between linguistic context and legislative intention can be maintained since context does no more than reflect legislative meaning which in turn is capable of being expressed only through words in context’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4be3ed0d8499048a8e8a89c4fb7a0d26",
+    "text": "8 9 In Hoban v Absa Bank Ltd t/a United Bank Howie JA stated that Coetzee J defined 10 ‘context’ too narrowly if his reliance on the cited dictionary definition of ‘context’ was intended to convey that ‘context’ is confined to parts of a legislative 11 provision that immediately precede and follow the particular passage under examination. He held that ‘context’ includes the entire enactment in which the word or words in contention appear and in its widest sense will include enactments in pari 12 materia and the situation or ‘mischief’ sought to be remedied. It was also held that there is no justification for a distinction between linguistic context and legislative intention:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e2b66f8df5821c60fb7196f9c902ac26",
+    "text": "‘.. .the moment one has to analyse context in order to determine whether a meaning is to be given which differs from the defined meaning one is immediately engaged in ascertaining legislative intention. One remains so engaged until the interpretation process is concluded. It is only concluded when legislative intention is established.’",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "27d09975bd510c28351b63823bc1023e",
+    "text": "RS 22, 2023, D1 Rule 1-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e234b373611defaaadc1a709165c447c",
+    "text": "‘Act.’ The Supreme Court Act 59 of 1959 was repealed by s 55(1)(a) (item 1 of Schedule 1) of the Superior Courts Act 10 of 13 14 2013 with effect from 23 August 2013. In accordance with the general principle in the event of a conflict between a provision of the Superior Courts Act 10 of 2013 and a rule relating thereto, the provision of the Act prevails. In terms of s 51 of the Superior Courts Act 10 of 2013 the rules applicable to the various High Courts immediately before the commencement of that section remain in force to the extent that they are not inconsistent with the Act, until repealed or amended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "510400467e4b7b2f105a06575d14d620",
+    "text": "‘Action.’ In the rules the word ‘action’ is used in its narrower sense, 15 denoting ‘a proceeding commenced by summons’. The word ‘action’ is not defined in the Superior Courts Act 10 of 2013. It is submitted that it is incorrect to interpret the word ‘action’ in the Act by reference to the rules. The meaning of a word in the Act ought to be determined by reference to the Act itself. In the rules the word ‘application’ is distinguished from the word ‘action’ and means ‘a proceeding commenced by notice of motion or other forms of applications provided for by rule 6’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d4ab01fd6f745a504e5ed9b3d94f7498",
+    "text": "‘Advocate.’ On the admission of advocates, see the notes to rule 3A below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d07334db19342e4550ccaa3970cc58be",
+    "text": "Under the Legal Practice Act 28 of 2014 a Code of Conduct for All Legal Practitioners, Candidate Legal Practitioners and 16 Juristic Entities came into operation. The Code of Conduct serves as the prevailing standard of conduct and is enforced by the South African Legal Practice Council.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "10fedba15d54f428050df98fd61549e0",
+    "text": "Failure to adhere to the Code of Conduct constitutes misconduct and transgressors are subjected to disciplinary",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf",
+      "parent_id": "d5415559ead3da1053c0afd685cd2ff8"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a4c2adfd6cf7421ad944a7bd463810b1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "321a96a3bd64bd27035c3437d1eeed03",
+    "text": "17 Downloaded: Mon Feb 17 2025 10:03:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "cf19179a1475b329e2153f0fddc6c145",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 1.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69df4b2cfd0f302cff9d6cd7b53a8ecc",
+    "text": "proceedings in terms of the rules promulgated under ss 95(1), 95(3) and 109(2) of the Act. 17 Paragraphs 22–37 of the Code of Conduct regulate the conduct of advocates contemplated in s 34(2)(a)(i) of the Act and paragraphs 38–53 of the Code regulate the conduct of trust account advocates contemplated in s 34(2)(a)(ii) of the Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "989f165d5b3b0593813652dd5dab6dfb",
+    "text": "‘Application.’ In the rules the word ‘application’ is distinguished from the word ‘action’ (which is defined as meaning ‘a proceeding commenced by summons’) and means ‘a proceeding commenced by notice of motion or other forms of applications provided for by rule 6’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da9482211bb0ddc7fdc573122e746f8e",
+    "text": "‘Attorney.’ On the admission and enrolment of attorneys, see the Legal Practice Act 28 of 2014.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08c079c134fda8418cef4e7ba9938b1c",
+    "text": "Under the Legal Practice Act 28 of 2014 a Code of Conduct for All Legal Practitioners, Candidate Legal Practitioners and 18 Juristic Entities came into operation. The Code of Conduct serves as the prevailing standard of conduct and is enforced by the South African Legal Practice Council. Failure to adhere to the Code of Conduct constitutes misconduct, and transgressors are subjected to disciplinary proceedings in terms of the rules promulgated under ss 95(1), 95(3) and 109(2) of the 19 Act. Paragraph 21 of the Code provides as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0fa148796920fb2f622988bf82f65f2",
+    "text": "‘Misconduct on the part of any attorney will include (without limiting the generality of these Rules) —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f54172a2e6aa4b1ef223dc1a607a1c9",
+    "text": "21.1 a breach of the Act or of the code or of any of the rules, or a failure to comply with the Act or the code or any rule with which it is the attorney’s duty to comply;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d85912e3df5427ce24d2f2f6f7ad1763",
+    "text": "RS 22, 2023, D1 Rule 1-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "22de1aadd8740d7bdb68c466d2ee8c60",
+    "text": "21.2 any conduct which would reasonably be considered as misconduct on the part of an attorney or which tends to bring the attorney’s profession into disrepute.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12526066f241387f11f8b1d21a588960",
+    "text": "The fact that an attorney of record was not at any relevant time in possession of a valid fidelity fund certificate in terms of s 41(1) of the (now repealed) Attorneys Act 53 of 1979 does not invalidate the proceedings and cause them to be a nullity. 20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5aecc58ed34bdb3b8e5977c8a446a477",
+    "text": "In terms of the common law it is not permissible for a lay person to represent a natural person in a court of law. This 21 common-law position now finds support in s 25(1) and (2) of the Legal Practice Act 28 of 2014.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc1ef2079cf341026aa24126611be071",
+    "text": "‘Combined summons.’ This summons derives its name from the fact that, as is clear from the wording of the definition, it combines in one document a summons and the plaintiff’s particulars of claim. Rule 17 makes provision for the issue either of a 22 is intended for use in claims for a debt or a liquidated ‘summons’ or of a ‘combined summons’. The simple summons 23 demand. In all other cases (for example, matrimonial suits, claims for damages for breach of contract, delictual claims) in which particulars of claim (i e a statement of the material facts relied upon by the plaintiff in support of its claim) would 24 inevitably have to be filed, it is provided that a combined summons is to be issued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da175219e746b141b374eef35a1dbc60",
+    "text": "See further the notes to rule 17(1) and (2) below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ad9fa5d134009493a911c18b81abe81",
+    "text": "‘Court.’ This means ‘the High Court as referred to in section 6 of the Act’. See further s 6 of the Act and the notes thereto in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b9ff9392607d941cd1e4f16046bb455",
+    "text": "‘Court day.’ The definition makes it clear that only court days are to be included in the computation of any time expressed in 25 days prescribed by the rules or fixed by any order of court. Non-court days, in terms of the definition, are Saturdays, Sundays and Public Holidays. The definition does not apply to provisions contained in statutory provisions, including the 26 Where no time limit is specified, the required act must be performed within a reasonable Superior Courts Act 10 of 2013. 28 27 time. The definition does not restrict a court day to any particular hours.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "917acc7f2ac8dd12629ef0a6f9d7334f",
+    "text": "RS 23, 2024, D1 Rule 1-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60924fb87a81e5d85706c75017b7780b",
+    "text": "The definition does not apply to the calculation of time when such time is expressed in any other unit than days. If weeks or months are allowed for the performance of an act, week-ends and public holidays falling within it are obviously 29 included. Nor does the definition apply to the performance of any act under any statutory provisions other than ‘these rules’.Section 4 of the Interpretation Act 33 of 1957 excludes only the last Sunday or public holiday (but includes Saturdays) in a period of time. The definition in rule 1 must, therefore, take precedence in so far as all Saturdays, Sundays and public holidays are excluded from the calculation of the period. Rule 1 also takes precedence when the terminal date of any period of time which covers a Saturday, Sunday and/or public holiday is being determined. Rule 1 is otherwise subject to the provisions of the Interpretation Act 33 of 1957 and it follows that, as a general rule, in computing a period of time in terms of the 30 definition, the first date is to be excluded and the last included.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a97bf50fc965ad77e22cdd2fface09d",
+    "text": "The days to be observed as public holidays are set out in the First Schedule to the Public Holidays Act 36 of 1994. 31 In terms of s 2 of the Act, if any public holiday falls on a Sunday, the following Monday shall be a public holiday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e4c14625571bea922e8b3f2e82dead3",
+    "text": "From the aforegoing it follows that periods of time prescribed by the rules are to be computed as follows: where a rule prescribes that something shall be done ‘within’ a particular number of days ‘after’ a named day or event, the named day or day of the event is excluded from the calculation and the period starts to run from the following day, whether the words",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6d753869dc942e6279b2ef99c591f7d",
+    "text": "RS 23, 2024, D1 Rule 1-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "686cb80403e2c68c4efef91590c6bb5b",
+    "text": "‘after’, ‘from’ or ‘of’ are used. 32 Saturdays, Sundays and public holidays are excluded from the calculation. The last day is included and if it happens to be a Saturday, Sunday or public holiday, the period expires on the next business day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0b63d9d456129cc497c447793a756f3",
+    "text": "In earlier decisions the ‘clear days’ method of calculation was applied where a rule required an act to be performed a particular number of days ‘before’ a named day (e g ‘at least four days before’, ‘not less than three weeks before’, etc); thus, the named day was excluded and the full number of days was counted backwards (excluding Saturdays, Sundays and public holidays) from and including the day before the named day or event, so as to allow the full prescribed number of days or 33 34 weeks for the performance of that act. In Nedcor Bank v The Master the Supreme Court of Appeal declined to follow these earlier decisions and to apply the ‘clear days’ method of calculation. In dealing with s 40(2) of the Insolvency Act 24 of 1936 (which provides that ‘[t]he Master shall publish such notice on a date not less than ten days before the date upon which 35 the meeting is held’) the court held that the first and last days are to be established solely by reference to the language of the provision under consideration and with due regard to the circumstances of each particular case. In applying s 4 of the 36 Interpretation Act 33 of 1957 to s 40(2) of the Insolvency Act, the court held that reckoning backwards was the appropriate method, that the named (first) day (i e the day on which the meeting was to be held) was to be excluded and that the last day (i e the day on which the Master published the notice) was to be included. In view of the aforesaid it is submitted that, where a rule requires an act to be performed a particular number of days ‘before’ a named day and it does not explicitly appear from the wording of such rule that the ‘clear days’ method of computation is applicable (e g from wording such as ‘both the first and last days to be exclusive’), the correct method to apply is the statutory method enacted by s 4 of the Interpretation Act 33 of 1957. Normally, but not exclusively, reckoning in such instances would be backwards.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ec1e8654d2d199c8089f13f9bf4a1a40",
+    "text": "Rule 19(1) provides that the days between 16 December and 15 January, both inclusive, shall not be counted in the time allowed within which to deliver a notice of intention to defend. Rule 6(5)(b)(iii)(aa) provides that for the purposes of subrule",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "329bc2d281aa3b7c0d1907cbe1cab792",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c840ad0876e1c0782c4843dab1e8f7ed",
+    "text": "Downloaded: Mon Feb 17 2025 10:03:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "c365367dadbccec132b69353d3bf89c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 1.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "11ff9a47a849a9343c74b248dfe5e8c7",
+    "text": "(5), the days between 21 December and 7 January, both inclusive, shall not be counted in the time allowed for delivery of a notice of intention to oppose or delivery of any affidavit.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c122fe78e67dcecfc54af1a6829d5b64",
+    "text": "‘Deliver.’ Both filing with the registrar and service upon all parties must take place. The usual practice is to require receipt of a copy of a document that has been delivered to be acknowledged on the original by the recipient. The original is filed with the registrar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f65af627123a3f0e69f535035b3fdc39",
+    "text": "‘Judge.’ References to a judge sitting otherwise than in open court are to be found in rules 3, 6(12)(a), 31(1), 34(7), 35(1) 37 and (2), 36(3), (5) and (7), 39(22) and (23), 40(5), 46(11)(a) and (14), 48(1), (2) and (3), and 64.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f45a42a74bfebd0fc15888db21a887c",
+    "text": "Provision is made in the Court Notices, Practice Notes or rules of practice of certain divisions of the High Court that in matters in which an order, judgment or direction is sought",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b69ef123332ec23349e560629f8c4c6",
+    "text": "RS 22, 2023, D1 Rule 1-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40250d5dacc6cc157b6aeff95f461c36",
+    "text": "from a judge sitting otherwise than in open court, application may be brought through the Chamber Book to the judge in 38 chambers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "560ed1ffcda9f401c1a406a23a9b7c02",
+    "text": "‘Party.’ This includes the attorney with or without the advocate, as the context may require, acting for such litigant. 39",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e0e3721b5aec6b8656c246ad56297c3",
+    "text": "The word ‘party’ must be confined to the purposes of the rule. It is submitted that the definition does not apply to the interpretation of the word ‘party’ when it appears in an agreement between a plaintiff and a defendant, which has no 40 reference to the rules.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "819aca353bc9d23df75a9a5d65785885",
+    "text": "‘Registrar.’ In s 1 of the Superior Courts Act 10 of 2013 ‘registrar’ is defined as ‘the registrar of the Constitutional Court, the Supreme Court of Appeal or any Division of the High Court, as the case may be, and includes an assistant registrar’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4ceadc383b45d3706c54d1d4d5551f1d",
+    "text": "‘Sheriff.’ In terms of s 2 of the Sheriffs Act 90 of 1986 the Minister may appoint, in the manner prescribed in the Act, for a lower or superior court a person as sheriff of that court. A person so appointed shall perform within the area of jurisdiction of the lower or superior court for which he has been appointed the functions assigned by or under any law to a sheriff of that 41 court. The following matters are, inter alia, dealt with in the Sheriffs Act 90 of 1986: the term of office of sheriffs (s 4); appointment of acting sheriffs (s 5) and deputy sheriffs (s 6); appointment of sheriffs or acting sheriffs to perform duties in another area (s 6B); establishment of a South African Board for Sheriffs (s 7); accounts for trust moneys (s 22); establishment and control of a Fidelity Fund for sheriffs (s 26) and fidelity fund certificates (s 30); liability of Fund (ss 35–42); improper conduct (ss 43–52); liability of sheriffs (s 55); inspectors (ss 56–57). Regulations made under s 62 of the Sheriffs Act 42 90 of 1986 were published by GN R411 of 12 March 1990 and amended from time to time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f587f0796abdf488fdfdaa70fa17db8",
+    "text": "A sheriff or a deputy-sheriff may not perform any function assigned to a sheriff by or under any law unless he is the holder of a fidelity fund certificate and has obtained professional indemnity insurance to the satisfaction of the South African Board 43 for Sheriffs. An acting sheriff may not perform any function assigned to a sheriff by or under any law unless he is the holder 44 of a fidelity fund certificate or has paid the prescribed contribution to the South African Board for Sheriffs .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c6282698f46e750cbc1b3cfa4df15b2",
+    "text": "RS 22, 2023, D1 Rule 1-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4dc4e900f4f096043263957bc2245b9b",
+    "text": "[Blank as per print]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "778261009d2f5f53726b94bb9016a2d6",
+    "text": "See Rosslee v Rosslee 1971 (4) SA 48 Wahl! v Prinswil Beleggings (Edms) Bpk 1984 Johannes 1986 (1) SA 571 (E).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3533ec71f87a39e4359276a789c02503",
+    "text": "1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "37f75008284216cffb2e638b2a7f6acf",
+    "text": "(O)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1195ddc39852b9bdfba9449ef47c8168",
+    "text": "at 50; Mooi River Valley Seed Potato Growers’ Association v Steyn 1975 SA 642 (N) at 647; SA 457 (T) at 459-60; Rossouw & Prinsloo v Potgieter 1984 (2) SA 603 (T); Johannes v",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "83e7454222685ca772c186cbf6b3e31a",
+    "text": "(3)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "183aaea498c3ce48f998b14afb6261f6",
+    "text": "(1)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8a865fb4047e038d5e5822a73b202f7d",
+    "text": "2 The rule was applied by Watermeyer CJ in CIR v Simpson 1949 (4) SA 678 (A) at 679, by O’Hagan J in Fourie v Jansenville Municipal Revision Court 1960 (4) SA 204 (E) at 205, and by Smith J in S (Pvt) Ltd v Commissioner of Taxes 1985 (4) SA 34 (ZHC) at 42. See also Town Council of Springs v Moosa 1929 AD 401 at 417; Limbada v Principal Immigration Officer 1933 NPD 146 at 150; Commissioner of Customs and Excise v Officer Designated under Act 24 of 1936 1958 (1) SA 86 (W) at 88; Brown v Cape Divisional Council 1979 (1) SA 589 (A) at 600.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "eb1fc2364264c9b712cef214a6406cdc",
+    "text": "3 First Consolidated Leasing Corporation Ltd v Theron 1974 (4) SA 244 (T); Röntgen v Reichenberg 1984 (2) SA 181 (W). See also the discussion in Hoban v Absa Bank t/a United Bank Ltd 1999 (2) SA 1036 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "64b027e1619cb2dfee3e53a522d7750a",
+    "text": "Réntgen v Reichenberg 1984 (2) SA 181 (W) gINI >",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0db304ab1e582aa31681688059bce570",
+    "text": "4 Canca v Mount Frere Municipality 1984 (2) SA 830 (TkSC) at 832.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e1d9a33e99709d989bccb4c1111477b8",
+    "text": "at 185A-H.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "94245609ba1a4e2705d81d36d91257b6",
+    "text": "6 Röntgen v Reichenberg 1984 (2) SA 181 (W) at 184H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6c6a615c70e5fe82432e6dc1516c8802",
+    "text": "7 In the title ‘Time’ in LAWSA vol 27 paragraph 229. This does not necessarily mean that Röntgen v Reichenberg 1984 (2) SA 181 (W) was wrongly decided.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2da6d69ce2bbb311f2ae9f0d8c37c4c8",
+    "text": "8 1999 (2) SA 1036 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1148375c7803dfdf027a7d6fc8565a22",
+    "text": "9 At 1044G–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a3775d79eff7e220100f5f3d4eded2af",
+    "text": "In Réntgen v Reichenberg 1984",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "15f3762a3c5579a1ba29f89bd359bdc5",
+    "text": "at 184E-G.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "793a27ab82393c5d224355f3e9b521aa",
+    "text": "SA 181 (W)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "eae4f3513359086f0d31983e177fef0e",
+    "text": "(2)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2ec8db94b2121c2bd4d323cc76790bfd",
+    "text": "- 0 FIREREREBIERRE]",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4e49476b4af1d6e5b1f067fef4e4859a",
+    "text": "11 At 1044H–J. See also Re Evans [1891] 1 QB 143; Attorney-General v HRH Prince Ernest Augustus of Hanover [1957] AC 436 (HL)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "58b6aa74853830714209b85a61f43204",
+    "text": "([1957] 1 All ER 49).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "312c6bea37d4e7933efb2c74ae22595d",
+    "text": "12 Hoban v Absa Bank Ltd t/a United Bank 1999 (2) SA 1036 (SCA) at 1044J–1045A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "04f2fda56785f822c1c2a94d1e612e4a",
+    "text": "13 GN R36 of 2013 published in GG 36774 of 22 August 2013.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a72325302a93ff8022bdb7fd4e16b191",
+    "text": "14 As to which see the notes s v ‘General’ at the beginning of the rules above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4accf06576f8b85c5994e1e12cbcb4bc",
+    "text": "15 See Collier v Redler 1923 AD 640 at 648–9.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85f4a17e44a8290ea3afb13284e1137b",
+    "text": "16 GN 168 of 2019 in GG 42337 of 29 March 2019, as corrected by GN 198 of 2019 in GG 42364 of 29 March 2019.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a01d4efdfd88d7e716a123886f8cb84",
+    "text": "17 As per GG 41781 of 20 July 2018.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4c0d45c446a12952f3d98d59322d7cd7",
+    "text": "18 GN 168 of 2019 in GG 42337 of 29 March 2019, as corrected by GN 198 of 2019 in GG 42364 of 29 March 2019.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56b8828476b172fa2e62ab9509c9b232",
+    "text": "19 As per GG 41781 of 20 July 2018.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f8e4a7031bb2db0a238b7c39057eb9e8",
+    "text": "20 NW Civil Contractors CC v Anton Ramaano Inc 2020 (3) SA 241 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8d4d54fdb6d59b72b8d94ee4af4e6b79",
+    "text": "21 Commissioner for the South African Revenue Service v Van der Merwe (unreported, SCA case no 211/2021 dated 30 June 2022) at paragraph [45].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e226583573bc543c432afd51d240c3c8",
+    "text": "22 Form 9.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7e5de7b316589ed2fdb6ab31998725f",
+    "text": "23 As to what is meant by a debt or a liquidated demand, see the notes to rule 17(2) below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3dd6cb1ed60036741a3a02c7af267a35",
+    "text": "24 Form 10.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0a32c4113616acd042c7da4cb99a0e1f",
+    "text": "25 Ex parte Venter and Spain NNO: Fordom Factoring Ltd intervening, Venter and Spain v Povey 1982 (2) SA 94 (D) at 104; Röntgen v Reichenberg 1984 (2) SA 181 (W) at 184–5; Pierre Cronje (Pty) Ltd v Adonis 2010 (4) SA 294 (WCC) at 296I–297A, not following Bosveld Hotel (Pty) Ltd v Nissen 1979 (2) SA 746 (T) at 747H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d17926b11b434d7973c37a512d0796b2",
+    "text": "26 In terms of s 1 of the Superior Courts Act 10 of 2013 the term ‘business day’ means a day that is not a public holiday, Saturday or Sunday. Section 9(1)(a) of the Act provides that all superior courts must be open to the public every business day. Superior courts may, however, in terms of s 9(1)(b) of the Act, perform the functions of the court on any Saturday, Sunday or public holiday as may be required from time to time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "451d1c8b1de419544b79d0a6a06a926d",
+    "text": "27 L F Boshoff Investments (Pty) Ltd v Cape Town Municipality (2) 1971 (4) SA 532 (C) at 535; Gisman Mining and Engineering Co (Pty) Ltd (in liquidation) v LTA Earthworks (Pty) Ltd 1977 (4) SA 25 (W) at 27. On computation of time in general, see the title ‘Time’ by Cameron in",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0add4eff258e33f97fa69059135b1c16",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "99344f06f8de000964667a3221c30b44",
+    "text": "Downloaded: Mon Feb 17 2025 10:03:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "cf19179a1475b329e2153f0fddc6c145",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 1.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3690ca70b4832b2230a56922afeb0b2e",
+    "text": "LAWSA vol 27; De Villiers 1972 De Rebus 211; Aronstam (1975) 92 SALJ 409–21; Loubser 1988 TSAR 368–76. 28 ADCORP Fulfilment Services (Pty) Ltd v Prodigy Human Capital Architects (Pty) Ltd (unreported, GJ case no 2018/17932 dated 26 May 2023) at paragraph 24. In this case it was held, further, that (footnotes indicated between [ ]): ‘26. As a general rule, in the absence of any contrary indication, a period of time must be computed according to the ordinary civil method in terms of which “fractions of a day are not admitted” and “no account is taken of broken units”, “a whole day [is] one point of time”. [Joubert v Enslin 1910 AD 6, at p. 26 and 34; Tiopaizi Appellant v Bulawayo Municipality Respondent 1923 AD 317, p. 321 and 326; Kleynhans v Yorkshire Insurance Co Ltd 1957 (3) SA 544 (A), at 449 F; and Dormell Properties 282 CC v Renasa Insurance Co Ltd and Others NNO 2011 (1) SA 70 (SCA), para. 27. (In Coface South Africa Insurance Co Ltd v East London Own Haven t/a Own Haven Housing Association 2014 (2) SA 382 (SCA), the SCA held that Dormell was wrongly decided by the majority on a different issue.)] As pointed out by Cloete J, as he then was, in the minority judgment in Dormell Properties 282 CC v Renasa Insurance Co Ltd and Others NNO, the old authorities generally permitted “the whole of the day” and the last day of any stipulated period “must have ended” before the period expired. The day ended on the “close of the day”, not on the close of business. Our courts adopted [Joubert v Enslin supra] and continue to apply [Justice Alliance of South Africa v President of the Republic of South Africa and Others 2011 (5) SA 388 (CC), para.6; and Arendsnes Sweefspoor CC v Botha 2013 (5) SA 399 (SCA), at para. 1 and 20.] this aspect of the civil method, and in the pursuit of certainty do not readily depart from the civil method of computing time. [Kleynhans v Yorkshire Insurance Co Ltd 1957 (3) SA 544 (A), at 549 F and 550 G; South African Mutual Fire and General Insurance Co Ltd v Fouché en ’n Ander; AA Mutual D Insurance Association Ltd v Tlabakoe 1970 (1) SA 302 (A) at 316B–C; and Nedcor Bank Ltd v the Master and Others 2002 (1) SA 390 (SCA), para. 12] Accordingly, a day ordinarily begins and ends in the immeasurable moment on either side of midnight. 27. This aspect of the civil method of calculating time is applied to the periods stipulated in inter alia the uniform rules of court [Felix and Another v Nortier NO and Others (2) 1994 (4) SA 502 (SE), at 504G.] and in instances where the whole of the day was not intended, the uniform rules of court specified the fraction of the day which did apply by stipulating the time of day by or during which the contemplated action must be performed. For example, rule 32 (prior to amendment in 2019) required a defendant to file the affidavit opposing summary judgment prior to noon on the court day preceding the day on which the application is to be heard; a similar requirement is found in rule 6(4) (a); noon is also set as the cutoff in rules 6(5)(c) and 8(4) and (5); and the inspection of documents provided for in rules 35(6) and 70(3B) (a)(i) may only take place during business hours. The uniform rules of court do not expressly do so in rule 28(2) and the absence of any restriction in rule 28(2) is an indication that none was intended.’ 29 ‘Month’ means a calendar month (s 2 of the Interpretation Act 33 of 1957). If a period of time is expressed in terms of weeks or months, the common law applies (Joubert v Enslin 1910 AD 6 at 36–7; Lammas v Nicholls and Alderson 1911 TPD 968 at 977–8; Du Plessis v United African Furnishing Co 1921 OPD 156 at 159–60; Nair v Naicker 1942 NPD 3 at 6; Somdaka v Northern Insurance Co Ltd 1961 (4) SA 764 (D) at 769; Nedcor Bank Ltd v The Master 2002 (1) SA 390 (SCA) at 395D–E. See also the title ‘Time’ in LAWSA vol 27). 30 Suliman Mia v Bulbolia & Son Ltd 1924 (1) PH F13. 31 As amended by the Public Holidays Amendment Act 48 of 1995. In terms of s 2A which was inserted into the main Act by the amending Act, the President may, in addition to the public holidays listed in the First Schedule, declare any day to be a public holiday throughout the Republic or any part thereof. 32 Ex parte Tredoux 1926 CPD 7; Ex parte Nel 1929 OPD 210; Suliman Mia v Bulbolia & Son Ltd 1924 (1) PH F13. 33 Harrison v Hendry 1924 (1) PH F29; Miller v Malmesbury Licensing Court 1929 CPD 209 at 218–19; Ex parte Catsavis 1941 WLD 81; Loxton v Loxton 1942 OPD 201; Ex parte Schoeman 1943 OPD 197; Schoeman v Moller 1950 (3) SA 41 (O); Watson v Krieks 1963 (3) SA 546 (O); Ex parte Douglas 1964 (4) SA 385 (O); Ex parte Curry 1965 (1) SA 392 (C); Cohn v Cohn 1965 (3) SA 203 (O); Papenfus v Nichas & Son (Pty) Ltd 1969 (4) SA 234 (O); and see Essop v Bhamjee 1968 (3) SA 578 (T) at 580.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf7130ee3d7f68bb6f21d381ddaea523",
+    "text": "34 2002 (1) SA 390 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a50da5d8688c38b903bc2a48913869c9",
+    "text": "35 At 394E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "51fea4686a1c034216836be9dee3658a",
+    "text": "AN",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "35d1db2fc6965e73d405c6dff75bbf50",
+    "text": "36 At 394G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c223235637d5b202167925fa0af118a",
+    "text": "37 Mahomed v Mahomed 1999 (1) SA 1150 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70d7f1b2a2b5fd00a994d8f2bed0f0af",
+    "text": "38 See rule 17(d) of the Joint Rules of Practice for the High Courts of the Eastern Cape, Practice Direction 22 of the North West Division of the High Court, Mahikeng and paragraph 37 of the Consolidated Practice Notes of the Western Cape High Court, Cape Town, in Volume 3, Part F2, Part L1 and Part N1 respectively.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed9b3469aaf6657065e207e78d7fd382",
+    "text": "39 Klein v Klein 1993 (2) SA 648 (BG) at 651E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb18f757864dba87873e84e3588aaab1",
+    "text": "40 Udwin v Cross 1962 (2) SA 291 (T) at 292.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14538776870e1788957f818531b83346",
+    "text": "41 Section 3(1) of the Sheriffs Act 90 of 1986. See also Volume 1 third edition, Part D, Appendix 6.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "011ce10f63b86b245b2f0af0a7de8073",
+    "text": "42 By Government Notices R2207 of 14 September 1990, R3440 of 31 December 1992, R1836 of 1 October 1993, R1566 of 16 September 1994, R1218 of 11 August 1995, R1193 of 25 September 1998, R1668 of 18 December 1998, R256 of 1 March 1999, R957 of 5 October 2001, R1293 of 5 December 2008, R742 of 14 September 2011; R568 of 18 July 2014; R1330 of 30 November 2018.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af924f9221d5250fa4513809eb160ea1",
+    "text": "43 Section 30(1)(a) and (b) of the Sheriffs Act 90 of 1986.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fe8193887a5dceda471de280dc448a55",
+    "text": "44 Section 30(1)(c) of the Sheriffs Act 90 of 1986.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e6590f956adad77d32db8427bb5e7bce",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d5c5a194de6456027bfb83bfdd447b7a",
+    "text": "Downloaded: Mon Feb 17 2025 10:03:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 1.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "c365367dadbccec132b69353d3bf89c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 1.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

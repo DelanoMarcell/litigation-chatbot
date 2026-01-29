@@ -1,0 +1,204 @@
+[
+  {
+    "type": "Title",
+    "element_id": "5f874f669b24e0c512ed4b5058285afa",
+    "text": "64 Destruction of documents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1e37b8cdfc6a002aadbe3ad51ea8ce54",
+    "text": "RS 22, 2023, D1 Rule 64-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "5f874f669b24e0c512ed4b5058285afa"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a85b6fba1b236ed974470699eaa7fc41",
+    "text": "In any matter which has not been adjudicated upon by the court or a judge, and has not been withdrawn, the registrar may, subject to the provisions of the Archives Act, 1962 (Act 6 of 1962), after the lapse of three years from the date of the filing of the last document therein, authorise the destruction of the documents filed in his office relating to such matter.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "5f874f669b24e0c512ed4b5058285afa"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "213967fd5e31fab37e96a4b9c65cdcda",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9fb5157640f2264fa2ebb636e27cb9c5",
+    "text": "General. It is to be noted that the rule applies only to matters which have not been adjudicated upon by a court or judge, and have not been withdrawn.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6f49b973bcae9107dd52b032c3b8ae81",
+    "text": "The rule entitles but does not oblige the registrar to destroy documents, and there is no basis upon which the court, at the 1 instance of a litigant, can compel the registrar to destroy documents.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a07a3f3fe513ba79360617b6fbc0a3f0",
+    "text": "It is suggested that the rule should provide for the giving of notice to the parties of an intended destruction of documents.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1656853978032fd17d39f87a1b6dbb06",
+    "text": "If the registrar has not yet authorized the destruction of the documents the action still remains pending in the court. 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a04dc45d1b9b603a172a622b6524ab8",
+    "text": "‘The Archives Act, 1962 (Act 6 of 1962).’ The Archives Act 6 of 1962 was repealed by the National Archives and Record Service of South Africa Act 43 of 1996.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "678530ce91fd1d5c46c6f816d451d7a8",
+    "text": "1 Molala v Minister of Law and Order 1993 (1) SA 673 (W) at 675J.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "101f74be93189a5bfea95dc81e9156ea",
+    "text": "2 Morgan-Smith v Elektro Vroomen (Pty) Ltd 1977 (2) SA 191 (O); and see Molala v Minister of Law and Order 1993 (1) SA 673 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf",
+      "parent_id": "213967fd5e31fab37e96a4b9c65cdcda"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "06192dc4ec38c7680266a266c2e795d9",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "385c29a2e9bd0fa8b50646fb3285d260",
+    "text": "Downloaded: Mon Feb 17 2025 12:14:15 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 64.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "2d91a9a31a665cfd74c1bc5fbcd394d5",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 64.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

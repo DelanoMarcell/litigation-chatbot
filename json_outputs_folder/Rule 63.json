@@ -1,0 +1,1379 @@
+[
+  {
+    "type": "Title",
+    "element_id": "e94a3158a409241123675b4ebf095d18",
+    "text": "63 Authentication of documents executed outside the Republic for use within the Republic",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "797483d0788f0c7144c26e8ce8870128",
+    "text": "RS 23, 2024, D1 Rule 63-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4cb8716feb33981bcf4f45b1cd2f8fe7",
+    "text": "(1) In this rule, unless inconsistent with the context —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c44755681a10b6ddbccb33631c200131",
+    "text": "‘document’ means any deed, contract, power of attorney, affidavit or other writing, but does not include an affidavit or solemn or attested declaration purporting to have been made before an officer prescribed by section eight of the Justices of the Peace and Commissioners of Oaths Act, 1963 (Act 16 of 1963);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c70465ca945b5b60da1f4b0de7eb65b",
+    "text": "‘authentication’ means, when applied to a document, the verification of any signature thereon.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "039d4426e81a2d491db7e9fcd9283063",
+    "text": "(2) Any document executed in any place outside the Republic shall be deemed to be sufficiently authenticated for the purpose of use in the Republic if it be duly authenticated at such foreign place by the signature and seal of office —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d89886386bcc066002e705c649a7ccc",
+    "text": "(a) of the head of a South African diplomatic or consular mission or a person in the administrative or professional division of the public service serving at a South African diplomatic, consular or trade office abroad; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf23d4f46fe28833ca0f326a9e684438",
+    "text": "[Paragraph (a) substituted by GN R2047 of 13 December 1996.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2418225a1a341a31a5a5a07c160cf1e1",
+    "text": "(b) of a consul-general, consul, vice-consul or consular agent of the United Kingdom or any other person acting in any of the aforementioned capacities or a pro-consul of the United Kingdom;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "60a83fa65ecf7998c5bef7711a3cddda",
+    "text": "[Paragraph (b) substituted by GN R2004 of 15 December 1967.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7cbb6c6701786380ccbe042bcdf81f74",
+    "text": "(c) of any Government authority of such foreign place charged with the authentication of documents under the law of that foreign country; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c676497ed07f5142d82b0f38d77aa7c",
+    "text": "(d) of any person in such foreign place who shall be shown by a certificate of any person referred to in paragraph (a), (b), or (c) or of any diplomatic or consular officer of such foreign country in the Republic to be duly authorised to authenticate such document under the law of that foreign country; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c64ae74861e6cf808cbe380d73822dc",
+    "text": "[Paragraph (d) substituted by GN R2047 of 13 December 1996.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d27bc2811187d984b4931e48a527e16b",
+    "text": "(e) of a notary public in the United Kingdom of Great Britain and Northern Ireland or in Zimbabwe, Lesotho, Botswana or Swaziland; or [Paragraph (e) amended by GN R960 of 28 May 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39c677ee59d06fc33903652c65a27d80",
+    "text": "(f) of a commissioned officer of the South African Defence Force as defined in section one of the Defence Act, 1957 (Act 44 of 1957), in the case of a document executed by any person on active service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6c04c2b120d6b81da6fdfa6bd58c01f3",
+    "text": "(2A) Notwithstanding anything in this rule contained, any document authenticated in accordance with the provisions of the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents shall be deemed to be sufficiently authenticated for the purpose of use in the Republic where such document emanates from a country that is a party to the Convention.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c5ba96f55b22e8c23ec050d5ee9fe280",
+    "text": "[Subrule (2A) inserted by GN R89 of 12 February 2010.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3f1307f7b3bbf9bd23bffc1fd3b33e09",
+    "text": "(3) If any person authenticating a document in terms of subrule (2) has no seal of office, he shall certify thereon under his signature to that effect.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05961f4bc41867790845831bbbf760ed",
+    "text": "RS 23, 2024, D1 Rule 63-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2c578dd83782e43d95b2c043d3ee9a4",
+    "text": "(4) Notwithstanding anything in this rule contained, any court of law or public office may accept as sufficiently authenticated any document which is shown to the satisfaction of such court or the officer in charge of such public office, to have been actually signed by the person purporting to have signed such document.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f533e10c9b8fe80c19603c30f7ce7c44",
+    "text": "[Subrule (4) substituted by GN R235 of 18 February 1966.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc476c8f696e132f508c0346470fd533",
+    "text": "(5) No power of attorney, executed in Lesotho, Botswana or Swaziland, and intended as an authority to any person to take, defend or intervene in any legal proceedings in a magistrate’s court within the Republic, shall require authentication: Provided that any such power of attorney shall appear to have been duly signed and the signature to have been attested by two competent witnesses.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "88d7cdb8841af14159b7064a384b1ada",
+    "text": "[Subrule (5) amended by GN R960 of 28 May 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd6f923fc85ad1f5a8881a6d1328f3cf",
+    "text": "[Rule 63 amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "e94a3158a409241123675b4ebf095d18"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ff7724af622060b2bed685feb053e634",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc874353a98e9e00a126368f0292f405",
+    "text": "General. There is no substantive enactment which lays down that a document executed in a foreign place must be authenticated. The general practice of requiring such authentication is, however, long established. The manner in which documents executed outside the Republic may be authenticated in order to permit their being produced or used in any court or produced or lodged in any public office in the Republic is prescribed by this rule which also applies to the production and use of such documents in the magistrates’ courts. The provisions of the rule are not exhaustive or imperative but merely 1 directory. The rule does not take away the power of the court to consider other evidence directed at the proof of a 2 document executed in a foreign place, and to accept such document as being duly executed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "ff7724af622060b2bed685feb053e634"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b078a437117dd567c9e4ac34f1f3e3d",
+    "text": "In addition to the rule there is the Hague Convention Abolishing the Requirement of Legalization for Foreign Public 3 Documents entered into between the Republic of South Africa and various other states:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "ff7724af622060b2bed685feb053e634"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "38fe5f0d9aab66dc1a9ec2e545327a8f",
+    "text": "NOTICE 773 OF 1995 ACCESSION TO THE CONVENTION ABOLISHING THE REQUIREMENT OF LEGALISATION FOR FOREIGN PUBLIC DOCUMENTS",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1aa023121e11483e117758fdf9bf6be",
+    "text": "It is hereby notified for general information that the Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, the text of which appears in the Schedule hereto, entered into force between the Republic of South Africa and the following States on 30 April 1995.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f23bb37ce4369f02be5e14faf3efef27",
+    "text": "Antigua and Barbuda, Argentina, Armenia, Austria, Bahamas, Belgium, Belize, Byelorus, Bosnia and Herzegovina, Botswana, Brunei Darussalam, Croatia, Cyprus, Fiji, Finland, France, Germany, Greece, Hungary, Israel, Italy, Japan, the Kingdom of the Netherlands, Lesotho, Liechtenstein, Luxembourg, the former Yugoslav Republic of Macedonia, Malawi, Malta, Marshall Islands, Mauritius, Norway, Panama, Portugal, Russia, Seychelles, Slovenia, Spain, Surinam, Swaziland, Tonga, Turkey, the United 4 Kingdom of Great Britain and Northern Ireland and the United States of America.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6884185197437fa1aee03794cf2f13b6",
+    "text": "RS 23, 2024, D1 Rule 63-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2210bf045357acbd3eb0fb0239b8f82f",
+    "text": "In terms of Article 6 of the Convention, the following authorities competent to issue the certificates referred to in Article 3 of the Convention, were designated:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47a3dd4ef2644c222b20439e27dbb121",
+    "text": "1. Any magistrate or additional magistrate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "56a74f019b3f7a746f716759e6d9ec9f",
+    "text": "2. Any registrar or assistant registrar of the Supreme Court of South Africa.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6b289c18d2b9edd08fc5024efe96da5",
+    "text": "3. Any person designated by the Director-General: Justice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2dc7507227c0562b26e99a2925160e40",
+    "text": "4. Any person designated by the Director-General: Foreign Affairs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38fe5f0d9aab66dc1a9ec2e545327a8f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3468cd95391539f646439067a28ea547",
+    "text": "SCHEDULE",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fef6dc8a49131c7034935a1d680231fc",
+    "text": "Convention Abolishing the Requirement of Legalisation for Foreign Public Documents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e32ba44d14f6c89d182fd8b4a7281cc2",
+    "text": "The States signatory to the present Convention, Desiring to abolish the requirement of diplomatic or consular legalisation for foreign public documents, Have resolved to conclude a Convention to this effect and have agreed upon the following provisions:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "fef6dc8a49131c7034935a1d680231fc"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "a73baf89dc225acb5ebbcc8d0de39428",
+    "text": "Article 1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eafbabc2a1c69a3a58486bd4ee1774d5",
+    "text": "The present Convention shall apply to public documents which have been executed in the territory of one contracting State and which have to be produced in the territory of another contracting State.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "a73baf89dc225acb5ebbcc8d0de39428"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "345459ba0ca40c857e76fdc2e14ad5db",
+    "text": "For the purposes of the present Convention, the following are deemed to be public documents:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "a73baf89dc225acb5ebbcc8d0de39428"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "72f0418a3c890de1b36559eb644b25be",
+    "text": "(a) documents emanating from an authority or an official connected with the courts or tribunals of the State, including those emanating from a public prosecutor, a clerk of the court or a process server (“huissier de justice”);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "a73baf89dc225acb5ebbcc8d0de39428"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b41ed96444d5743cebd9cc744baa3d30",
+    "text": "(b) administrative documents;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf",
+      "parent_id": "a73baf89dc225acb5ebbcc8d0de39428"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "893449994df82d637694bdde78c0ac7b",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "582b7bd5bf4316968a88a4707335a182",
+    "text": "Downloaded: Mon Feb 17 2025 12:11:54 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "09efb495bd8c87ada6c6c28b5cf355a3",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 63.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d99e7352e59417d4e096d6fedf66de9",
+    "text": "(c) notarial acts;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6cc5f25d1f6e9a68a12937c5303079f",
+    "text": "(d) official certificates which are placed on documents signed by persons in their private capacity, such as official certificates recording the registration of a document or the fact that it was in existence on a certain date and official and notarial authentications of signatures.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f6a34c558fc0f5a1b9bec19468d9c2a",
+    "text": "However, the present Convention shall not apply:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "973c68c8255d5a6e30a5b193201462fa",
+    "text": "(a) to documents executed by diplomatic or consular agents;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "326cc4c6a93cba3de2cb4ac044619dc3",
+    "text": "(b) to administrative documents dealing directly with commercial or customs operations.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "3d0221628c6257239f638f2e882e6205",
+    "text": "Article 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1acdba6688089078353547e58999799",
+    "text": "Each contracting State shall exempt from legalisation documents to which the present Convention applies and which have to be produced in its territory. For the purposes of the present Convention, legalisation means only the formality by which the diplomatic or consular agents of the country in which the document has to be produced certify the authenticity of the signature, the capacity in which the person signing the documents has acted and, where applicable, the identity of the seal or stamp which it bears.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "3d0221628c6257239f638f2e882e6205"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b697a718d7605f6dea58fd532c3ce86b",
+    "text": "Article 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8021da851f2df155904afe7ccc4ba823",
+    "text": "The only formality that may be required in order to certify the authenticity of the signature, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which it bears, is the addition of the certificate described in Article 4, issued by the competent authority of the State from which the document emanates.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "b697a718d7605f6dea58fd532c3ce86b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "036ba6689f2957eca8059293e304369f",
+    "text": "However, the formality mentioned in the preceding paragraph cannot be required when either the laws, regulations, or practice in force in the State where the document is produced or an agreement between two or more contracting States have abolished or simplified it, or exempt the document itself from legalisation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "b697a718d7605f6dea58fd532c3ce86b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c50db6253578952a9c304bbec1f3a4a",
+    "text": "RS 23, 2024, D1 Rule 63-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "b697a718d7605f6dea58fd532c3ce86b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "74d474598104c49a19c5c06d7eebdc0f",
+    "text": "Article 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad947116ffe36ddfde8be1733a7c6a09",
+    "text": "The certificate referred to in the first paragraph of Article 3 shall be placed on the document itself or on an “allonge”; it shall be in the form of the model annexed to the present Convention. It may, however, be drawn up in the official language of the authority which issues it. The standard terms appearing therein may be in a second language also. The title “Apostille (Convention de la Haye du 5 October 1961)” shall be in the French language.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "74d474598104c49a19c5c06d7eebdc0f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bf8f34dce59fb5020d3273d31e54cc9f",
+    "text": "Article 5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d2001ac2216cc11707d31d929d50b7e3",
+    "text": "The certificate shall be issued at the request of the person who has signed the document or of any bearer. When properly filled in, it will certify the authenticity of the signature, the capacity in which the person signing the document has acted and, where appropriate, the identity of the seal or stamp which the document bears. The signature, seal and stamp on the certificate are exempt from all certification.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "bf8f34dce59fb5020d3273d31e54cc9f"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1403cf4684390bada0379b0d122124b7",
+    "text": "Article 6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "246656196e4c9e8e0e3633f3ca8c8df0",
+    "text": "Each contracting State shall designate by reference to their official function, the authorities who are competent to issue the certificate referred to in the first paragraph of Article 3. It shall give notice of such designation to the Ministry of Foreign Affairs of the Netherlands at the time it deposits its instrument of ratification or of accession or its declaration of extension. It shall also give notice of any change in the designated authorities.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "1403cf4684390bada0379b0d122124b7"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "82e009c58aa30c620a23826613f64c18",
+    "text": "Article 7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6b6913fb13433dc17423c33ec699e9a",
+    "text": "Each of the authorities designated in accordance with Article 6 shall keep a register or card index in which it shall record the certificates issued, specifying:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "82e009c58aa30c620a23826613f64c18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3deb7d1385340b164544e718c1f1959a",
+    "text": "(a) the number and date of the certificate,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "82e009c58aa30c620a23826613f64c18"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ffe249b61982d0beed9b280802ac4928",
+    "text": "(b) the name of the person signing the public document and the capacity in which he has acted, or in the case of unsigned documents, the name of the authority which has affixed the seal or stamp.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "82e009c58aa30c620a23826613f64c18"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a09e603ead9e9e893bd5caa28bb2eb9b",
+    "text": "At the request of any interested person, the authority which has issued the certificate shall verify whether the particulars in the certificate correspond with those in the register or card index.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "82e009c58aa30c620a23826613f64c18"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cac7d47066fe63faaa87346dbcba21d6",
+    "text": "Article 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0227257b77d086aec6b53be2c9e5043e",
+    "text": "When a treaty, convention or agreement between two or more contracting States contains provisions which subject the certification of a signature, seal or stamp to certain formalities, the present Convention will only override such provisions if those formalities are more rigorous than the formality referred to in Articles 3 and 4.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "cac7d47066fe63faaa87346dbcba21d6"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "38e02cb806855e151f180f3d3e2651ac",
+    "text": "Article 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eb48cf8625a58dda6490ada9768a9b55",
+    "text": "Each contracting State shall take the necessary steps to prevent the performance of legalisations by its diplomatic or consular 5 agents in cases where the present Convention provides for exemption.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e6a1dadeaa19dec6df00a7d023e6866",
+    "text": "Subrule (2): ‘Shall be deemed to be sufficiently authenticated.’ It has been said that ‘a document authenticated in accordance with the rules furnishes, on its mere production from proper custody, prima facie proof of itself; and that it should 6 be in a condition to do this, is the true purpose and effect of such authentication’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bc4b80dc869e72d8613708dc3780c05d",
+    "text": "RS 22, 2023, D1 Rule 63-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14b15fc204e493954facc62a00160cfb",
+    "text": "Subrule (2)(d): ‘Notary public.’ An authentication by a notary in the countries set out in this subrule is accepted without more; in other cases falling under subrule (2)(d) there has, in addition, to be a certificate certifying that the notary or other person in question is duly authorized to authenticate the document concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a016d759a58dd00921c50dc4d0c3b00d",
+    "text": "Subrule (2)(f): ‘The Defence Act, 1957 (Act 44 of 1957).’ The Defence Act 44 of 1957 was repealed by the Defence Act 42 of 2002 which does not contain a definition of ‘commissioned officer’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f64d4cd467177893b51d249d5be20497",
+    "text": "Subrule (2A): ‘Any document authenticated in accordance with the . . . Hague Convention.’ This subrule facilitates the reception of a document emanating from a country that is a party to the Hague Convention Abolishing the Requirement of Legalization for Foreign Public Documents provided the document was authenticated in accordance with the provisions of the Convention. The Convention is included in the notes to this rule s v ‘General’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1cc4fb9de17dc2ba028ea7b9e53238ca",
+    "text": "Subrule (4): ‘Notwithstanding anything in this rule contained.’ This subrule facilitates the reception of a document which is shown to have been actually signed by the person purporting to sign it. The proof of signature required by the subrule may be by either direct or circumstantial evidence, or both, and the strength of proof required is on a preponderance of 7 probability.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf",
+      "parent_id": "38e02cb806855e151f180f3d3e2651ac"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "684774151293dfc5f5b0d13e057582ab",
+    "text": "1 See Ex parte Holmes & Co (Pty) Ltd 1939 NPD 301; Ex parte Melcer 1948 (4) SA 395 (W); Ex parte Estate Innes 1943 CPD 257; McLeod v Gesade Holdings (Pty) Ltd 1958 (3) SA 672 (W) at 675A; Friend v Friend 1962 (4) SA 115 (E); Chopra v Sparks Cinemas (Pty) Ltd 1973 (2) SA 352 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "59373142d85a9641452ed0650cc16cc6",
+    "text": "2 Blanchard, Krasner & French v Evans 2004 (4) 3 The Convention is sometimes also referred to as the ‘Apostille Convention’ (see, for example, Talacar Holdings (Pty) Ltd v Cole 2023 SA 626 (G)) at paragraph [9]). Its purpose is to simplify the authentication requirement (Talacar Holdings (Pty) Ltd v Cole 2023 (6) SA 62 GJ) at paragraph [14]).For an update of the states to which the Convention applies, see www.dfa.gov.ph ol",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bd54137846b36eb3e68558b43211d801",
+    "text": "SA 427 (W)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d547014ada0334a469dc674af0a759f5",
+    "text": "at 432H-1.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d5fd17921c4dcf0c3cc6fd9d3c0a3bb",
+    "text": "(6",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ed9d0377a2bb3ed1071e1545dc303d65",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a9e743515d1d20d05d2f13bfbc5aebf7",
+    "text": "Downloaded: Mon Feb 17 2025 12:11:54 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "1bd014a78f8a0a14f62678342c2e2fa2",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 63.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb00fef116f29526d466c8c8a48e1604",
+    "text": "www.hcch.net/en/instruments/conventions/status-table/?cid=41. For the practical application of the Convention, see also The Apostille Handbook, accessible at https://www.hcch.net/en/publications-and-studies/details4/?pid=5888.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bda0df7b19e09c8824a9609902625ba5",
+    "text": "4 Author’s note: See the preceding footnote.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "63bc7aadbfc8c5ef1ad257711b3a640c",
+    "text": "5 The balance of the Articles deal with formal matters not relevant to this work.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a8abe09a41bce8114d3d6999ee42be48",
+    "text": "6 Ex parte Holmes & Co (Pty) Ltd 1939 NPD 301 at 307, cited with approval in Friend v Friend 1962 (4) SA 115 (E) at 116D–G. See also Chopra v Sparks Cinemas (Pty) Ltd 1973 (2) SA 352 (D) at 358C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6de0a2d3d2ebecb33fd37687e6bd94bb",
+    "text": "7 S v Eliasov 1967 (2) SA 423 (T); Chopra v Sparks Cinemas (Pty) Ltd 1973 (2) SA 352 (D) at 358B. See also McLeod v Gesade Holdings (Pty) Ltd 1958 (3) SA 672 (W) at 676.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a5f3077bf250ef3db63bfd9f68b61430",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7b340c8d99e01515a854e866cb6cc109",
+    "text": "Downloaded: Mon Feb 17 2025 12:11:54 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 63.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "09efb495bd8c87ada6c6c28b5cf355a3",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 63.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

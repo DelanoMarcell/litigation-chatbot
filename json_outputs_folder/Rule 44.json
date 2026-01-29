@@ -1,0 +1,175 @@
+[
+  {
+    "type": "Title",
+    "element_id": "6a921fa5a666a088a7a606d6f97fe0a2",
+    "text": "44 Divorce actions and annulment of marriages",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "5a777a26f6b594a3b431b470a63aa9de",
+    "text": "RS 22, 2023, D1 Rule 44-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57a2a99aca36507c46545b23b005fda7",
+    "text": "(1) A process in which is claimed a decree of divorce or nullity of a marriage must be served personally on the person against whom the relief is sought, unless service other than personal service is authorised by the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "5a777a26f6b594a3b431b470a63aa9de"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "527d4491c50a15e393520a2f95e69e9c",
+    "text": "(2) When an undefended divorce action or an undefended claim for declaration of nullity of a marriage is postponed, the proceedings may be",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "5a777a26f6b594a3b431b470a63aa9de"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3798ab6f02f33f2d3e7aaa9ddd93b8a1",
+    "text": "continued before another court notwithstanding that evidence has been given.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "5a777a26f6b594a3b431b470a63aa9de"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa543560be5c826b0f55dbae5d9a5705",
+    "text": "[Rule 44 substituted by GN R2164 of 2 October 1987, by GN R2642 of 27 November 1987 and by GN R781 of 31 August 2015.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "5a777a26f6b594a3b431b470a63aa9de"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "803a55563dbd9eaf1ca4183298d2bdee",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "5a777a26f6b594a3b431b470a63aa9de"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7af257106f635366574cfd06a61c452",
+    "text": "General. Subrule (2) obviates the problems sometimes occasioned by postponement of unopposed part-heard matters. 1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "803a55563dbd9eaf1ca4183298d2bdee"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79fa54dce10212d21f370a4e366f29ed",
+    "text": "1 See P Lorillard Co v Rembrandt Tobacco Co (Overseas) Ltd 1967 (4) SA 353 (T) at 354–5.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf",
+      "parent_id": "803a55563dbd9eaf1ca4183298d2bdee"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d3c130f840cad4f0eb120ca5ffd4a6f1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a05efb4cee900313c1799d6be0cc71c5",
+    "text": "Downloaded: Mon Feb 17 2025 12:03:15 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 44.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "123837be558747636c4c6b008a72e440",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 44.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

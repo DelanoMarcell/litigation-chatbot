@@ -1,0 +1,145 @@
+[
+  {
+    "type": "Header",
+    "element_id": "9a8c1d5f8fa629d123d9bf13347b5583",
+    "text": "9 . . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "1348cd51eaa7eaa3d331da8d20521244",
+    "text": "RS 22, 2023, D1 Rule 9-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "37df1f6e699090b06d5de4bdf512f27d",
+    "text": "[Rule 9 repealed by GN R992 of 7 December 2012.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf",
+      "parent_id": "1348cd51eaa7eaa3d331da8d20521244"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "45d6da0881d7e7e8a46780dfe01fecb3",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf",
+      "parent_id": "1348cd51eaa7eaa3d331da8d20521244"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "582a4d496bc23866cdbb7b0dc139b17a",
+    "text": "1 General. Prior to its repeal with effect from 11 January 2013, rule 9 laid down the procedure in respect of arrests tanquam suspectus de fuga. The rule was repealed pursuant to the judgment in Malachi v Cape Dance Academy International (Pty) 2 Ltd in which Hlophe JP declared the common law which authorizes arrests tanquam suspectus de fuga unconstitutional and invalid. See further the notes to s 44(2)(b) of the Superior Courts Act 10 of 2013 s v ‘Arrest or apprehension of any person required to appear in or to answer any civil suit, action or proceeding’ in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf",
+      "parent_id": "45d6da0881d7e7e8a46780dfe01fecb3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cefda8f798f961080bcdf007be49c9a7",
+    "text": "1 By GN R992 of 7 December 2012 (GG 35932 of 7 December 2012).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf",
+      "parent_id": "45d6da0881d7e7e8a46780dfe01fecb3"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8afcdef24a636f3f5adbb58e9bb43904",
+    "text": "2 2010 (7) BCLR 678 (WCC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf",
+      "parent_id": "45d6da0881d7e7e8a46780dfe01fecb3"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "273f59d71e46b973a91009411d3160af",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a9bccf5416fb21478e93eab54da22f69",
+    "text": "Downloaded: Mon Feb 17 2025 12:27:22 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 9.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6fab0c297190c49d0a3148b6ab702f16",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 9.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

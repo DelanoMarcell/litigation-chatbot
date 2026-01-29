@@ -1,0 +1,5164 @@
+[
+  {
+    "type": "Header",
+    "element_id": "c28782d1120f642efea8e715cb4e77b0",
+    "text": "4 Service",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "09009828149edff78a7c97dc1d09c07b",
+    "text": "RS 23, 2024, D1 Rule 4-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "07f7398a10aed51e8cc319a311d52d76",
+    "text": "(1)(a) Service of any process of the court directed to the sheriff and subject to the provisions of paragraph (aA) any document initiating application proceedings shall be effected by the sheriff in one or other of the following manners:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c105b39606bd1b418b19f76be65c667d",
+    "text": "(i) by delivering a copy thereof to the said person personally: Provided that where such person is a minor or a person under legal disability, service shall be effected upon the guardian, tutor, curator or the like of such minor or person under disability;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8861590d1477e7c27243be70db9c4019",
+    "text": "(ii) by delivering a copy thereof at the place of residence or business of the said person, guardian, tutor, curator or the like to the person apparently in charge of the premises at the time of delivery, being a person apparently not less than sixteen years of age. For the purposes of this paragraph when a building, other than an hotel, boarding-house, hostel or similar residential building, is occupied by more than one person or family, ‘residence’ or ‘place of business’ means that portion of the building occupied by the person upon whom service is to be effected;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed60fac2738c2602f74010f2692c5122",
+    "text": "[Subparagraph (ii) substituted by GN R4477 of 8 March 2024 with effect from 12 April 2024.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3527682067ce6647afe3a8fb71703839",
+    "text": "(iii) by delivering a copy thereof at the place of employment of the said person, guardian, tutor, curator or the like to some person apparently not less than sixteen years of age and apparently in authority over such person;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6a4179ba7186c29f568f698f764b8101",
+    "text": "(iv) if the person so to be served has chosen a domicilium citandi, by delivering a copy thereof to a person apparently not less than sixteen years of age at the domicilium so chosen;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2fc3cdd4242d517c4061fe950d51d4f8",
+    "text": "[Subparagraph (iv) substituted by GN R4477 of 8 March 2024 with effect from 12 April 2024.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85e1475a495c7f5f673e513c3f1822ff",
+    "text": "(v) in the case of a corporation or company, by delivering a copy to a responsible employee thereof at its registered office or its principal place of business within the court’s jurisdiction, or if there be no such employee willing to accept service, by affixing a copy to the main door of such office or place of business, or in any manner provided by law;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fb1aed7d4fe05d2642abef4513841173",
+    "text": "(vi) by delivering a copy thereof to any agent who is duly authorized in writing to accept service on behalf of the person upon whom service is to be effected;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "144f8e04ec96e3d3f2536102d10a77bb",
+    "text": "(vii) where any partnership, firm or voluntary association is to be served, service shall be effected in the manner referred to in paragraph (ii) at the place of business of such partnership, firm or voluntary association and if such partnership, firm or voluntary association has no place of business, service shall be effected on a partner, the proprietor or the chairperson or secretary of the committee or other managing body of such association, as the case may be, in one of the manners set forth in this rule;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "297de558fe75a846975f9586ec4eaf1f",
+    "text": "(viii) where a local authority or statutory body is to be served, service shall be effected by delivering a copy to the municipal manager or a person in attendance at the municipal manager’s office of such local authority or to the secretary or similar officer or member of the board or committee of such body, or in any manner provided by law;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7a03f5a56de207aaf6d18f65df9f95be",
+    "text": "or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a1560df4989ebb6cb202668d72e79db",
+    "text": "RS 23, 2024, D1 Rule 4-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1166d3eb3e2c32c2518dd9bccf05502e",
+    "text": "(ix) if two or more persons are sued in their joint capacity as trustees, liquidators, executors, administrators, curators or guardians, or in any other joint representative capacity, service shall be effected upon each of them in any manner set forth in this rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa581d269f8a84ed952cd5b48773195e",
+    "text": "Provided that where service has been effected in accordance with subparagraphs (ii); (iii); (iv); (v) and (vii) of subparagraph (a), the sheriff shall in the return of service set out the details of the manner and circumstances under which such service was effected.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a96995df733997fcee9a9a9aa9dd93a7",
+    "text": "(aA) Where the person to be served with any document initiating application proceedings is already represented by an attorney of record, such document may be served upon such attorney by the party initiating such proceedings.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "353285fd39eb393ec05b9aa1ace1d355",
+    "text": "(b) Service shall be effected as near as possible between the hours of 7:00 and 19:00.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c6940e83250e6e43078cf644d2bb4ec0",
+    "text": "(c) No service of any civil summons, order or notice and no proceeding or act required in any civil action, except the issue or execution of a warrant of arrest, shall be validly effected on a Sunday unless the court or a judge otherwise directs.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d18ba2e3eae3f1ae39eb4f176eb010d",
+    "text": "(d) It shall be the duty of the sheriff or other person serving the process or documents to explain the nature and contents thereof to the person upon whom service is being effected and to state in a return or affidavit or on the signed receipt that the person serving the process or document has done so.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "39f3b08d58c4b3e6507e1dcead547c04",
+    "text": "[Subrule 1 substituted by GN R235 of 18 February 1966 and by GN R2004 of 15 December 1967, amended by GN R2410 of 30 September 1991 and substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "41d369e0f87e5da049b27816b14b7263",
+    "text": "(2) If it is not possible to effect service in any manner aforesaid, the court may, upon the application of the person wishing to cause service to be effected, give directions in regard thereto. Where such directions are sought in regard to service upon a person known or believed to be within the Republic, but whose whereabouts therein cannot be ascertained, the provisions of subrule (2) of rule 5 shall, mutatis mutandis, apply.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14522908c7484fdd5bd9e8f3ea79f648",
+    "text": "(3) Service of any process of the court or of any document in a foreign country shall be effected —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "55c442fc0e414ef73f3eb68e2c6a4556",
+    "text": "(a) by any person who is, according to a certificate of —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "951f5b52bd3e5b29e7d268ffcf7631e6",
+    "text": "(i) the head of any South African diplomatic or consular mission, any person in the administrative or professional division of the public service serving at a South African diplomatic or consular mission or trade office abroad;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "57f91e59dcc0a1b1a9f3d68732288058",
+    "text": "[Subparagraph (i) substituted by GN R2047 of 13 December 1996.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6f99f85830729ef32bdd472b9f0ed367",
+    "text": "(ii) any foreign diplomatic or consular officer attending to the service of process or documents on behalf of the Republic in such country;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "00da3e7aa88de60937aa74cad30c8dcd",
+    "text": "(iii) any diplomatic or consular officer of such country serving in the Republic; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1788f64eebe704f20fb229a8b95ee37b",
+    "text": "[Subparagraph (iii) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91fb75a1148a88fb91af171828fba993",
+    "text": "(iv) any official signing as or on behalf of the head of the department dealing with the administration of justice in that country, authorised under the law of such country to serve such process or document; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0fb075013a683efab5e1151151c9379",
+    "text": "RS 23, 2024, D1 Rule 4-2A",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f3bbf438407b36f17386283ffb7319d2",
+    "text": "(b) by any person referred to in sub-paragraph (i) or (ii) of paragraph (a), if the law of such country permits such person to serve such process or document or if there is no law in such country prohibiting such service and the authorities of that country have not interposed any objection thereto.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d85b32a4b952b29a20004c72ebebc84f",
+    "text": "[Paragraph (b) substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "127db8b99db9750ea3113f86a88a6576",
+    "text": "RS 22, 2023, D1 Rule 4-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee34aefb6d3847552438f0877aa381d6",
+    "text": "(4) Service of any process of the court or of any document in Australia, Botswana, Finland, France, Hong Kong, Lesotho, Malawi, New Zealand, Spain, Swaziland, the United Kingdom of Great Britain and Northern Ireland and Zimbabwe may, notwithstanding the provisions of subrule (3), also be effected by an attorney, solicitor, notary public or other legal practitioner in the country concerned who is under the law of that country authorized to serve process of court or documents and in the state concerned who is under the law of that state authorized to serve process of court or documents.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60757c4da4976d39d2f1fd4b981ef85e",
+    "text": "[Rule 4(4) substituted by GN R1535 of 25 July 1980.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0d0929315aab262457ba56a04d98c35",
+    "text": "(5)(a) Any process of court or document to be served in a foreign country shall be accompanied by a sworn translation thereof into an official language of that country or part of that country in which the process or document is to be served, together with a certified copy of the process or document and such translation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "230454c4f7bcdfe0deb3de996e617299",
+    "text": "(b) Any process of court or document to be served as provided in subrule (3), shall be delivered to the registrar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "84f76c6fe6337771d9d65ba17fc5394d",
+    "text": "[Paragraph (b) substituted by GN R2021 of 5 November 1971, amended by GN R185 of 2 February 1990, by GN R2410 of 30 September 1991 and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afd49ad45f3b183be16c4d10051168d2",
+    "text": "by GN R491 of 27 March 1997 and substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6c658a344a9855c5d06dbdacd8ff89c",
+    "text": "(c) Any process of court or document delivered to the registrar in terms of paragraph (b) shall be transmitted by the registrar together with the translation referred to in paragraph (a), to the Director-General: International Relations and Cooperation to a destination indicated by the Director-General: International Relations and Cooperation for service in the foreign country concerned. The registrar must be satisfied that the process of court or document allows a sufficient period for service to be effected in good time.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6934c470fa565302ebe8654eb491d1a7",
+    "text": "[Paragraph (c) amended by GN R2410 of 30 September 1991 and substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42c84b45c15e307020d91e61879e3d18",
+    "text": "(6) Service shall be proved in one of the following manners:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "665732a63727d481b54fa8efe4f4e92a",
+    "text": "(a) Where service has been effected by the sheriff, by the return of service of such sheriff;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7e5d3883a91e0ca0d8c303ef3df4200",
+    "text": "(b) Where service has not been effected by the sheriff, nor in terms of subrule (3) or (4), by an affidavit of the person who effected service,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf",
+      "parent_id": "09009828149edff78a7c97dc1d09c07b"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e4c474a9d299af30fb02fbd642a12342",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "45de8d02eef81400fe917420d5930dc2",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "4433521a159cee00d273f660de9083c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5bbd2d803be84f4e15929d326b006937",
+    "text": "or in the case of service on an attorney or a member of such attorney’s staff, the Government of the Republic, or on any Minister, Premier or a Member of an Executive Council, or any other officer of such Government or Province, in such person’s official capacity by the production of a signed receipt therefor.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f423a2c8a7b35f5fb36106801328d61",
+    "text": "[Paragraph (b) substituted by GN R235 of 18 February 1966, amended by GN R2410 of 30 September 1991 and substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9ac526126b2665a3496aefca416d7bd7",
+    "text": "(6A)(a) The document which serves as proof of service shall, together with the served process of court or document, without delay be furnished to the person at whose request service was effected.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8376f0ba954c5bb64ed2c27adc5aff9",
+    "text": "(b) The said person shall file each document on behalf of the person who effected service with the registrar when —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6a48ee70c62102ed6075c4710187f866",
+    "text": "(i) such person sets the matter in question down for any purpose;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "82b321754c6f11c594bab44ef7739372",
+    "text": "RS 22, 2023, D1 Rule 4-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b9a19bfe7868788b1d7120d64caedc57",
+    "text": "(ii) it comes to such person’s knowledge in any manner that the matter is being defended;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "253bacea301410e6826502b3817755e1",
+    "text": "(iii) the registrar requests filing;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f0662fc50d5aaf0b04a1a2e6afda945",
+    "text": "(iv) the mandate to act on behalf of a party, if such person is a legal practitioner, is terminated in any manner.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e80d167ad273141e2728e220bda50638",
+    "text": "[Paragraph (b) substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32b44a0aff9cf67b232e907301feed0e",
+    "text": "[Subrule (6A) inserted by GN R1356 of 30 July 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "24c743d6cad5f8245ff88b01f2e9aac0",
+    "text": "(7) Service of any process of court or document in a foreign country shall be proved —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f18034f8687d14df9c8bea173486cd42",
+    "text": "(a) by a certificate of the person effecting service in terms of paragraph (a) of subrule (3) or subrule (4) in which the person identifies himself or herself, states that he or she is authorised under the law of that country to serve process of court or documents therein and that the process of court or document in question has been served as required by the law of that country and sets forth the manner and the date of such service: Provided that the certificate of a person referred to in subrule (4) shall be duly authenticated; or [Paragraph (a) substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47dbbd939779ae08895ff7627a476442",
+    "text": "(b) by a certificate of the person effecting service in terms of paragraph (b) of subrule (3) in which such person states that the process of court or document in question has been served, setting forth the manner and date of such service and affirming that the law of the country concerned permits such person to serve process of court or documents or that there is no law in such country prohibiting such service and that the authorities of that country have not interposed any objection thereto.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9bda62fa35689f1a31efc8dd72f25437",
+    "text": "[Paragraph (b) substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd4be4717bb3cbd0378ea74754a3fa4c",
+    "text": "(8) Whenever any process has been served within the Republic by a sheriff outside the jurisdiction of the court from which it was issued, the signature of such sheriff upon the return of service shall not require authentication by the sheriff. [Subrule (8) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0195120371d080321501f7dc3b430051",
+    "text": "(9) In proceedings in which the State or an organ of state, a Minister, a Deputy Minister, a Premier or a Member of an Executive Council in such person’s official capacity is the defendant or respondent, the summons or notice instituting such proceedings shall be served in accordance with the provisions of any law regulating proceedings against and service of documents upon the State or organ of state, a Minister, a Deputy Minister, a Premier or a Member of an Executive Council.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7f117fd7350e9e4a5dfa1a9ba8936017",
+    "text": "[Subrule (9) substituted by GN R1873 of 3 September 1982 and by GN R608 of 31 March 1989, amended by GN R2410 of 30 September 1991 and substituted by GN R1055 of 29 September 2017.]",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b9ad3b017812c27563edba95c073fef",
+    "text": "(10) Whenever the court is not satisfied as to the effectiveness of the service, it may order such further steps to be taken as it deems fit. [Subrule (10) substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd38fbe824b8d4ddca3e9745e56de4b6",
+    "text": "(11) Whenever a request for the service on a person in the Republic of any civil process or citation is received from a State, territory or court outside the Republic and is transmitted to the registrar of a provincial or local division under the provisions of subsection (2) of section 40 of the Act, the registrar shall transmit to the sheriff or a sheriff or any person appointed by a judge of the division concerned for service of such process or citation —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1461d5a7ca115fd1ebf3afa6207cd3b8",
+    "text": "RS 22, 2023, D1 Rule 4-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42d7825b53c728dca704eebdc3d21492",
+    "text": "(a) two copies of the process or citation to be served; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c4b5657f7bfb0cc6e2a125e8b4b98a8",
+    "text": "(b) two copies of a translation in English of such process or citation if the original is in any other language. [Subrule (11) amended by GN R2410 of 30 September 1991 and substituted by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2c8edc0c4a35222fd65361811fdb3f2d",
+    "text": "(12) Service shall be effected by delivering to the person to be served one copy of the process or citation to be served and one copy of the translation (if any) thereof in accordance with the provisions of this rule.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "850b61f7ba67ceb092fce64d45452405",
+    "text": "(13) After service has been effected the sheriff or the person appointed for the service of such process or citation shall return to the registrar of the division concerned one copy of the process or citation together with —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ca32a09046e91cf1b4ffb01bc3474abd",
+    "text": "(a) proof of service, which shall be by affidavit made before a magistrate, justice of the peace or commissioner of oaths by the person by whom service has been effected and verified, in the case of service by the sheriff or a sheriff, by the certificate and seal of office of such sheriff or, in the case of service by a person appointed by a judge of the division concerned, by the certificate and seal of office of the registrar of the division concerned; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a04ef701c6acf22c294a79b2f5988fbf",
+    "text": "(b) particulars of charges for the cost of effecting such service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3ee4ef3a7c2e5bbce8ea04db55587e5",
+    "text": "[Subrule (13) amended by GN R2410 of 30 September 1991 and by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17c99783e0ddd24fdc79089fd1767592",
+    "text": "(14) The particulars of charges for the cost of effecting service under subrule (11) shall be submitted to the taxing master of the division concerned, who shall certify the correctness of such charges or other amount payable for the cost of effecting service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1c850b8469d08351fa1447043270b33",
+    "text": "[Subrule (14) substituted by GN R235 of 18 February 1966 and by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ad91b66595abd4d4519b1c9f8604f4e9",
+    "text": "(15) The registrar concerned shall, after effect has been given to any request for service of civil process or citation, return to the Director- General of the Department responsible for the administration of justice —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e489c7ee01e3d30d5d9f0c49bceb4b0f",
+    "text": "(a) the request for service referred to in subrule (11);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39dc5dca573bcb79cc6a4ceae74b35e2",
+    "text": "(b) the proof of service together with a certificate in accordance with Form ‘J’ of the Second Schedule duly sealed with the seal of the division concerned for use out of the jurisdiction; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "07fd3795bcb193aa19e2cc5abd61616b",
+    "text": "(c) the particulars of charges for the cost of effecting service and the certificate, or copy thereof, certifying the correctness of such charges. [Subrule (15) amended by GN R2410 of 30 September 1991 and by GN R1343 of 18 October 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c783cae9723e9c4ba03882365e92191c",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e6fc4289607a9a479c8bf3ab03fa953",
+    "text": "Forms. Edictal citation: Short form of process, 1; Certificate of service of foreign process, ‘J’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf",
+      "parent_id": "c783cae9723e9c4ba03882365e92191c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e07920c0b586bf0c800b02b226f17c2",
+    "text": "General. It is a cornerstone of our legal system that a person is entitled to notice of legal proceedings against such 1 person. It has been held that if proceedings had begun without due notice to the defendant, the subsequent proceedings are null and void, any judgment is of no force and effect and may be disregarded without the necessity of a formal order setting it",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf",
+      "parent_id": "c783cae9723e9c4ba03882365e92191c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3fdfa9e9d658b2a4f37bf8e2f7f2d88",
+    "text": "RS 22, 2023, D1 Rule 4-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf",
+      "parent_id": "c783cae9723e9c4ba03882365e92191c"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e3c39e6f85bfcf96f8bfa189fba53f5",
+    "text": "3 2 aside. In Department of Transport v Tasima (Pty) Ltd the majority of the Constitutional Court, however, adopted a 4 different approach to invalid orders. In summary, the majority held that under s 165(5) of the Constitution of the Republic of South Africa, 1996, (a) a court order is binding until set aside, irrespective of whether it was valid; (b) judicial orders wrongly issued were not nullities but existed in fact and might have legal consequences; and (c) whether an order was enforceable depended on whether the judge had the authority to make the decision at the time that the order was made. Consequently, it 5 was held that a party bound by an invalid order must comply with the order until it is set aside. Thus, if a summons had not 6 been served on a defendant, a subsequent judgment may be set aside in terms of rule 42(1)(a). Mere knowledge of issue of summons does not constitute service and cannot relieve a plaintiff of the obligation to follow the prescribed rules. If service 7 of a summons was not effected according to the letter of the rule but was still effective in that the defendant received the 8 summons, and suffered no prejudice, service will be good. As to service which is a nullity, see further the notes to s 43 of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf",
+      "parent_id": "c783cae9723e9c4ba03882365e92191c"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7c3b33931742849bfc9f8ddac0849826",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "23fa99f54328d0dcb8ff1b8ac2140c0e",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9acdad9acf649f87f897edd5f1d174ba",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4f9b6484faff1fdc6923d7bdbe59b7d4",
+    "text": "the Superior Courts Act 10 of 2013 s v ‘General’ in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cdf20a7ee5540d645a13282fa2330fd9",
+    "text": "Section 44(1) and (2) of the Superior Courts Act 10 of 2013 provides for the service of process of court by means of fax or any other electronic medium ‘as provided by the rules’. The rules do not, as yet, provide for such means of service. 9 Substituted service by means of fax and Facebook message has, however, been authorized. See the notes to rule 4(2) s v ‘Give directions in regard thereto’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "84c826a012cdf0ac78af82f32ca00b86",
+    "text": "10 In Interactive Trading 115 CC v South African Securitisation Programme it emerged that the sheriff who prepared the 11 and, furthermore, that he required the defendants to returns of service did not perform his duties honestly and diligently 12 arrange for settlement of the judgment debts. The court expressed its displeasure with the situation as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d0fdd95fd1a57c589d2679d2111be62",
+    "text": "‘[14] What emerges from the above is that the sheriff who prepared the returns of service did not perform his duties honestly and diligently in fulfilment of his obligations to this court. The essence of the applicants’ submissions is that return of service should not be relied upon as it contains incorrect information. These are serious allegations being made against an officer of court. The court relies on the office of the sheriff as one mechanism in the administration of justice to ensure that the process leading up to the granting of a judgment is fair and that the legal proceedings have been brought to the attention of the other party. Sheriffs, like attorneys, are required to be honest in their dealings with the court. The court should upon mere production of the return of service accept as correct the information contained therein.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1463e53fd5abfaefe7700386421734c8",
+    "text": "RS 23, 2024, D1 Rule 4-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba2c5c483d6a245900d106ab566b5393",
+    "text": "[15] In the circumstances of this case, I am unable to avoid making an adverse remark against the sheriff who was entrusted with the service of documents. He failed to do his job and this failure has caused some considerable inconvenience to the court and to the litigants. Three judges had to sit in adjudication of this matter and the litigants incurred substantial amounts of money, all of which could have been avoided.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c3952611c50caab59ea342a3168082cf",
+    "text": "[16] . . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e312d872186cfd99a4ce19b0f6abf2a8",
+    "text": "[17] Any person familiar with the court process will know that a sheriff’s job is to serve the documents and execute the warrants issued. It is not his business to arrange for settlement of judgment debts on behalf of creditors or plaintiffs. In my experience I have not come across a situation where a sheriff had called a person to his or her office for the purpose of arranging settlement. What happened in this case clearly shows that the office of the sheriff treats judgment debtors differently based on their social, economic or racial classification. This is certainly unacceptable as the law requires people to be treated the same by an officer of the court. A sheriff’s office is not a negotiating forum where the rich and classy are called to hammer out deals and subvert court processes, while the poor are subjected to unkind treatment, where their goods get removed in the dead of night and at times sold below market value for no reason other than that they are poor and oftentimes black.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f32001514d252c7a9ed439b6e93837ce",
+    "text": "[18] I have directed the registrar of the court to make available a copy of this judgment to the Board of Sheriffs for noting and taking of appropriate steps to ensure that things like these do not happen. What happened in this case was a general dereliction of duty on the part of the sheriff who was entrusted with the service of summons.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46c667a90234cbcdd38a6fc5fcc23eb3",
+    "text": "In Motloung v Sheriff, Pretoria East 13 the appellants were involved in a motor vehicle collision on 15 January 2007. They instructed their attorney to institute action against the Road Accident Fund (‘the RAF’) for damages arising from the collision. A summons was prepared and taken to the registrar of the Gauteng Division of the High Court, Pretoria. The registrar allocated a case number and stamped the summons. The stamp contained the date on which he processed the summons, his designation as registrar and his name. The summons was returned to the attorney for service. It later emerged, however, that the registrar had not signed the summons as required by rule 17(3)(c). The appellants’ attorney sent the summons to the respondent for service. The respondent refused to serve it. He took the view that ‘only once a summons is signed by the registrar [is it] constituted as a court process’. He contended that the summons was a nullity and did not amount to court process and that he was accordingly not obliged or permitted to serve it. Because the summons was not served, the claim against the RAF prescribed. The Supreme Court of Appeal held that the summons was not a nullity and that non-compliance with the provision of rule 17(3)(c) as to signature could be condoned under rule 27(3). The following was said about the 14 conduct of the respondent:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f39abfe96a2a9f28cfe61bdc9676e0f7",
+    "text": "‘In conclusion, it is necessary to say something about the conduct of the respondent in refusing to serve the summons. It is not for sheriffs to judge whether a summons is a nullity or susceptible of condonation. That is a matter for courts to decide within the context of a proper ventilation of the issues. As can be seen from this matter, some complexity may attend on that determination. The approach which was taken by the respondent was regrettable and is to be strongly discouraged.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b819520f042c19abbf721ee99a2a589",
+    "text": "RS 23, 2024, D1 Rule 4-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "02bd638024b184d3582d5bfbb3547cb2",
+    "text": "There are also other statutory provisions which deal with methods of service. See, for example, s 16(2) of the Arbitration Act 15 42 of 1965; s 13(1) of the Foreign States Immunities Act 87 of 1981; s 3(3) of the Enforcement of Foreign Civil 16 Judgments Act 32 of 1988 and s 3(1) of the Reciprocal Service of Civil Process Act 12 of 1990. See further the examples in the notes to rule 4(1)(a)(iv) s v ‘Has chosen a domicilium citandi’, rule 4(1)(a)(v) s v ‘Or in any manner provided by law’, rule 4(1)(a)(viii) s v ‘A local authority’ and rule 4(9) s v ‘In every proceeding in which the State . . . is the defendant’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "202dd9a401b42de0038fe7842cc08de3",
+    "text": "Provided a summons has been properly issued, there is no objection from a purely procedural point of view to a re-service thereof where, by reason of a defect in the original service, the plaintiff’s claim cannot be enforced by those proceedings. Nor 17 is the leave of the court necessary before the re-service can be effected.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b8f2e6f9ce464cfcaa70758ef0b87cba",
+    "text": "Subrule (1)(a): ‘Service.’ It is submitted that ‘service’ has the ordinary connotation of ‘legally delivered’, i e delivered in 18 accordance with the law so as to notify the person on whom the process is served of its contents. No provision is made in rule 4(1)(a) for service by means of facsimile or electronic mail. Under rule 4(2) the court may, however, order substituted service and give directions in regard thereto, which could include directions as to service by means of facsimile or electronic mail. See further the notes to rule 4(2) s v ‘Give directions in regard thereto’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdc5dfa98c8ac7d3c2f88fab345e0e33",
+    "text": "‘Any process of the court directed to the sheriff.’ The following are processes directed to the sheriff: a summons for provisional sentence (Form 3), a simple summons (Form 9), a combined summons (Form 10), a subpoena (Form 16), a subpoena duces tecum (Form 16A), a writ of execution (Form 18, Form A, Form B), a writ of attachment — immovable property (Form 20), a writ of ejectment (Form E), a writ of commitment for contempt of court (Form F), a writ of attachment ad fundandam jurisdictionem (Form H).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3052ab0325e9b005b5e827e2c5090671",
+    "text": "Service of all subsequent documents and notices, not falling under subrule (1)(a), in any proceedings on any other party to the litigation may be effected in any manner laid down by rule 4A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d95618d6138088a0ecf3cacac30e815d",
+    "text": "‘Application proceedings.’ In terms of rule 1 ‘application’ means ‘a proceeding commenced by notice of motion or other forms 19 of applications provided for by rule 6’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f837ca1770a408a8c823fefbdfbd3f45",
+    "text": "‘Shall be effected by the sheriff.’ Sheriffs are appointed under, and their position is governed by, the Sheriffs Act 90 of 20 1986. Section 36(1) of the Sheriffs Act and this subrule provide that service ‘shall’ be effected by the sheriff, but in a proper case the court may condone service",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a81813ecd8a1939847089c57599c3e4c",
+    "text": "RS 23, 2024, D1 Rule 4-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bedcf41ed54ee16c95fc6ade7ecd8fde",
+    "text": "not effected by the sheriff. 21 In terms of rule 1 the word ‘sheriff’ includes an acting sheriff and a deputy sheriff. See also the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "860d7080a6b5f661a8b63b657303190f",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "07978dc72f91ca20e930864b6a1dc7a1",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "4433521a159cee00d273f660de9083c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "539ec41926c6032580cdcb7dd190a59a",
+    "text": "notes to rule 4 s v ‘General’ above in regard to the duties of sheriffs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c3652a19e058ecabbaa4f79da58401b7",
+    "text": "Subrule (1)(a)(i): ‘By delivering.’ ‘Delivering’ in this subrule bears its ordinary meaning, which in the present context is simply ‘to hand over’; it does not bear the special meaning attributed to it in rule 1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8796490a7d754eecec9377cef7447644",
+    "text": "‘A copy thereof.’ Service of ‘true’ copies is not required. 22 Earlier cases, based on former rules, should be treated with circumspection. Cases in which it was, for example, held that omission on the copy of a summons of a particular such as the 23 25 24 or the address of the or the date of issue, or the date of the return day, name or signature of the issuing officer, 26 27 or the name of the party or his attorney, plaintiff, was fatal, are no longer necessarily good authority.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e6b833c0ad12b07bdc72c3e92cfc649e",
+    "text": "The irregularity can be waived 28 and is waived by plea 29 or by omitting to take objection after several postponements. 30",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7386a02bb0dcf7acb1371f0336d5ae62",
+    "text": "‘To the said person personally.’ These words appear too definite to admit of the interpretation placed upon ‘personal 31 service’ in Gamble v Sauer — ‘such service as would satisfy the court that the process has reached the hands of the person intended to be served.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fcf533a5f1f956a253458ec9516e3832",
+    "text": "The rules display a clear preference for personal service and, where reasonably possible, personal service should be 32 effected.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c0d86c2a46b353d691d1c923b4626ca",
+    "text": "Where the sheriff has been unable to effect personal service that fact should be stated in the return, or if service is on some person other than the defendant or debtor or other person to be served, the person on whom service has in fact been 33 effected must be named in the return.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2fb1e5db5766e069394cb0b849ef833e",
+    "text": "RS 23, 2024, D1 Rule 4-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "03caac090395299b3c1d7f894dabde1a",
+    "text": "Subject to any order of court in a particular case, personal service is required in divorce proceedings in the Western Cape 34 Division of the High Court, Cape Town, and the KwaZulu-Natal Division of the High Court, Pietermaritzburg and Durban. 35 If personal service is not possible, application must be made for directions as to substituted service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71b8e159b24023f259e9bbc722368479",
+    "text": "Section 87(3) of the (now repealed) 36 Correctional Services Act 8 of 1959 provided that when it became necessary to serve the civil process of any court upon any prisoner, the person charged with the service of the process had, before serving 37 such process, to hand a copy thereof to the member of the correctional service in charge of the prison in which the prisoner was detained and such a member had thereupon to permit and facilitate the service of the process upon the prisoner 38 personally. It is no longer necessary to hand a copy of the process to such member. Such member or his subordinates must, 39 it is submitted, facilitate the service of the process upon the inmate personally.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ccc08280de4ebb49c5b44742392ece1",
+    "text": "40 Subject to any order of court in a particular case, personal service is required in claims for incarceration and applications 41 and the Gauteng local seat of the High Court, for sequestration in the Gauteng Division of the High Court, Pretoria 42 Johannesburg. In the Western Cape High Division of the High Court, Cape Town, personal service is required in applications 43 for sequestration, save as provided for in the Consolidated Practice Notes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ec53100c0f49fab50530367a455a618",
+    "text": "Subject to certain exceptions, personal service of an application to declare immovable property specially executable is 44 required in the Gauteng local seat of the High Court, Johannesburg.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "11c321c8dbfbb43bfd78fde17e801a1c",
+    "text": "‘Shall be effected upon the guardian.’ It is submitted that in terms of this subrule service upon the guardian, tutor, curator or the like of the person concerned will be sufficient. It is not required that the actual defendant have knowledge of the proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5c8b178e52609c5b2dcadfa0985cca6b",
+    "text": "Subrule (1)(a)(ii): ’By delivering.’ See the notes to rule 4(1)(a)(i) s v ‘By delivering’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0a6342032b43b22b099daaaa0449ee1",
+    "text": "‘At the place of residence.’ The effect of this subrule is that only in the event of the building where service has to be effected being occupied by more than one person or family, service has to take place at the particular portion of the building that is occupied by the person concerned for residential and/or business purposes. The subrule does not, according to the proviso, apply if the said building is ‘an [sic] hotel, boarding-house, hostel or similar",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cab4be07ea20768146d9b0b0e8b9f375",
+    "text": "RS 23, 2024, D1 Rule 4-11",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35dbdc28bb98de5702df8b51a187c76a",
+    "text": "residential building’. 45 The residence contemplated by the subrule is the present residence of the defendant. 46",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1191d3ef1f79a9a2a07e273e50573c23",
+    "text": "‘. . . or business.’ The ‘place of business’ referred to in this subrule is not identical with the ‘place of employment’ referred to 47 in subrule (1)(a)(iii). The former appears to contemplate the defendant’s own business and there the document served may be delivered to the person apparently in charge of the premises; the latter contemplates a business where the defendant is employed and there the document must be delivered to a person apparently in authority over the defendant. It is not clear how service should be effected where the defendant is employed by what is virtually his own company; this may perhaps be regarded as his own business. In such instance compliance with either of the stated two requirements may suffice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a1eff373ef038a551ffa8cc10f564330",
+    "text": "‘With the person apparently.’ In the present context ‘apparently’ means ‘seemingly’ as opposed to ‘actually’. This is confirmed by the use in the Afrikaans text of the word ‘skynbaar’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ce4236a85d0f0063614c31647cd8d6a",
+    "text": "Subrule (1)(a)(iii): ‘At the place of employment.’ See the notes to subrule (1)(a)(ii) s v ‘. . . or business’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "67515acc68c0fb50e7ba33702e25bb79",
+    "text": "‘Place of employment’ means, it is submitted, the place where the defendant is employed at the time of the service of the 48 summons, even though he is absent on leave at the time when service is effected. Service under this subrule cannot be effected upon a defendant by delivering a copy of the summons to the secretary of the company by whom he is employed 49 irrespective of the address at which he is employed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "db75c0a2c042a793dd67a8075e103caf",
+    "text": "Non-compliance with the provisions of this subrule can, in the absence of prejudice to a defendant, be condoned. 50",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ef24d883dde75142ec2deac4e993844a",
+    "text": "‘To some person apparently.’ See the notes to this subrule s v ‘At the place of employment’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a787c448b1deed55669224a3c3fbce2",
+    "text": "Subrule (1)(a)(iv): ‘Has chosen a domicilium citandi.’ A domicilium citandi is a place chosen by a person where process in 51 judicial proceedings may be served upon such person. The courts adopt the view that normally if a person chooses a domicilium citandi et executandi, the domicilium so chosen must be taken to be the person’s place of abode within the 52 meaning of the rules of court which deals with the service of a summons.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cbdb30c33c36154d97e60c2431acfca2",
+    "text": "RS 23, 2024, D1 Rule 4-12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05ba083b8556846ebb2f7f736988418b",
+    "text": "‘By delivering . . . to a person apparantly not less than sixteen years of age.’ This subrule was substituted with effect 53 from 12 April 2024. As currently framed, service of any process or document initiating application proceedings at a chosen 54 domicilium has to take place by delivering a copy thereof to a person apparently not less than sixteen years of age at the domicilium so chosen. Prior to its substitution the subrule provided that service at a chosen domicilium could take place by delivering or leaving a copy of the process or document initiating application proceedings at the domicilium so chosen. 55",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f297bdcea9748152ee168e1ab1a6c3ad",
+    "text": "Under the former subrule effective service was required by the courts. It is submitted that service under the subrule as",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "00d8b350a15647bb6007be0d7183d15c",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ccc6f44fb7dd68e3e5a3191239619fce",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9acdad9acf649f87f897edd5f1d174ba",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c781ce38067efb6bdf523d0618cf004",
+    "text": "currently framed still has to be effective. In this regard the case law prior to 12 April 2024 referred to below could serve as a guideline.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6db6d2058e5cb836a02a3f11f25d9c0d",
+    "text": "Case law prior to the substitution of rule 4(1)(a)(iv) with effect from 12 April 2024",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "73464707b19a65602c2c0cd910944c3f",
+    "text": "If a domicilium citandi has been chosen, service there will be good even though the defendant is known not to be living 56 there. The manner of service at the domicilium address must, however, be effective. It must be such that the process served at that address would, in the ordinary course, come to the attention of and be received by the intended recipient. 57",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f16b3c1cd62ac1e3b73e3e030391c3c5",
+    "text": "In Mathome Training Development (Pty) Ltd v Finsch Diamond Mine Training Center 58 the defendant chose a Post Office box as its domicilium citandi. The sheriff, literally interpreting rule 4(1)(a), affixed a copy of the summons to the postbox. The sheriff also sent the summons by registered mail to the chosen domicilium. The court held that had the service by means of affixing a copy of the summons to the postbox been the only form of service, it would most likely be found that it was not 59 good service in terms of rule 4(1)(a). The service by means of registered post was, however, found to be good and to have 60 taken place when the summons reached the postbox.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5da248ef118cb7ccab25314364a11c22",
+    "text": "61 In Sibeko v Shackleton Credit Management (Pty) Ltd service at a domicilium address on a security guard at a complex in 62 terms of rule 4(1)(a)(ii) was held to be valid and effective service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "335bfc901713a9f9a399a9011cafc448",
+    "text": "RS 23, 2024, D1 Rule 4-12A",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e9d147136e86997c34fc50dae52b6f5",
+    "text": "If a domicilium clause in an agreement stipulates a particular place and names a specific person, service must be effected 63 strictly in accordance with such clause.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b4563e68dbdf3f85412a015b9e58c647",
+    "text": "If service is to be effected on a domicilium address that consists of vacant land, strict compliance with the rules governing proper and effective service is required.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "217d3480a5f727ee7880bb7548302452",
+    "text": "To effect service on a neighbouring property, even if it belongs to the same owner, is not proper and effective service as required by this subrule. Such improper service will cause all subsequent steps, up to and including the sale in execution of the 64 property, to be invalid. So too where service is done by means of leaving a copy of the summons on the grass of an 65 unfenced 7,3767 hectares piece of land on which the defendant resides.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8fef10a15f8b1cb1a57211730fc1fba",
+    "text": "If domicilium citandi is chosen at the plaintiff’s office an obligation rests on the plaintiff to see that the summons comes to 66 the notice of the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12a91f39b865767bc9cab9642137dc5d",
+    "text": "The mere fact that a domicilium citandi et executandi has been chosen does not preclude effective service through one of 67 the other methods prescribed in this rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7490ebe17768e09df45e18dc8a4414a2",
+    "text": "RS 22, 2023, D1 Rule 4-13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "684bdf89daf5fb6bf7911f179fcfba96",
+    "text": "In terms of s 5(1)(b) of the Credit Agreements Act 75 of 1980 68 a credit agreement had to state the business or residential addresses of the credit grantor and credit receiver or, if a party did not have such an address when the agreement was concluded, ‘any other address in the Republic’. The addresses so set out in an agreement serve for all purposes of the 69 70 agreement as the domicilia citandi et executandi of the parties. The Act prohibited the inclusion in any credit agreement or other agreement or document of a provision to the effect that a buyer could choose a domicilium citandi et executandi at any address other than the address referred to in s 5(4). That meant that a party who had either a residential or a business address could not choose any other address as his domicilium citandi.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c573854ef21a782a29ced5726a040124",
+    "text": "Section 6(1)(a) of the Alienation of Land Act 68 of 1981 requires that a contract governed by the Act shall contain the business or residential addresses of the buyer and seller. In terms of s 23 these addresses shall serve as the domicilium citandi et executandi of the parties for all purposes of the contract.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1145eda8aff990f2b66701a3f1148cad",
+    "text": "Although this paragraph of the subrule does not specifically say so, the court has a discretion, should the circumstances 71 demand it, to order that some further steps be taken to bring the matter to the notice of the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f97bba1ec9430dd0d43ce457e37e07b3",
+    "text": "Subrule (1)(a)(v): ‘To a responsible employee thereof.’ Where service had been effected upon the person apparently in charge of the premises where the registered office of the company was located at the time of delivery although the return of service did not state that such person was a responsible employee of the company, such service was held to be in substantial 72 compliance with the requirements of this sub-rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "769cb742cb8fb93db21d642312dde2ea",
+    "text": "In Arendsnes Sweefspoor CC v Botha 73 the plaintiff in a delictual matter instructed the sheriff to serve summons on the defendant close corporation at its registered office. The corporation had, however, ceased activities at the registered office and had no employee or representative present. The sheriff served the summons on a person at the premises who was employed by another entity. The Supreme Court of Appeal, applying Brangus Ranching (Pty) Ltd v Plaaskem (Pty) Ltd, 74 held that this was substantial compliance with rule 4(1)(a)(v).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04b476bb893ef2dae19c207c40cacaa8",
+    "text": "RS 22, 2023, D1 Rule 4-14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7278642f1cf2de512058d029ea87b631",
+    "text": "‘If there be no such employee willing to accept service, by affixing a copy to the main door of such office or place of 75 the return of service by the sheriff business.’ In Ford Motor Company and Manufacturing of South Africa v Thobakgale 76 stated as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b64e74b3c37b2d3534409e8861fc869",
+    "text": "‘It is hereby certified that on the 22 April 2021 at 10H00 AT Simon Vermooten Street, Silverton, Pretoria being the chosen domicilium citandi et executandi of Ford Motor Company of Southern Africa (Manufacturing)(Pty) Ltd (Registration number 1[. . .]) a copy of the combined summons, particulars of claim and Annexures “GTG1 to GTG 14” was served by affixing to the principal door; after a diligent search and enquiry at the given address, no other manner of service was possible. Rule 4(1)(a)(iv). Mr Adriaan Uys: Deputy Sheriff.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "80586a855456460725a6a5eed2affb4d",
+    "text": "In granting an order rescinding the default judgment that was subsequently given against Ford, the court held that there was not compliance with this subrule, as the sheriff should have gone further in his return of service to explain what he meant by diligent search, and if someone refused to accept service, he should have said so. In this regard the court stated:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "599e5fc2496f80c1944a95c50ed98215",
+    "text": "‘[11] It is very clear that the sheriff’s return of service did not comply with the provisions of Rule 4(1)(a)(v) of Uniform Rules [sic], as it is not imaginable that a huge company like Ford with such a lot of assets in the form of new cars could be left without employees in a form of security personnel and other employees who could have refused to accept service or at least direct the sheriff to the office where he could have served the documents on an individual representing the company. The Applicant said that there are many buildings and gates and at least the sheriff should have described the specific door that he affixed the summons. It is not conceivable that on 22 of April 2021 at 10h00 in the morning, which was during the week on a Thursday, there was no one on the entire premises or gates or doors.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3cce90c8fc9e9f0202d7c118bf773df5",
+    "text": "‘At its registered office or its principal place of business within the court’s jurisdiction.’ Under s 23(3) of the Companies Act 71 of 2008 every company must have a registered office as indicated in its Notice of Incorporation. 77 Section 25 of the Close Corporations Act 69 of 1984 provides that every close corporation must have a registered office in the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf",
+      "parent_id": "6db6d2058e5cb836a02a3f11f25d9c0d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "aa8eb9e40eb87565cd66d9b6d16f193a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "97b38171e597e62d4e2c12a461289ce1",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "4433521a159cee00d273f660de9083c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4af00e7c628b5fbef495c71899870b3a",
+    "text": "Republic where process can be served in terms of the rules. Section 25 is permissive and does not purport to make service at the registered office of a close corporation obligatory, to the exclusion of service at its principal place of business within the jurisdiction of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e3efb98b0a480a8a6e91d0c53ccbb2d8",
+    "text": "The words ‘principal place of business’ relate to the main or principal place of business of the company within the area of 78 jurisdiction of the court (from which the summons was issued).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3e35a7d97fbf10ddd9aa179f1dc88a5",
+    "text": "Service at the registered office, or at the principal place of business within the jurisdiction, is therefore good service: the 79 80 two places are offered as alternatives for service. The effect of this paragraph has been stated to be as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a8ccde755a44f4fc5119b78a5242fcf8",
+    "text": "(a) a summons may always be served upon a company at its registered office, wherever that may be situated;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b967d3435cfe1245b532957e0ad91437",
+    "text": "RS 22, 2023, D1 Rule 4-15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "445fb8df2051d21563b6f34d37705826",
+    "text": "(b) if a company has no place of business within the court’s jurisdiction, the summons would have to be served at its registered office;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "353506b5b87306a34a74dfff710925b4",
+    "text": "(c) if a company has only one place of business within the court’s jurisdiction, that would be regarded as its principal place of business within that area, and the summons could accordingly be served there;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45cb173ba52f1d34f9f9fd0d8fe745dc",
+    "text": "(d) if a company has more than one place of business within the court’s jurisdiction, the summons would have to be served at the company’s chief or principal place of business within that area, unless, of course, it is served at its registered office (wherever that may be situated). Liquidation proceedings are initiated, within the meaning of the word ‘initiation’ 81 in s 129(2)(a) of the Companies Act 71 of 2008, when the liquidation papers are served.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6dd0ac3ea42094974bddf15b1a9c905f",
+    "text": "‘Or in any manner provided by law.’ Examples of other statutes specially providing for other methods of service are item 91 of the Schedule to the South African National Life Assurance Company Incorporation (Private) Act 3 of 1954; s 7(2) of the Pension Funds Act 24 of 1956; s 76 of the South African Mutual Life Assurance Society (Private) Act 52 of 1966; s 7(3) of the State Trust Board Act 88 of 1979; s 9(2) of the Friendly Societies Act 25 of 1956 and s 101(3) of the Collective Investment Scheme Control Act 45 of 2002.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca6a2dffcfb6f7a338d42c393ebbe9d1",
+    "text": "Subrule (1)(a)(vi): ‘To any agent who is duly authorized.’ In terms of the subrule the agent must be duly authorized to accept service on behalf of the person upon whom service is to be effected. The agent’s authorization must be in writing. This 82 should be exhibited to the officer effecting the service and this fact should be stated in the return of service. Service on and acceptance of such service by a person having no authority from the defendant is null and void, but the defendant, by 83 conduct, may waive any objection to such improper service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de83e59319353865e2a641c79feb722b",
+    "text": "In a number of earlier cases, based on former Supreme Court rules, it was held that an agent is not bound to accept 84 service. It has, however, been said that the holder of a general power of attorney, who knew of his principal’s 85 whereabouts, was bound to accept service.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1829a060b13b8ed80db00cd84e68f46d",
+    "text": "Subrule (1)(a)(vii): ‘Any partnership, firm or voluntary association.’ This subrule deals only with service upon a partnership, firm or voluntary association. As regards other aspects of proceedings in such cases, see rule 14 and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ea183a5a91a46e0b54b4c3c1617ff38",
+    "text": "The partnership must be an existing partnership; the rule does not apply after the dissolution of a partnership. 86",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea5051f56a60defb4ba1264472ed7be7",
+    "text": "The rule only applies to actions against the partnership as such; if an action is brought against any or all of the partners 87 individually, each must be served.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6108e484d428106ae5817774975527c5",
+    "text": "‘The proprietor.’ This subrule contemplates service upon ‘the proprietor’ of a firm. If a firm is conducted by more than one proprietor, it is submitted that service upon one proprietor will be sufficient, he being regarded as a partner.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43dc195a39948710ae9e5de6704d45b7",
+    "text": "RS 22, 2023, D1 Rule 4-16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfe8b4df09f8b3fd568b951360491da3",
+    "text": "‘The secretary.’ The provision in regard to service upon the secretary of an association gives effect to the decision in Port 88 Elizabeth Municipality v Distrikraad van die Nasionale Party, PE Noord.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ca285a3f7c91532a25b315b9da5de2f",
+    "text": "Subrule (1)(a)(viii): ‘A local authority.’ Section 115(3) of the Local Government: Municipal Systems Act 32 of 2000 provides that any legal process is effectively and sufficiently served on a municipality when it is delivered to the municipal manager or a person in attendance at the municipal manager’s office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64cbd93297632c7d1d065d1b11f0781b",
+    "text": "Subrule (1)(aA): ‘Is already represented by an attorney of record.’ This subrule makes it clear that service by the sheriff 89 The subrule is not necessary in interlocutory applications where there is already an attorney of record for the respondent. 90 applies to the service of an application in terms of rule 43 in pending divorce proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "238acffc2462018d5f06c975e1a7683f",
+    "text": "In FirstRand Bank Ltd t/a Wesbank v Maenetja Attorneys 91 the plaintiff did not serve its affidavit in support of summary judgment in accordance with the provisions of this subrule and rule 4A. It uploaded the affidavit on CaseLines, to which the defendant (i e the defendant’s attorneys of record) was invited. The defendant opposed the application for summary judgment for want of proper service of the affidavit. The issue for determination was whether an invitation to CaseLines for purposes of 92 93 service was compatible with this subrule. The court held that CaseLines was not a platform for service. In the absence of any agreement between the parties to effect service in any manner other than that prescribed by the Uniform Rules of Court, and in the absence of ‘a substantive application’ by the plaintiff for condonation for non-compliance with the rules relating to service as provided for in paragraph 200 of the Judge President’s Practice Directive dated 18 September 2020, 94 The application for summary judgment was accordingly which was then in force, the affidavit had not been properly served. 95 dismissed with costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b381be8084ec6767058879a462c7a5cf",
+    "text": "‘May be served upon such attorney.’ The word ‘serve’ (‘service’) is here used in the narrow meaning of delivery. 96",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21fd1f116ef3ca63fad9b30df5ae6518",
+    "text": "Subrule (1)(c): ‘No service of any civil summons . . . shall be validly effected on a Sunday.’ This subrule deals with the service of a civil summons on a Sunday. In s 1 of the now repealed Supreme Court Act 59 of 1959 the term ‘civil summons’ was defined as ‘any summons whereby civil proceedings are commenced, and includes any rule nisi, notice of motion or petition the object of which is to require the appearance before the court out of which it is issued of any person against whom relief is sought in such proceedings or of any person who is interested in resisting the grant of such relief’. The definition of ‘civil summons’ in the repealed Act contemplated two classes or persons who could be affected thereby, viz a person against whom relief was sought (i e the actual defendant or the respondent to an application)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c3695d98e868c30e27be1c7813a8e7e",
+    "text": "RS 22, 2023, D1 Rule 4-17",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "acefe75c0d654f4ba2855bfd6ee1cf56",
+    "text": "and a person who was interested in resisting the grant of relief (i e creditors or other persons who may be called upon to ‘show cause’ why certain relief should not be granted). The definition was more comprehensive than that in the former s 2 of the Administration of Justice Act 27 of 1912 and included a rule nisi, notice of motion and petition. The Superior Courts Act 10 of 2013 does not contain a definition of ‘civil summons’. Prior to its substitution with effect from 22 November 2019, 97 rule 1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0e4b8edfdbee0b9b5ace6051d68f6204",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "5aeaeb61fb3ccf3f2e73d4c300e8ec4d",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9acdad9acf649f87f897edd5f1d174ba",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c7b4a7b4f9d1145e8ad4ef41d2c826e",
+    "text": "defined ‘civil summons’ as meaning ‘a civil summons as defined in the Act’. The word ‘Act’ in the definition was a reference to the Supreme Court Act 59 of 1959. Rule 1 in its substituted form no longer contains a definition of ‘civil summons’. It is submitted that this shortcoming in the Act should be addressed by the legislature, alternatively the shortcoming in rule 1 should be addressed by the Rules Board for Courts of Law. Be that as it may, it is submitted that the words ‘civil summons’ in this subrule should bear the same meaning as in s 1 of the now repealed Supreme Court Act 59 of 1959, save that proceedings by way of petition were abolished with effect from 1 July 1976 by the Petition Proceedings Replacement Act 35 of 1976 which provides that any reference in any law to the institution of application proceedings in any court by petition, shall be construed as a reference to the institution of such proceedings by notice of motion in terms of the rules of court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dab82079dc9e2377db7562ce59f1a246",
+    "text": "Rule 3 provides that the registrar may in exceptional circumstances issue process ‘at any time’. Rule 3 needs not to be read subject to this subrule and, therefore, does not require the intervention of the court or a judge before summons can be issued 98 on a Sunday.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa64b13faf95d78b34f63debed076caf",
+    "text": "‘Unless the court or a judge otherwise directs.’ An applicant who approaches the court to serve a civil summons on a 99 Sunday is required to show ‘sufficient cause’ for the granting of such relief. As to the meaning of the words ‘court’ and ‘judge’, see rule 1 above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "34c96235756ae27c5597f5238637947a",
+    "text": "‘Proceeding or act required in any civil action.’ These words refer to steps taken in an action already commenced by the 100 issue of summons.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ea017f63dd7a52cf2bfb9e722ad637b",
+    "text": "Subrule (1)(d): ‘To state in a return.’ This subrule requires the person who effects service of process or documents to explain the nature and contents thereof to the person upon whom service is effected and to state in the return or affidavit or 101 on a signed receipt that it has been done.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f4dc97a9bd8a7024d69f18105fdd7d52",
+    "text": "On the sheriff’s return of service, see rule 4(6) below. See also s 43 of the Superior Courts Act 10 of 2013 and the notes thereto in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c0d694e04bc0f15818997d1bf943cb6",
+    "text": "Subrule (2): ‘Not possible to effect service in any manner aforesaid.’ This subrule is aimed at substituted service. Substituted service is ordered when the defendant is believed to be in the Republic but one of the normal forms of service set out in the rules cannot be effected. The court then gives directions authorizing some form of ‘substituted service’. Some confusion as to the scope, on the one hand, of the notion of edictal citation and, on the other hand, the concept of 102 substituted service, which derives from English law, has crept into our practice. Substituted service differs from edictal 103 citation which is ordered when the defendant is or is believed to be out of the Republic, or the exact whereabouts of the defendant are unknown. See further the notes to rule 5 s v ‘General’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c849f08d9401f60f16f517aeb7caf5e0",
+    "text": "RS 22, 2023, D1 Rule 4-18",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "534c82eae67ed00e1aed89885c9d2821",
+    "text": "‘Upon the application.’ In an application for leave to effect substituted service the applicant must show that the court will have jurisdiction in the main action and that he has a prima facie case, and (where the whereabouts of the defendant are unknown) the applicant must state what steps have been taken to ascertain the defendant’s whereabouts and that these have proved unsuccessful. The applicant must also show that there is some reasonable likelihood that the form of service suggested will come to the knowledge of the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b4fd42bbcac3c7713874dda38f3f6fe4",
+    "text": "‘Give directions in regard thereto.’ The court may order any manner of service as is likely to bring the proceedings to the 104 notice of the party to be served. This may be in the form of publication in one or more newspapers, or by registered letter 106 105 to the defendant at his last known address, or care of his relatives or legal advisers, or by affixing the process ad 107 108 valvas curiae, In Consani Engineering (Pty) Ltd v Anton Steinecker or by a combination of these and other methods. 109 Maschinenfabrik GmbH the manner of service authorized was by facsimile transmission (fax) at given numbers confirmed by despatch of copies of the documents by registered mail to a given address. A court may also authorize service by way of electronic mail (e-mail) or other electronic means. In CMC Woodworking Machinery (Pty) Ltd v Pieter Odendaal 110 Kitchens Steyn J gave leave to the plaintiff to serve a notice on the defendant by way of substituted service under this subrule of a Facebook message addressed to the inbox of the defendant’s Facebook page.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eca368c8c844df9a8d5e9c64a43ff330",
+    "text": "The service, in order to be valid, must be in accordance with the order of the court. When publication in an Afrikaans paper 111 is ordered, the advertisement must be in Afrikaans. If the paper is bilingual, a special order as to the language of the 112 advertisement should be made; in the absence of such an order, either language will do.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d677f9371eb15c983e946e789e2358dd",
+    "text": "‘The provisions of subrule (2) of rule 5 shall . . . apply.’ See the notes to rule 5(2) below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc379419cd8bf3ae9e9f8ca29ffc8bfc",
+    "text": "RS 22, 2023, D1 Rule 4-19",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b4ab52869ac10b6f518bc532a84d8b85",
+    "text": "Subrule (5)(a): ‘Accompanied by a sworn translation.’ The necessity of furnishing sworn translations was waived in some 113 114 cases, but insisted upon in others.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd279548706e47879b1a93aac837c0d1",
+    "text": "Subrule (6): ‘By the return of service of such sheriff.’ A return is regarded as prima facie evidence of its content. The 115 sheriff or deputy-sheriff who in fact executes the judgment must sign the return of service. This subrule applies only to service within the Republic. The subrule in terms excludes service under subrules (3) and (4) and, accordingly, it does not apply in regard to service in foreign countries. As to proof of service in foreign countries, see subrule (7).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee9db7d6c4c66d5bc1cd8331122d17ee",
+    "text": "On the sheriff’s return of service, see s 43 of the Superior Courts Act 10 of 2013 and the notes thereto in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0fb0c09b9fc595c4ed97f73de67651ec",
+    "text": "Subrule (7): ‘Service of any process . . . in a foreign country shall be proved.’ This subrule applies to service in foreign countries in terms of both subrules (3) and (4).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4d01185bf5486a7d4ddb900409ea836",
+    "text": "A return of service in a foreign country that does not comply with the provisions of this subrule is defective and not 116 acceptable. On service of process in foreign countries, see further the notes to rule 5(1) s v ‘Save by leave of the court’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8c264d194167b57792989808872c181",
+    "text": "Subrule (7)(a): ‘Shall be duly authenticated.’ See rule 63 and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f331c028f7b6cb6dba92bec61e3ac4fe",
+    "text": "Subrule (9): ‘In proceedings in which the State . . . is the defendant or respondent.’ See, for example, the provisions of the Institution of Legal Proceedings against certain Organs of State Act 40 of 2002 and s 2(2) of the State Liability Act 20 of 1957, as amended, in Part D11 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "30e3bcb828d12e0838e1e4e8b520849e",
+    "text": "Subrule (10): ‘Whenever the court is not satisfied.’ In terms of this subrule the court has a discretion, should the circumstances demand it, to order that some further steps be taken to bring the matter to the notice of the defendant. 117",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0107182178ca5402f1510d2912fc10d8",
+    "text": "Subrules (11)–(15): These subrules provide for the manner of service within the Republic of foreign process pursuant to letters of request. See s 40 of the Superior Courts Act 10 of 2013 and the notes thereto in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "43dd4072351e840cf5c38236c6844c4f",
+    "text": "RS 22, 2023, D1 Rule 4-20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2936b032bdf2093be5808f8c45b5bf13",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "760680b8c15829e28c0559e6f50b21c6",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "4433521a159cee00d273f660de9083c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "4c59a950cd70a58079c28b9dbbd9e6f0",
+    "text": "[Blank as per print]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45ffe97ef5617cbcd8591c8db0db2905",
+    "text": "1 Steinberg v Cosmopolitan National Bank of Chicago 1973 (3) SA 885 (RA) at 892C; Investec Property Fund Limited v Viker X (Pty) Limited (unreported, GJ case no 2016/07492 dated 10 May 2016) at paragraph [10]; and see Fraind v Nothmann 1991 (3) SA 837 (W) at 839I; Interactive Trading 115 CC v South African Securitisation Programme 2019 (5) SA 174 (LP) at 176D–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "38ef33cc2795cd5dbb15156ae23e3620",
+    "text": "2 Dada v Dada 1977 (2) SA 287 (T) at 288C–E and the cases there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b21d2a418f43cab92f62af4b0b266d37",
+    "text": "3 2017 (2) SA 622 (CC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "62ed913c30ca505fe1c556d57729e6b4",
+    "text": "4 At 667G–675F. See also Moraitis Investments (Pty) Ltd v Montic Dairy (Pty) Ltd 2017 (5) SA 508 (SCA) at 514A–C; MEC for Co-Operative Governance and Traditional Affairs, KZN v Nquthu Municipality 2021 (1) SA 432 (KZP) at paragraphs [21]–[25].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7160329cb7b3667534e6d604fad914ff",
+    "text": "5 At 670E–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e576f88ba875b089e6be183992667195",
+    "text": "6 Fraind v Nothmann 1991 (3) SA 837 (W) at 839H; Topol v L S Group Management Services (Pty) Ltd 1988 (1) SA 639 (W) at 648D–649F; Investec Property Fund Limited v Viker X (Pty) Limited (unreported, GJ case no 2016/07492 dated 10 May 2016) at paragraph [11]; Interactive Trading 115 CC v South African Securitisation Programme 2019 (5) SA 174 (LP) at 176D–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e49d9b59049cad2c03435bb3e2d5fd1",
+    "text": "7 First National Bank of SA Ltd v Ganyesa Bottle Store (Pty) Ltd; First National Bank of SA Ltd v Schweizer Drankwinkel (Pty) Ltd 1998 (4) SA 565 (N) at 568B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30611cbf9bc1b35fab4d5ba345b20352",
+    "text": "8 Investec Property Fund Limited v Viker X (Pty) Limited (unreported, GJ case no 2016/07492 dated 10 May 2016) at paragraphs [7]–[19].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3918c51182734ec764248961b5845f45",
+    "text": "9 See also RF Mahmoud and AH Bellengère ‘A social service? A case for accomplishing substituted service via WhatsApp in South Africa’ (2020) 137 (part 3) SALJ 371.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e700b24a1b30b445ef74f1a523e7d09",
+    "text": "10 2019 (5) SA 174 (LP).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "29b0d22cf37307d24d3561928e5fa4be",
+    "text": "RERE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0fd2e0bbc5324519664998a26f9f2cfb",
+    "text": "11 At 177F–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b0a53a1a62403ffd607a88d7bbcb4c9",
+    "text": "12 At 177G–H and 178C–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c76e2d4408cc21dcc12146df62c480c5",
+    "text": "13 2020 (5) SA 123 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d03b0565e3fad619ffcaa9a440b7ba7c",
+    "text": "14 At paragraph [30].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "914528c7540f35bb90e94d22db6c6f8e",
+    "text": "15 See Riaan de Jager ‘Diplomatic Law: Service of process on foreign defendants’ 2017 (December) De Rebus 34–6.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eecbd948aba694f4af9a589c6ea84655",
+    "text": "16 The Reciprocal Service of Civil Process Act 12 of 1990 is of little practical significance: the only countries ‘designated’ under s 2(1) of the Act are the former Republics of Transkei, Venda and Ciskei.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bdba3c8e60f9b3995e0c9877fa965fc7",
+    "text": "17 Marine and Trade Insurance Co Ltd v Reddinger 1966 (2) SA 407 (A) at 414H–415B; Santam Insurance Co Ltd v Vilakazi 1967 (1) SA 246 (A) at 252E; Evins v Shield Insurance Co Ltd 1980 (2) SA 814 (A) at 832C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9c335aa744e5727b372ce33e1ca10ff8",
+    "text": "18 Odendaalsrus Munisipaliteit v Odendaalsrus Gold, General Investment & Extensions Ltd 1958 (3) SA 111 (O) at 114E; S v Watson 1969 (3) SA 405 (A) at 410B; Mouritzen v Greystones Enterprises (Pty) Ltd 2012 (5) SA 74 (KZD) at 86C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2e6381b1b51149f709b95fa82034cd6a",
+    "text": "19 Because an application for business rescue is a substantive Form 2(a) application, it must be served in the manner provided for in rule 4(1)(a) (Lutchman NO v African Global Holdings 2022 (4) SA 529 (SCA) at paragraph [40]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf6f57602b1683e6802e27d1b3f38ec7",
+    "text": "20 The Act came into operation on 1 March 1990 by Proc R32 of 1990. Regulations made under s 62 of the Act were published in GN R411 of 12 March 1990 and amended from time to time (by Government Notices R2207 of 14 September 1990, R3440 of 31 December 1992, R1836 of 1 October 1993, R1566 of 16 September 1994, R1218 of 11 August 1995, R1193 of 25 September 1998, R1668 of 18 December 1998, R256 of 1 March 1999, R957 of 5 October 2001, R1293 of 5 December 2008, R742 of 14 September 2011 and R568 of 18 July 2014). See also the notes to rule 1 s v ‘Sheriff’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51303f99dca970f764970cdb382b11b1",
+    "text": "21 Garrett v Lea Hobbs Milton & Co 1979 (4) SA 922 (W) at 925C; Hessel’s Cash and Carry v South African Commercial Catering and Allied Workers Union 1992 (4) SA 593 (E) at 599G–600A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "23a8d51eff1932f6ed6a7eed310ce8ad",
+    "text": "22 See Protea Assurance Co Ltd v Vinger 1970 (4) SA 663 (O) at 668B–E and Wiehahn Konstruksie Toerustingmaatskappy (Edms) Bpk v Potgieter 1974 (3) SA 191 (T) at 200E–F in which the decision to the contrary in O’Donoghue v Human 1969 (4) SA 35 (E) was not approved; but see Scott v Ninza 1999 (4) SA 820 (E) at 827H where it is held that the construction given to the O’Donoghue case in the Protea and Wiehahn cases is wrong.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a329c47ae9dda15d3607c40919e06480",
+    "text": "23 It has been held that it is not necessary that the copy of the summons served should bear the signature or name of the registrar, provided the original which is exhibited does do so (Protea Assurance Co Ltd v Vinger 1970 (4) SA 663 (O); Wiehahn Konstruksie Toerustingmaatskappy (Edms) Bpk v Potgieter 1974 (3) SA 191 (T)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1567f572166cf962574f7afc534f0a63",
+    "text": "24 Greenblatt v Goldstuck 1916 OPD 192.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af1c05e16c07b79d67ea0c6dec50a0de",
+    "text": "25 Southern Lands Ltd v Burger 1921 CPD 447.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5b9f7bdb14ee272fd1fe3e26de920403",
+    "text": "26 Held to be fatal in the Cape in Berry v Nonne (1883) 2 HCG 419, but entirely unimportant in the Transvaal in Karsten & Rye v Paules 1910 TPD 166; Theron v Haylett 1917 WLD 140. In Minister of Prisons v Jongilanga 1985 (3) SA 117 (A) it was held (at 123I–J) that rule 17(3), regarding the address to be specified in a summons, does not set a requirement concerning any of the essential features of the action; it merely ‘relates to an ancillary feature of the summons’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ef42179962fc215d905fff793e5375fc",
+    "text": "27 Schewe v Schewe 1909 TH 149; Donovan v Bevan 1909 TS 723; Estate Amod Jeewa v Kharwa (1911) 32 NLR 371; Suliman v Karodia 1926 WLD 102.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "217c0d2e96f0cc6ca24e323a49bcb9a1",
+    "text": "28 Kiki and Austen v Ookola (1908) 18 CTR 658; Bay Loan Investment (Pty) Ltd v Bay View (Pty) Ltd 1971 (4) SA 538 (C) at 539G–540A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "38ddabf7ccdff41932b43dafbf82f06d",
+    "text": "29 Steel, Murray & Co v Bothamley (1915) 36 NLR 60.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dbaa5ede201ae414958b4129a216bb6a",
+    "text": "30 Burness and Cooper v Riley 1915 TPD 265.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f25f83f8c47019cc8bc3adf14c66c03",
+    "text": "31 (1890) 7 SC 323.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cceab2aed9ae47615db5bc1785c2c979",
+    "text": "32 This was also the position under former rules: see, for example, Gamble v Sauer (1890) 7 SC 323; Meyer v Du Plessis (1896) 17 NLR 157; King v King 1913 TPD 745; Janisch (Pty) Ltd v Le Roux 1941 CPD 150. If the sheriff explains the documents to the respondent and then hands them to the respondent’s wife in the respondent’s presence, the service probably complies with the rule (Kuun v Attorney-General (1892) 9 SC 54).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ced01918a29d2a63078723e79244cf9a",
+    "text": "33 Lortac (Pvt) Ltd v Musa 1991 (1) SA 152 (Z) at 158C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0c0bf65c412aabde951c5753c7bb00e",
+    "text": "34 See paragraph 25(1) of the Consolidated Practice Notes of that division of the High Court in Volume 3, Part N1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8fb0c7d96a63adfdf84033298d492830",
+    "text": "35 See paragraph 13 of the Practice Manual of those divisions of the High Court in Volume 3, Part I2.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b3d02d25eb61bcd4ad32d8b20c4e5039",
+    "text": "36 See s 138(3) of the Correctional Services Act 111 of 1998; and see GN R38 of 2004 (GG 26626 of 30 July 2004).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f56e526290883e67f52c7ea636bce2e7",
+    "text": "37 The copy had to be handed to the person in charge of the prison; handing a copy to a warder ‘apparently in a position of authority’ at the prison, or to a warder who is ‘in a position to accept service on behalf of the officer in command’ of the prison, was not good service (Nedbank Ltd v Smith 1988 (4) SA 182 (W), not following Kapp v Kapp 1984 (4) SA 743 (E). See also Motsisi v Motsisi 1979 (4) SA 1051 (B)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "defdfc7ef9df0a58beffa550932c015d",
+    "text": "38 The member of the service in charge of the prison had to make the prisoner available and service had then to be effected upon the prisoner personally (Motsisi v Motsisi 1979 (4) SA 1051 (B)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a66de119ea19aca6648b37ee8a952cce",
+    "text": "39 See s 99(4) of the Correctional Services Act 111 of 1998 which provides that a sheriff or deputy sheriff must be allowed access to any inmate when this is necessary in the performance of official duties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9e699ad39b55b87db08b9fa4d119440",
+    "text": "40 See the Correctional Services Amendment Act 25 of 2008 which introduced this term for ‘imprisonment’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "378625075b966aa0f6f112893a68066c",
+    "text": "41 See paragraphs 13.18.5 and 15.14.1 of the Practice Manual of that division of the High Court in Volume 3, Part H2.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b353d7f966053ddb3f44973765630273",
+    "text": "RIEI",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2c597ad2be60d157a04c41e5ab85b91",
+    "text": "42 See paragraphs 9.19.8 and 10.12.1 of the Practice Manual of that division of the High Court in Volume 3, Part H3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b3d4584d1ef535fb3ae83b006cac7fbc",
+    "text": "43 See paragraph 30(1) of the Consolidated Practice Notes of that division of the High Court in Volume 3, Part N1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8c6ff9e79555d3e40d7bf0040233aff",
+    "text": "44 See paragraph 10.17 of the Practice Manual of that division of the High Court in Volume 3, Part H3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c132de060c7bc25b3218440ab22dd9b5",
+    "text": "45 In Kemp v Knoesen [2007] JOL 19194 (T) it was held (at 9) that service of a summons on a security guard at the entrance to a security complex was good service. The court took into account the difficulties associated with gaining entry into the security complex, the fact that there was an arrangement in terms of which the security guards at the gate regularly received delivery of mail on behalf of the inhabitants of the security complex and the fact that the defendant had entered appearance to defend.See also Sibeko v Shackleton Credit Management (Pty) Ltd (unreported, GJ case no 3664/2015 dated 21 December 2022) at paragraphs [19]–[27].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a9a48285e0e58eeb17f6431a49e7f190",
+    "text": "46 For this reason service was held to be bad in, for example, Dominy v Botha 1910 EDL 65; Bezuidenhout v Lipschitz & Joffe 1916 TPD 212; Hodnett v Stewart (1891) 12 NLR 212. Service upon the wife of the defendant raises no presumption that it was at his residence, for the spouses might be living apart (Levin v Van As 1925 WLD 176; Peters and October v Isaacs 1931 CPD 450).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f4f1f939597f42da90234961b4f9bfb9",
+    "text": "47 Smith v Smith 1947 (1) SA 474 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "93c22c396c39377985bb112d0223ddaa",
+    "text": "48 See, by way of analogy, Mills v Starwell Finance (Pty) Ltd 1981 (3) SA 84 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1c916ba99eaa7359827161b4ffb876b9",
+    "text": "49 Solomon v Arkon Motors (Pty) Ltd 1960 (4) SA 329 (T) which was decided under the then prevailing magistrates’ courts rule 9(3)(c).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf",
+      "parent_id": "4c59a950cd70a58079c28b9dbbd9e6f0"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a68f69391f41118933eaf92bdc121a45",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bce34c9dc699c0455649456cddda2ae3",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 8,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9acdad9acf649f87f897edd5f1d174ba",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed8c9d6a260411865044136d87def48a",
+    "text": "50 Scott v Ninza 1999 (4) SA 820 (E) at 828D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e87835e0400f34fc9f2143932139d7dc",
+    "text": "51 Muller v Mulbarton Gardens (Pty) Ltd 1972 (1) SA 328 (W) at 331H; Loryan (Pty) Ltd v Solarsh Tea and Coffee (Pty) Ltd 1984 (3) SA 834 (W) at 847D; Ficksburg Transport (Edms) Bpk v Rautenbach 1986 (2) SA 88 (O) at 92E–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6658e71f7aee00ed6f66c075d0f0efd1",
+    "text": "52 See Muller v Mulbarton Gardens (Pty) Ltd 1972 (1) SA 328 (W) at 332G and the authorities there referred to. The court further points out that a party to a contract can agree that notices which may be required to be given under a contract be served at the place which he selects as his domicilium citandi et executandi. Whether or not a clause in a contract contains such a double provision in which provision is made for a domicilium both for notices under the contract as well as for the service of process, is a matter of construction. See also Loryan (Pty) Ltd v Solarsh Tea and Coffee (Pty) Ltd 1984 (3) SA 834 (W) at 847E; Ficksburg Transport (Edms) Bpk v Rautenbach 1986 (2) SA 88 (O) at 92G; Amcoal Collieries Ltd v Truter 1990 (1) SA 1 (A) at 5J–6B; Van der Merwe v Bonaero Park (Edms) Bpk 1998 (1) SA 697 (T) at 701C–E; Absa Bank Ltd v Mare 2021 (2) SA 151 (GJ) (a decision of the full court) at paragraphs [25]–[26].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dfb502d5fb0ebc57c38c60ae6c83b841",
+    "text": "53 By GN R4477 of 8 March 2024 (GG 50272 of 8 March 2024).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9c0979ec445050d76b2755e18d5c5fae",
+    "text": "54 This word in the subrule bears its ordinary meaning, which in the present context is simply ‘to hand over’; it does not bear the special meaning attributed to it in rule 1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "49634ea5bb9af99e06f3caf62095b0c7",
+    "text": "55 It is to be noted that the wording of rule 9(3)(d) of the magistrates’ courts rules (which rule was also substituted with effect from 12 April 2024–GN R4476 in GG 50272 of 8 March 2024)) materially differs from that of subrule (1)(a)(iv) as currently framed. The reason for the difference in wording is unclear. Rule 9(3)(d) of the magistrates’ courts rules reads as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "adfdaed6e05f06549d4e6b1049111ca9",
+    "text": "‘(d) if the person so to be served has chosen a domicilium citandi, by delivering a copy thereof at the domicilium so chosen: Provided that, where possible, service at the domicilium so chosen shall be effected by delivering a copy of the process to a responsible person apparently not less than 16 years of age: Provided further that the sheriff shall set out in the return of service the details of the manner and circumstances under which service was effected;’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e4aed63fbfece68c1a4849435675bb39",
+    "text": "56 Pretoria Hypotheek Maatskappy v Groenewald 1915 TPD 170; Hollard’s Estate v Kruger 1932 TPD 134; United Building Society v Steinbach 1942 WLD 3; Gerber v Stolze 1951 (2) SA 166 (T); Prudential Building Society v Botha 1953 (3) SA 887 (W); Amcoal Collieries Ltd v Truter 1990 (1) SA 1 (A) at 5J–6B; Van der Merwe v Bonaero Park (Edms) Bpk 1998 (1) SA 697 (T) at 701C–E; Absa Bank Ltd v Mare 2021 (2) SA 151 (GJ) (a decision of the full court) at paragraph [25]; Sibeko v Shackleton Credit Management (Pty) Ltd (unreported, GJ case no 3664/2015 dated 21 December 2022) at paragraph [13].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa6a15ada628c53318b891c5b87705ea",
+    "text": "57 Absa Bank Ltd v Mare 2021 (2) SA 151 (GJ) (a decision of the full court) at paragraph [26]; Sibeko v Shackleton Credit Management (Pty) Ltd (unreported, GJ case no 3664/2015 dated 21 December 2022) at paragraph [13]; Gamede v Wesbank, a division of FirstRand Bank Limited (unreported, GJ case no 24707/2020 dated 20 July 2023) at pararaphs [5]–[8] and [23]–[25].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fb46d1b37e51a3b49bcaf6749d5ee940",
+    "text": "58 Unreported, NCK case no 424/2019 dated 25 February 2022.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a00d9aff90420d5fbcb9f18bc7071b36",
+    "text": "BRERERRBIE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "35131994d7cc790192ba3e52e80b916e",
+    "text": "59 At paragraph 16.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "698dacb19df577b94b5357a736765e4b",
+    "text": "60 At paragraphs 18 and 19.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a3e5f6cdf0e3631d55bc7a0cea6b1ae",
+    "text": "61 Unreported, GJ case no 3664/2015 dated 21 December 2022.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b00c22591b40c27f0208ed32462421c5",
+    "text": "62 At paragraphs [19]–[27].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6f16f5b13c341a5ec6bfcba65deb1348",
+    "text": "63 Shepard v Emmerich 2015 (3) SA 309 (GJ) at 310A–311H and the authorities there referred to.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c632001146605bd5ffc448b3d7c4b0a",
+    "text": "64 Naidoo v FirstRand Finance Co Ltd 2012 (6) SA 122 (WCC) at 127A–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8922ad40ac012c0277e7a8fcd3c785d",
+    "text": "65 Absa Bank Ltd v Mare 2021 (2) SA 151 (GJ) (a decision of the full court).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c868ba9cb43f5810398562f7d93a6c33",
+    "text": "66 Botha v Measroch 1916 TPD 142 at 148; Grobler v Schmahmann Bros 1916 TPD 218 at 222–3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87d615149b1ab5b37703bcd8a2b80d38",
+    "text": "67 Sandton Square Finance (Pty) Ltd v Biagi, Bertola and Vasco 1997 (1) SA 258 (W) at 260C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "25973a2f4028914ec65b2d970d5c3822",
+    "text": "68 The Act was, subject to certain transitional arrangements, repealed by s 172(4)(b) of the National Credit Act 34 of 2005 with effect from 1 June 2006 (GG 28824 of 11 May 2006). Section 96 of the National Credit Act 34 of 2005 (which came into operation on 1 June 2007 — GG 28824 of 11 May 2006) provides as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "66fa51dc5565c3360a346f2649964f32",
+    "text": "‘96 Address for notice",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9e9cdb1e8f03d9b5610cd80148f750ec",
+    "text": "(1) Whenever a party to a credit agreement is required or wishes to give legal notice to the other party for any purpose contemplated in the agreement, this Act or any other law, the party giving notice must deliver that notice to the other party at —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1096ad73e1abe00aa5dbb1a6716bd18e",
+    "text": "(a) the address of that other party as set out in the agreement, unless paragraph (b) applies; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dfbc62bd6ec800cba6f6a401d274c224",
+    "text": "(b) the address most recently provided by the recipient in accordance with subsection (2).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8684831602dc4159ccc7e4db42b6dfb",
+    "text": "(2) A party to a credit agreement may change their address by delivering to the other party a written notice of the new address by hand, registered mail, or electronic mail, if that other party has provided an email address.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "00050d6412741ca607e30cf1a9ed237a",
+    "text": "69 Section 5(4).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10defae9ff60a97d69f665467008950b",
+    "text": "70 Section 6(1)(f).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a475c2d7892b24bdee7555e9a39fddfb",
+    "text": "71 Lindup v Lowe 1935 NPD 189; and see Chris Mulder Genote Ing v Louis Meintjies Konstruksie (Edms) Bpk 1988 (2) SA 433 (T) and subrule (10).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b7652843e6ffcb197b155cc180df4940",
+    "text": "72 Brangus Ranching (Pty) Ltd v Plaaskem (Pty) Ltd 2011 (3) SA 477 (KZP) at 480G-H and 481C-F, cited with approval in Arendsnes Sweefspoor CC v Botha 2013 (5) SA 399 (SCA) at 403G-404A and 405E-F. See also Chris Mulder Genote Ing v Louis Meintjies Konstruksie (Edms) Bpk 1988 (2) SA 433 (T), referred to with approval in the Brangus Ranching case (supra) at 481E-F, where Hartzenberg J pointed out (at 437H-J) that it is preferable, from a practical point of view, that enquiries be made at a registered address to ascertain whether there are employees present of the business being conducted there upon whom service may be effected. If the employees at such address are not prepared to accept service on behalf of the company, service may be effected by attaching the process to a door in terms of rule 4(1)(a)(v)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c17927b6fbfffe846153932affe1a60f",
+    "text": "73 2013 (5) SA 399 (SCA) at 400J–401F, 403H–404B and 405F–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5f5bafd1a99f20320eb0f73a021767ef",
+    "text": "74 2011 (3) SA 477 (KZP).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f65a077246302af5f9d687f47baa0121",
+    "text": "75 Unreported, GP case no 14855/2021 dated 13 June 2023.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6a6a22f8f68ff1bfaa7f353dad1e1747",
+    "text": "76 At paragraph [6].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "623a175c72c6428bd26738a4da6fdcad",
+    "text": "77 Form CoR14.1 issued in terms of s 13 of the Companies Act 71 of 2008 and regulation 14 of the Companies Regulations.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de84808f979e802c9700ebdda69ad42a",
+    "text": "78 Federated Insurance Co Ltd v Malawana 1986 (1) SA 751 (A) at 759D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ac3756a2d38040dd3a84cc6280d3b11c",
+    "text": "79 In the Gauteng Division of the High Court this is still the position in regard to the service of a winding-up application after the coming into operation of the Companies Act 71 of 2008 (Wild & Marr (Pty) Ltd v Intratek Properties (Pty) Ltd 2019 (5) SA 310 (GJ)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "865ab3fb1f87a16f3b748dddb3219fc6",
+    "text": "80 By Trengove JA in Federated Insurance Co Ltd v Malawana 1986 (1) SA 751 (A) at 759E–G. See also Chris Mulder Genote Ing v Louis Meintjies Konstruksie (Edms) Bpk 1988 (2) SA 433 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f3f1f13802a9f8006000ae5b16d959f6",
+    "text": "81 Tjeka Training Matters (Pty) Ltd v KPPM Construction (Pty) Ltd 2019 (6) SA 185 (GJ) at 195E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "397fbeebe90ea673a98043a063c4eecb",
+    "text": "BER RE 89 It has been held that this subrule applies to proceedings already instituted, so that it in effect applies to ancillary and interlocutory applications (BHP Billiton Energy Coal South Africa Ltd v Minister of Mineral Resources 2011 (2) SA 536 (GNP) at 542E-H, confirmed, on this point, on appeal sub nomine Finishing Touch 163 (Pty) Ltd v BHP Billiton Energy Coal South Africa Ltd 2013 (2) SA 204 (SCA) at 211C-213A; ABM Motors v Minister of Minerals and Energy 2018 (5) SA 540 (KZP) at 546F-G; Lutchman NO v African Global Holdings 2022 (4) SA 52 SCA) at paragraph [40]). Compare rule 6(11) below; and see Reuben v Yorkshire Insurance Co Ltd 1967 (3) SA 166 (E). IISIIIRISIS|",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af0651c5e94ff38a34956e0c4760d15f",
+    "text": "82 Warshaw v Warshaw 1936 CPD 124; Loesch v Loesch 1967 (4) SA 740 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3d59c90c6204b0aa2ee32eb8800fb526",
+    "text": "83 Deputy Sheriff, Witwatersrand v Goldberg 1905 TS 680; Van Niekerk v Barket 1922 OPD 164.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42c9a75b432d316079f0341d5dcfd173",
+    "text": "84 Colonial Government v Robb (1889) 5 HCG 433; Colonial Government v Hall (1909) 26 SC 582; Lewis v Bezuidenhout 1916 SR 104.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58e4f958492f5e67b4ef7dab7576a3d3",
+    "text": "85 Cohen NO v Sacks 1915 WLD 9. In view of the fact that the holder of the defendant’s general power of attorney declined to accept service on behalf of the defendant, the court in this case held that service at the defendant’s last known place of residence was good.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e8439489828ea169fac203d678c7d6b",
+    "text": "86 Arderne & Co v Egan and Power (1899) 16 SC 226; Pienaar v Suttner Bros 1914 EDL 416; and see Goldberg v Di Meo 1960 (3) SA 136 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c81d56e639a6ccb3a8847a4c960c5aac",
+    "text": "87 Rothschild v Greenstreet (1883) 2 HCG 229.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "66e6bf5bb4946a349478d1a4ac4a245f",
+    "text": "88 1962 (4) SA 325 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0a20eeddfffce947f16ff6c4bfb2249",
+    "text": "90 Kriel v Kriel 1970 (4) SA 707 (O); Willies v Willies 1973 (3) SA 257 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "54e284584a466cf71c8aa11c9aa69766",
+    "text": "91 Unreported, GP case no 8557/2021 dated 17 September 2021.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "09a3df4b1658f4c4d8692b09ebe7f19b",
+    "text": "92 At paragraph [21].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b05f6b22be9f17d832c273ed8163fa0",
+    "text": "93 At paragraph [58].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ab7215e0bc87202944d23cc045e2dba3",
+    "text": "94 At paragraphs [53] and [61]–[63].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "50564cd5fa0df190e7ff890b5ee1cb26",
+    "text": "95 At paragraph [76].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d747297284319b85a69c2933acae4db",
+    "text": "96 Botha NO v Botha 1965 (3) SA 128 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86cc9c85e253e1410f927784bbef3919",
+    "text": "97 By GN R1343 of 18 October 2019 (GG 42773 of 18 October 2019).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c362754c4cb1abdc68b4f06e223d5bec",
+    "text": "98 Minister of Police v Johannes 1982 (3) SA 846 (A) at 854C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e72ec07ccdffe4180624f51027084110",
+    "text": "99 Ex parte Reynecke 1966 (3) SA 308 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf",
+      "parent_id": "66fa51dc5565c3360a346f2649964f32"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d46e55425e054d1ca43810308083bbe6",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "82d7df6db78af8620cc79d02803284fc",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 9,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "4433521a159cee00d273f660de9083c7",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "21728d6ca580c5a5bd21aa65da6ce083",
+    "text": "100 Minister of Police v Johannes 1982 (3) SA 846 (A) at 853H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fbb2ec6124180d733dd771b95f313de9",
+    "text": "101 See Botha NO v Botha 1965 (3) SA 128 (E); Absa Bank Ltd v Naude NO 2016 (6) SA 540 (SCA) at 542H. The duties of a sheriff when effecting service are also considered in The Master v Zick 1958 (2) SA 539 (T) and Wiehahn Konstruksie Toerustingmaatskappy (Edms) Bpk v Potgieter 1974 (3) SA 191 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0bed1a5a3db9d52c2651349c63198e96",
+    "text": "102 See Ex parte Rosettenstein 1907 TH 5; Ex parte Wepener: in re Gowar 1907 TH 269; Pretoria-Noordse Stadsraad v Stander 1964 (3) SA 210 (T) at 212A–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86632f736c5a743752b24a72fd05a215",
+    "text": "103 See Steinberg v Steinberg 1962 (4) SA 321 (E) at 323E; Kerbel v Kerbel 1987 (1) SA 562 (W) at 566D–F. See further rule 5 and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b3a307dc0e3fe88f208a0232b9f36bdf",
+    "text": "104 Ex parte Wepener: in re Gowar 1907 TH 269; National Bank of SA v Bartlett 1916 OPD 98; Brümmer v Brümmer 1962 (3) SA 101 (O); Olivier v Ahrens 1964 (1) SA 178 (O). Only the full page of a newspaper constitutes a ‘tearsheet’ and the relevant part must be marked with a contrasting colour in, for example, the Gauteng Division of the High Court, Pretoria (see paragraph 13.18.2 of the Practice Manual of that division of the High Court in Volume 3, Part H2) and in the Gauteng local seat of the High Court, Johannesburg (see paragraph 9.19.2 of the Practice Manual of that seat of the High Court in Volume 3, Part H3).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a4d3143648bfedf9067426dffc5bdb5f",
+    "text": "105 Estate Mahomed v Mahomed 1925 WLD 107; Santos v Sardinha 1927 WLD 317; Lowcliffe Security (Pty) Ltd v Pottendorfer Spinnerei und Felixdorfer Weberei AG 1963 (3) SA 728 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "afd8d88f8cddc0479d24ba7bfe7ef02a",
+    "text": "106 Ex parte Standard Bank of SA Ltd 1914 CPD 685. If an attorney has withdrawn as attorney of record, service upon him is not proper service (Brümmer v Brümmer 1962 (3) SA 101 (O); Olivier v Ahrens 1964 (1) SA 178 (O); and see Thornhill v Gerhardt 1979 (2) SA 1092 (T)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1c38c83ab7b61132c09e81bbdc8d0eb9",
+    "text": "107 Ex parte Van Niekerk 1931 WLD 107; De Klerk v De Klerk 1947 (2) SA 1289 (T). Service ad valvas curiae is usually resorted to where the defendant has been served and thereafter evades service of subsequent pleadings or process.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d560f3c553ed9cdebb8f0f15008e8c5",
+    "text": "108 For example, by registered letter and publication in a newspaper (Estate Mahomed v Mahomed 1925 WLD 107; Santos v Sardinha 1927 WLD 317).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a43e5926c62b58388ad6b3c13c43c3f6",
+    "text": "109 1991 (1) SA 823 (T) at 824B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a00e5b55ba1eef202474c499321efbab",
+    "text": "110 2012 (5) SA 604 (KZD). See also Singh ‘Welcome to Facebook, Pieter Odendaal: You have been served’ 2013 TSAR 380; A Bellengère and L Swales ‘Can Facebook ever be the real thing? A review of CMC Woodworking Machinery (Pty) Ltd v Pieter Odendaal Kitchens 2015 (5) SA 604 (KZD)’ (2016) 27.3 Stell LR 454; RF Mahmoud and AH Bellengère ‘A social service? A case for accomplishing substituted service via WhatsApp in South Africa’ (2020) 137 (part 3) SALJ 371.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ebd0368ddd77aaa3bccd91b8d14e4df9",
+    "text": "111 Koch v Koch (1905) 15 CTR 809; Ex parte Dutch Reformed Church, Calvinia (1909) 19 CTR 821.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cab8af30064154136319a6b780a436af",
+    "text": "112 In re Esperance Syndicaat Beperkt (1909) 19 CTR 334. In Santos v Sardinha 1927 WLD 317 publication in a local newspaper was ordered in one of the official languages with a translation in the respondent’s native language attached.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e74423e37c6b41c6676651aab7932595",
+    "text": "113 Leeuwenberg v Leeuwenberg 1946 (2) PH F42 (C); Hockeman v Hockeman 1954 (1) SA 37 (C); Liebenstein & Jackson (Pty) Ltd v Takemura Trading Co Ltd 1956 (2) SA 573 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e1f07d4cf956b6ba7cabcfd276d7a3bb",
+    "text": "114 Meyer v Meyer 1951 (4) SA 1 (E); Star Shirt & Clothing Factory (Natal) (Pty) Ltd v Kyoei Bussan Co Ltd 1958 (1) SA 717 (N); Brumloop v Brumloop (2) 1972 (1) SA 503 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3772a39e330f2faf91703a32050d23d0",
+    "text": "115 De Wet v Le Riche 2000 (3) SA 1118 (T) at 1123E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cbe9da9573d8d37871f6fef1daa50526",
+    "text": "116 Meyer v Meyer 1951 (4) SA 1 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bde08e124cd9ca1aeaeda2f2e7c50aba",
+    "text": "117 See, for example, Lindup v Lowe 1935 NPD 189.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8eb84896a1ef298e1ae5f2cb9a803887",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "96de54afa0e1e41725ee3f56b63dacd6",
+    "text": "Downloaded: Mon Feb 17 2025 10:43:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 10,
+      "filename": "Rule 4.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9acdad9acf649f87f897edd5f1d174ba",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

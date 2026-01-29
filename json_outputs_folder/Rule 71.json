@@ -1,0 +1,100 @@
+[
+  {
+    "type": "Title",
+    "element_id": "5ed6396ce4db6cd0feb5aee6f66bb74d",
+    "text": "71 Repeal of rules",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 71.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0a58db6bbe4ca506ba355f6d6d4fb84b",
+    "text": "RS 22, 2023, D1 Rule 71-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 71.pdf",
+      "parent_id": "5ed6396ce4db6cd0feb5aee6f66bb74d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f0cd626cef70c7264b4df11c667dd2b4",
+    "text": "All rules made under any provision of a law repealed by section 46 of the Act or under paragraph (a) of subsection (2) of section 43 of the Act, as substituted by section 11 of the Supreme Court Amendment Act, 1963 (Act No. 85 of 1963) regulating the conduct of the proceedings of the various provincial and local divisions are hereby repealed in terms of subsection (5) of section 43 of the Act, save to the extent indicated in the appended schedule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 71.pdf",
+      "parent_id": "5ed6396ce4db6cd0feb5aee6f66bb74d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b2fc7d505dfe3dbf16aec9f7d21e13c2",
+    "text": "[Rule 71 substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 71.pdf",
+      "parent_id": "5ed6396ce4db6cd0feb5aee6f66bb74d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "15a9b26f0b6867f6799fd111d4b83fd1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 71.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1c438a84b593434c432b98f8318c0b35",
+    "text": "Downloaded: Mon Feb 17 2025 12:21:21 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 71.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "ce76c37ef7b85f6b80319369f9cb09e1",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 71.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

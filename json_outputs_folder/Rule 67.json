@@ -1,0 +1,224 @@
+[
+  {
+    "type": "Header",
+    "element_id": "ef86fcc0ab8783a5060ae2100e3f77bc",
+    "text": "67 Tariff of court fees 1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "9f60cc4becdedfc04e6a8ae2f638a28e",
+    "text": "RS 22, 2023, D1 Rule 67-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b30ad84a09b198ccc0b207fc1ab0d76c",
+    "text": "The court fees payable in respect of the High Court are as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf",
+      "parent_id": "9f60cc4becdedfc04e6a8ae2f638a28e"
+    }
+  },
+  {
+    "type": "Image",
+    "element_id": "0b5a895ec84a646ba4dec3594587ef51",
+    "text": "   R  c     (a)    . . .        (b)    For the registrar’s certificate on certified copies of  2,00     documents (each)     (c)    For each copy of an order of court made by the registrar     —         (i)   for every photocopy of an A4-size page or part  2,20     thereof    ",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1269197a004b16568e53fc18b72d50d6",
+    "text": "[Rule 67 substituted by GN R1929 of 10 August 1990, amended by GN 411 of 11 March 1994, substituted by GN R491 of 27 March 1997, by GN R1157 of 30 October 2020 and amended by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5f89da39869d43af54392542eaf321b5",
+    "text": "1 The whole of this rule was suspended with effect from 1 April 2009 in the Law Society of the Northern Provinces (Incorporated as the Law Society of the Transvaal) and Another v the Rules Board for Courts of Law (unreported, GNP case no 34474/2009 dated 26 June 2009) following the demonetization of adhesive revenue stamps by GN 360 of 27 March 2009 (GG 32059 of 27 March 2009). The order issued by Rabie J reads as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6651ecb0c641bcfbef9dafde674aecec",
+    "text": "‘1. Magistrates’ Court Rule 34(4) is suspended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c3c1ed3111e7df667d47d352a5d90837",
+    "text": "2. Rule 67 of the Uniform Rules of Court is suspended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e4bfcb93df0257f79e9614ecfba3f7f",
+    "text": "3. The aforesaid suspension of Rule 34(4) of the Magistrates’ [sic] Court Rules and the suspension of Rule 67 of the Uniform Rules of Court will have retrospective effect from 1 April 2009.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "979d804c3035bd24c8b73fae0015acc6",
+    "text": "4. All court process issued by Clerks of the Magistrates’ [sic] Court and Registrars of the High Court since 1 April 2009 without revenue stamps or an imprinted stamp as referred to in Rule 34(4) of the Magistrates’ [sic] Court Rules or without payment of court fees as required by Rule 67 of the Uniform Rules of Court, (which are otherwise valid) are declared to have been lawfully issued.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a801d208d3267df3bb5849bb026d5853",
+    "text": "5. It is declared that all court process in the Magistrates’ [sic] Court and the High Court shall, if not stamped, be issued by Clerks of the Court and Registrars, respectively, without self-affixing revenue stamps or imprinted stamps, and without payment of Court fees.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "708b231adfeef5e77de491e5d2bf4f47",
+    "text": "6. The Minister of Justice and Constitutional Development is directed to notify all Clerks of the Court and Registrars of the High Court of this order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff31c7e3d862fb2136501fb6257ed7c5",
+    "text": "7. The applicant is directed to notify its members of this order.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2d52e74419b45959af615e54751c280a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6368fb2009485d7f95caabbfcd9633fc",
+    "text": "Downloaded: Mon Feb 17 2025 12:16:04 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "79a34d530f1c1389e8a602303d627027",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 67.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "type": "Title",
+    "element_id": "a641273709fb1083322212131ce98931",
+    "text": "59 Sworn translators",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3ad7b6510d34e562acb532b7e90e53d6",
+    "text": "RS 22, 2023, D1 Rule 59-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ab2f9e36fe6325cc537fa9f8fed98447",
+    "text": "(1) Any person may be admitted and enrolled by any division of the High Court as a sworn translator between any two or more specified official languages of the Republic of South Africa or between any specified official language of the Republic of South Africa and any specified foreign language, upon satisfying the court of his or her competency.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0361f18b612bfb70949ebb82511db627",
+    "text": "[Subrule (1) substituted by GN R700 of 16 May 1997 and by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9ff2c5af42f739956427ffa7b49b875c",
+    "text": "(2) Every sworn translator duly admitted and enrolled shall, to the extent of such admission and enrolment, be deemed to be a sworn translator for all divisions of the High Court, and the registrar of the division in which he or she is admitted shall notify the registrars of all other divisions of such admission and enrolment, and furnish his or her address.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ae137c6f812b0917cddd37f896c67f38",
+    "text": "(3) Every sworn translator duly admitted and enrolled shall, to the extent of such admission and enrolment, be deemed to be a sworn translator for all divisions of the Supreme Court, and the registrar of the division in which he is admitted shall notify the registrars of all other divisions of such admission and enrolment, and furnish his address.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "87405387a9ab66d920d4f1ce69d9c77f",
+    "text": "[Subrule (3) substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ad20f3fd4aa83efce9446914628bd1bc",
+    "text": "(4)(a) Any person admitted and enrolled under subrule (1) shall before commencing to exercise the functions of his or her office take an oath or make an affirmation which shall be subscribed by him or her, in the form set out below, namely —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e67cfd5beb7e34fa2e3cef39105a88ae",
+    "text": "‘I .......................... (full name) do hereby swear/solemnly and sincerely affirm and declare that I will in my capacity as a translator of the High Court of South Africa faithfully and correctly translate, to the best of my knowledge and ability, any document into an official language of the Republic of South Africa from any other language in respect of which I have been admitted and enrolled as a translator’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ec598c7d3f21dc4e49a85a4826fbcdb0",
+    "text": "(b) Any such oath or affirmation shall be taken or made before a judge of the division of the High Court of South Africa admitting and enrolling the translator and the judge concerned shall at the foot thereof endorse a statement of the fact that it was taken or made before him or her and of the date on which it was so taken or made and append his or her signature thereto.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9120bda7ba484c0bbc7b884bcbdab6c",
+    "text": "[Subrule (4) substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "a641273709fb1083322212131ce98931"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5f18773ffce28978cdd6a760dbbda969",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b54aa86559a1b8fc6d12c5eba6bc107f",
+    "text": "Subrule (1): ‘May be admitted and enrolled by any division.’ It has been held that a local seat has jurisdiction within its 1 own area to admit and enrol sworn translators.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "980ab7aab94e327f450fc8c4f0a1de82",
+    "text": "‘Official languages.’ Section 6 of the Constitution of the Republic of South Africa, 1996, provides that the official South African languages are Sepedi, Sesotho, Setswana, siSwati,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9561f6952174bc52f085dfefb199fee2",
+    "text": "RS 22, 2023, D1 Rule 59-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0fe5206db65e3769c2676e907d5995a0",
+    "text": "Tshivenda, Xitsonga, Afrikaans, English, isiNdebele, IsiXhosa and isiZulu. This subrule requires that the official languages in respect of which a person is to be admitted and enrolled as a sworn translator must be specified. The same requirement exists in respect of foreign languages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2080aa804d8274bb32b04eb4a3695ea",
+    "text": "2 ‘Upon satisfying the court of his or her competency.’ This requirement is peremptory. An applicant can produce expert 3 evidence in court to prove that he is proficient in the languages contemplated in subrule (1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a518629d7a716282eb25ba0320bffe25",
+    "text": "Subrule (2): ‘After examination.’ It has been held that the provisions of this subrule are peremptory and that the court has 4 no discretion to dispense with the examination. It is submitted that the court is not entitled, under rule 27(3), to condone non-compliance with this subrule and admit and enrol as a sworn translator a person who has not been duly examined. Under the provisions of subrule 60(3) the court may, in appropriate circumstances, admit in evidence a translation certified to be correct by a person who is not a sworn translator.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2673d5ac361f662f2d6c4e17b1520796",
+    "text": "Subrule (3): ‘To the extent of such admission and enrolment.’ In view of the fact that, in terms of this subrule, a sworn translator once admitted is deemed to be a sworn translator for all divisions of the High Court, the words ‘to the extent of such admission and enrolment’ must refer to the language in respect of which the sworn translator has been admitted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9e483f41fdafe2894721156fec6dbbcb",
+    "text": "1 Ex parte Ransohoff 1934 WLD 68. In Murray NO v African Global Holdings (Pty) Ltd 2020 (2) SA 93 (SCA) it was held (at paragraph [16]) that the Superior Courts Act 10 of 2013 abolished local divisions and constituted the High Court in its present nine divisions, corresponding to the nine provinces, with main seats in all of them and local seats in some. The local seats are not separate courts and it is no longer appropriate to refer to them as local divisions (at paragraph [18]). See also Malcolm Wallis ‘What’s in a name? A note on nomenclature’ (2020) 137 SALJ 25.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "367c67dce21f460eaba40bddf67aa5ca",
+    "text": "2 Ex Parte Mudzamiri (unreported, WCC case no 20487/2021 dated 2 November 2022) at paragraph [6].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c6f5b61499dedcd7d1c3761ff073809",
+    "text": "3 Ex Parte Mudzamiri (unreported, WCC case no 20487/2021 dated 2 November 2022) at paragraphs [6] and [9].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "233efd0b8ce877290c19a69aa947d695",
+    "text": "4 Ex parte Paraskevopoulos 1947 (1) SA 229 (O); Ex Parte Mudzamiri (unreported, WCC case no 20487/2021 dated 2 November 2022) at paragraphs [6] and [9].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf",
+      "parent_id": "5f18773ffce28978cdd6a760dbbda969"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8db5dabe53eed0652f5c5e494360302a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d14243d7e9651185584feecd98bd5c6e",
+    "text": "Downloaded: Mon Feb 17 2025 11:46:33 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 59.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "4eb914503355988285063ff8c350b436",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 59.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

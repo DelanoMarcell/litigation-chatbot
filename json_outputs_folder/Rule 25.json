@@ -1,0 +1,885 @@
+[
+  {
+    "type": "Title",
+    "element_id": "a2dd6d80f61c0c7218017f42f4c28345",
+    "text": "25 Replication and plea in reconvention",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4fed1bd1322bb54702b5ab81ddbe9e68",
+    "text": "RS 22, 2023, D1 Rule 25-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3f4c0cfd19b6f24bea2a1a69f8af1048",
+    "text": "(1) Within fifteen days after the service upon him of a plea and subject to subrule (2) hereof, the plaintiff shall where necessary deliver a replication to the plea and a plea to any claim in reconvention, which plea shall comply with rule 22.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba1780c207954a629b44bf1fa08c8bf6",
+    "text": "[Subrule (1) substituted by GN R2021 of 5 November 1971, by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "94f734a05cde1a0eb3957ba1e59cf852",
+    "text": "(2) No replication or subsequent pleading which would be a mere joinder of issue or bare denial of allegations in the previous pleading shall be necessary, and issue shall be deemed to be joined and pleadings closed in terms of paragraph (b) of rule 29.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd7fb30875ae13ed5949da6e18442f4b",
+    "text": "(3) Where a replication or subsequent pleading is necessary, a party may therein join issue on the allegations in the previous pleading. To such extent as he has not dealt specifically with the allegations in the plea or such other pleading, such joinder of issue shall operate as a denial of every material allegation of fact in the pleading upon which issue is joined.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed2deae7dd311ad98ffa8ab1ca6f7a8b",
+    "text": "(4) A plaintiff in reconvention may, subject to the provisions mutatis mutandis of subrule (2) hereof, within ten days after the delivery of the plea in reconvention deliver a replication in reconvention.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13e51d909fd771a74d403cf37f4b2da7",
+    "text": "[Subrule (4) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "002a6201453d20cb486c3ab968482364",
+    "text": "(5) Further pleadings may, subject to the provisions mutatis mutandis of subrule (2), be delivered by the respective parties within ten days after the previous pleading delivered by the opposite party. Such pleadings shall be designated by the names by which they are customarily known.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "219edff397889500820e16253ef06e3a",
+    "text": "[Subrule (5) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "a2dd6d80f61c0c7218017f42f4c28345"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "0148fab1b584d2ae934eb3568bf63a47",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9890f8d5f94b7c169fcc4986484b4542",
+    "text": "General. The replication is the plaintiff’s answer to the defendant’s plea. It is unnecessary to deliver a replication if the plaintiff wishes only to deny the allegations contained in the plea; by virtue of the provisions of subrule (2), the plaintiff is deemed to have denied all the allegations in the plea. It follows that a replication need be delivered only if the plaintiff wishes to plead fresh facts in answer to the defendant’s plea. If the plea is a bare denial of the allegations made in the declaration or particulars of claim, a replication is unnecessary, and the rules do not provide for one in such a case; the pleadings are closed 1 as soon as the plea is delivered. It is submitted that if an unnecessary replication is delivered, costs thereof should not be 2 allowed to the plaintiff if he is successful.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2ef29b773cbcca1ddb826af7b166419",
+    "text": "The plaintiff is restricted to answering the allegations made by the defendant in his plea and may not in his replication introduce a fresh claim or a fresh cause of action. A replication which does introduce a fresh cause of action is known as a 3 ‘departure’, and is bad. If he does so the defendant may apply to have the replication struck out as an irregular step or 5 may except 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f906b8ab6e1163a196875b510ac5103a",
+    "text": "RS 22, 2023, D1 Rule 25-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e0f8806f177994eeeedc1a26d062d095",
+    "text": "6 to the replication. To replicate that an alleged compromise was induced by fraud, or that an alleged prescription has been 7 interrupted, does not amount to raising new matter or involve any ‘departure’ from the declaration or particulars of claim. 8 Repetitions are not ‘new allegations’. If the plaintiff wishes to introduce a new cause of action after the defendant has 9 delivered his plea, his correct course is to apply for an amendment of his summons. It follows that new allegations may be made in reply only when they are called for by the plea.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da9800fb9e4e6eb4b710d9ab22258ff6",
+    "text": "If the plea is a confession and avoidance of the facts pleaded in the declaration or particulars of claim, the plaintiff may answer the avoiding allegations by pleading new facts. The test is whether in so doing he is relying upon the same cause of action as set out in the summons, and merely answering the defendant’s avoidance, or whether he is introducing a new basis for his claim. If, for example, the declaration or particulars of claim alleges a breach of contract, and this is sufficiently 10 answered in the plea, the plaintiff cannot in his replication alter the basis of his claim to fraud.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1722a437bc1a1c936d3a4184defaa06d",
+    "text": "An illustration of the contrary proposition is furnished by Graham v Ridley. 11 The plaintiff claimed an ejectment order against the defendant, and alleged merely that he was the owner of the premises, and that the defendant was in wrongful and unlawful occupation thereof. The defendant admitted that he was in possession of the property, but pleaded that this was under and by virtue of a lease granted to him by the plaintiff. To this the plaintiff replied that the lease had been cancelled on the ground of a breach by the defendant. It was held that the reply was not a departure, as it did not introduce a new cause of action. The history of the matter appeared different after the reply was filed, but the cause of action remained the same. The plaintiff was the owner, and was therefore entitled to possession, whether or not there happened to have been a lease which had been terminated or cancelled.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1808a6882bf17bf5fcf0b399fe5569a",
+    "text": "In the original service of this work it was stated that estoppel could be raised by a plaintiff only in his replication. 13 the Constitutional Court, in its main judgment, was at pains to distinguish between estoppel and Makate v Vodacom Ltd 14 ostensible authority, and held 12 In",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d783e41557534efc9d9d8e7db5f5c8de",
+    "text": "RS 22, 2023, D1 Rule 25-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4d77d0410a24cdc6977bfe1489c52e53",
+    "text": "15 that ostensible authority could be pleaded by a plaintiff in his particulars of claim. In the minority judgment it was pointed 16 that, depending on the circumstances of the case, estoppel and ostensible authority could be pleaded in particulars of out claim or by way of replication.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a0ca8148dea5cc8bdd4151354b2c657",
+    "text": "Subrule (1): ‘Where necessary.’ See the notes s v ‘General’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bcafe1c29b60345a838609bdeee3cc7e",
+    "text": "Subrule (2): ‘A mere joinder of issue or bare denial of allegations.’ In view of the provisions of this subrule, a formal replication which merely denies the allegations in the plea and joins issue is no longer necessary, and the costs thereof may be 17 disallowed on taxation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3affee42a5687e77383199ea0ef28307",
+    "text": "‘Issue shall be deemed to be joined and pleadings closed.’ The fact that a plaintiff is barred from replicating does not debar him from proceeding with the action; the pleadings are merely deemed to be closed and the action may be set down for 18 trial.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9739d0b48dedd71cc9e19b6e5ec0e60c",
+    "text": "This subrule makes it clear that failure to deliver a replication or subsequent pleading, does not amount to an admission of 19 the allegations in the plea or other previous pleading.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5ab1b0c873136a5d09c0489478b306e",
+    "text": "Subrule (3): ‘Shall operate as a denial of every material allegation of fact.’ If a replication or subsequent pleading is delivered, failure to deal specifically with allegations in the previous pleading does not amount to an admission of the allegations in the plea or other previous pleading.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "172e8258e5a16f1a6547ab489c375442",
+    "text": "Subrule (5): ‘Designated by the names by which they are customarily known.’ The ‘further pleadings’ to which reference is made in this subrule are seldom required in practice. The full set of pleadings which can be exchanged between parties is as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab8f4f8dc74fbbc72471fa2e3e85910b",
+    "text": "PLAINTIFF DEFENDANT",
+    "metadata": {
+      "is_extracted": "partial",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf",
+      "parent_id": "0148fab1b584d2ae934eb3568bf63a47"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bf9873d331f2d9a97005b3be381bc5a0",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0a6305c99f265fbdbd7ac55c64711b1f",
+    "text": "Downloaded: Mon Feb 17 2025 11:42:18 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "09c0e73e10e040bb96ce14da006b4602",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 25.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a2a878ae3ec16e22eae0d60dea06696e",
+    "text": "• Declaration (Deklarasie) • Plea (Pleit) • Particulars of claim (Besonderhede van vordering) • Replication (Replikasie) • Rejoinder (Dupliek) • Surrejoinder (Tripliek) • Rebutter (Tweede dupliek) • Surrebutter (Tweede tripliek)",
+    "metadata": {
+      "is_extracted": "partial",
+      "text_as_html": "<table><thead><tr><th>Declaration (Deklarasie)</th><th>Plea (Pleit)</th></tr></thead><tbody><tr><td>Particulars of claim (Besonderhede van vordering)</td><td></td></tr><tr><td>Replication (Replikasie)</td><td>Rejoinder (Dupliek)</td></tr><tr><td>Surrejoinder (Tripliek)</td><td>Rebutter (Tweede dupliek)</td></tr><tr><td>Surrebutter (Tweede tripliek)</td><td></td></tr></tbody></table>",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "436eb684995af60d1ae6a878fd222061",
+    "text": "1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "94dbf78cd7645bab998107d87a4d8e7c",
+    "text": "See rule 29(1)(a); Uranowsky v Herzberg Mullne Automatic Products Ltd 1933 CPD 423; and see Moghambaram v Travagaimmal 1963 (D); Milne NO v Shield Insurance Co Ltd 1969 SA 352 (A).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dfe7df15f4a3dfbdd10e0cb050a64490",
+    "text": "A 61",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7fc2fdf89e18d524ecb16af70fa8b5d0",
+    "text": "(3)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "712390d79e0c44b3b27e4b3f38777d5a",
+    "text": "2 See Phiroz v Weinberg Bros 1918 CPD 414; Black v Hajie 1919 CPD 83.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1e72c35d6de97bb48ba5f093f8b8bbc2",
+    "text": "3 Joerning v The Paarl Ophir Gold Mining and Milling Co Ltd (1898) 5 Off Rep 9; Broad v Bloom 1903 TH 427.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "55764d78a8d525c68cd16a1a4a3f877f",
+    "text": "4 In terms of rule 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f60da38d54a9ffa3e0cd8c956d40c539",
+    "text": "5 In terms of rule 23. See also Joerning v The Paarl Ophir Gold Mining and Milling Co Ltd (1898) 5 Off Rep 9; Broad v Bloom 1903 TH 427; Faischt v Colonial Government (1903) 20 SC 210; Farrar v Geldenhuis GM Co 1908 TH 16; Fourie NO v Oberholzer 1914 TPD 227; De Beer v Minister of Posts and Telegraphs 1923 AD 653 at 657; Seventh Day Adventists v Carey 1930 CPD 243; Butler v Swain 1960 (1) SA 527 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e31d54d9ef1e2b836f4c812ef31e929",
+    "text": "6 Schultze & Co v Rosen Bros & Co 1904 TH 153.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d9c4d92bf9deb1b5bb54c169ad125fb",
+    "text": "7 Butler v Swain 1960 (1) SA 527 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b123a161489ffdcd2542f7697d57e73",
+    "text": "8 Butler v Swain 1960 (1) SA 527 (N) at 529B–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17e91d542d624107bd3fbef73c118ed8",
+    "text": "9 Faischt v Colonial Government (1903) 20 SC 210; De Beer v Minister of Posts and Telegraphs 1923 AD 653 at 657; United Dominions Corporation (Rhodesia) Ltd v Van Eyssen 1961 (1) SA 53 (SR) at 58C; Knightsbridge Investments (Pvt) Ltd v Gurland 1964 (4) SA 273 (SR) at 279C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9d36130c4b05458adc44a85ff179c536",
+    "text": "10 See United Dominions Corporation (Rhodesia) Ltd v Van Eyssen 1961 (1) SA 53 (SR).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8a03ff6cfe1dcbe1a0b545c544f23870",
+    "text": "11 1931 TPD 476. The same point arose in Loesch v Crowther (2) 1947 (3) SA 251 (O). Further illustrations of replies which have been upheld as valid, and as not introducing fresh causes of action, are to be found in Schultze & Co v Rosen Bros & Co 1904 TH 153; Reid & Co v Logan (1906) 23 SC 731; British SA Co Ltd v NZ Insurance Co Ltd 1913 SR 138; Heywood v Theron 1930 NPD 144; Van der Berg v Scholtz 1938 TPD 129. In the following cases the reply was held to be bad as constituting a departure:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e5d1ca49afa673c93c052cd0dc0021cc",
+    "text": "(a) the summons alleged a contract consisting of a written offer and a verbal acceptance; the reply alleged a written acceptance (Titshall v Cole (1913) 34 NLR 161);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b97cc3d7e47ffe1b20544cd9545a897a",
+    "text": "(b) the summons claimed damages for breach of contract; the reply alleged that there was an express warranty which had been breached (De Beer v Minister of Posts and Telegraphs 1923 AD 653);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2a3cd1485d59c230b4ba1c6f4f28d0be",
+    "text": "(c) the summons claimed on a written contract; in the reply reliance was put on a subsequent variation and addition thereto (Maisel v Anglo African Furnishing Co 1931 CPD 223);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d6d04f23c6d557e13b3c352312fa40e2",
+    "text": "(d) the claim was for damages for the non-delivery of certain luggage at Johannesburg; the plea alleged that the luggage had by plaintiff's direction been returned to Cape Town; the plaintiff replied that the defendants had contracted to deliver the luggage at Cape Town (Faischt v Colonial Government (1903) 20 SC 210). See also Seventh Day Adventists v Carey 1930 CPD 243; Broad v Bloom 1903 TH 427; Fourie NO v Oberholzer 1914 TPD 227; The Guardian Insurance Co Ltd v Passaportis 1915 SR 140; Cycle Trade Supply Co v Elliot 1915 JDR 195; Oblowitz v Norwich Union Insurance Co 1922 JDR 79; De Villiers NO v Pretsch 1932 SWA 5.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa3e707eef4d9aff7145020bae5c69da",
+    "text": "12 The cases relied upon for the statement were Mann v Sydney Hunt Motors (Pty) Ltd 1958 (2) SA 102 (GW) at 107D and Rosen v Barclays National Bank Ltd 1984 (3) SA 974 (W) at 983I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a7e1f4137f9e58074f06a99b2137c52d",
+    "text": "13 2016 (4) SA 121 (CC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "15948ba31b2d44695e8997d22c019e4e",
+    "text": "14 At 137D–142B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5a645257baf766a8fa8ca2d35ff3bda",
+    "text": "15 At 143C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03f6ac5796bf3b8ef793d78025cca546",
+    "text": "16 At 160B–162D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f7e5b2a59354713f398b65f90f4d1d80",
+    "text": "17 Matiwane v Minister of Police 1979 (3) SA 312 (E); Van Tonder v Minister van Landbou 1982 (2) SA 594 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bc0532d0b32a2d468f7110e0967d78c5",
+    "text": "[N",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "601b920f0a8355eb591b04571b892d05",
+    "text": "18 See Moghambaram v Travagaimmal 1963 (3) SA 61 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "021a653a8b55f231a8934c67586b65f0",
+    "text": "19 The subrule gives effect to the decision in Breyten Collieries Ltd v Dennill 1912 TPD 875.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0351e6a3e14d44bc298677affeb06eb2",
+    "text": "(3",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "aaa5c7e15684e3676bfc3f9f2024681b",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "efde336aac9108c11b7ed381e9e54c3e",
+    "text": "Downloaded: Mon Feb 17 2025 11:42:18 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 25.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "f61b8a91e19c56326fbce754d2bb806c",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 25.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

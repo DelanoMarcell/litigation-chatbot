@@ -1,0 +1,279 @@
+[
+  {
+    "type": "Title",
+    "element_id": "042a25ed0e47d147bddc281f55228255",
+    "text": "60 Translation of documents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "80d5aedf1364e33d640e1708e04ab264",
+    "text": "RS 22, 2023, D1 Rule 60-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "042a25ed0e47d147bddc281f55228255"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9638cadb64997456985e10b7c30080a1",
+    "text": "(1) If any document in a language other than an official language of the Republic is produced in any proceedings, it shall be accompanied by a translation certified to be correct by a sworn translator.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "042a25ed0e47d147bddc281f55228255"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b12e6bf657d566c4232e7af43fa8950",
+    "text": "[Subrule (1) substituted by GN R235 of 18 February 1966.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "042a25ed0e47d147bddc281f55228255"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17362dfafbd72c8b0dc6ed9505354319",
+    "text": "(2) A translation so certified by a sworn translator shall be deemed prima facie to be a correct translation and admissible as such upon its production.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "042a25ed0e47d147bddc281f55228255"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d2e10caff648efe0473954cabdc8405",
+    "text": "(3) If no sworn translator is available or if, in the opinion of the court, it would not be in the interests of justice to require a sworn translation, whether by reason of the expense, inconvenience or delay involved, the court may, notwithstanding the provisions of subrule (1), admit in evidence a translation certified to be correct by any person who it is satisfied is competent to make such translation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "042a25ed0e47d147bddc281f55228255"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "5a8c75500bac2d305a605eb3fe646a95",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "26152f1d3638b946a1425037ef964262",
+    "text": "Subrule (1): ‘Other than an official language.’ This subrule, in requiring that a document in a foreign language must be 1 accompanied by a sworn translation, gives effect to the decisions in Ex parte Marx et uxor and Ex parte 2 Scalabrino. Section 6 of the Constitution of the Republic of South Africa, 1996, provides that the official South African languages are Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, English, isiNdebele, IsiXhosa and isiZulu.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9a97d95cf1fcd138e707e65d6c524d5",
+    "text": "‘Is produced in any proceedings.’ This subrule applies only to documents actually produced in court. 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3c8b5e15e25ad97edacb9533906c33f",
+    "text": "‘A translation certified to be correct by a sworn translator.’ It is undesirable that the attorney of record acting for a particular party should translate or certify as correct documents to be used on behalf of his client in the litigation, even 4 though the attorney is a sworn translator of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5061af79299dfad24f60a1ccadd9e9e9",
+    "text": "RS 22, 2023, D1 Rule 60-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9073380703f6b8226a9ec6a8ab3a5318",
+    "text": "[Blank as per print]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "336f014fe3bcb980314d2be2aa89fee3",
+    "text": "1 1936 CPD 483.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a72dbbe57be913de7fe8fd765e01c6c",
+    "text": "2 1939 (2) PH F93 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ace9f179aa541a48dee6fabdb2bb6231",
+    "text": "3 Tarry & Co Ltd v Matatiele Municipality 1965 (3) SA 131 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58502ae8a793efc638c1d4ea94db1e87",
+    "text": "4 Westdeutsche Landesbank Girozentrale (Landesbausparkasse) v Horsch 1993 (2) SA 342 (NmH) at 345C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf",
+      "parent_id": "5a8c75500bac2d305a605eb3fe646a95"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c0341d2132cbd03cb9697ac6b6c133e9",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "103edcf6ee7a343a186dc02eecd6c00b",
+    "text": "Downloaded: Mon Feb 17 2025 12:11:53 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 60.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "1584467b3644c5f2abf2d1c5607754f1",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 60.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

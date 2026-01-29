@@ -1,0 +1,1154 @@
+[
+  {
+    "type": "Title",
+    "element_id": "87b9960f4454616ea683d614a9c87da1",
+    "text": "29 Close of pleadings and Notice of Set Down of trials",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "8869ae244382e8ece08d25f721ab975b",
+    "text": "RS 23, 2024, D1 Rule 29-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2cde26655401e994492e326741e5934b",
+    "text": "Pleadings are considered closed if —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d3e815bedd39f8ad17c489d165649586",
+    "text": "(1)(a) either party has joined issue without alleging any new matter, and without adding any further pleading;",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36c8bb36ee52e835fe47484fa6d98448",
+    "text": "(b) the last day allowed for filing a replication or subsequent pleading has elapsed and it has not been filed;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e9d1191a93d9df02e921651b4b19f11c",
+    "text": "(c) the parties agree in writing that the pleadings are closed and such agreement is filed with the registrar; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "54146a9bdf3425011fe0fb5147d4286c",
+    "text": "(d) the parties are unable to agree as to the close of pleadings, and the court upon the application of a party declares them closed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "00c8dc08d07edb5aa811b588de332451",
+    "text": "(2)(a) Upon allocation of a date or dates for trial, the registrar must inform all parties of the allocated dates.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "34a39bda6b99af58ef62a8e4385a0bea",
+    "text": "(b) The party which applied for the trial date must, within 10 days of notification from the registrar, deliver a notice informing all other parties of the date or dates on which the matter is set down for trial.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "545f1fe1709531cc6080326791bfc05d",
+    "text": "[Rule 29 substituted by GN R678 of 3 June 2016.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "817d000d6f2d9fa7fb998a5eb24be11f",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "8869ae244382e8ece08d25f721ab975b"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "618781d8bfdf1b5f6d6ac883049b2a8a",
+    "text": "Subrule (1): ‘Pleadings are considered closed.’ In modern practice litis contestatio is taken as being synonymous with 1 close of pleadings, when the issue is crystallized and joined. The effect of litis contestatio is to ‘freeze the plaintiff’s rights 2 as at that moment’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21ecd1579e9ae4cc6b991e03fa144e60",
+    "text": "3 In Potgieter v Sustein (Edms) Bpk it was held that the provisions of this rule did not merely create a rebuttable presumption that the pleadings were closed but in fact constituted a substantive rule of adjective law, with the result that when a pleading was filed or amended after the close of pleadings in terms of the rule, such filing or amendment operated with retrospective effect and did not alter the fact that the pleadings were closed. In Natal Joint Municipal Pension Fund v 4 5 Endumeni Municipality the Supreme Court of Appeal pointed out that there was no problem with the formulation that the effect of litis contestatio is to ‘freeze the plaintiff’s rights as at that moment’ when parties abided by their pleadings and conducted the trial accordingly. Frequently, however, parties did not do so because other issues arose that they wished to canvass, and, either formally, by way of an amendment to pleadings, or informally, they altered the scope of the 6 7 litigation. The effect of this was stated by the Supreme Court of Appeal to be the following (per Wallis JA):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6ee5add861e09b93bf379c411bec6377",
+    "text": "RS 23, 2024, D1 Rule 29-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "00e5f0e17b28e150ad166e557f5b623d",
+    "text": "‘The answer is that when pleadings are reopened by amendment or the issues between the parties altered informally, the initial situation of litis contestatio falls away and is only restored once the issues have once more been defined in the pleadings or in some other less formal manner. That is consistent with the circumstances in which the notion of litis contestatio was conceived. In Roman law, once this stage of proceedings was reached, a new obligation came into existence between the parties, to abide the result of the adjudication of their case. Melius de Villiers The Roman and Roman-Dutch Law of Injuries explains the situation as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5426fdc25b85932fcd6d54a27778edae",
+    "text": "“Through litiscontestation an action acquired somewhat of the nature of a contract; a relation was created resembling an agreement between the parties to submit their differences to judicial investigation. . . .”",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e098c8065354cc475025995c750fd433",
+    "text": "When the parties decide to add to or alter the issues they are submitting to adjudication, then the “agreement” in regard to those issues is altered and the consequences of their prior arrangement are altered accordingly. Accordingly, when in this case they chose to reformulate the issues at the commencement of the trial, a fresh situation of litis contestatio arose and the rights of the Fund as plaintiff were fixed afresh on the basis of the facts prevailing at that stage.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8693cf2559c6a18d4fa39dbb22e2c5bd",
+    "text": "8 In KS v MS Kruger J, in regard to the aforesaid judgment of Wallis JA, stated: 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e5df6baafaeb7de8436b64ded5b9ffe",
+    "text": "‘Nor do I understand the judgment of Wallis JA to mean that any amendment, however immaterial or minor it may be, would result in fresh litis contestatio. It is when the parties “add to or alter the issues they are submitting to adjudication”, by amendment or agreement, that “a new obligation” comes into existence and a fresh situation of litis contestatio arises.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb3e8b5326af49c2a7911488db0628ef",
+    "text": "In a pending action claims under the actio iniuriarum and claims for damages for personal injury, in which are included the non- 10 are transmissible on the death pecuniary heads of damage of pain and suffering, loss of amenities of life and disfigurement, 11 of the injured person after litis contestatio. It has, however, been held that claims for damages for personal injury are not transmissible on the death of the injured person before litis contestatio nor capable of cession before the stage of litis 12 13 contestatio has been reached. In Nkala v Harmony Gold Mining Co Ltd the applicants in an application for certification of a class action before the full court also applied for a declaratory order that any claim for general damages that a mineworker brought, or might wish to bring, against any of the respondent mining companies, was transmissible to his estate, should he die 14 before the litigation reached the stage of litis contestatio. The full court granted the certification. The majority of the full 15 court held that the common law should in general (i e not only in class actions) be developed as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5cab5b77ea41180dd3744e34686ac6c3",
+    "text": "RS 23, 2024, D1 Rule 29-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c42774bc18ab187493670d43168af49a",
+    "text": "(a) A plaintiff who dies after having commenced suing for general damages, whether arising from harm caused by a wrongful act or omission of a person or otherwise, and whose claim has yet to reach the stage of litis contestatio, and who would but for his death be entitled to maintain the action and recover the general damages in respect thereof, will be entitled to continue (through his executor) with such action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "59f7de612c4fcae343b814003edb2264",
+    "text": "(b) The person who would have been liable for the general damages if the death of a plaintiff had not ensued remains liable for the said general damages, notwithstanding the death of the plaintiff so harmed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2af9c6e0084866f8e538fba5a018edd6",
+    "text": "(c) Such action shall be for the benefit of the estate of the person whose death had been so caused.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a826ae682db38534662f3e47913f27cc",
+    "text": "(d) A defendant who dies while an action against him has commenced for general damages arising from harm caused by his wrongful act or omission, and whose case has yet to reach the stage of litis contestatio, remains liable for the said general damages, notwithstanding his death, and the estate of the defendant shall continue to bear the liability, despite the death of the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5ab0f5d3c7d8a86500374ccafa6cf3ed",
+    "text": "In the light of the development of the common law the following order was made by the majority: 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da0e0bdab3eb57f9eb9e239946566e24",
+    "text": "‘8. It is declared that any claimant, who has claimed for general damages, and who has died or dies prior to the finalisation of his case, will have such general damages transmissible to his estate, regardless of whether he has joined the class action or not. The claim of general damages in this case shall be transmissible from the date when the certification application was launched in August 2012.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dfbf7d9789ee6c3a5d452400a161f4ce",
+    "text": "A subsequent appeal against both the certification and declaratory orders of the High Court was struck from the roll with costs 17 on the basis that the orders were not by the Supreme Court of Appeal sub nomine DRDGOLD Limited v Nkala 19 18 appealable. The majority decision of the full court was criticized in Ngubane v Road Accident Fund, the High Court expressing preference for the minority decision that the development of the common-law rule regarding transmissibility of general damages prior to litis contestatio should have been restricted to class actions. In Olivier NO v MEC for Health, Western 20 Cape the High Court distinguished the decision of the majority of the full court in the Nkala case and, on the peculiar facts of the case before it, held that the non-pecuniary claims for damages were non-transferable to the deceased’s estate before litis contestatio arose.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf",
+      "parent_id": "817d000d6f2d9fa7fb998a5eb24be11f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "755509c13cb706288ea3264e2dcd1adf",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0a7c30eb71f098ea1ec76d7a90fb4ce2",
+    "text": "Downloaded: Mon Feb 17 2025 11:47:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "3958b54264233436224cf380e3d53d56",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 29.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "20711af335dd460903a0319e533d815d",
+    "text": "When an out-and-out cession of the claim of a party is affected after litis contestatio but prior to judgment, such party 21 does not lose its locus standi and may thereafter proceed with the action in its name. The cessionary of a claim that is the subject matter of a pending",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b38ffca27a2760be591c71668ce855eb",
+    "text": "RS 23, 2024, D1 Rule 29-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71d838d6d63fbdf5acdcbb0654f8384e",
+    "text": "22 action is entitled to have itself substituted by the court for the cedent in the action if there is no prejudice to the other 23 The legal effect of a cession after litis contestatio is that it terminates the proceedings instituted by party to the litigation. the cedent, with the corollary that the substitution of the cessionary, as a new plaintiff or applicant, must be regarded as the 24 institution of new proceedings. If the cessionary is unsuccessful in the legal proceedings, the cessionary will be liable for costs as from date of substitution. In such an event the cedent will be liable for costs incurred prior to the substitution. 25",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a9f5c115ec28120e48cc840b4f6547e1",
+    "text": "Paragraph (a): ‘Has joined issue.’ In terms of rule 25(2) it is unnecessary to file a replication or subsequent pleading which 26 would be a mere joinder of issue. If it is filed the costs thereof might well be irrecoverable. Where the filing of a replication (or further pleading) is not necessary, the plaintiff need not wait until the time for filing a notional replication has 27 elapsed. He can forthwith take the next procedural step, that of setting the matter down, and litis contestatio will take 28 place when the notice of set-down is delivered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "438004f7aea560d8763f90ba7fc8d20b",
+    "text": "Joinder of issue operates merely as a denial of facts and not as a denial or admission of statements of law. If a paragraph of a plea is a statement of law and not of fact, such a paragraph may be ignored by the plaintiff in view of the fact that the 29 pleading of a statement of law is bad pleading.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52f081a08e30e7860c2851dde81a8007",
+    "text": "‘Without alleging any new matter.’ The words ‘new matter’ refer to new matter which it is permissible to raise in a replication. An example occurs where the plaintiff in his replication pleads that the defendant is estopped from raising some 30 defence set out in the plea.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9f886145598b1fca6ccb59f708b252f",
+    "text": "‘Without adding any further pleading.’ The phrase ‘without adding any further pleading thereto’ in former Natal rule 57(b) was held to mean ‘without adding any further averment or allegation in the pleading in which the party has joined 31 issue’. The omission of the word ‘thereto’ in the present rule and the Afrikaans version of the phrase ‘without adding any further pleading’ (‘sonder om ’n verdere pleitstuk by te voeg’) suggest that the intended reference is to further pleadings such as a replication or a rejoinder and not to the contents of any such pleading.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f55cedc0a3f4b82dd40af5eb30d22dba",
+    "text": "Subrule (2): Most of the divisions of the High Court have their own local rules of practice relating to the allocation of trial 32 dates and set down.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c425ec3ecfdee119d41bfc3eaff031d",
+    "text": "1 Milne NO v Shield Insurance Co Ltd 1969 (3) SA 352 (A) at 358C; Government of the Republic of SA v Ngubane 1972 (2) SA 601 (A) at 608D; Potgieter v Sustein (Edms) Bpk 1990 (2) SA 15 (T) at 19B–H; Van Rensburg v Condoprops 42 (Pty) Ltd 2009 (6) SA 539 (E) at 542A; Natal Joint Municipal Pension Fund v Endumeni Municipality 2012 (4) SA 593 (SCA) at 601E–F; Naidoo NO v Minister of Safety and Security (unreported, ECPE case no 1421/2011 dated 12 March 2019) at paragraph [5]; DRDGOLD Limited v Nkala 2023 (3) SA 461 (SCA) at paragraph [10]. For an overview of the historical development of litis contestatio, see the majority judgment of the full court in Nkala v Harmony Gold Mining Co Ltd 2016 (5) SA 240 (GJ) at paragraphs [177]–[189].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9adb78feea761200bdce6525790eb207",
+    "text": "2 Potgieter v Rondalia Assurance Corporation of SA Ltd 1970 (1) SA 705 (N) at 710A; Government of the Republic of SA v Ngubane 1972 (2) SA 601 (A) at 608D–E; Cochrane v Bezuidenhout (unreported, GP case no A425/2018 dated 26 May 2020 — a decision of the full court) at paragraph [42].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb0615700f85254779d096d055635bd1",
+    "text": "3 1990 (2) SA 15 (T) at 20C, followed by the full court in Cochrane v Bezuidenhout (unreported, GP case no A425/2018 dated 26 May 2020) at paragraph [42] .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f990b998a9c1a1d2fcdce10ec750cd5a",
+    "text": "4 2012 (4) SA 593 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ad70e00f1358d91c95cd42596a71700",
+    "text": "5 At 601D–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a17faecfcc0959b8643a873e0c336aa0",
+    "text": "6 Natal Joint Municipal Pension Fund v Endumeni Municipality 2012 (4) SA 593 (SCA) at 601F–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "96b37f1025ae097a2f83aa11368bb2fc",
+    "text": "7 Natal Joint Municipal Pension Fund v Endumeni Municipality 2012 (4) SA 593 (SCA) at 602A–D; and see Olivier NO v MEC for Health, Western Cape 2023 (2) SA 551 (WCC) at paragraphs [22]–[23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "769f60d94c6c9d5113afa02efbfce1aa",
+    "text": "8 2016 (1) SA 64 (KZD).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "727d516bbced2cd31e8fe4f7df2356ac",
+    "text": "9 At 69C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d7a3da4f9825460f9d856adc89fff78",
+    "text": "10 As to the nature of such claims, see Hoffa NO v SA Mutual Fire & General Insurance Co Ltd 1965 (2) SA 944 (C); Government of the Republic of SA v Ngubane 1972 (2) SA 601 (A) at 606A–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9fb77e65f0ee172ec6f25d2981f44136",
+    "text": "11 Jankowiak v Parity Insurance Co Ltd 1963 (2) SA 286 (W); Hoffa NO v SA Mutual Fire & General Insurance Co Ltd 1965 (2) SA 944 (C); Milne NO v Shield Insurance Co Ltd 1969 (3) SA 352 (A) at 358C; Potgieter v Rondalia Assurance Corporation of SA Ltd 1970 (1) SA 705",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c65829d284498918d0629bb29e0df9aa",
+    "text": "(N) at 710A–D; Government of the Republic of SA v Ngubane 1972 (2) SA 601 (A) at 608D; Potgieter v Sustein (Edms) Bpk 1990 (2) SA 15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "89a018e1e56bdc9eecbf034ae93f165d",
+    "text": "(T) at 21J–22D; Nkala v Harmony Gold Mining Co Ltd 2016 (5) SA 240 (GJ) at paragraph [188].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e0f66f97c44168b8733e4cdf2fada9c5",
+    "text": "12 Jankowiak v Parity Insurance Co Ltd 1963 (2) SA 286 (W); Milne NO v Shield Insurance Co Ltd 1969 (3) SA 352 (A) at 358C; Potgieter v Rondalia Assurance Corporation of SA Ltd 1970 (1) SA 705 (N) at 710A–D; Government of the Republic of SA v Ngubane 1972 (2) SA 601 (A) at 608D; Potgieter v Sustein (Edms) Bpk 1990 (2) SA 15 (T) at 21J–22D; Olivier NO v MEC for Health, Western Cape 2023 (2) SA 551 (WCC) at paragraph [40.2].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d777069ba8737c725eeba80c524b4334",
+    "text": "13 2016 (5) SA 240 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3a44a58e830875b633d446f954d0d671",
+    "text": "14 At paragraph [176].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "468a59e045aca2b016a2f818a7b9f2b0",
+    "text": "S",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0e0bf23f33e3a0ce7b9c03c041910fca",
+    "text": "15 At paragraph [220].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6a0ea901cae72c802b6da341f84c7a7f",
+    "text": "16 At paragraph [230].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "50ce6b504e22aaf2ceebb8549f23aa2e",
+    "text": "17 2023 (3) SA 461 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "881b7e3aec9bbfb8a59a971f8840213a",
+    "text": "18 At paragraphs [40]–[41]. In so far as the declaratory order was concerned, the Supreme Court of Appeal stated, amongst other things (at paragraph [39]):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b636b72681b008a57811ab17577b0e6",
+    "text": "‘Should we entertain an appeal against the declarator at this stage, there may be a further appeal, particularly if we should construe the declarator to the dissatisfaction of either the appellants or the respondents. These processes may postpone litis contestatio in the class action, yet may culminate in a decision that litis contestatio remains determinative for the transmission of claims for non-patrimonial damages. That may cause the extinction of any number of claims for general damages of claimants that passed away before litis contestatio.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a788164af3da195fc0e5f6987865dd2",
+    "text": "19 2022 (5) SA 231 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eb93a943db4e1db077ced977afc318ad",
+    "text": "20 2023 (2) SA 551 (WCC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "987a233d43a6f9fe9347d10b8de387ac",
+    "text": "21 Waikiwi Shipping Co Ltd v Thomas Barlow and Sons (Natal) Ltd 1978 (1) SA 671 (A), overruling Thos Barlow & Sons (Natal) Ltd v Dorman Long Ltd 1976 (3) SA 97 (D); Brummer v Gorfil Brothers Investments (Pty) Ltd 1999 (3) SA 389 (SCA) at 410E–H; Van Rensburg v Condoprops 42 (Pty) Ltd 2009 (6) SA 539 (E) at 544E. See also Van Heerden (1995) 112 SALJ 379 at 385.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f28b9d738ad86833a8245eb3d3d77266",
+    "text": "22 Brummer v Gorfil Brothers Investments (Pty) Ltd 1999 (3) SA 389 (SCA) at 410E–H; Van Rensburg v Condoprops 42 (Pty) Ltd 2009 (6) SA 539 (E) at 544F–545A; Antonie v Noble Land (Pty) Ltd 2014 (5) SA 307 (GJ) at 309H–310C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c3f30728ac3559f625c73872f9ba7d32",
+    "text": "23 Erasmus v Michael James (Pty) Ltd (t/a The Michael James Organisation) (Standard Bank of SA Ltd Intervening); Sashwood (Pty) Ltd v The Fund Constituting the Proceeds of the First and Second Sales of the MV Nautilus (Erasmus, Nel and Standard Bank of SA Ltd Intervening) 1994 (2) SA 528 (C) at 566A; Van Rensburg v Condoprops 42 (Pty) Ltd 2009 (6) SA 539 (E) at 544F; Antonie v Noble Land (Pty) Ltd 2014 (5) SA 307 (GJ) at 309H–310C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e926279cd661892a4bce793c0e1c3d4a",
+    "text": "24 Silhouette Investments Ltd v Virgin Hotels Group Ltd 2009 (4) SA 617 (SCA), applied in Tecmed (Pty) Ltd v Nissho Iwai Corporation 2011 (1) SA 35 (SCA) at 43B–D; Antonie v Noble Land (Pty) Ltd 2014 (5) SA 307 (GJ) at 310H–I. The substitution of a party after litis contestatio as a result of a cession of the debt does not give rise to a valid plea of prescription (Sentrachem Ltd v Terreblanche, unreported, SCA case",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9560012bbb152d45a6449a30b796ef62",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "30bd3d67bd38cd294370eb0cfd079027",
+    "text": "Downloaded: Mon Feb 17 2025 11:47:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "01cbdfe7fb12bd3545dbea67aeb0269f",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 29.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cfbf3d058299230cdbfbcc389a618278",
+    "text": "no 237/2016 dated 22 March 2017).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c982d77bf872120b140cacf28cc89806",
+    "text": "25 Antonie v Noble Land (Pty) Ltd 2014 (5) SA 307 (GJ) at 310D–311B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "205d87d0c23a071cadfe976a12b9fb55",
+    "text": "26 See Milne NO v Shield Insurance Co Ltd 1969 (3) SA 352 (A) at 358G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6cef0108efbd89d1a7c24456e5e2ad4",
+    "text": "27 Milne NO v Shield Insurance Co Ltd 1969 (3) SA 352 (A) at 358H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "870a9988f80dace0f67ed049420a568f",
+    "text": "28 Milne NO v Shield Insurance Co Ltd 1969 (3) SA 352 (A) at 359G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6a4cccd99ee8bebb75766c7517753bf3",
+    "text": "29 See The Master v General Accident, Fire and Life Assurance Co 1935 CPD 250 at 254.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "06bbef589f281d1c9baa59c5f5971b38",
+    "text": "30 Butler v Swain 1960 (1) SA 527 (N) at 528F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ae22d1aec542381365c6af6e45fc4053",
+    "text": "31 Hanson, Tomkin & Finkelstein v DBN Investments (Pty) Ltd 1951 (3) SA 769 (N); Butler v Swain 1960 (1) SA 527 (N) at 528A–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce86db4f19769e8d4eaf0248805f5ee3",
+    "text": "32 See, in general, Volume 3, Parts F–N.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8a0dbefe31133029342f1c026b391e17",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 11:47:29 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 29.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "3958b54264233436224cf380e3d53d56",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 29.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

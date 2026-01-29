@@ -1,0 +1,997 @@
+[
+  {
+    "type": "Title",
+    "element_id": "2545244cd0d5e6fc1d19b55ff9713e31",
+    "text": "21 Further particulars",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "2bf660f2409ae70d2a881436aa99a1d0",
+    "text": "RS 22, 2023, D1 Rule 21-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0f6d817ed255678db79cca4425f385f",
+    "text": "(1) Subject to the provisions of subrules (2) to (4) further particulars shall not be requested.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5091c4b8d07bff35cfa6ecb87bac595a",
+    "text": "(2) After the close of pleadings any party may, not less than 20 days before trial, deliver a notice requesting only such further particulars as are strictly necessary to enable him or her to prepare for trial. Such request shall be complied with within 10 days after receipt thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3dddd7efe84fde047038b5e97a5ba920",
+    "text": "[Subrule (2) substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c53d3954d591dbb6e7855b61a9f611c",
+    "text": "(3) The request for further particulars for trial and the reply thereto shall, save where the party is litigating in person, be signed by both an advocate and an attorney or, in the case of an attorney who, under section 4(2) of the Right of Appearance in Courts Act, 1995 (Act No. 62 of 1995), has the right of appearance in the High Court, only by such attorney.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d58e3b4220d6aae38cf6e511ca23e570",
+    "text": "[Subrule (3) substituted by GN R873 of 31 May 1996 and by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1f4c2423c12584b74924c8d47d852bb6",
+    "text": "(4) If the party requested to furnish any particulars as aforesaid fails to deliver them timeously or sufficiently, the party requesting the same may apply to court for an order for their delivery or for the dismissal of the action or the striking out of the defence, whereupon the court may make such order as to it seems meet.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "82b47621038f83d3e94edd9d0d304a90",
+    "text": "(5) The court shall at the conclusion of the trial of own accord consider whether the further particulars were strictly necessary, and shall disallow all costs of and flowing from any unnecessary request or reply, or both, and may order either party to pay the costs thereby wasted, on an attorney and client basis or otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3eae195b0d27ca3d0cd548cb4c01f476",
+    "text": "[Subrule (5) substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4177d29318b19c1449429dcf3be911c1",
+    "text": "[Rule 21 substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "9c54268700aa1828f8db28b046486365",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "2bf660f2409ae70d2a881436aa99a1d0"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1debf73c7f5c4816946f87f0318f28c",
+    "text": "Subrule (1): ‘Further particulars shall not be requested.’ Requests for further particulars for the purpose of pleading were 1 abolished with effect from 1 January 1988. The abuse of the procedure for requesting further particulars for the purpose of 2 pleading was for some time viewed with growing disfavour by the courts. The effect of the abolition is ‘that all the particularity to which the other party is entitled for the purpose of pleading will have to be included in the initial pleading, 3 whether it be plaintiff’s particulars of claim, defendant’s plea, plaintiff’s replication or a subsequent pleading’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0fe76d101e30e7b976f59baaa87c9d4a",
+    "text": "Subrule (2): ‘After the close of pleadings.’ The request for further particulars for purposes of trial under this rule can be brought only after the close of pleadings. As to the close of pleadings, see rule 29 and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f0d404c7ad6730d3a7b834e8b83aac46",
+    "text": "RS 22, 2023, D1 Rule 21-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9d094186775e00b9eff55fcf378ee63",
+    "text": "‘Any party may . . . deliver a notice.’ This subrule allows any party to request further particulars by notice. It does, however, not specify from whom the particulars might be requested and neither expressly sanctions nor forbids a request for 4 particulars for trial between two parties such as a first and third defendant in a case. It has been suggested that there is no reason why a third defendant may not require a first defendant to disclose certain information where the plaintiff was unable to do so.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f564927d9332a59c22d90b1a5b62f653",
+    "text": "‘Only such further particulars as are strictly necessary.’ It is to be noted that a party is only entitled to call for such further particulars as are ‘strictly necessary’ to enable him to prepare for trial. The purpose of permitting a party to call for further particulars for trial is (a) to prevent surprise; (b) that the parties should be told with greater precision what the other party is going to prove in order to enable his opponent to prepare his case to combat counter allegations; and (c) having 5 regard to the aforegoing nevertheless not to tie the other party down and limit his case unfairly at the trial. Even if the particulars requested may at times involve the disclosure of evidence, that fact does not disentitle the other party from obtaining the particulars if on the grounds of embarrassment or prejudice in the preparation of his case he would otherwise be 6 entitled to know what case he has to meet. In general, however, the purpose of particulars for trial is not to elicit evidence 7 or information which will emerge on cross-examination.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fea81c21f3ff02fe40487fd5dcf6a329",
+    "text": "8 In determining what particulars fall within the scope of the rule, one would look primarily at the pleadings. A party cannot, however, be required to give particulars in relation to a mere denial, i e where a party pleads a bare denial of allegations made by his opponent, such a party cannot be required to furnish particulars of any aspect placed in issue by such denial. In 9 applying this principle, it must be borne in mind that a statement in a plea which is in form a denial may embody by necessary implication a positive averment of some fact; and in such a case it may be proper to require that particulars be furnished of 10 the implied averment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0119e213b6312ac178a5831502ed8164",
+    "text": "Since the pleadings alone do not necessarily contain sufficient information to determine whether or not a party may be taken by surprise and what the other party intends to prove, it is permissible to go beyond the pleadings and to look at matter forming part of the record,",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04cca85967a4f8b625d5124167d674bf",
+    "text": "RS 22, 2023, D1 Rule 21-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a512d3aefe96ee45e83bdbf76b62c2f",
+    "text": "such as expert witnesses’ summaries and even (in an appropriate case) evidence given at an earlier hearing which forms part 11 of the record.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92e07e62f9a0b82099c995be3c8ed4aa",
+    "text": "‘Shall be complied with within 10 days.’ Failure to comply with a request for further particulars entitles the party who has requested such particulars to apply for an order for their delivery or for the dismissal of the action or for the striking out of the defence, as the case may be, in terms of subrule (4).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e5cb0b119db57ac704dcdf2df1481e0",
+    "text": "Subrule (3): ‘Shall . . . be signed by both an advocate and an attorney.’ See further the notes to rule 18(1) s v ‘Shall be signed by both an advocate and an attorney’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b1afdb46de7a033daebcb5d7cc305269",
+    "text": "Subrule (4): ‘May apply to court for an order.’ Further particulars are pleadings. 12 It has been held that an applicant is not entitled to an order compelling a reply as of right should the opposing party fail to deliver further particulars timeously or sufficiently, but must set out sufficient information in its application to enable the court to consider whether or not to exercise its discretion in its favour. In that regard it was impossible to lay down any test which could be slavishly applied to determine whether an order compelling delivery should be granted, as each case must turn upon its own particular facts and circumstances. In most cases it would probably be wholly insufficient for a party seeking relief under rule 21(4) to rely solely 13 upon the other party’s failure to timeously comply with the request for further particulars.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "96cfa42df708dbc32d0a554858379376",
+    "text": "It has been held 14 that it is sound practice for a party to call upon his opponent to remedy a default or failure to timeously comply with the request for particulars for trial and put him to terms before lodging the application. The general requirement of 15 the now repealed rule 30(5), that an applicant for an order to compel compliance with a request or notice given pursuant to the rules of court must notify the defaulting party that he intends after the lapse of ten days to apply for the order, did not override but gave way to the special provisions of this subrule relating to an application to compel further particulars where no 16 such notification is required. It is submitted that this position did not change under rule 30A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b80c46943709f3b85e77b3e68ca78029",
+    "text": "In Houtlands Investments (Pty) Ltd v Traverso Construction (Pty) Ltd 17 it was held that a party who has been ordered to furnish further particulars may reply that the information sought is unavailable and unknown to him. This is in line with the Cape practice of often making a blanket order for compliance with a request for particulars, on the assumption that the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf",
+      "parent_id": "9c54268700aa1828f8db28b046486365"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "19bd3df5c639701d3be750c97bad2a3d",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f890d42e8cf7d0decf3c393b84286f3e",
+    "text": "Downloaded: Mon Feb 17 2025 11:33:59 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6a6f212e8c04cbe602be02c865c9dc3e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 21.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2373a39f9e1df398e7e7e75bd4d395c6",
+    "text": "respondent retains some residual right to challenge the applicant’s entitlement to the information sought when dealing with the 18 individual questions posed in the request. In Wilson v Spitze preference was expressed for the Transvaal practice where the court orders compliance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f5f538021719c0491e1bb1ba80b42c1f",
+    "text": "RS 22, 2023, D1 Rule 21-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49731fd692d3458ffd393d8d791d6571",
+    "text": "with only so much of a request for particulars as has been properly made. The Cape practice of granting an initial blanket order, especially one granted with costs against the respondent in default, not only makes it difficult to comply with the sanction contained in subrule (5) of this rule, but it also means that the court may be asked to make an order twice in regard 19 to the same matter and, on the second occasion, notionally contradicting the first order made.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6721333873d3faf5bbe01bc8805f9ae8",
+    "text": "‘For their delivery.’ In practice the court usually orders that the particulars be furnished within a time fixed by it and grants 20 This seems leave, in the event of this not being done, to apply on the same papers for the appropriate further relief. 21 preferable to the procedure adopted in Commercial Motors v Caledonian Motors where the court granted an order upon the respondent to furnish particulars on or before 24 November, and to show cause on 26 November why the action should not be dismissed, in the event of its failing to do so.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2c9e2cd053cac422908a1488d512f178",
+    "text": "‘For the dismissal of the action or the striking out of the defence.’ The court’s power to dismiss an action or strike out a 22 defence where there has been failure to supply further particulars is not limited to cases of contumacy.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a2ccc98a3a521e48c38ec598a096661d",
+    "text": "‘Whereupon the court may make such order as to it seems meet.’ The court retains a discretion to (amongst other 23 things) grant or refuse an order for the delivery of further particulars.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb57e8589df64e4b8b9862afa27fd1b9",
+    "text": "Subrule (5): ‘The court shall . . . of its own accord consider.’ Though it has been said that this subrule is seldom 24 invoked, it is in fact incumbent upon the court mero motu to disallow the costs wasted by unnecessary requests for 25 particulars.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8d6bfa59c5d75ebd31270ef13a57b9bd",
+    "text": "‘Shall disallow all costs of and flowing from.’ The court retains its overriding discretion in relation to costs and can make an appropriate order having regard to the circumstances of each case.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8878377ca29e13de28c4b4cda49657e0",
+    "text": "‘Any unnecessary request or reply.’ This subrule makes it clear that not only the party who brings an unnecessary request, 26 but also the party who makes an unnecessary reply, may be deprived of costs unnecessarily incurred.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5095d766b79c010105b30652cb1d5637",
+    "text": "‘On an attorney and client basis or otherwise.’ Apart from disallowing the costs of and flowing from an unnecessary request, the court may order either party to pay the costs thereby wasted, on an attorney and client basis or otherwise. In many cases, while some of the questions contained in a request for particulars may be totally unjustified and merit an order for wasted costs on an attorney and client basis, the request may contain questions to which answers were truly needed. In 27 Magagula v Senator Insurance Co Ltd the court avoided splitting its order into two components and simply disallowed the costs of the entire request.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a44f08088cf1dca5cf1ea95b4df3590c",
+    "text": "1 By the amendments to rule 21 effected by rule 13 of GN R2164 of 2 October 1987 and rule 13 of GN R2642 of 27 November 1987. 2 Reid NO v Royal Insurance Co Ltd 1951 (1) SA 713 (T) at 719; Purdon v Muller 1961 (2) SA 211 (A) at 214–15; Moaki v Reckitt & Colman (Africa) Ltd 1968 (3) SA 98 (A) at 102; Potgieter v Rondalia Assurance Corporation of SA Ltd 1970 (1) SA 705 (N) at 719; SA Railways and Harbours v Deal Enterprises (Pty) Ltd 1975 (3) SA 944 (W) at 948. In Wilson v Spitze 1987 (4) SA 118 (C) at 132 Van den Heever J remarked:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5a930ee52ac355fb4905766d9954ed7f",
+    "text": "‘I never cease to be amazed at the number of questions practitioners are capable of thinking up to even the most prosaic and straightforward of allegations.”",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9a329f6d10013a4fe489d960283ae2d",
+    "text": "The abolition of the right to request further particulars for the purpose of pleading was recommended by the Galgut Commission (Commission of Inquiry into Civil Proceedings in the Supreme Court of South Africa appointed under GN R2201 of 19 November 1976).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3ea10cce4d00a59d45bf87d5c5e05847",
+    "text": "3",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ef14947f69595d1f6b883c31ad13703f",
+    "text": "C Loots in 1988 De Rebus 152.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "537e0e19ea79fa1e07720ef65f115cef",
+    "text": "4 Control Instruments Finance (Pty) Ltd v Mercantile Bank 2001 (3) SA 645 (C) at 650E–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "95065e8ec50d7e0270bb65d472b323b5",
+    "text": "5 Samuels v William Dunn & Company South Africa (Pty) Ltd 1949 (1) SA 1149 (T) at 1158; Thompson v Barclays Bank DCO 1965 (1) SA 365 (W) at 369; Lotzoff v Connel 1968 (2) SA 127 (W) at 129; Thompson v Barclays Bank DCO 1969 (2) SA 160 (W) at 165; Schmidt Plant Hire (Pty) Ltd v Pedrelli 1990 (1) SA 398 (D) at 402; Bester NO v Target Brand Orchards (Pty) Ltd [2023] 3 All SA 101 (WCC) at paragraph [45]; EH Hassim Hardware (Pty) Ltd v Segabokeng Building Construction CC (unreported, GP case no 69167/2017 dated 27 September 2021) at paragraph [16]; Guardrisk Insurance Company Ltd v IFS Risk Consultants CC (unreported, GP case no 11799/2021 dated 7 November 2022) at paragraph [11]; Lutzen v Knysna Municipality (unreported, WCC case no 695/2020 dated 8 May 2023) at paragraph [39].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd35b0f7fac1c0c99c4b6778010faa81",
+    "text": "6 Annandale v Bates 1956 (3) SA 549 (W) at 551; Lotzoff v Connel 1968 (2) SA 127 (W) at 129; Lutzen v Knysna Municipality (unreported, WCC case no 695/2020 dated 8 May 2023) at paragraph [40].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d900f69a3217dfd558faaf56c28da131",
+    "text": "7 Von Gordon v Von Gordon 1961 (4) SA 211 (T) at 213.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d5850003c0131083d8a4d0447196b99e",
+    "text": "8 See, for example, Hardy v Hardy 1961 (1) SA 643 (W) at 646; Swart v De Beer 1989 (3) SA 622 (E); De Polo v Dreyer 1991 (2) SA 164 (W) at 174IJ; DFPT Finance NPC v Vintage Distributors (Pty) Ltd (unreported, WCC case no 9095/18 dated 23 November 2021); Guardrisk Insurance Company Ltd v IFS Risk Consultants CC (unreported, GP case no 11799/2021 dated 7 November 2022) at paragraph [12].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "33d3c285d78606f5d5468efb0023dbc2",
+    "text": "9 Kliptown Clothing Industries (Pty) Ltd v Marine and Trade Insurance Co of SA Ltd 1960 (1) SA 446 (W) at 448; Hardy v Hardy 1961 (1) SA 643 (W) at 646; Swart v De Beer 1989 (3) SA 622 (E) at 625; PJ v HJ (unreported, FB case no A55/2022 dated 10 November 2022 — a decision of the full bench) at paragraphs [16] and [18].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "caf4fb6c578d8ca55222d856bdaf0c48",
+    "text": "10 Wetzler v The General Insurance Company (1884) 3 SC 86; National Bank of SA Ltd v Cohen’s Trustee 1911 AD 235 at 251; Kimberley Motor Supplies Co Ltd v Union Trade Promotion Co 1938 GWL 23 at 33; Barclays Bank v Riverside Dried Fruit Co (Pty) Ltd 1949 (1) SA 937 (C); De Hart NO v Virginia Land and Estate Co Ltd 1957 (4) SA 501 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d37bacd8134f63e7afa03e230cf7899f",
+    "text": "11 Schmidt Plant Hire (Pty) Ltd v Pedrelli 1990 (1) SA 398 (D) at 402–3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a5b30f59ae6753353e12c9951cf24014",
+    "text": "12 Thompson Kusela CC t/a Thompson Security Group v Dewald Buys t/a Masima Block Watch (unreported, GJ case no 2017/39176 dated 13 June 2023) at paragraph [32].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ad46e1926b9552ab52171f38d970596c",
+    "text": "13 Szedlacsek v Szedlacsek; Van der Walt v Van der Walt; Warner v Warner 2000 (4) SA 147 (E) at 150A–C; Stapelberg Vervoer CC t/a Mill Trans v Nordicbau Master Builder & Renovator CC (unreported, ECGq case no 601/2017 dated 1 November 2022) at paragraph [8]. A court sitting as a court of appeal will interfere with the exercise of the discretion only if it appears that the lower court had not exercised it judicially, or that it had been influenced by the wrong principles or a misdirection on the facts, or that it had reached a decision which in the result could not reasonably have been made by a court directing itself to all the relevant facts and principles (PJ v HJ (unreported, FB case no A55/2022 dated 10 November 2022 — a decision of the full bench) at paragraphs [4], [12]–[16] and [18]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a9b712ef1fddfbacbea3cd1df934156",
+    "text": "14 Szedlacsek v Szedlacsek; Van der Walt v Van der Walt; Warner v Warner 2000 (4) SA 147 (E) at 150E–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f13903372f1352ff4eab5517b5ec7f96",
+    "text": "15 Rule 30(5) was deleted by GN R2047 of 13 December 1996.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ab1b20eaa6fb8224b932f725739f553",
+    "text": "16 Norman & Co (Pty) Ltd v Hansella Construction Co (Pty) Ltd 1968 (1) SA 503 (T); Houtlands Investments (Pty) Ltd v Traverso Construction (Pty) Ltd 1976 (2) SA 261 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dabae70ef0f575ff1b6fc433dd39486d",
+    "text": "17 1976 (2) SA 261 (C) at 265–6.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af828d905f0565fbab5ceb674f04c99e",
+    "text": "18 1987 (4) SA 118 (C) at 132–3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb35b108c50427503a08d62668797a22",
+    "text": "19 Wilson v Spitze 1987 (4) SA 118 (C) at 132.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "65a59badc9bff4243b7f543ad5b49b35",
+    "text": "20 See, for example, Pietersburg Produce Co v Minnie Stores 1961 (1) SA 702 (N); JCI Co Ltd v Mitchmor Investments (Pty) Ltd 1971 (2) SA 397 (W) at 411; Houtlands Investments (Pty) Ltd v Traverso Construction (Pty) Ltd 1976 (2) SA 261 (C) at 273.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "73c4defe9268ef02171be7dcf8e4c5ef",
+    "text": "21 1960 (1) SA 366 (SR).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "843378ecb711dc12d3e0cc5632a2d7b4",
+    "text": "22 The Wanson Company of SA (Pty) Ltd v Establissements Wanson Construction de Material Thermieque Société Anonyme 1976 (1) SA 275 (T) at 280 where the full court disapproved of the statement in Wilson v Die Afrikaanse Pers Publikasies (Edms) Bpk 1971 (3) SA 455 (T) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7766f0a389126b511c4272e11ecc8b5a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "db1a1bb684af18cad0f95d944e676e8b",
+    "text": "Downloaded: Mon Feb 17 2025 11:33:59 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "3a6991990cbf35dd20e6774d23e0e800",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 21.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b758348750a8cec8dc58ae46b1d456f8",
+    "text": "462 to the effect that ‘the ultimate remedy of striking out a defendant’s defence is to be resorted to only where there is contumacy’. 23 Van der Walt v Van der Walt 2000 (4) SA 147 (E) at 150E–F; Bester NO v Target Brand Orchards (Pty) Ltd [2023] 3 All SA 101 (WCC) at paragraph [46]. 24 Wilson v Spitze 1987 (4) SA 118 (C) at 132. 25 Magagula v Senator Insurance Co Ltd 1980 (1) SA 717 (N) at 723. 26 In Carte v Carte 1982 (2) SA 318 (D) the court did not penalize the plaintiff for his ‘misguided co-operation’ in complying with an unnecessary request for particulars — it marked its disapproval of the conduct of the defendant by refusing her the costs of the unnecessary request for particulars.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10f9b83f0bf4c0b3a02439c62655538f",
+    "text": "27 1980 (1) SA 717 (N) at 723.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d34df3ec9a2bd3ab89bc226b72c81958",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 11:33:59 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 21.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6a6f212e8c04cbe602be02c865c9dc3e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 21.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

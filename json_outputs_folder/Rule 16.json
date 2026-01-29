@@ -1,0 +1,933 @@
+[
+  {
+    "type": "Title",
+    "element_id": "e4d07c86cf5eb078dd64e918164323a0",
+    "text": "16 Representation of parties",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "7131f2aa6186a8f7532572fa2b43e4c9",
+    "text": "RS 22, 2023, D1 Rule 16-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3909b293906dab60a3e70fbcec162130",
+    "text": "(1) If an attorney acts on behalf of any party in any proceedings, such attorney shall notify all other parties of this fact and shall supply an address where documents in the proceedings may be served.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "51a13284464cdde60410c358ef3c4505",
+    "text": "[Subrule (1) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "efa8cab4e9b62e733221ef4b0612c4fa",
+    "text": "(2)(a) Any party represented by an attorney in any proceedings may at any time, subject to the provisions of rule 40, terminate such attorney’s authority to act, and may thereafter act in person or appoint another attorney to act in the proceedings, whereupon such party or the newly appointed attorney on behalf of such party shall forthwith give notice to the registrar and to all other parties of the termination of the former attorney’s authority, and if such party has appointed a further attorney to act in the proceedings, such party or the newly appointed attorney on behalf of such party shall give the name and address of the attorney so appointed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b85b8f3aff3eb40182f8f53f9bae3db",
+    "text": "(b) If such party does not appoint a further attorney, such party shall in the notice of termination appoint an address within 25 kilometres of the office of the registrar and an electronic mail address, if available to such party, for the service on such party at either address, of all documents in such proceedings as well as such party’s postal or facsimile addresses where available.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "16ce93d4860ffce32deb1c309fe062e6",
+    "text": "[Paragraph (b) substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "07906a78003ad323a7450d91ffa61a3b",
+    "text": "[Subrule (2) substituted by GN R2021 of 5 November 1971, by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987; Paragraph (b) of subrule (2) substituted by GN R960 of 28 May 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d7ac68a2a7c772bf3e26781f7c3037a9",
+    "text": "(3) Upon receipt of a notice in terms of subrule (1) or (2), the address of the attorney or of the party, as the case may be, shall become the address of such party for the service upon such party of all documents in such proceedings, but any service duly effected elsewhere before receipt of such notice shall, notwithstanding such change, for all purposes be valid, unless the court orders otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44c44c01f25ad934c3bf7d90c3e18925",
+    "text": "[Subrule (3) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "94d34342e7af850dfa6a937e9e4411a9",
+    "text": "(4)(a) Where an attorney acting in any proceedings for a party ceases so to act, such attorney shall forthwith deliver notice thereof to such party, the registrar and all other parties: Provided that notice to the party for whom such attorney acted may be given by facsimile or electronic mail in accordance with the provisions of rule 4A.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40a03f6bdaf34aa0557705bb6cee64a1",
+    "text": "(b) The party formerly represented must within 10 days after the notice of withdrawal notify the registrar and all other parties of a new address for service as contemplated in sub-rule [sic] (2) whereafter all subsequent documents in the proceedings for service on such party shall be served on such party in accordance with the rules relating to service: Provided that the party whose attorney has withdrawn and who has failed to provide an address within the said period of 10 days shall be liable for the payment of the costs occasioned by subsequent service on such party in terms of the rules relating to service, unless the court orders otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b456f6f20ed937a795c0b458a2e1c1f3",
+    "text": "RS 22, 2023, D1 Rule 16-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5632fdfef569a956f65777bf46cb4753",
+    "text": "(c) The notice to the registrar shall state the names and addresses of the parties notified and the date on which and the manner in which the notice was sent to them.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b22a80cee46602451f19b08084717f4",
+    "text": "(d) The notice to the party formerly represented shall inform the said party of the provisions of paragraph (b).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "833b7e695ba8c82c0573e6b27f87e5a0",
+    "text": "[Subrule (4) substituted by GN R235 of 18 February 1966, by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2940bb3ede180a4d1b77491914079992",
+    "text": "[Rule 16 substituted by GN R1318 of 30 November 2018.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "322e4ce7ff640cfb316ef3dee607f2ff",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "7131f2aa6186a8f7532572fa2b43e4c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aadf8ff82145c999525e1ea3661f52ee",
+    "text": "Subrule (1): ‘If an attorney acts on behalf of any party.’ Prior to the amendment in 1987 of rule 7 and of this rule, the 1 filing of a power of attorney was necessary. Under the amended rules, powers of attorney need only be filed when an attorney’s authority to act is challenged by the other party, and in the case of appeals. See further rule 7 and the notes thereto above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "42b06fc01e4392395ca3a235194ddf1c",
+    "text": "For a case where the State Attorney failed to comply with this subrule, and in other respects acted in an unacceptable 2 manner, see Tshiyombo v Refugee Appeal Board.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4d86e46211ba339e7fe3a3c5ccb1272a",
+    "text": "Subrule (2)(a): ‘Terminate such attorney’s authority to act.’ After an attorney of record’s authority has been terminated he is neither obliged nor entitled to accept service of any document in the case and such service on him would not be valid 3 and effectual service on his (former) principal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a887259e8bb3e6fe59a8aed4f187648",
+    "text": "Subrule (2)(b): ‘An electronic mail address, if available.’ If an electronic mail address is not available the only other address allowed by the subrule for acceptance of notices by and service of documents on the party concerned is the one appointed by such party within 25 kilometers of the office of the registrar. The subrule, however, in addition, requires the party to state its postal or facsimile addresses, where available. The subrule is not included in the provisions of rule 4A above and the provisions of that rule therefore do not apply to the subrule. The reason for this omission is unclear.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "26460f3e7cd5fe647db9690070a050a4",
+    "text": "Subrule (3): ‘Any service duly effected elsewhere before receipt of such notice shall, notwithstanding such change, for all purposes be valid, unless the court orders otherwise.’ If this was not so, a litigant could unilaterally change the address for service without notice to the other litigants, thereby rendering himself immune from service by unilaterally changing his attorney from time to time and at a whim. The effect would be to unravel the framework created under the rules to allow litigation to continue smoothly if a litigant elected to switch jockeys midstream. This, as a matter of pure logic, could never 4 have been the intention for the existence of the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01b245f192eb4dc82682da290c53dc98",
+    "text": "Subrule (4)(a): ‘Where an attorney . . . ceases so to act.’ Prior to the substitution of rule 16 by GN R1318 of 30 November 5 6 2018 with effect from 10 January 2019, this subrule has, since 1965, been substituted on two occasions. Decisions which 7 deal with the rule in its former manifestations must now be regarded with considerable reserve. If an attorney wishes to withdraw in an appeal to the Supreme Court of Appeal he must comply with the procedure prescribed in this subrule. 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3bfd73db968ea6267c6bbefc13637944",
+    "text": "RS 22, 2023, D1 Rule 16-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93504a65aae9b5d8e6a2212dad38b357",
+    "text": "‘Such attorney shall forthwith deliver notice thereof.’ An attorney who wishes to withdraw from a case, including an appeal, must do so timeously: it is a duty he owes not only to his client in order to enable him to make other arrangements if 9 he wishes to do so, but also to the court, to the attorneys on the other side and to the other litigants in the 10 11 matter. Failure to do so out of self-interest constitutes unprofessional conduct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "188dac935d9afe368c23d50532caded0",
+    "text": "‘To such party, the registrar and all other parties.’ From the context it is clear that ‘such party’ is the party for whom the attorney has been acting — the amended wording of the subrule in this respect gives effect to the judgment in Botes v 12 Botes. In terms of subrule 4(d) the attorney must in his notice inform the party of the provisions of paragraph (b) of this subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59cdf6ee48c7c30bee4f57be2c478cc9",
+    "text": "The content of the notice to the registrar is set out in paragraph (c) of this subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae4e40f7fc837a92b7f03b759c828b8e",
+    "text": "‘Provided that . . . notice may be given by facsimile or electronic mail.’ A client who disappears and makes it impossible for his attorney to notify the client that he has withdrawn can cause all the parties concerned considerable difficulties. 14 proviso to the subrule now entitles an attorney to notify his client of his withdrawal by facsimile or electronic mail in 13 The accordance with the provisions of rule 4A. Such notification at an address furnished to the attorney by the client would seem to be sufficient without proof that the client had in fact received the notification.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8b7f455a479c58564f1a9eec6c8f77ef",
+    "text": "Subrule (4)(b): ‘General.’ Prior to the substitution of rule 16 by GN R1318 of 30 November 2018 with effect from 10 January 15 2019, subrule (4)(b) read as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf",
+      "parent_id": "322e4ce7ff640cfb316ef3dee607f2ff"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ccd19c0ffffddd0bdffe284c5f8dfc7a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0ed4643b904ff1841fff6b5a1d5b297b",
+    "text": "Downloaded: Mon Feb 17 2025 11:37:45 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "1b6e0f21ea409bf129a510c3093d4e97",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 16.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b5d123ab21675c8a8635309a274def52",
+    "text": "‘After such notice, unless the party formerly represented within 10 days after the notice, himself notifies all other parties of a new address for service as contemplated in subrule (2), it shall not, [sic] be necessary to serve any documents upon such party unless the court otherwise orders: Provided that any of the other parties may before receipt of the notice of his new address for service of documents, serve any documents upon the party who was formerly represented.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de023014beb90c6303d7275fa3c6462f",
+    "text": "It seemed doubtful whether the other parties were entitled to act in terms of the former subrule and not serve documents on a party where it had not been possible to notify such a party in terms of former subrule (4)(a), for example, because a registered letter as contemplated in that subrule was not accepted at the address furnished by the client and his whereabouts 16 were otherwise unknown. It would probably have been necessary in such circumstances to approach the court for directions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d433575c16016398b6fa4280cc6a727",
+    "text": "Under former subrule (4)(b) the court had a discretion to order that the service of documents be effected in a manner directed by the court. This the court could do, for example, in a case involving the status of the parties and where it was clear that the notice by registered letter in terms of paragraph (a) of the subrule had not in fact reached the party concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a4fbd00e1f6b3d3c059abc5958984b1",
+    "text": "RS 22, 2023, D1 Rule 16-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1e23833416e5a9760f998c12ba2201c4",
+    "text": "The proviso in former subrule (4)(b) was in accordance with the decision in Barclays Bank DCO v Van Niekerk 17 in which it was held that where the attorney of record had withdrawn and the principal had not yet forwarded a new address for the service of documents, documents could be served directly upon the principal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0fced32925cec77068d0d1649f7d29b",
+    "text": "Subrule (4)(b) as currently framed compels the party formerly represented by an attorney to notify the registrar and all other parties of a new address for service as contemplated in subrule (2). This must be done within 10 court days after delivery of the notice of withdrawal by the attorney who ceased to act on behalf of such party. After receipt of the notification the other parties are entitled to serve all subsequent documents in the proceedings on the party who gave notice of the new address in accordance with the rules relating to service. If a party whose attorney has withdrawn fails to comply with the provisions of the subrule and does not provide a new address for service to the registrar and all other parties, any other party is entitled to effect service on the defaulting party in terms of the rules relating to service (e g substituted service). In such event the defaulting party shall be liable for the payment of the costs occasioned by subsequent service on 18 such party unless the court orders otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81180bc133b584f7b77ddb304a59f128",
+    "text": "Subrule (4)(c): ‘The notice to the registrar shall state.’ In Transorient Freight Transporters Corporation v Eurocargo Co- 19 ordinators (Pty) Ltd it was stressed that the provisions of this subrule in regard to the content of the notice to the registrar must be strictly complied with. It was said that in appropriate circumstances the court may mero motu order an attorney whose failure to comply with the subrule causes costs of additional service or postponements, to pay such costs de 20 bonis propriis.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e79c1d4370ab2b3a3c05bc13ce65c41",
+    "text": "1 By GN R2164 of October 1987 and GN R2642 of November 1987.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "736f03ddf00796ac7900832364cb938e",
+    "text": "2 2016 (4) SA 469 (WCC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26f221223e103df0e5818461b2ba4d45",
+    "text": "3 Barclays Bank DCO v Van Niekerk 1965 (2) SA 78 (O); Pugin v Pugin 1963 (1) SA 791 (W) at 793H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "393dd56e5cb98625fc00ec13f89b5141",
+    "text": "4 Obiang v Van Rensburg [2023] 2 All SA 211 (WCC) at paragraph [46].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b30cd0dab62f85c19f5e3d90684d4eb4",
+    "text": "5 GG 42064 of 30 November 2018.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a13a3af38196017829be8c079257221f",
+    "text": "6 By GN R235 of February 1966, GN R2164 of October 1987 and GN R2642 of November 1987.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2ca67b70a6f1da45c09b7e036bb95bef",
+    "text": "7 See Pugin v Pugin 1963 (1) SA 791 (W); Botes v Botes 1966 (4) SA 295 (T); Horitzauer v Horitzauer 1968 (4) SA 376 (T); Transorient Freight Transporters Corporation v Eurocargo Co-ordinators (Pty) Ltd 1984 (3) SA 542 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e49f80fa49e34ace900708f7e4eb3dc2",
+    "text": "8 See rule 16A(2) of the Rules of the Supreme Court of Appeal in Volume 1 third edition, Part C1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "871a42653d76383825278ff8377d46c9",
+    "text": "9 MacDonald t/a Happy Days Cafe v Neethling 1990 (4) SA 30 (N); Sayed NO v Road Accident Fund 2021 (3) SA 538 (GJ) at paragraphS [12]–[23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca66024f4a0bfa0099e7735fe0bf6707",
+    "text": "See also S v Ndima 1977 (3) SA 1095 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8919dcc7edf620514cd8586c85253df",
+    "text": "10 Sayed NO v Road Accident Fund 2021 (3) SA 538 (GJ) at paragraphS [12]–[23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2399b826cecdcbeaad65b0fef1fad394",
+    "text": "11 Sayed NO v Road Accident Fund 2021 (3) SA 538 (GJ) at paragraphs [12]–[23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "648ba5990dea71bec8ac30262d60f5a3",
+    "text": "(=",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ef5516ae61238a7c8103ac52dcf54292",
+    "text": "12 1966 (4) SA 295 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b22a594fce89a0c140c7d192bfff96c7",
+    "text": "13 See, for example, Horitzauer v Horitzauer 1968 (4) SA 376 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "290c8c3e35199e68f1ede0167364954b",
+    "text": "14 See the remark of Flemming J in Transorient Freight Transporters Corporation v Eurocargo Co-ordinators (Pty) Ltd 1984 (3) SA 542 (W) at 545H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "787e4081ab97f463777b3c4a903f1975",
+    "text": "15 GG 42064 of 30 November 2018.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7bbc5145d880376e0dd99eeffda95beb",
+    "text": "16 See Horitzauer v Horitzauer 1968 (4) SA 376 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "99c53cdc971e7410a513f738a9e45799",
+    "text": "17 1965 (2) SA 78 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8800f902639d766ef72bff695c2d011a",
+    "text": "18 It has been held that if a party terminates the mandate of its attorney and does not appoint a new attorney (or does not provide a new address for service), such party should still enquire from the opposite side as to what the status of the proceedings against it is. Such party cannot simply accept that papers would in future be served upon it and subsequently shield behind its omission to act proactively (Mkwananzi v Manstha [2003] 3 All SA 222 (T) at paragraph [25]; Obiang v Van Rensburg [2023] 2 All SA 211 (WCC) at paragraphs [54]–[55]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0ceaff43c7f3ee3f087a85c213e8a70f",
+    "text": "19 1984 (3) SA 542 (W) at 545G–546C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8a7dba1c82e7cc675d8ba3be6a8ab463",
+    "text": "20 Transorient Freight Transporters Corporation v Eurocargo Co-ordinators (Pty) Ltd 1984 (3) SA 542 (W) at 546C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "305b840fc874feed17b036cd35a78c04",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0660a20894199d03ccd9dc4f4c2ba36d",
+    "text": "Downloaded: Mon Feb 17 2025 11:37:45 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 16.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9c9a2a48ca1b59e2448dac73b65d1b11",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 16.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

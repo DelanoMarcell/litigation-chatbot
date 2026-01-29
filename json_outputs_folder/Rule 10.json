@@ -1,0 +1,3306 @@
+[
+  {
+    "type": "Title",
+    "element_id": "062a013fc689446722b6e6d85131bd5a",
+    "text": "10 Joinder of parties and causes of action",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c0279696a83dc42f1b0b8f558db9dfe8",
+    "text": "RS 24, 2024, D1 Rule 10-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1d473af48c5b23500a905b31ec40d80d",
+    "text": "(1) Any number of persons, each of whom has a claim, whether jointly, jointly and severally, separately or in the alternative, may join as plaintiffs in one action against the same defendant or defendants against whom any one or more of such persons proposing to join as plaintiffs would, if he brought a separate action, be entitled to bring such action, provided that the right to relief of the persons proposing to join as plaintiffs depends upon the determination of substantially the same question of law or fact which, if separate actions were instituted, would arise on such action, and provided that there may be a joinder conditionally upon the claim of any other plaintiff failing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8732395ebfe867ffe5e16e0be0a4c818",
+    "text": "(2) A plaintiff may join several causes of action in the same action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dc3da6c6bb12d5b9176fac322986891d",
+    "text": "(3) Several defendants may be sued in one action either jointly, jointly and severally, separately or in the alternative, whenever the question arising between them or any of them and the plaintiff or any of the plaintiffs depends upon the determination of substantially the same question of law or fact which, if such defendants were sued separately, would arise in each separate action.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0392e0aec9b6a99f0120489f2b49306a",
+    "text": "(4) In any action in which any causes of action or parties have been joined in accordance with this rule, the court at the conclusion of the trial shall give such judgment in favour of such of the parties as shall be entitled to relief or grant absolution from the instance, and shall make such order as to costs as shall to it seem to be just, provided that without limiting the discretion of the court in any way —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "330b9ee1984dc34c26d5732e679b86ce",
+    "text": "(a) the court may order that any plaintiff who is unsuccessful shall be liable to any other party, whether plaintiff or defendant, for any costs occasioned by his joining in the action as plaintiff;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a8fca75a054f04de6f7c8bdd7c75bdc",
+    "text": "(b) if judgment is given in favour of any defendant or if any defendant is absolved from the instance, the court may order:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1592901c6a37441a79973764d1e8a1d0",
+    "text": "(i) the plaintiff to pay such defendant’s costs, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "07dae3236616bec1664a634990ed91bf",
+    "text": "(ii) the unsuccessful defendants to pay the costs of the successful defendant jointly and severally, the one paying the other to be absolved, and that if one of the unsuccessful defendants pays more than his pro rata share of the costs of the successful defendant, he shall be entitled to recover from the other unsuccessful defendants their pro rata share of such excess, and the court may further order that, if the successful defendant is unable to recover the whole or any part of his costs from the unsuccessful defendants, he shall be entitled to recover from the plaintiff such part of his costs as he cannot recover from the unsuccessful defendants;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c985f936b4aa830f5a223617203d4f5",
+    "text": "(c) if judgment is given in favour of the plaintiff against more than one of the defendants, the court may order those defendants against whom it gives judgment to pay the plaintiff’s costs jointly and severally, the one paying the other to be absolved, and that if one of the unsuccessful defendants pays more than his pro rata share of the costs of the plaintiff he shall be entitled to recover from the other unsuccessful defendants their pro rata share of such excess.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "61b21974d2daa4274ceb7954084573ea",
+    "text": "(5) Where there has been a joinder of causes of action or of parties, the court may on the application of any party at any time order that separate trials be held either in respect of some or all of the causes of action or some or all of the parties; and the court may on such application make such order as to it seems meet.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "867f704e2836eb364cdcedab0f9b75d7",
+    "text": "RS 24, 2024, D1 Rule 10-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "062a013fc689446722b6e6d85131bd5a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "231ce5a32d95c763335fefb85f06c493",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b75c0230c1f5dfa9bd0064cae5fb863c",
+    "text": "General. The provisions of this rule are applicable to applications by virtue of the provisions of rule 6(14).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "231ce5a32d95c763335fefb85f06c493"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1f2cdb88ea29d1f1b3e74a238754f150",
+    "text": "1 In Hoffman NO v Livewell Devco 1 (Pty) Ltd Cloete J, with reference to rule 10, observed that the rule ‘is silent on the procedure to be followed, and accordingly rule 6(1) applies, namely that every application must be brought on notice of motion supported by an affidavit as to the facts upon which the applicant relies for relief’. Presumably this was intended to be a reference to rule 10(1), (2) and (3), but it is not clear under what circumstances an application under any of these subrules will be required.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "231ce5a32d95c763335fefb85f06c493"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d68ce4e432b970174e7a1f178329836",
+    "text": "The rule does not deal with, nor does its provisions affect, the common-law rules relating to the obligatory joinder of parties and, in this regard, non-joinder and misjoinder. The position under the common law is discussed in the notes that follow.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "231ce5a32d95c763335fefb85f06c493"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "73b0f7f21219a556c527f136fc248858",
+    "text": "Non-joinder and misjoinder",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3eb139dd93120748c0ef1a80502b4db0",
+    "text": "Non-joinder is the failure of a plaintiff to join a particular defendant with another whom he is suing, in circumstances in which the law requires that both should be sued together, or the failure by a plaintiff to join with himself as co-plaintiff another person whom the law requires should be joined when suing a particular defendant or defendants.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0885ac4457027213577717a74af74e5",
+    "text": "Misjoinder is the joining of several plaintiffs or defendants in one action in circumstances which the law does not sanction; i e the objection is that the wrong plaintiffs are suing or the wrong defendants are being sued. The general principles applicable 2 to non-joinder are applicable to misjoinder as well.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afe4c0459c514300c7d689bdf054f8a7",
+    "text": "The general principles upon which a plea of non-joinder will be upheld are the same whether in respect of plaintiffs or defendants. If a necessary party who should be a co-plaintiff refuses to join the plaintiff(s) already in the field, the latter must 3 join him as a co-defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1e7a3fe93237773cfcdfe6d8a8e651b",
+    "text": "4 Though it was said in Morgan v Salisbury Municipality that the right of a defendant to demand the joinder of another party is limited to the cases of joint owners, joint contractors and partners, the question as to whether all necessary parties had been joined does not depend upon the nature of the subject matter of the suit, but upon the manner in which, and the extent 5 to which, the court’s order may affect the interests of third parties. The test is whether or not a party has a ‘direct and substantial interest’ in the subject matter of the action, that is, a legal interest in the subject matter of the litigation which may be affected",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f5a534592bff620081e40651c908165f",
+    "text": "RS 22, 2023, D1 Rule 10-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aba9a5b0cad3932450c9134ada39a752",
+    "text": "6 prejudicially by the judgment of the court. A mere financial interest is an indirect interest and may not require joinder of a 7 person having such interest. The mere fact that a party may have an interest in the outcome of the litigation does not 8 warrant a non-joinder plea. The rule is that any person is a necessary party and should be joined if such person has a direct",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "28148ca06cc8f0d852c0e4f9ddd11351",
+    "text": "RS 22, 2023, D1 Rule 10-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95ea46bc9f8540b1fb8c44ffa1df4a5a",
+    "text": "and substantial interest in any order the court might make, or if such an order cannot be sustained or carried into effect 9 10 without prejudicing that party, unless the court is satisfied that he has waived his right to be joined.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed1b63a0ad03887d30f547cb5a5d3c1d",
+    "text": "RS 24, 2024, D1 Rule 10-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79abbe8451f6c53470e4816caab1b6d1",
+    "text": "The rules on obligatory joinder at common law seek to prevent a third party who has not been joined, and against whom the order of the court would not be res judicata, from approaching the courts again in respect of the same subject matter and 11 possibly obtaining an order irreconcilable with the order that was made in the first instance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a1bc4dc8ccbcd140970fdcca5eed9a1",
+    "text": "In Insamcor (Pty) Ltd v Dorbyl Light & General Engineering ((Pty) Ltd; Dorbyl Light & General Engineering ((Pty) Ltd v 12 Insamcor (Pty) Ltd the Supreme Court of Appeal applied the mechanism of a rule nisi as an alternative to actual joinder of 14 13 all necessary parties. Since failure to react to the rule nisi would give rise to deemed consent, it was held that where a particular third party could be identified, service of the rule nisi on that party should be directed, while service upon unknown potentially interested third parties could be ensured by publication.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf",
+      "parent_id": "73b0f7f21219a556c527f136fc248858"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bfb887d2863df6d4c5d3e762ba12e237",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5c61ee6e78eccb056c2311366205a576",
+    "text": "15",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "74d56a25d74a0318a761c7be37185d1f",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0fd1cb2432224faa778623629aa499e2",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c5f1c6764a1d8c22a89a4882b1b03e4",
+    "text": "15 In Road Accident Fund v Legal Practice Council the non-joinder of interested parties was at issue. The RAF and the LPC 16 The court, in finding that it took various steps to give notice of the relief sought by the RAF to possible necessary parties. 17 was unnecessary to join many thousands of parties, stated (per Meyer J):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e137c3702fb67e5173eae8957e90ef93",
+    "text": "‘This matter, in my view, is one where the joinder of the many thousands of parties, that could be affected by the order of this court, is unnecessary in the light of the steps taken by the RAF to notify as many parties of its application as possible. The steps taken are adequate. The number of affected parties is substantial, and the steps taken by the RAF to notify the sheer volume of parties that could be affected were sufficient to effect their joinder. Only the seventeenth to twenty-third respondents responded and were joined in these proceedings. The failure to respond by those who were notified can be taken to equate to a waiver of the right to be joined.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71f629f639702b224aa05e69a98ec853",
+    "text": "The failure to join a necessary party may also be cured if an informal notice asking such party whether it wished to intervene 18 is met by an unequivocal response that it would abide by the decision of the court. The rules on obligatory joinder at common law seek to prevent a third party who has not been joined, and against whom the order of the court would not be res judicata, from approaching the courts again in respect of the same subject matter and possibly obtaining an order 19 irreconcilable with the order that was made in the first instance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04c160e627703e5097212b5a51f5188d",
+    "text": "Divergent views have been expressed as to whether or not the court has a discretion once it is shown that a party is a 20 necessary party in this sense. In Marais v Pongola Sugar Milling Co Ltd it was held that once this has been shown, the court proceeds to determine the matter of joinder ‘in accordance with the requirements of convenience and common sense’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "98cd296798a94fb87e9329e928377e29",
+    "text": "RS 24, 2024, D1 Rule 10-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd34d3122379b7f1dfc8a77136cbb00e",
+    "text": "This view was explicitly rejected in Khumalo v Wilkins, 21 it being held that ‘no question of discretion nor of convenience arises’. In the Transvaal a full court has held, without reference to the aforegoing cases, that the rule is not a mechanical or 22 Compliance should not be technical one which ‘must be ritualistically applied’, regardless of the circumstances of the case. 23 insisted on if it would be impractical.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79e974c27f9a8e22fd34411dff0f9158",
+    "text": "In regard to intervention of persons as plaintiffs or defendants in legal proceedings, the Constitutional Court has stated the 24 position to be as follows in SA Riding for the Disabled Association v Regional Land Claims Commissioner:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b3a9ae6384eee85db5eadb8d5885989",
+    "text": "‘[10] If the applicant shows that it has some right which is affected by the order issued, permission to intervene must be granted. For it is a basic principle of our law that no order should be granted against a party without affording such party a predecision hearing. This is so fundamental that an order is generally taken to be binding only on parties to the litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be4b64c8f553ef948b247c017cc0ae5d",
+    "text": "[11] Once the applicant for intervention shows a direct and substantial interest in the subject matter of the case, the court 25 ought to grant leave to intervene. In Greyvenouw CC this principle was formulated in these terms:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0fb0effd23fe2903cbce39148e038aba",
+    "text": "“In addition, when, as in this matter, the applicants base their claim to intervene on a direct and substantial interest in the subject matter of the dispute, the Court has no discretion: it must allow them to intervene because it should not proceed in the absence of parties having such legally recognised interests.”’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9482efae97d8dc9ac3d76a263fed0666",
+    "text": "It is submitted that the position set out in the SA Riding case should also apply to the obligatory joinder of a party who has a 26 direct and substantial interest in the subject matter of the litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e0f483e326cce759af6db116b909592",
+    "text": "RS 24, 2024, D1 Rule 10-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "afc422c9ee1c1a897fa816050129d678",
+    "text": "Apart from the obligatory joinder of a party who has a direct and substantial interest in the subject matter of the litigation, a defendant may be joined under the common law on grounds of convenience, equity, the saving of costs and the avoidance 27 of multiplicity of actions. Under the common law the court has the inherent power to order the joinder of further parties in an action which has already begun in order to ensure that persons interested in the subject matter of the dispute and whose 28 rights may be affected by the judgment are before the court. A court, including a court of appeal, is entitled mero motu to 29 raise the question of non-joinder to safeguard the interests of third parties. It is, however, important to distinguish between necessary joinder, where the failure to join a party amounted to a non-joinder, on the one hand, and joinder as a matter of convenience, where the joinder of the party was permissible and would not give rise to misjoinder, on the other hand. 30 In cases of joinder of necessity a court could, even on appeal, mero motu raise the question of joinder to safeguard the interests of third parties and decline to hear a matter until such joinder had been effected or the court was satisfied that the 31 third parties had consented to be bound by the judgment or waived their right to be joined. A court of appeal has held 32 in circumstances where a party had not been joined and it would be inappropriate to make inferences as to its rights without giving such party an opportunity of being heard, that the appeal should be postponed in order to afford such party the opportunity of stating its position.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0970864b47a8ca87113fb22fe2620b35",
+    "text": "The fact that the two parties before court desire the case to proceed in the absence of a third party cannot relieve the court from inquiring into the question whether the order it is",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d8efeba5d8c447b147a13cdab0d8ae6",
+    "text": "RS 24, 2024, D1 Rule 10-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "11cc388c3eb5c97a9b523937eef32201",
+    "text": "asked to make may affect the third party. 33",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6c48b4e3bdff0533a6313239f1005c0",
+    "text": "The usual procedure by which to raise a question of joinder, whether it be misjoinder or non-joinder, is by way of plea in 34 abatement, though an exception is competent when the declaration discloses ex facie that another party should have been 35 joined. The objection on the ground of misjoinder should be taken in limine and if not then taken it cannot be ordinarily 36 It is competent to raise misjoinder by way of exception where separate plaintiffs have instituted raised subsequently. 37 actions against the same defendant and where the actions are in no way related to each other.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7654f271ab043496b6be7e6f98e725d3",
+    "text": "A notice of joinder, issued in terms of rule 10(3), is not a process as intended in s 15(1) of the Prescription Act 68 of 1969, 38 and its service will not interrupt the running of prescription against the party in question.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "62cc160642c980fa5fa0360ed93c9285",
+    "text": "39 As to class actions, see Children’s Resource Centre Trust v Pioneer Food (Pty) Ltd, Mukaddam v Pioneer Foods (Pty) 40 41 Ltd, Nkala v Harmony Gold Mining Co Ltd, and, in general, s 38 of the Constitution of the Republic of South Africa, 1996, and the notes thereto in Volume 1 third edition, Part A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b99b8128990cf07822ba00acb082c3b2",
+    "text": "Subrule (1): ‘Any number of persons . . . may join as plaintiffs in one action.’ In Alberts v Minister of Justice and 42 43 44 the Supreme Court of Appeal, after an analysis and Sieff v of Estate De Beer v Botha Correctional Services 45 Wilhelmina, concluded that at common law the default position might have been that plaintiffs could not join together to sue a defendant on separate causes of action but that convenience was a factor by which a court could determine whether they should be heard together, and that the default position was a recognition that high courts had inherent jurisdiction to decide matters of procedure. The Roman-Dutch practice was, however, clear that a number of plaintiffs should not join in one 46 summons against a plurality of defendants, but it would seem that if the court considered it",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a39c3bcd6efbc582dec0ef1a36b1beeb",
+    "text": "RS 24, 2024, D1 Rule 10-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13f24c6f858ea3ae1bb2f7dcd8a510d6",
+    "text": "convenient to do so, it would allow such a citation. 47 Thus, where convenience is the main consideration several plaintiffs may join in the alternative in one summons in suing the same defendant where it is not clear which plaintiff is entitled to sue",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "89f8944bb0564d9d61bb0a918d411fdf",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7cd92c2a18c3bb47c8d002e8795dd2d2",
+    "text": "48",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7bf2fa63b8ffa29c110e927b0decd7ea",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "987253aa91008ddd3f119af4161bc89d",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3ff64339dd05078d9efca0378916029",
+    "text": "48 and where such joinder will not prejudice the defendant; or may issue one summons disclosing identical causes of action 49 (in the last-mentioned jointly against several defendants who have acted in concert to injure the plaintiffs in some way 50 case the plurality of plaintiffs may also do this in different capacities, for example, as individuals and as trustees); or may, semble, join even though they have dissimilar causes of action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dff686aeb488d7caff8de378b2503dad",
+    "text": "In Vitorakis v Wolf 51 it was pointed out that the subrule, which constitutes ‘a radical departure from the common law’, is so explicit that there is ‘hardly anything left of the basic common-law approach to joinder and intervention’. However, in 52 Rabinowitz and Another NNO v Ned-Equity Insurance Co Ltd it was held that as regards the joinder of defendants, the common law has been preserved notwithstanding subrule (3) of this rule. In pursuance of this judgment the question whether the common law has also been preserved in respect of the joinder of plaintiffs was raised, but not decided, in Dreyer v 53 In Ex parte Sudurhavid (Pty) Ltd: In re Namibia Marine Resources Tuckers Land and Development Corporation (Pty) Ltd. 54 (Pty) Ltd v Ferina (Pty) Ltd it is said, in the context of an application for leave to intervene under rule 12, that the rules have widened the scope of the common-law principles but have not abolished them: if a matter cannot be resolved by recourse to the rules, resort can be made to common-law principles.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08efada6b09eda7cdf10afaafc7e5d47",
+    "text": "‘Or in the alternative.’ The fact that the rule allows more than one plaintiff to sue a defendant in the alternative shows that a situation where the identity of the person who is entitled to the proceeds of the claim was uncertain, was 55 The subrule therefore contemplates a joinder of a plaintiff who has a claim which is conditional on the failure contemplated. 56 of the claim of a co-plaintiff. It does not contemplate a joinder in the alternative where judgment has already been given 57 against the party with whom it is sought to join.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf70777754d1f7d6f16574a68763feea",
+    "text": "‘Depends upon the determination of substantially the same question of law or fact.’ Joinder as plaintiffs under the subrule is permissible where each of the proposed plaintiffs has the right to bring a separate action against the defendant or defendants, provided that in such separate action substantially the same question of law or fact would arise as will arise in an 58 The subrule serves to narrow an otherwise all-encompassing provision allowing action in which the proposed plaintiffs join. 59 multiple plaintiffs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0c000ab7c07a9910106e42002239b08",
+    "text": "RS 24, 2024, D1 Rule 10-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "16117ca3fdddb3ad50fe1526568de270",
+    "text": "The use of the word ‘substantially’ seems to indicate that the subrule is concerned with the essential features of the right to relief that the joint plaintiffs claim. The questions of law and fact must, ‘in the main’ or in their ‘principal essentials’ be 60 essentially the same. The fact that a defendant may have special defences that he can raise against certain of the 61 plaintiffs is not a bar to the joinder of plaintiffs in one action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1c6d4ba6781033dbf1e05ed2c426c673",
+    "text": "Subrule (2): ‘May join several causes of action in the same action.’ This subrule must be read with subrules (1) and (3). For example, where there is a joinder of defendants, it would not be permissible under subrule (3) to claim relief A, B and C from the first and second defendants and relief X and Y (having nothing to do with A, B and C) from the second defendant as well.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aecf7bc24c262229d8ff74ae6c9f1b59",
+    "text": "If the several causes of action sought to be joined in the same action are inconsistent, they must be pleaded in the 62 alternative.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4c2c84ae44072694a443c90e65401adb",
+    "text": "Subrule (3): ‘Several defendants may be sued in one action.’ Under the common law a number of defendants may be 63 In Rabinowitz joined on grounds of convenience, equity, the saving of costs and the avoidance of multiplicity of actions. 64 and Another NNO v Ned-Equity Insurance Co Ltd it was held that as regards the joinder of defendants, the common law has 65 The subrule permits the joinder of parties in the same been preserved notwithstanding the provisions of this subrule. proceedings but it does not direct the hearing of evidence as between all defendants, so that the extent of liability is 66 determined between the parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a130bb8dbe2e2662b7b3ba9ce4857dd5",
+    "text": "‘Substantially the same question of law or fact.’ This means that the questions of law and fact must ‘in the main’ or in their 67 ‘principal essentials’ be ‘essentially’ the same.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "03ab3550efd38af0e5891bf39291b0f7",
+    "text": "Under the subrule a bank may join the drawer and the payee of a cheque where the bank is not in a position to know which of the drawer or the payee has been unjustifiably enriched at the expense of the banker as a result of the mistaken payment 68 to the payee of the amount of a cheque after the drawer had stopped payment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "058f06c7d408c9ec05257ed339140c22",
+    "text": "It is in principle undesirable that two or more persons, whether natural or juristic, should be joined in an application for their sequestration or liquidation, as the case may be, as respondents in one application. Such joinder cannot, therefore, be allowed, except possibly by the consent of all interested persons, or in a case where there is a complete identity of 69 interests.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb6362c8cb2124d4cac81babab57f7ed",
+    "text": "RS 24, 2024, D1 Rule 10-11",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0e8b5eadaf207c1189776764fa0cfe9",
+    "text": "Subrule (4): ‘Grant absolution from the instance.’ On the grant of absolution in a case with multiple defendants, see the notes to rule 39(6) s v ‘Apply for absolution from the instance’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3cc00756b6766aeda5873fdb8bd6f1e1",
+    "text": "‘Without limiting the discretion of the court.’ This subrule makes it clear that its provisions are not designed to limit in any 70 way the overall discretion which a court has in the matter of costs. The court’s discretion extends to its decision whether 71 or not to make a special order as to costs under paragraphs (a) and (b) of the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c3c0e079b1d5c414598cfe7ac9e7c3ad",
+    "text": "Subrule (4)(b)(i): ‘The plaintiff to pay such defendant’s costs.’ If there are more plaintiffs than one, they may be ordered 72 to pay the costs of the successful defendant jointly and severally.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f0fb5e6799c3bdcc6042e12258b6315a",
+    "text": "Subrule (4)(b)(ii): ‘The unsuccesful defendants to pay the costs of the successful defendant.’ The principle embodied in 73 this subrule has long been recognized by our courts. In exercising its discretion under the subrule the court should have regard both to the reasonableness of the plaintiff in having joined the successful defendant in the action and to the reasonableness, in the light of the particular circumstances of the case, of directing the unsuccessful defendant to pay the 74 whole, or any portion, of the successful defendant’s costs. It is submitted that in the event of the court directing more than one unsuccessful defendant to pay the costs of the successful defendant jointly and severally, the one paying the other(s) to be absolved, the court should, as a matter of course, make an order that if one of the unsuccessful defendants pays more than his pro rata share of the costs of the successful defendant, the unsuccessful defendant making payment shall be entitled to recover from the other unsuccessful defendants their pro rata share of such excess.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb7cd11e46b370097bccdaae02bdafee",
+    "text": "Subrule (4)(c): ‘To pay the plaintiff’s costs jointly and severally.’ In Standard Credit Corporation Ltd v Strydom, 75 where actions had been consolidated by consent, the court in the exercise of its discretion in terms of this subrule ordered the unsuccessful defendants to pay the costs of the successful plaintiff jointly and severally. It is submitted that if the court orders more than one of the defendants against whom it gives judgment to pay the plaintiff’s costs jointly and severally, the one paying the other(s) to be absolved, the court should, as a matter of course, order that if one of the unsuccessful defendants pays more than his pro rata share of the costs of the plaintiff, such defendant shall be entitled to recover from the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "37c821cdebcaa566178e2604e0803d0a",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "63ff53d0e75b0399a9655fea0787e36b",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0fd1cb2432224faa778623629aa499e2",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6e466d0a514805652445bced5d2cce0",
+    "text": "other unsuccessful defendants their pro rata share of such excess.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f6da66218ca65f80786546000f994d6",
+    "text": "Subrule (5): ‘Order that separate trials be held.’ This subrule confers a discretion, the exercise of which will vary from case to case and depend in a large measure on the circumstances of the case and the matter in respect of which a discretion is to 76 77 be judicially exercised. Factors that may be taken into consideration in the exercise of the discretion include:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e760fb555bf42ef1097c08089a26270",
+    "text": "RS 24, 2024, D1 Rule 10-12",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4c1bbdc9189a0208416f99e947ecf1e1",
+    "text": "(i) the interests of the applicant in seeking to enforce his remedy;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1df044f71124fda7c73c35963cbd6ca5",
+    "text": "(ii) the prejudice to the opposite party if a separation of trials is ordered;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa3244152dc73c5f576e8ab988d854b6",
+    "text": "(iii) the possibility of lengthy delay if the separation is refused, compared with the probable minimal delay if a separation is ordered;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b1de73bc4e82955502c68e1c63288483",
+    "text": "(iv) the question of costs, including the salvage of costs already incurred in the matter, as well as the additional costs that may be occasioned by a separation of trials;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "35f2e032c157282683b398df71baeef6",
+    "text": "(v) the conduct of the parties, including the bona fides of the applicant;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f8a42714e7f5c03996d962b05fa210f1",
+    "text": "(vi) the balance of convenience (although this may already be covered by other items in the preceding catalogue).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b006798fe038317ec84791a3489fe710",
+    "text": "1 Unreported, WCC case no 20317/2017 dated 28 October 2022 at paragraph [23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85b253a08a5901bb2c3b1dd0c5d08d6b",
+    "text": "2 Van der Lith v Alberts 1944 TPD 17 at 22. See also YB v SB 2016 (1) SA 47 (WCC) at 53G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3f90e2fda1fae984e2efeeecd5f38c4d",
+    "text": "Bezuidenhout v Goldberg 1905 TS 127; Loxton v Turner 1912 CPD 176; Amos Legane v Webb 1917 TPD 650; Dawson v Rossouw 1918 CPD 490; Berger v Law Union & Rock Insurance Co Ltd 1927 CPD 157; Hopewell NO v Kajee 1942 NPD 126; Mahomed v Lockhat Bros & Co Ltd 1944 AD 230 at 240.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1dfc049ff15295278b87e2077faeeaf5",
+    "text": "4 1935 AD 167 at 171; and see Rosebank Mall (Pty) Ltd v Cradock Heights (Pty) Ltd 2004 (2) SA 353 (W) at 366H; Burger v Rand Water Board 2007 (1) SA 30 (SCA) at 33A–B; 115 Electrical Solutions (Pty) Ltd v City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at paragraph [76]. See also, in general, the notes to s 42 s v ‘Non-joinder and misjoinder’ in Jones & Buckle Civil Practice vol I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7ec96314b461b74b43dbc3c01db5af7a",
+    "text": "5 Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 657. See also Collin v Toffie 1944 AD 456 at 464; Tshandu v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fe6d91161e11d6833263e1704b6d48a5",
+    "text": "Swan 1946 AD 10 at 24–5; Home Sites (Pty) Ltd v Senekal 1948 (3) SA 514 (A) at 521; Benson v Joelson 1985 (3) SA 566 (C) at 569F–570B;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b80beab8739aa6b571879dce2772c002",
+    "text": "Segal v Segil 1992 (3) SA 136 (C) at 141A–C; New Garden Cities Incorporated Association Not for Gain v Adhikarie 1998 (3) SA 626 (C) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1ff00c3361c8e08364db7a07d06e8834",
+    "text": "631C; Transvaal Agricultural Union v Minister of Agriculture and Land Affairs 2005 (4) SA 212 (SCA) at 226F–227F; Davids v Van",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "95203c6cacf0f6f33a6526982f1e993d",
+    "text": "Straaten 2005 (4) SA 468 (C) at 487B–C; Sikutshwa v MEC for Social Development, Eastern Cape 2009 (3) SA 47 (TkHC) at 56I–57A; 115",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f5032584f5d084e5544f5659d4dd7a6c",
+    "text": "Electrical Solutions (Pty) Ltd v City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f462cf2eede9baa3cfae94cf9109906b",
+    "text": "paragraph [76]; Baptista N.O. v Quickstep 684 (Pty) Ltd (unreported, GP case no 38204/2022 dated 1 March 2023) at paragraph [9]; De",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "345d7da212b15f900b31008417012c9e",
+    "text": "Beers Consolidated Mines (Pty) Ltd v Regional Manager, Limpopo: The Department of Mineral Resources & Energy (unreported, GP case no",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f3125760dbb5e536f2711a76fee531cc",
+    "text": "66559/2020 dated 8 September 2023) at paragraph [112]; Njuguna v Minister of Home Affairs (unreported, ECM case no 3088/2024 dated",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ebd1ad028f3e6c007c6b3992d60a56cd",
+    "text": "27 August 2024) at paragraph [14].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6f06853e0fbbb49f26f946273be291ef",
+    "text": "6 Henri Viljoen (Pty) Ltd v Awerbuch Bros 1953 (2) SA 151 (O) at 168–70. This view of what constitutes a direct and substantial interest has",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f28edef310caee930f2685794a1b7154",
+    "text": "been referred to and adopted in a number of subsequent decisions. See, for example, Brauer v Cape Liquor Licensing Board 1953 (3) SA 752",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "62d630905143899a95f5016983e9a3ed",
+    "text": "(C) at 760; Abrahamse v Cape Town City Council 1953 (3) SA 855 (C); Chase & Sons (Pty) Ltd v Tecklenburg 1957 (3) SA 51 (T) at 54;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3ccf258fe692423c7b6dc73ea4a3478f",
+    "text": "Anderson v Gordik Organisation 1962 (2) SA 68 (N) at 71–2; Vrystaatse Lewende Hawe Koöp Bpk v Oldewage 1965 (4) SA 16 (O); Ex parte",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "de66d1e10f0ef16636cfa1b0c6183589",
+    "text": "Pearson and Hutton NNO 1967 (1) SA 103 (E) at 107C; United Watch & Diamond Co (Pty) Ltd v Disa Hotels Ltd 1972 (4) SA 409 (C) at 415H;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "190cbc10fa3808459fc1b9fdbf6b9fef",
+    "text": "Ex parte Moosa: In re Hassim v Harrop-Allin 1974 (4) SA 412 (T) at 414B; Wassung v Simmons 1980 (4) SA 753 (N) at 759E–H; P E Bosman",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "71aed5e860b572c53bc802d63d49f582",
+    "text": "Transport Works Committee v Piet Bosman Transport (Pty) Ltd 1980 (4) SA 794 (A) at 804B–E; Standard General Insurance Co Ltd v Gutman",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d7c468339cafd8f5a58d9baad6bd799",
+    "text": "NO 1981 (2) SA 426 (C) at 434D; Agriplas (Pty) Ltd v Andrag & Sons (Pty) Ltd 1981 (4) SA 873 (C) at 890A; Ahmadiyya Anjuman Ishaati-",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9c7c1c5c75edc976da8f71505a2c1607",
+    "text": "Islam Lahore (South Africa) v Muslim Judicial Council (Cape) 1983 (4) SA 855 (C) at 863H–864B; South African Optometric Association v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2ef99d0f5e92958e4e35bf824594e562",
+    "text": "Frames Distributors (Pty) Ltd t/a Frames Unlimited 1985 (3) SA 100 (O) at 103I–104A; Wistyn Enterprises (Pty) Ltd v Levi Strauss & Co 1986",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "889abce22044afb7598a11764bc50132",
+    "text": "(4) SA 796 (T) at 802B–D and 804E; Aquatur (Pty) Ltd v Sacks 1989 (1) SA 56 (A) at 62A–E; Natal Fresh Produce Growers’ Association v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "17085797b967a225699df5ac6c6b2730",
+    "text": "Agroserve (Pty) Ltd 1990 (4) SA 749 (N); Aucamp v Nel NO 1991 (1) SA 220 (O) at 234E; Minister of Local Government and Land Tenure v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f085fe2b109746683e93d9c753536e5c",
+    "text": "Sizwe Development 1991 (1) SA 677 (Tk) at 679B; Segal v Segil 1992 (3) SA 136 (C) at 141D–E; Ex parte Sudurhavid (Pty) Ltd: In re",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f3dac0d3fcd090e696e24ad3d1975f8e",
+    "text": "Namibia Marine Resources (Pty) Ltd v Ferina (Pty) Ltd 1993 (2) SA 737 (Nm) at 741I–742D; Nonkenge v Gwiji 1993 (4) SA 393 (TkGD) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a99d1f7eafdeb62cefe8f8db9f29105a",
+    "text": "395C–G; Steel and Engineering Industries Federation v National Union of Metalworkers of South Africa (1) 1993 (4) SA 190 (T) at 194D–G;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4c9793407c3d5667e7c91c5cadeaadf7",
+    "text": "Congress of Traditional Leaders of South Africa v Minister of the Executive Council for Local Government and Housing, Eastern Cape",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e62951937e3e1f69fa5f88b8ff9ed9a6",
+    "text": "Province, and Others 1996 (2) SA 898 (TkS) at 904A–905D; Jenkins v Government of the Republic of South Africa 1996 (3) SA 1083",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "032af1336baeaf8362e15dfd7abd98f2",
+    "text": "(TkSC) at 1088D–E; Melamed NO v Munnikhuis 1996 (4) SA 126 (W) at 132B–C; Bohlokong Black Taxi Association v Interstate Bus Lines",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "41d112ceb46e0fd50c87d3999667ef7d",
+    "text": "(Edms) Bpk 1997 (4) SA 635 (O) at 641J–642C; Pick ’n Pay Stores Ltd v Teazers Comedy and Revue CC 2000 (3) SA 645 (W) at 651C–D;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5be63ffa73349ce4b735d9a171cde657",
+    "text": "Hartland Implemente (Edms) Bpk v Enal Eiendomme BK 2002 (3) SA 653 (NC) at 663F–G; Rosebank Mall (Pty) Ltd v Cradock Heights (Pty)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "99ae079232430e517ff51936ec770a97",
+    "text": "Ltd 2004 (2) SA 353 (W) at 371A–373D; Old Mutual Life Assurance Co (SA) Ltd v Swemmer 2004 (5) SA 373 (SCA) at 381C–D; Transvaal",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "15be3271cda9bb876f773ac919b6de2e",
+    "text": "Agricultural Union v Minister of Agriculture and Land Affairs 2005 (4) SA 212 (SCA) at 226F–227F; Davids v Van Straaten 2005 (4) SA 468",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2bcfa80509aa5176753678d110571769",
+    "text": "(C) at 487B–C; Roeloffze NO v Bothma NO 2007 (2) SA 257 (C) at 268H–269A; Bowring NO v Vrededorp Properties CC 2007 (5) SA 391",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "900742b44909f703af60cf04595ad421",
+    "text": "(SCA) at 398F–H; Gordon v Department of Health, KwaZulu-Natal 2008 (6) SA 522 (SCA) at 529C–F; Sikutshwa v MEC for Social",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9cdb88b45710d3524090591d6f4d4004",
+    "text": "Development, Eastern Cape 2009 (3) SA 47 (TkHC) at 57B; Investec Bank Ltd v Mutemeri 2010 (1) SA 265 (GSJ) at 278A–F; City of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9482cbb0521ebd44e3dd31a0f91c613f",
+    "text": "Johannesburg Metropolitan Municipality v Blue Moonlight Properties 39 (Pty) Ltd 2011 (4) SA 337 (SCA) at 359D; Standard Bank of SA Ltd v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3225c4cfb80cfa16ecff20d2560d2a2e",
+    "text": "Swartland Municipality 2011 (5) SA 257 (SCA) at 259E–260A; City of Johannesburg v Changing Tides 74 (Pty) Ltd 2012 (6) SA 294 (SCA) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2933ef21e71e6954bd3db40f07def338",
+    "text": "317A; Judicial Service Commission v Cape Bar Council 2013 (1) SA 170 (SCA) at 176H–I; In re BOE Trust Ltd and Others NNO 2013 (3) SA",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0ada12e11522f768208c7cae410969ea",
+    "text": "236 (SCA) at 241H–I; YB v SB 2016 (1) SA 47 (WCC) at 53D–G; Absa Bank Ltd v Naude NO 2016 (6) SA 540 (SCA) at 542I–543C; South",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "441c184a10cfdbea325c4f5f463bdafb",
+    "text": "African History Archive Trust v South African Reserve Bank 2020 (6) SA 127 (SCA) at paragraph [30]; 115 Electrical Solutions (Pty) Ltd v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bdf05a9ef10c33e7633ff744e93230c0",
+    "text": "City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at paragraph [76]; Legemaat NO v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6181285785a26ad3fb7bf667a070aca6",
+    "text": "Arplorox (Pty) Ltd (unreported, GP case no 60278/2019 dated 30 August 2021) at paragraph [14]; Hlophe v Freedom Under Law, and Other",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "88346a7299d729898bd8b34a536633fa",
+    "text": "Matters 2022 (2) SA 523 (GJ) (a decision of the full court) at paragraph [35]; Zingwazi Contractors CC v Eastern Cape Department of Human",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ef558cbe93745b3f10fef5c36d5e40de",
+    "text": "Settlements 2021 (6) SA 557 (ECG) at paragraph [62]; Council for the Advancement of the SA Constitution v Ingonyama Trust 2022 (1) SA",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a656acf0f03e9f5cd3f50a230bafadcc",
+    "text": "251 (KZP) at paragraph [63]; Baptista N.O. v Quickstep 684 (Pty) Ltd (unreported, GP case no 38204/2022 dated 1 March 2023) at",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "73dcd07203e3604f094fe45dac60170a",
+    "text": "paragraph [9]; De Beers Consolidated Mines (Pty) Ltd v Regional Manager, Limpopo: The Department of Mineral Resources & Energy",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2ed655c9d4548967c4ec7a5240262c0b",
+    "text": "(unreported, GP case no 66559/2020 dated 8 September 2023) at paragraph [112].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "861aac1ec22c08398d0a9a4c8dc9aaee",
+    "text": "7 Hartland Implemente (Edms) Bpk v Enal Eiendomme BK 2002 (3) SA 653 (NC) at 663E–H; Standard Bank of South Africa Ltd v Swartland Municipality 2010 (5) SA 479 (WCC) at 482F–483A; Xantha Properties 18 (Pty) Ltd v Home Builders Registration Council 2018 (6) SA 320 (WCC) at 327H–I; 115 Electrical Solutions (Pty) Ltd v City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at paragraph [76].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30ea2ad27805fc7a5fa750f25737b99f",
+    "text": "8 Judicial Service Commission v Cape Bar Council 2013 (1) SA 170 (SCA) at 176I–177A; Lawrence v Magistrates Commission 2020 (2) SA 526 (FB) at paragraph [27]; 115 Electrical Solutions (Pty) Ltd v City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at paragraph [76].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a371beb122037cd9ae92fbbbf1e66914",
+    "text": "9 Bekker v Meyring, Bekker’s Executor (1844) 2 Menz 436; Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 659. The rule has on numerous occasions been affirmed and applied; see, for example: Kethel v Kethel’s Estate 1949 (3) SA 598 (A) at 610; City Deep Ltd v Silicosis Board 1950 (1) SA 696 (A) at 709A; Associated Manganese Mines of SA Ltd v Claassens 1954 (3) SA 768 (A) at 776G; Kock & Schmidt v Alma Modehuis (Edms) Bpk 1959 (3) SA 308 (A) at 318F; Pillay v Harry 1966 (1) SA 801 (D) at 804D; L F Boshoff Investments (Pty) Ltd v Cape Town Municipality 1969 (2) SA 256 (C) at 265A; Selborne Furniture Store (Pty) Ltd v Steyn NO 1970 (3) SA 774 (A) at 779G and 1970 (4) SA 422 (A); Toekies Butchery (Edms) Bpk v Stassen 1974 (4) SA 771 (T) at 774; Moleko v Minister of Plural Relations and Development 1979 (1) SA 125 (T) at 130; Aramugam v Johannesburg City Council 1979 (1) SA 972 (W) at 974D; Fisheries Development Corporation of SA Ltd v Jorgensen 1979 (3) SA 1331 (W) at 1336H–1337C; Smith v Conelect 1987 (3) SA 689 (W) at 690E– 691D; Segal v Segil 1992 (3) SA 136 (C) at 140H; Pick ’n Pay Stores Ltd v Teazers Comedy and Revue CC 2000 (3) SA 645 (W) at 651C–D; Rosebank Mall (Pty) Ltd v Cradock Heights (Pty) Ltd 2004 (2) SA 353 (W) at 366E; Transvaal Agricultural Union v Minister of Agriculture and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "f58705f220454e242bbfeb166a25b4bd",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e3d283a3877a502d1878577a0103195f",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "987253aa91008ddd3f119af4161bc89d",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "92ccb343982131c06f5f8f5f5ba32b8d",
+    "text": "Land Affairs 2005 (4) SA 212 (SCA) at 226F-G; Roeloffze NO v Bothma NO 2007 SA 257 (C) at 268H-269A; Chairman of the Board of the Sanlam Pensioenfonds (Kantoorpersoneel) v Registrar of Pension Funds 2007 (3) SA 41 (T) at 49A; University of Pretoria v South Africans for the Abolition of Vivisection 2007 (3) SA 395 (O) at 3991-J; Gordon v Department of Health, KwaZulu-Natal 2008 (6) SA 522 (SCA) at 529E-F, Sikutshwa v MEC for Social Development, Eastern Cape 2009 (3) SA 47 (TkHC) at 561-57A; Standard Bank of South Africa Ltd v Swartland Municipality 2010 (5) SA 479 (WCC) at 482F-H, 2011 (5) SA 257 (SCA) at 259F-G; YB v SB 2016 (1) SA 47 (WCC) at 53E-G; One South Africa Movement v President of the RSA 2020 (5) SA 576 (GP) at paragraph [22]; 115 Electrical Solutions (Pty) Ltd v City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at paragraph [76]; Watson NO v Ngonyama 2021 (5) SA 55 SCA) at paragraph [51]; Council for the Advancement of the SA Constitution v Ingonyama Trust 2022 (1) SA 251 (KZP) at paragraph [64]; Shine Africa Financial Services (Pty) Ltd v Buffalo City Metropolitan Municipality (unreported, EL case no 1056/2022 dated 8 November 2022) at paragraph [16]; De Wet v Gambeno (unreported, EL case no 434/2022 dated 22 November 2022) at paragraph [44]; De Beers Consolidated Mines (Pty) Ltd v Regional Manager, Limpopo: The Department of Mineral Resources & Energy (unreported, GP case no 66559/2020 dated 8 September 2023) at paragraph [112]",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "693ca88b03f6e5c6cd6dac3dc7012936",
+    "text": "(2)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fd623d7593bb2986b9d9e2813d9eb202",
+    "text": "10 Kethel v Kethel’s Estate 1949 (3) SA 598 (A) at 610; Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 659; City Deep Ltd v Silicosis Board 1950 (1) SA 696 (A) at 709A; Bright v Triumph Garage (Pty) Ltd 1949 (3) SA 352 (C) at 358–9; Associated Manganese Mines of SA Ltd v Claassens 1954 (3) SA 768 (A) at 776G; Kock & Schmidt v Alma Modehuis (Edms) Bpk 1959 (3) SA 308 (A) at 318F; Pillay v Harry 1966 (1) SA 801 (D) at 804D; L F Boshoff Investments (Pty) Ltd v Cape Town Municipality 1969 (2) SA 256 (C) at 265A; Selborne Furniture Store (Pty) Ltd v Steyn NO 1970 (3) SA 774 (A) at 779G and 1970 (4) SA 422 (A); Toekies Butchery (Edms) Bpk v Stassen 1974 (4) SA 771 (T) at 774; Moleko v Minister of Plural Relations and Development 1979 (1) SA 125 (T) at 130; Aramugam v Johannesburg City Council 1979 (1) SA 972 (W) at 974D; Fisheries Development Corporation of SA Ltd v Jorgensen 1979 (3) SA 1331 (W) at 1336H–1337C; Smith v Conelect 1987 (3) SA 689 (W) at 690E–691D; Wholesale Provision Supplies CC v Exim International CC 1995 (1) SA 150 (T) at 157H–158I; Harding v Basson 1995 (4) SA 499 (C) at 501H–I; Chairman of the Board of the Sanlam Pensioenfonds (Kantoorpersoneel) v Registrar of Pension Funds 2007 (3) SA 41 (T) at 49A; University of Pretoria v South Africans for the Abolition of Vivisection 2007 (3) SA 395 (O) at 399I–J; Gordon v Department of Health, KwaZulu-Natal 2008 (6) SA 522 (SCA) at 529E–F; Sikutshwa v MEC for Social Development, Eastern Cape 2009 (3) SA 47 (TkHC) at 56I–57A; Standard Bank of South Africa Ltd v Swartland Municipality 2010 (5) SA 479 (WCC) at 482F–H, 2011 (5) SA 257 (SCA) at 259F–G; Fluxmans Incorporated v Lithos Corporation of South Africa (Pty) Ltd and Another (No 2) 2015 (2) SA 322 (GJ) at 328F–G; Xantha Properties 18 (Pty) Ltd v Home Builders Registration Council 2018 (6) SA 320 (WCC) at 327G–I; Neves v Neves NO (unreported, MM case no 2108/2017 dated 8 April 2021) at paragraph [9]; 115 Electrical Solutions (Pty) Ltd v City of Johannesburg Metropolitan Council (unreported, GP case no 86870/19 dated 16 March 2021) at paragraph [76]; Watson NO v Ngonyama 2021 (5) SA 559 (SCA) at paragraph [52] (where it was reiterated that even were it to be averred that a third party had waived its right, it should nevertheless be heard on that aspect as well as on whether it would submit to the court’s judgment); Booysen v Followers of Christ Church (unreported, WCC case no 22079/2016 dated 19 August 2021) at paragraph [62]; Shine Africa Financial Services (Pty) Ltd v Buffalo City Metropolitan Municipality (unreported, EL case no 1056/2022 dated 8 November 2022) at paragraph [16]; De Wet v Gambeno (unreported, EL case no 434/2022 dated 22 November 2022) at paragraph [44]; De Beers Consolidated Mines (Pty) Ltd v Regional Manager, Limpopo: The Department of Mineral Resources & Energy (unreported, GP case no 66559/2020 dated 8 September 2023) at paragraph [112]. In a majority judgment of the Court of Appeal of Lesotho in Phakisi v Tlapana (unreported, Court of Appeal for Lesotho case no C of A (Civ)/50/2014 dated 21 April 2016) it was held, with reference to Bright v Triumph Garage (Pty) Ltd 1949 (3) SA 352 (C), that in an action where the eviction of the buyer of property is sought, and the entitlement of the seller to sell the property is attacked, the seller is a necessary party and should be joined. Farlam AP (Moiloa AJA concurring), however, held (at paragraph [6]) that this rule is subject to an important exception: Where the seller has notice of the suit and does not intervene to protect the buyer’s title (which the seller is obliged to do under the contract of sale), and the buyer is evicted (because the court holds that the seller was not entitled to sell), the seller will be bound by the judgment on the basis of res judicata (Voet 44 2 5; Paarl Pretoria Gold Mining Co v Donovan and Wolff NNO (1889) 3 SAR 56; Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 653–4 and 660). In such circumstances the seller is not a necessary party and a plea/point of non-joinder will therefore fail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9918d7b26cc8a657cbd6650e6fda3c3d",
+    "text": "11 Watson NO v Ngonyama 2021 (5) SA 559 (SCA) at paragraph [53].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "70c76c73a1112ad6f1017b3d2090f46c",
+    "text": "12 2007 (4) SA 467 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "58bd265adcf8ad07e5c9d2e333d0c1ee",
+    "text": "13 At paragraphs [24]–[29].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1a073bb38d8689127a162ef31e28a543",
+    "text": "14 At paragraph [29].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7972e0ce0dd49805a428eda9b5aab36b",
+    "text": "15 2021 (6) SA 230 (GP).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "211cfbe4b97605231db9e078944ea048",
+    "text": "K",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b876bcc9ce8757a8e76a31639f1fe2d7",
+    "text": "16 At paragraph [8].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26278a6d9c25d17380d9a49a949148b7",
+    "text": "17 At paragraph [10]. See also General Council of the Bar of South Africa v Minister of Finance (unreported, GP case no 2023/132695 dated 28 June 2024) at paragraphs [11]–[22].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "329ed0489250160c0a53f6bbdebe2857",
+    "text": "18 In re BOE Trust Ltd and Others NNO 2013 (3) SA 236 (SCA) at 242A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8c3068ecc5686b4edd8b52994ac7d6b4",
+    "text": "1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b28a826a198d1a67c22f94935cfb7a8",
+    "text": "19 Watson NO v Ngonyama 2021 (5) SA 559 (SCA) at paragraph [53].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "48ed59ae56e0ed9dd03a5b3eea98b5aa",
+    "text": "20 1961 (2) SA 698 (N) at 702F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7abf918ddc7939f30955e71bcaba9032",
+    "text": "21 1972 (4) SA 470 (N) at 475A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "879ce6a7f00f882eae1011064ee97b15",
+    "text": "22 Wholesale Provision Supplies CC v Exim International CC 1995 (1) SA 150 (T) at 158D–E; and see Rosebank Mall (Pty) Ltd v Cradock Heights (Pty) Ltd 2004 (2) SA 353 (W) at 368C–E. See also Leibowitz v Schwartz 1974 (2) SA 661 (T); Benson v Joelson 1985 (3) SA 566 (C) at 570; Harding v Basson 1995 (4) SA 499 (C) at 501H–I; Road Accident Fund v Legal Practice Council 2021 (6) SA 230 (GP) (a decision of the full court) at paragraphs [9]–[10]; Bester NO v Mirror Trading International (Pty) Ltd t/a MTI (in Liquidation) 2024 (1) SA 112 (WCC) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf8892099cfb5b4e116550ad73d63caa",
+    "text": "23 Leibowitz v Schwartz 1974 (2) SA 661 (T). See also Benson v Joelson 1985 (3) SA 566 (C) at 570; Transvaal Agricultural Union v Minister of Agriculture and Land Affairs 2005 (4) SA 212 (SCA) at 226H–J; Road Accident Fund v Legal Practice Council 2021 (6) SA 230 (GP) (a decision of the full court) at paragraphs [9]–[10]; Bester NO v Mirror Trading International (Pty) Ltd t/a MTI (in Liquidation) 2024 (1) SA 112 (WCC) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "277013cd8dcc02f971b1adf5e187ed1d",
+    "text": "24 2017 (5) SA 1 (CC) at 5A–D, approving Nelson Mandela Metropolitan Municipality v Greyvenouw CC 2004 (2) SA 81 (SE) at 89B–C; Hlophe v Freedom Under Law, and Other Matters 2022 (2) SA 523 (GJ) (a decision of the full court) at paragraph [34]; Body Corporate, Marsh Rose v Steinmuller 2024 (2) SA 270 (SCA) at paragraph [11]. See also National Director of Public Prosecutions v Zuma 2009 (2) SA 277 (SCA) at paragraph [85]; Siyangena Technologies (Pty) Ltd v Passenger Rail Agency of South Africa 2023 (2) SA 51 (SCA) at paragraphs [24]–[27]; Lebea v Menye 2023 (3) BCLR 257 (CC) at paragraph [28].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3a60ad43c466a3b3667ad0c584b330f0",
+    "text": "25 Author’s note: Nelson Mandela Metropolitan Municipality v Greyvenouw CC 2004 (2) SA 81 (SE) at 89B–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "106ddc705aaa4d98219143f11c0c9110",
+    "text": "26 See Matjhabeng Local Municipality v Eskom Holdings Ltd 2018 (1) SA 1 (CC) where the Constitutional Court stated (at 33E–F):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc6953cab151457b29ac6cbf7fc5672e",
+    "text": "‘The law on joinder is well settled. No court can make findings adverse to any person’s interests, without that person first being a party to the proceedings before it.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a75f38db01be64fa9d9dc3e98f84cf03",
+    "text": "See also Hlophe v Freedom Under Law, and Other Matters 2022 (2) SA 523 (GJ) (a decision of the full court) at paragraphs [34]-[47] In Philippi Horticultural Area Food and Farming Campaign v MEC for Local Government, Western Cape 2020 (3) SA 486 (WCC) it was reiterated (at paragraph [29]) that an order sought (e g a declaratory order) ought not ordinarily to be granted where any other person’s interests may be directly affected without formal judicial notice of the proceedings having first been given to such person and, where an order may be binding on all parties whose interests its terms affect, and not just some of them, it may be mandatory for a party that institutes proceedings to join every person who has a direct and substantial interest in the relief sought. If the parties do not themselves raise a point of non-joinder when it is indicated, the court should do so mero motu.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "604d9c55e2c8f899e68606fb97f9e08a",
+    "text": "27 Ettling v Schiff (1887) 5 SC 131 at 133; Morgan v Salisbury Municipality 1935 AD 167 at 171; Van der Lith v Alberts 1944 TPD 17 at 22;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f6e432d8afb2c52f459fb67ab0150e11",
+    "text": "Sheshe v Vereeniging Municipality 1951 (3) SA 661 (A) at 666H; Roberts Construction Co Ltd v Verhoef 1952 (2) SA 300 (W) at 308H–309A;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9a0595e600f4dd324e5a59eab297dc08",
+    "text": "Marais v Pongola Sugar Milling Co Ltd 1961 (2) SA 698 (N) at 702D; Vitorakis v Wolf 1973 (3) SA 928 (W) at 932E;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f9ba0d83bd1c2d4edd5f48390d116557",
+    "text": "Gemeenskapontwikkelingsraad v Williams (2) 1977 (3) SA 955 (W) at 971H; Rabinowitz and Another NNO v Ned-Equity Insurance Co Ltd 1980 (3) SA 415 (W) at 419E; Ploughman NO v Pauw 2006 (6) SA 334 (C) at 341E–F. The decision in Fluxmans Incorporated v Lithos Corporation of South Afica (Pty) Ltd and Another (No 2) 2015 (2) SA 322 (GJ) at 324C, that parties may only be joined as a matter of necessity and not convenience, appears to be based on an incorrect reading of Judicial Service Commission v Cape Bar Council 2013 (1) SA 170 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9e79fa224b4e6a958b2dcb293d4f3b83",
+    "text": "28 SA Steel Equipment Co (Pty) Ltd v Lurelk (Pty) Ltd 1951 (4) SA 167 (T) at 172F–H; Harding v Basson 1995 (4) SA 499 (C) at 501C; Ploughman NO v Pauw 2006 (6) SA 334 (C) at 341E–F. In Matjhabeng Local Municipality v Eskom Holdings Ltd 2018 (1) SA 1 (CC) the Constitutional Court stated (at 33D–E):",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60d2d03f545b15dc24121bcdcae5c391",
+    "text": "‘At common law courts have an inherent power to order joinder of parties where it is necessary to do so even when there is no substantive application for joinder. A court could, mero motu, raise a question of joinder to safeguard the interest of a necessary party and decline to hear a matter until joinder has been effected. This is consistent with the Constitution.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fbf11be9ebc8c13b6cf2fbcbb2408d3b",
+    "text": "29 Blake v Commissioner of Mines 1903 TS 784; Aaron v Johannesburg Municipality 1904 TS 696 at 701; Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 649 and 653; Roberts Construction Co Ltd v Verhoef 1952 (2) SA 300 (W) at 308; Selborne Furniture Store (Pty) Ltd v Steyn NO 1970 (3) SA 774 (A); Koen v Goosen 1971 (3) SA 501 (C) at 509G; Toekies Butchery (Edms) Bpk v",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "1aff9cf4fca2b02213b3f1ae6b16a8b4",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "9c179b679f64da3e12822812483a6d2f",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0fd1cb2432224faa778623629aa499e2",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c10e058b7297664ebe9bb639f7b8e5df",
+    "text": "Stassen 1974 (4) SA 771 (T) at 774G–H; Ngcawashe v Terblanche 1977 (3) SA 796 (A) at 806H; Aramugam v Johannesburg City Council 1979 (1) SA 972 (W) at 974D; Esquire Electronics Ltd v Executive Video 1986 (2) SA 576 (A) at 590J–591C; Acar v Pierce and Other Like Applications 1986 (2) SA 827 (W) at 831H; Klep Valves (Pty) Ltd v Saunders Valve Co Ltd 1987 (2) SA 1 (A) at 39I–40B; Harding v Basson 1995 (4) SA 499 (C) at 501C–I; Rosebank Mall (Pty) Ltd v Cradock Heights (Pty) Ltd 2004 (2) SA 353 (W) at 366B–D; Clientele Life Assurance Company Ltd v Payment Association of South Africa (unreported, GJ case no 2021/42435 dated 4 September 2023) at paragraphs 16–21 and the order made by the court; Cuducap (Pty) Ltd v De Bruyn (unreported, SCA case no 69/2023 dated 29 April 2024) at paragraph [9] and the order made by the Supreme Court of Appeal. See also the judgment of the Court of Appeal of Lesotho in Phakisi v Tlapana (unreported, Court of Appeal for Lesotho case no C of A (Civ)/50/2014 dated 21 April 2016) at paragraph [2] (per Farlam AP).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3aee851eda45353bfa66e55b545a88fa",
+    "text": "30 This position was referred to with approval in KTRPT Investments (Pty) Ltd v Edge Investments (Pty) Ltd (unreported, WCC case no 9978/2019 dated 27 November 2023) at paragraph [5].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e5eff271fc828c47fd7d233cc1f7e2e2",
+    "text": "31 Rosebank Mall (Pty) Ltd v Cradock Heights (Pty) Ltd 2004 (2) SA 353 (W) at 366B–D; KTRPT Investments (Pty) Ltd v Edge Investments (Pty) Ltd (unreported, WCC case no 9978/2019 dated 27 November 2023) at paragraph [5].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7ccbebb6e2dfcc789b1b978ae0ab526",
+    "text": "32 Pretorius v Slabbert 2000 (4) SA 935 (SCA) at 939E; KTRPT Investments (Pty) Ltd v Edge Investments (Pty) Ltd (unreported, WCC case no 9978/2019 dated 27 November 2023) at paragraph [5].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "461cf2e6f761888e16ce48315c044a8b",
+    "text": "33 Amalgamated Engineering Union v Minister of Labour 1949 (3) SA 637 (A) at 649; Klep Valves (Pty) Ltd v Saunders Valve Co Ltd 1987 (2) SA 1 (A) at 39I–40A; KTRPT Investments (Pty) Ltd v Edge Investments (Pty) Ltd (unreported, WCC case no 9978/2019 dated 27 November 2023) at paragraph [5].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e74fe16a6aa7d5832f5ecba2e45832a9",
+    "text": "34 Peacock v Marley 1934 AD 1; Anderson v Gordik Organisation 1960 (4) SA 244 (N) at 247D; Skyline Hotel v Nickloes 1973 (4) SA 170 (W) at 171H. As appears from the latter two cases, the objection may also be raised under rule 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "415cfaa056657c861d9098544b561597",
+    "text": "35 Estate Vom Dorp v Scott 1915 CPD 739; Amos Legane v Webb 1917 TPD 650; Collin v Toffie 1944 AD 456 at 467; Anderson v Gordik Organisation 1960 (4) SA 244 (N) at 247D; Smith v Conelect 1987 (3) SA 689 (W); Royce Shoes (Pty) Ltd v McIndoe and Others NNO 2000 (2) SA 514 (W) at 516D–517D. See also Feldman NO v EMI Music SA (Pty) Ltd; Feldman NO v EMI Music Publishing SA (Pty) Ltd 2010 (1) SA 1 (SCA) at 4H–5A. In such instance the non-joinder should be specifically raised in the exception (Feldman NO v EMI Music SA (Pty) Ltd; Feldman NO v EMI Music Publishing SA (Pty) Ltd 2010 (1) SA 1 (SCA) at 5A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "67e91039e038de212785d92612c5aa0b",
+    "text": "36 Rabinowitz and Another NNO v Ned-Equity Insurance Co Ltd 1980 (3) SA 415 (W) at 419E. An appeal is not the time to raise an argument of misjoinder (City of Johannesburg v Changing Tides 74 (Pty) Ltd 2012 (6) SA 294 (SCA) at 316H; Snowy Owl Properties 284 (Pty) Ltd v Mziki Share Block (Pty) Ltd (unreported, SCA case no 642/2022 dated 27 May 2024) at paragraph [25]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "46e868601a96a2c6826e12978eefd1d7",
+    "text": "37 Royce Shoes (Pty) Ltd v McIndoe and Others NNO 2000 (2) SA 514 (W) at 518D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d67142a89d5e26138af4b5ec31c7836c",
+    "text": "38 Peter Taylor & Associates v Bell Estates (Pty) Ltd 2014 (2) SA 312 (SCA), reversing Bell Estates (Pty) Ltd v Renasa Insurance Co Ltd 2012 (3) SA 296 (KZD) and criticizing Waverley Blankets Ltd v Shoprite Checkers (Pty) Ltd 2002 (4) SA 166 (C). See also Cape Town Municipality v Allianz Insurance Co Ltd 1990 (1) SA 311 (C) and Naidoo v Lane 1997 (2) SA 913 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d449fe7acdc9c39eea7801580b777d09",
+    "text": "39 2013 (2) SA 213 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "19cb0f89ae9b0b6357c459c8fa2d1ba0",
+    "text": "IEERIERE RII",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8652ce7e4e522d41165ba76ad4b2f628",
+    "text": "40 2013 (5) SA 89 (CC), reversing Mukaddam v Pioneer Food (Pty) Ltd 2013 (2) SA 254 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6a5e6b6f21a7c5069910295e10dd67b",
+    "text": "41 2016 (5) SA 240 (GJ), discussed and not followed in Ngubane v Road Accident Fund 2022 (5) SA 231 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c1872ef8a7618335032ea5e7b45944f",
+    "text": "42 2022 (6) SA 59 (SCA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da691c3a9cc49e74e4ca7521a7960e35",
+    "text": "43 At paragraphs [9]–[10].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa016919343d7fde8b5683f54346b27c",
+    "text": "44 1927 CPD 140.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a425397abdc516cbe2eba80c939b43f7",
+    "text": "45 1911 OPD 24.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1c0276355cdd600ceba01d76032b4803",
+    "text": "46 Voet 2 13 14, following Carpzovius Def For Cons I 2 6.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3ae68425c3ecc36a4607d24f85d7f895",
+    "text": "47 Sieff v Wilhelmina 1911 OPD 24, following Ettling v Schiff (1887) 5 SC 131, both of which were, in turn, followed in Lewis NO v Schoeman NO 1951 (4) SA 133 (N); Licences and General Insurance Co Ltd v Van Zyl 1961 (3) SA 105 (D) at 110B–C; Glens Removals & Storage Ltd v Schonken 1973 (3) SA 227 (R) at 228G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da807759bdc8da70cb3c8e7459dcf3ea",
+    "text": "48 F Lenders & Co v Pechey Bros (1902) 23 NLR 231; Standard Bank of SA v Pechey Bros (1902) 23 NLR 281; Opperman v Labuschagne 1954 (2) SA 150 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dc96027414c1ab327c6884dd8cd681b4",
+    "text": "49 Ntombela v Shibe 1949 (3) SA 586 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d8cb985de04f2670188c31db39ce675",
+    "text": "50 Cuppusami v Naicker 1931 NPD 390.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "abd4e530c66e0ec41af63887a3b39c9c",
+    "text": "51 1973 (3) SA 928 (W) at 930G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c4aa5bf7a24592b6abc922039ebd84c4",
+    "text": "52 1980 (3) SA 415 (W) at 419E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57fa21fc3ea7a4da3435edb4562403e6",
+    "text": "53 1981 (1) SA 1219 (T) at 1226D–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c7a329af419beed61931db7acf0d4ca",
+    "text": "54 1993 (2) SA 737 (Nm) at 741E–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "123d1ee8ab0d062f76ff379e80ddf63b",
+    "text": "55 Sackstein v Du Preez 2004 (2) SA 459 (SE) at 462C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0f76d37802707ec7c2b407835301760d",
+    "text": "56 Kinekor Films (Pty) Ltd v Drive-in Home Movies 1976 (2) SA 87 (O) at 94B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "571c894814e008682353d097e1a43f41",
+    "text": "57 Kinekor Films (Pty) Ltd v Drive-in Home Movies 1976 (2) SA 87 (O) at 94C; Sackstein v Du Preez 2004 (2) SA 459 (SE) at 462C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e589c049f86b22e140f073ed03d35b5e",
+    "text": "58 Vitorakis v Wolf 1973 (3) SA 928 (W) at 931E–F; Venator Africa (Pty) Limited v Bekker [2022] 4 All SA 600 (KZP) at paragraph [12].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6a4902120b992dc66e0aa9c28a36f50e",
+    "text": "59 Alberts v Minister of Justice and Correctional Services 2022 (6) SA 59 (SCA) at paragraph [12].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d67ef05ac2d314640d752dd1886f6029",
+    "text": "60 Dreyer v Tuckers Land and Development Corporation (Pty) Ltd 1981 (1) SA 1219 (T) at 1224F–1225B; Dendy v University of the Witwatersrand 2005 (5) SA 357 (W) at 386D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "404e5c2b79a27759809207a7bddef741",
+    "text": "61 Dreyer v Tuckers Land and Development Corporation (Pty) Ltd 1981 (1) SA 1219 (T) at 1225B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0df5dcc7329e4df3da34e27a43ae272a",
+    "text": "62 See, for example, Middeldorf v Zipper NO 1947 (1) SA 545 (SR); United Dominions Corporation (Rhodesia) Ltd v Van Eyssen 1961 (1) SA 53 (SR); Pillay v Pillay 1962 (3) SA 867 (D) at 870C; Credit Corporation of South Africa Ltd v Brown 1970 (1) SA 18 (C); Barclays National Bank Ltd v Pretorius 1978 (3) SA 885 (O); Marney v Watson 1978 (4) SA 140 (C) at 144H; Coppermoon Trading 13 (Pty) Ltd v Government, Eastern Cape Province 2020 (3) SA 391 (ECB) at paragraph [31].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b75ae14f78a7fba4aa86c84d17f6819c",
+    "text": "63 Ettling v Schiff (1887) 5 SC 131 at 133; Morgan v Salisbury Municipality 1935 AD 167 at 171; Van der Lith v Alberts 1944 TPD 17 at 22; Sheshe v Vereeniging Municipality 1951 (3) SA 661 (A) at 666H; Roberts Construction Co Ltd v Verhoef 1952 (2) SA 300 (W) at 308–9; Marais v Pongola Sugar Milling Co Ltd 1961 (2) SA 698 (N) at 702D; Mgobozi v The Administrator of Natal 1963 (3) SA 757 (D) at 760D– 761A; Vitorakis v Wolf 1973 (3) SA 928 (W) at 932E; Gemeenskapontwikkelingsraad v Williams (2) 1977 (3) SA 955 (W) at 971H; Rabinowitz and Another NNO v Ned-Equity Insurance Co Ltd 1980 (3) SA 415 (W) at 419E; Ploughman NO v Pauw 2006 (6) SA 334 (C) at 341E–F; Arendse v Van der Merwe and Another NNO 2016 (6) SA 490 (GJ) at 496D–497A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "55b2eff6162c1eb8a0320f4fe7587147",
+    "text": "64 1980 (3) SA 415 (W) at 419E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de19960c0454f62b3885d606c2223a64",
+    "text": "65 See also the notes to subrule (1) s v ‘Any number of persons . . . may join as plaintiffs in one action’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26f75267c4260c5d467c580b11c697d7",
+    "text": "66 K & S Dry Cleaning Equipment (Pty) Ltd v South African Eagle Insurance Co Ltd 1998 (4) SA 456 (W) at 462C–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "02411d7583cfff2f0e04386e6ca17a6c",
+    "text": "67 Dreyer v Tuckers Land and Development Corporation (Pty) Ltd 1981 (1) SA 1219 (T) at 1224F–1225B; Dendy v University of the Witwatersrand 2005 (5) SA 357 (W) at 386D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cd5d0806ce7839600b15aa50397fdf28",
+    "text": "68 B & H Engineering v First National Bank of SA Ltd 1995 (2) SA 279 (A) at 295H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "923e84223a6d0ea05ad461bbe1ceb161",
+    "text": "69 Breetveld v Van Zyl 1972 (1) SA 304 (T); Ferela (Pty) Ltd v Craigie 1980 (3) SA 167 (W); Main Industries (Pty) Ltd v Serfontein 1991 (2) SA 604 (N); Caltex Oil (SA) (Pty) Ltd v Govender’s Fuel Distributors (Pty) Ltd 1996 (2) SA 552 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7ceaecb55a740ed4903848ff59d6fb3a",
+    "text": "70 Minister of Agriculture v Estate Randeree 1979 (1) SA 145 (A) at 160E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b196ee19de3aca84e1f06815981f6164",
+    "text": "RE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c3fe4acd04a71b56c0b58c01a067fac",
+    "text": "71 Parity Insurance Co Ltd v Van den Bergh 1966 (4) SA 463 (A) at 481G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5c1f7a262198b9a31ea2bb6803c76731",
+    "text": "72 Minister of Agriculture v Estate Randeree 1979 (1) SA 145 (A) at 160D–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b0e6c6cffcbbdaeeae25341974a6cca",
+    "text": "73 See Johnson v SAR & H and Pietermaritzburg Corporation 1933 NPD 762; Ophanides v Stratton 1953 (1) SA 152 (SR); Olivier v Botha 1960 (1) SA 678 (O) at 687F; Felton v Lewis 1960 (2) SA 383 (SR) at 394B; Parity Insurance Co Ltd v Van den Bergh 1966 (4) SA 463 (A) at 481C; Rabinowitz and Another NNO v Ned-Equity Insurance Co Ltd 1980 (3) SA 415 (W) at 418G; Faiga v Body Corporate of Dumbarton Oaks 1997 (2) SA 651 (W) at 670A–F; Harrington NO v Transnet Ltd t/a Metrorail 2010 (2) SA 479 (SCA) at 496G–497B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0299646e12ef54c13d76bbba7d97f4a4",
+    "text": "74 Parity Insurance Co Ltd v Van den Bergh 1966 (4) SA 463 (A) at 481G; Rabinowitz and Another NNO v Ned-Equity Insurance Co Ltd 1980 (3) SA 415 (W) at 418H; Harrington NO v Transnet Ltd t/a Metrorail 2010 (2) SA 479 (SCA) at 496H–497B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b389c4ebfb35ddd69243bf2739726bb",
+    "text": "75 1991 (3) SA 644 (W) at 653I–654A and 654F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9e84a860525437194c7ec7279acc2b37",
+    "text": "76 De Polo v Dreyer 1990 (2) SA 290 (W) at 295H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9dbe6257bccdfba648bd1dd8aa9f4075",
+    "text": "77 De Polo v Dreyer 1990 (2) SA 290 (W) at 295H–296B. See also Caltex Oil (SA) (Pty) Ltd v Govender’s Fuel Distributors (Pty) Ltd 1996 (2) SA 552 (N) at 556H–557D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "13920b123565af42018c2332f1d3c326",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b31d5df13e579fa52d017586a2945cc4",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 6,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "987253aa91008ddd3f119af4161bc89d",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b71e1c1536509d8cdaf589e5b8d83737",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0af752cdf2bd7237b37f143cbec0cf7a",
+    "text": "Downloaded: Mon Feb 17 2025 10:33:37 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 7,
+      "filename": "Rule 10.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0fd1cb2432224faa778623629aa499e2",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 10.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "type": "Title",
+    "element_id": "d040b9723aced0f7d283663751466373",
+    "text": "20 Declaration",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "79729f5a73ad302f94f4b5a5b606dacd",
+    "text": "RS 22, 2023, D1 Rule 20-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "d040b9723aced0f7d283663751466373"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce8e1692b6370fdebd35ac1b39e31d8e",
+    "text": "(1) In all actions in which the plaintiff’s claim is for a debt or liquidated demand and the defendant has delivered notice of intention to defend, the plaintiff shall, except in the case of a combined summons, within fifteen days after his receipt thereof, deliver a declaration. [Subrule (1) substituted by GN R235 of 18 February 1966, by GN R2021 of 5 November 1971, by GN R2164 of 2 October 1987 and by GN R2642 of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "d040b9723aced0f7d283663751466373"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a824fb6b37e00957ab384c5cbe2908e",
+    "text": "27 November 1987.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "d040b9723aced0f7d283663751466373"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "982a0ac0a3093785c8b127f93085a008",
+    "text": "(2) The declaration shall set forth the nature of the claim, the conclusions of law which the plaintiff shall be entitled to deduce from the facts stated therein, and a prayer for the relief claimed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "d040b9723aced0f7d283663751466373"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8ca765851f34e1782e61cb804f19d718",
+    "text": "(3) Where the plaintiff seeks relief in respect of several distinct claims founded upon separate and distinct facts, such claims and facts shall be separately and distinctly stated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "d040b9723aced0f7d283663751466373"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "74944551a552d7e52a6d96e18b656e60",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9bdb9c353652d35bd906b5d1a5fb541",
+    "text": "Subrule (1): ‘For a debt or liquidated demand.’ See the notes to rule 32(1)(b) s v ‘A liquidated amount in money’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d8aaa62c19993c03ceeb887a30d84b1",
+    "text": "‘The defendant has delivered notice of intention to defend.’ A declaration is not required where the defendant has not 1 delivered a notice of intention to defend. In such instance, and provided the claim is for a debt or liquidated amount, default 2 judgment can be obtained without hearing evidence in terms of rule 31(2)(a). See further the notes to rule 17(2)(b) s v ‘Summons . . . in accordance with Form 9’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93597f74618c18ef71e69563ac15a706",
+    "text": "‘Deliver a declaration.’ A plaintiff who fails to deliver a declaration within the prescribed time may be barred under the provisions of rule 26. Where the court has dismissed an application and ordered that the matter be referred to trial, that the notice of motion stand as the summons and that the applicant file a declaration within a particular time period, the respondent’s remedy upon the applicant’s default in filing the declaration is to deliver a notice of bar under rule 26 followed, in 3 the event of continued inaction, by an application for absolution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a5998c9855c8b7782b158a41ffc9dad",
+    "text": "Subrule (2): ‘The declaration shall set forth.’ A declaration is a pleading and must, consequently, comply with the 4 requirements of rule 18 pertaining to pleadings. In addition, it must comply with this subrule and subrule (3). A declaration has to comply with the rules relating to pleading. Rule 18 and the notes thereto accordingly apply mutatis mutandis to declarations.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b882105e1ab63f61891adbb3f5ecee4",
+    "text": "‘The nature of the claim.’ The claim in a declaration must not vary materially from that in the simple summons. A 5 declaration may also not introduce a new and totally different cause of action of which no mention was made in the 6 summons. In considering the declaration it",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a5f77db9caea7d42c8a8b6127395675",
+    "text": "RS 22, 2023, D1 Rule 20-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "96a1dad2417b398060b8e857208738f1",
+    "text": "7 is permissible to have regard to the allegations in the simple summons. The court will not, however, allow an exception on this ground unless the defendant can show that he is in some way embarrassed or prejudiced and cannot plead properly to the 8 declaration or cannot properly prepare his case to meet the declaration.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e87fe33979486ddc43f4fa1a61d1feb0",
+    "text": "‘The conclusions of law.’ The conclusions of law must be deduced from the facts stated in the declaration. A bare conclusion 9 will not suffice. The material facts upon which the pleader relies for his claim and the conclusions of law deduced therefrom 10 must be kept separate. Rule 18(4) requires that every pleading shall contain a clear and concise statement of the material facts upon which the pleader relies for his claim, with sufficient particularity to enable the opposite party to reply thereto.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "226281f78f4f6df9c6aabae2946ca442",
+    "text": "‘A prayer for the relief claimed.’ The facts set out in the declaration must constitute the premises for the relief sought, i e they must be such that the relief prayed for flows from them, and can properly be granted. See further the notes to rule 18 s v ‘General’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44fc7dba66e546d377a08506f25c08ef",
+    "text": "The declaration must contain a prayer for interest if an order for interest is sought and must set out the grounds upon which interest is claimed. See further the excursus to rule 17 s v ‘Interest’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "86e3530a15071fa9fc695da8293e1f8e",
+    "text": "Subrule (3): ‘Several distinct claims founded upon separate and distinct facts.’ The requirements of this subrule are in line with the object of pleading, i e to define the issues so as to enable the other party to know what case he has to meet. See further the notes to rule 18 s v ‘General’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "386b4db31616bbf9ef702021a23c72fc",
+    "text": "1 Consolidated Fish Distributors (Pty) Ltd v Sargeant, Jones, Valentine & Co 1966 (4) SA 427 (C) at 428F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "593a64f33e8dd775e213860710857b17",
+    "text": "INTRIN",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "60925c5f29edce8dcebf8c75f91981fd",
+    "text": "2 Consolidated Fish Distributors (Pty) Ltd v Sargeant, Jones, Valentine & Co 1966 (4) SA 427 (C) at 428G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3931d5a4e3d9e9e0cb0665913fbdde24",
+    "text": "3 Woolf v Zenex Oil (Pty) Ltd 1999 (1) SA 652 (W) at 654F–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d1a432d89bcaba1c006796c60d3d7961",
+    "text": "4 It lies outside the scope of this work to provide the pleader with a practical guide to the drafting of pleadings, as to which see, inter alia, Amler’s Precedents of Pleadings. Examples of the citation of parties are, however, given in the excursus to rule 17 s v ‘Parties’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9f2de1b625825559c0d0f4b8457978ec",
+    "text": "5 Trustee Insolvent Estate Beckett v Nicolson (1904) 25 NLR 238; Natal Land and Colonization Co Ltd v J W Rycroft (1906) 27 NLR 215; M M ‘Reilly v Estate Martens (1907) 28 NLR 158.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf",
+      "parent_id": "74944551a552d7e52a6d96e18b656e60"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2512d22a991c05408fd1470526e581c4",
+    "text": "6 Hermansburg Mission Society v The Minister of Native Affairs 1910 TPD 832; Pietpotgietersrust White Lime Co v Sand & Co 1916 TPD 687; Kam NO v Udwin 1940 WLD 137; Smith v Williams; Smith v Kok 1952 (2) SA 682 (W); Standard Canners and Packers Ltd v Bezuidenhout 1955 (1) SA 601 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b13640892f17b6044e8a501d5741d0d4",
+    "text": "7 Quinlan v MacGregor 1960 (4) 8 Clifford v Minister of Railways (1913) 34 NLR 331; Hirsch Loubser & Co Ltd v Jacobsen and Goldberg 1915 CPD 452; Rosenblatt v De Beer 1920 CPD 553; Stafford v Hannah 1921 CPD 6. 9 9 Bank of Africa v Compagnie Francaise (1886) 4 HCG 83 at 85; Mann v Sydney Hunt Motors (Pty) Ltd 1958 Johannesburg Consolidated Investment Co Ltd 1995 SA 215 (T) at 216; Du Plessis NO v Phelps 1995",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ccf2b8e88b40ccfdfbff88884543198c",
+    "text": "SA 383 (D).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a8afa1b3547795ca2320a478a1522de4",
+    "text": "SA 102 (GW); Buchner v at 172.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "87158a722984ac15c92ff4fe27bf7d35",
+    "text": "(2)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e7de5aa1eba42c534f897ea0d4aa661d",
+    "text": "(4)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4f6991f080680464f215c28b5a0d1f32",
+    "text": "(1)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7e881b990942596d9ddb4520f37f6b7d",
+    "text": "SA 165",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3a3f141bfc4c6bdf5ea0e7bd14551641",
+    "text": "(C)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3b6cd134febd5168ed07480c9b092dae",
+    "text": "10 Prinsloo v Wool Brokers Federation Ltd 1955 (2) SA 298 (N) at 299.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2020c5565aa3dc914527abf36cae7e28",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "74d999964187307686fa35d48c786c59",
+    "text": "Downloaded: Mon Feb 17 2025 11:40:52 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 20.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9e8358a98ffb4c97cdf92588fbaba3b0",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 20.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

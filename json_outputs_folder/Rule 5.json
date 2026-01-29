@@ -1,0 +1,797 @@
+[
+  {
+    "type": "Title",
+    "element_id": "f15263fd1afef3483c0f497ee18b6521",
+    "text": "5 Edictal citation",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ce97f92ff788d3e1d10e2500ac7c01b6",
+    "text": "RS 22, 2023, D1 Rule 5-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "f15263fd1afef3483c0f497ee18b6521"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "54034bcf96fb0eaedb7653a3419717a3",
+    "text": "(1) Save by leave of the court no process or document whereby proceedings are instituted shall be served outside the Republic.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "f15263fd1afef3483c0f497ee18b6521"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb5b018a484b6b68268cef6d24d48a43",
+    "text": "(2) Any person desiring to obtain such leave shall make application to the court setting forth concisely the nature and extent of his claim, the grounds upon which it is based and upon which the court has jurisdiction to entertain the claim and also the manner of service which the court is asked to authorize. If such manner be other than personal service, the application shall further set forth the last-known whereabouts of the person to be served and the inquiries made to ascertain his present whereabouts. Upon such application the court may make such order as to the manner of service as to it seems meet and shall further order the time within which notice of intention to defend is to be given or any other step that is to be taken by the person to be served. Where service by publication is ordered, it may be in a form as near as may be in accordance with Form 1 of the First Schedule, approved and signed by the registrar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "f15263fd1afef3483c0f497ee18b6521"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52c3fa41d29aa2165d2dab5e56fba090",
+    "text": "(3) Any person desiring to obtain leave to effect service outside the Republic of any document other than one whereby proceedings are instituted, may either make application for such leave in terms of subrule (2) or request such leave at any hearing at which the court is dealing with the matter, in which latter event no papers need be filed in support of such request, and the court may act upon such information as may be given from the bar or given in such other manner as it may require, and may make such order as to it seems meet.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "f15263fd1afef3483c0f497ee18b6521"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "271574eb55443ee96e93a693cffca279",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44675f36cc772626153136cbf525d2c0",
+    "text": "General. A distinction must be drawn between edictal citation and substituted service. Edictal citation is ordered when the 1 defendant is or is believed to be out of the Republic; substituted service is ordered when the defendant is believed to be in the Republic but one of the normal forms of service set out in rule 4 cannot be effected, or when, as in matrimonial actions, 2 personal service is required and cannot be effected. In regard to the latter see the commentary to rule 4(2) above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "57eeae703d0587c8bafa4bafdd2a64ac",
+    "text": "If edictal citation has been ordered, the practice is to issue a citation (the equivalent of a summons) and to follow this up with an intendit (the equivalent of a declaration) which may or may not be served simultaneously with the citation. If the defendant has given notice of intention to defend, the intendit is usually served on the defendant’s attorney at the address given.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "738fa509f0418be644d0625aa9209d8e",
+    "text": "Subrule (1): ‘Save by leave of the court.’ In High Court practice a litigant does not direct a summons at his opponent; the registrar directs it to the sheriff who then serves it upon the opponent. If a litigant wants to proceed by way of edict (which means by way of a demand directed at his opponent by the court), he obviously has to ask the court to direct this demand. 3 Hence the necessity for obtaining leave to sue by edict in the superior courts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a33fc4b35bee623da213d699f034f0f",
+    "text": "RS 22, 2023, D1 Rule 5-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "49e5b781b1bf253c3cb2006eab0b73cc",
+    "text": "The court will not ordinarily condone a failure to comply with the provisions of the subrule. 4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "93286e40393eb2a3cad7874023076d97",
+    "text": "5 6 In Kerbel v Kerbel Coetzee DJP declined to follow earlier authority that the relief cannot be claimed as of right but that 7 the granting thereof is within the discretion of the court. It was held that, once it appears that the court has jurisdiction and it is clear that the action is not vexatious and is properly before the court, the application should be granted: it is not for the court at this stage to consider the merits of the applicant’s case or mero motu to take any defence for the prospective defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ce41965ea7cd6b17672830af4deb3b5",
+    "text": "Under the Reciprocal Service of Civil Process Act 12 of 1990 the leave of the court to serve process is in certain cases not required: s 4 of the Act provides that, in respect of countries designated under s 2(1), notwithstanding the provisions of any other law relating to the service of any process outside the Republic, any process, other than a process relating to the enforcement of a civil judgment, may be issued by the registrar of the High Court or by any clerk of the magistrate’s court, as the case may be, without the leave of the court in question. The Act came into operation on 1 September 1990 by virtue of GN R155 of 1990 but is of little practical significance since only the former Republics of Transkei, Venda and Ciskei have been designated as countries under s 2(1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e8d97c0c1a6fee510bcfece8114d0df4",
+    "text": "‘No process or document whereby proceedings are instituted.’ Leave to effect service outside the Republic of a document other than one whereby proceedings are instituted is dealt with in subrule (3).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "533b02972533d8eb1a4464a809b3e9a9",
+    "text": "Subrule (2): ‘Make application.’ The application may be brought ex parte. 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35124ae60756e399fcb0ef2f6bd4a16d",
+    "text": "An application for leave to sue by way of edictal citation must set out concisely —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0303700d50ee22c1cb1d7d1770a89dba",
+    "text": "(a) the nature and extent of the applicant’s claim;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1caa21cf49d67ce83d25ef7d1bba4da3",
+    "text": "(b) the grounds upon which the claim is based;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a3a168dc2ab3aa6eb80babb9d7095a6e",
+    "text": "(c) the grounds upon which the court has jurisdiction to entertain the claim;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e56c7a0a5de9538d18625fdeac2a1823",
+    "text": "(d) the manner of service which the court is asked to authorize;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b595f85b3f5d64c134ab0b766beb37a",
+    "text": "(e) if the manner of service is other than personal service, the last-known whereabouts of the person to be served and the inquiries made to ascertain such person’s present whereabouts.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9d63d0cfacd31c5b8003ebecce252239",
+    "text": "An application for leave to effect service by means of substituted service must set out concisely — 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "926249d401eb865a850eba7ef1aa94f3",
+    "text": "(a) the nature and extent of the applicant’s claim;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "986271007237d8fd4354038781deb3f8",
+    "text": "(b) the grounds upon which the claim is based;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "15234012eeee432786459ccba23adb59",
+    "text": "(c) the grounds upon which the court has jurisdiction to entertain the claim;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a8b649f2a22730b698167105f47582c2",
+    "text": "(d) the manner of service which the court is asked to authorize;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c6930816bf5a9f3607d7e1504d4dda93",
+    "text": "(e) if the manner of service is other than personal service, the last-known whereabouts of the person to be served and the inquiries made to ascertain such person’s present whereabouts;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b03093458c0c7c87f073f75068ec3ef",
+    "text": "(f) any information that may assist the court in deciding whether leave should be granted and, if so, on what terms.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40d1de77d32e21c90f6f20c9995ce11b",
+    "text": "RS 22, 2023, D1 Rule 5-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b275708b3cb8b5e507ed26318d884697",
+    "text": "‘The court has jurisdiction.’ The purpose of edictal citation is to provide the means for the institution and prosecution of actions against those in respect of whom the court has jurisdiction but on whom the process of the court cannot be served 10 because they are outside the jurisdiction of the court. The court must, therefore, have jurisdiction to hear the proposed action before it can grant leave to sue by edict. In certain circumstances an attachment ad fundandam jurisdictionem may be 11 necessary before leave to sue by edictal citation will be granted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd9053d03964d8fb226d01d9c87677d1",
+    "text": "‘The manner of service which the court is asked to authorize.’ The subrule has a clear preference for personal service but the court is empowered to ‘make such order as to the manner of service as to it seems meet’. See further the notes to this subrule s v ‘The court may make such order as to the manner of service as to it seems meet’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3784dff9cf8bf37f5197af233b4eefe5",
+    "text": "‘And the enquiries made to ascertain his present whereabouts.’ The applicant must show that all sources of information 12 about the defendant’s whereabouts have been investigated.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf",
+      "parent_id": "271574eb55443ee96e93a693cffca279"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "531d4d15ec9b282d42750160bf43071f",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ccf295ad6277d1a1d1cbd84f070f0da1",
+    "text": "Downloaded: Mon Feb 17 2025 11:14:48 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "89a5581f70df3a3837a7e00a162284c4",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 5.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6da979f1d05684981337bd579bd377ea",
+    "text": "‘The court may make such order as to the manner of service as to it seems meet.’ The court may order any manner of service as is likely to bring the proceedings concerned to the notice of the party to be served. In Consani Engineering (Pty) 13 Ltd v Anton Steinecker Maschinenfabrik GmbH the manner of service authorized under this rule was by facsimile transmission (fax) at given numbers in Germany, thereafter confirmed by despatch of copies of the documents by registered 14 mail to a given address in Germany. In CMC Woodworking Machinery (Pty) Ltd v Pieter Odendaal Kitchens Steyn J gave leave to the plaintiff to serve a notice on the defendant by way of substituted service under rule 4(2) of a Facebook message addressed to the inbox of the defendant’s Facebook page.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "00f32edd7e5bef9a9083c2d7cbea0d99",
+    "text": "‘Order the time within which notice of intention is to be given.’ The time allowed in the order of the court must not be in breach of the provisions of s 24 of the Superior Courts Act 10 of 2013. However, if a defendant enters appearance within the 15 prescribed period, non-compliance with the provisions of s 24 becomes irrelevant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "effc33640915a0b532c2d0056c53027e",
+    "text": "1 Steinberg v Steinberg 1962 (4) SA 321 (E) at 323E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c9a5514538ea515b25c4a115c8b842c4",
+    "text": "2 CMC Woodworking Machinery (Pty) Ltd v Pieter Odendaal Kitchens 2012 (5) SA 604 (KZD) at 607G–608A. See also Singh ‘Welcome to Facebook, Pieter Odendaal: You have been served!’ (2013) 2 TSAR 380.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8dd9fe964003f62894afaef73f6a9941",
+    "text": "3 See McGuire v Fourie 1962 (3) SA 302 (SR) at 304D; Steinberg v Steinberg 1962 (4) SA 321 (E) at 323E; Pretoria-Noordse Stadsraad v Stander 1964 (3) SA 210 (T) at 212B–C; Kerbel v Kerbel 1987 (1) SA 562 (W) at 566D–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6fe0573ec220119ab82e4e1101d14fad",
+    "text": "4 See Walster v Walster 1971 (4) SA 442 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "38e0e27c0b54a3b1c59827b34cb072e1",
+    "text": "5 1987 (1) SA 562 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "710cb11b7f2e09f2e5ff644675016f53",
+    "text": "6 Steinberg v Steinberg 1962 (4) SA 321 (E) at 323; Schlesinger v Schlesinger 1979 (4) SA 342 (W) at 353.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e875c53ee70afb8c576517dbc71f672",
+    "text": "7 At 567D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dbabdbb9abb6a8b4de3b63cba6d5564c",
+    "text": "8 See the notes to rule 6(4)(a) s v ‘Every application brought ex parte’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1db02aa744a4cdbea26570ddb4849955",
+    "text": "9 See CMC Woodworking Machinery (Pty) Ltd v Pieter Odendaal Kitchens 2012 (5) SA 604 (KZD) at 608F–H. See also Singh ‘Welcome to Facebook, Pieter Odendaal: You have been served!’ (2013) 2 TSAR 380.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "86be66268ae0ecff166e688ad4d8344c",
+    "text": "10 Steinberg v Steinberg 1962 (4) SA 321 (E) at 323E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0e16a863c8e85b6633cc5121f0a2fb73",
+    "text": "11 See, for example, Ex parte Heald 1952 (3) SA 740 (SR); Murphy v Dallas 1974 (1) SA 793 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "608ba068e36cbd0b2cb9a197fe3c0554",
+    "text": "12 Consani Engineering (Pty) Ltd v Anton Steinecker Maschinenfabrik GmbH 1991 (1) SA 823 (T) at 824.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17a1e1ec03cd6a489f1d26b6ce84f1d4",
+    "text": "13 1991 (1) SA 823 (T) at 824B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b48ee186c8e46f1d608ae7763e328352",
+    "text": "14 2012 (5) SA 604 (KZD).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6602ca07e9b52f042b8c40b832d25b2c",
+    "text": "15 See Consani Engineering (Pty) Ltd v Anton Steinecker Maschinenfabrik GmBH 1991 (1) SA 823 (T) at 824F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c47f51f041615945e3cf2220b7111a61",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "be0e5e84ccc76c317666d5c307db61d4",
+    "text": "Downloaded: Mon Feb 17 2025 11:14:48 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 5.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "f5f5899504a1b67083edc9a41b42b227",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 5.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

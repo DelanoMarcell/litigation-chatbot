@@ -1,0 +1,558 @@
+[
+  {
+    "type": "Title",
+    "element_id": "6d67c41e6126279329e4063797625a54",
+    "text": "15 Change of parties",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "61a45b964a567550c7bd37b9f6066e35",
+    "text": "RS 23, 2024, D1 Rule 15-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "6d67c41e6126279329e4063797625a54"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bcc91b9ead24de2fd077691fde27074a",
+    "text": "(1) No proceedings shall terminate solely by reason of the death, marriage or other change of status of any party thereto unless the cause of such proceedings is thereby extinguished.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "6d67c41e6126279329e4063797625a54"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af14dbabaf52d792a5994fa4352de0e0",
+    "text": "(2) Whenever by reason of an event referred to in subrule (1) it becomes necessary or proper to introduce a further person as a party in such proceedings (whether in addition to or in substitution for the party to whom such proceedings relate) any party thereto may forthwith by notice to such further person, to every other party and to the registrar, add or substitute such further person as a party thereto, and subject to any order made under subrule (4) hereof, such proceedings shall thereupon continue in respect of the person thus added or substituted as if he had been a party from the commencement thereof and all steps validly taken before such addition or substitution shall continue of full force and effect: Provided that save with the leave of the court granted on such terms (as to adjournment or otherwise) as to it may seem meet, no such notice shall be given after the commencement of the hearing of any opposed matter; and provided further that the copy of the notice served on any person joined thereby as a party to the proceedings shall (unless such party is represented by an attorney who is already in possession thereof), be accompanied in application proceedings by copies of all notices, affidavits and material documents previously delivered, and in trial matters by copies of all pleadings and like documents already filed of record, such notice, other than a notice to the registrar, shall be served by the sheriff. [Subrule (2) substituted by GN R235 of 18 February 1966.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "6d67c41e6126279329e4063797625a54"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e7975f8ed05818c8628d402228f9897f",
+    "text": "(3) Whenever a party to any proceedings dies or ceases to be capable of acting as such, his executor, curator, trustee or similar legal representative, may by notice to all other parties and to the registrar intimate that he desires in his capacity as such thereby to be substituted for such party, and unless the court otherwise orders, he shall thereafter for all purposes be deemed to have been so substituted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "6d67c41e6126279329e4063797625a54"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a2689b4a438f24482ca6612c715937d3",
+    "text": "(4) The court may upon a notice of application delivered by any party within 20 days of service of notice in terms of subrule (2) and (3), set aside or vary any addition or substitution of a party thus affected or may dismiss such application or confirm such addition or substitution, on such terms, if any, as to the delivery of any affidavits or pleadings, or as to postponement or adjournment, or as to costs or otherwise, as to it may seem meet.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "6d67c41e6126279329e4063797625a54"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c94564765300a448edda74ff7f195f10",
+    "text": "[Subrule (4) amended by GN R1262 of 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "6d67c41e6126279329e4063797625a54"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "fac9688876eba93c6ec37e3e265694c9",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3566b3bf750bc7898f27e90f5aaab45c",
+    "text": "General. The purpose of rule 15 was not to afford the High Court the power to substitute a party to proceedings. It already 1 had (and still has) that inherent power under the common law when the rule was introduced.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e9feb7ff1bd94c62ed1e852fbabdb5e9",
+    "text": "This rule is designed to simplify the procedure where a party to proceedings has undergone a change in status. Previously 2 when a party died, married, became insolvent, attained majority, was placed under curatorship or suffered any other change in status, it was necessary to apply to court to substitute some other person in his place. The rule renders such an",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8adea8af099c33a3e0df41391ee168c6",
+    "text": "RS 23, 2024, D1 Rule 15-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f30f2de5cb59b5843cc90e208cf8713b",
+    "text": "application unnecessary, and the alteration may now be effected by notice, subject to the rights, under subrule (4), of any party who is affected by the substitution to apply to court for relief.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffcc62bafd1c3dde64cff3e1ff2d807d",
+    "text": "The rule regulates the procedure only where substitution becomes necessary by reason of change of status. If no change of status is involved the court will, under its common-law power, grant an application for substitution involving the introduction of a new persona on being satisfied that no prejudice will be caused to the opposite parties that cannot be remedied by an 3 order for costs or some other suitable order, such as a postponement.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50ced59e10109bd7203ff088b08b7bf8",
+    "text": "Where it is sought to introduce a new party to cure a nullity, the nunc pro tunc rule probably applies, i e the new party takes the place of the former party for all purposes nunc pro tunc. If the result is that a defendant is denied its right to raise the defence of prescription, a new plaintiff having stepped into the shoes of the old, the substitution will not be 4 allowed. Where such an application is not a bona fide attempt at placing the true case before the court, but simply a device 5 to circumvent a statutory limitation, the application will not be granted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "192cc202d5028f938e4901ecca17785b",
+    "text": "If a summons has been issued in the name of a persona who did not exist at the date of the issue of the summons, the 6 summons is a nullity and the court cannot by substitution revive it to the date of issue.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c801e248c4327eb7317b4d10e0703fb6",
+    "text": "In an appropriate case the court may, upon the substitution of a party, reserve the question of costs in regard to the 7 person originally cited.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b2a8cfdedc65abdd06ecc5e7bec5e22",
+    "text": "Subrule (2): ‘Provided that.’ In view of the proviso to the subrule, application to court will be necessary where it is desired 8 to substitute a party after judgment has been given.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a25f67e015ebfc6dccd3275b466acd20",
+    "text": "Subrule (3): ‘A party . . . dies or ceases to be capable of acting as such.’ In proceedings in the magistrate’s court an action is stayed if a party dies or becomes incompetent to continue until such time as an executor, trustee, guardian or other 9 competent person has been appointed. In superior court practice the action is not stayed but, it is submitted, the court will not allow any further steps to be taken in the proceedings until an executor, curator, trustee or similar legal representative 10 has, in terms of the subrule, been substituted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3fba6e20d3d42d9f5a283d36aefa21f2",
+    "text": "RS 23, 2024, D1 Rule 15-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f7717dd3156fe06d17ad84423cb6595f",
+    "text": "Subrule (4): ‘The court may upon a notice of application.’ For a case where an opposed application to substitute an 11 Subject to prejudice to appellant was heard at the commencement of an appeal, see Marais and Another NNO v Maposa. 12 the other party, the court will adopt a benevolent approach to substitution.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf",
+      "parent_id": "fac9688876eba93c6ec37e3e265694c9"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e697dd11aa2d1f5984234c2221bda8b5",
+    "text": "1 Tecmed (Pty) Ltd v Nissho Iwai Corporation 2011 (1) SA 35 (SCA) at 40I–J; Mader v Floxifor Pty Ltd (unreported, GJ case no 21/4131 dated 23 January 2024) at paragraph [33].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3b7800f6e25c99377d2b4aebd187e5e0",
+    "text": "a",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "403938a7064456b3f567afa849a2b88d",
+    "text": "2 Tecmed (Pty) Ltd v Nissho Iwai Corporation 2011 (1) SA 35 (SCA) at 41A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "090da1e878ea49ffdca9f96dd2ff141e",
+    "text": "3 Page v Malcomess & Co 1922 EDL 284; Goldberg v Tomaselli & Sons Ltd 1940 TPD 408; Curtis-Setchell & McKie v Koeppen 1948 (3) SA 1017 (W) at 1021; Jacobs v Du Plessis 1950 (4) SA 25 (O); Coetzee v Steyn 1955 (3) SA 48 (O) at 51; Pillay v South British Insurance Co Ltd 1959 (4) SA 284 (W); Mogude v Maitse 1962 (4) SA 557 (W); Mutsi v Santam Versekeringsmaatskappy Bpk 1963 (3) SA 11 (O); Van Tonder v Coetzee 1965 (2) SA 100 (O) at 103G; Friedman v Woolfson 1970 (3) SA 521 (D) at 525A; Waikiwi Shipping Co Ltd v Thomas Barlow and Sons (Natal) Ltd 1978 (1) SA 671 (A) at 678G; Samente v Minister of Police 1978 (4) SA 632 (E) at 634H; Greef v Janet 1986 (1) SA 647 (T); Mwandinghi v Minister of Defence, Namibia 1991 (1) SA 851 (Nm) at 864J–865A; Minister of Defence, Namibia v Mwandinghi 1992 (2) SA 355 (Nm) at 368G–H; Devonia Shipping Ltd v MV Luis (Yeoman Shipping Co Ltd Intervening) 1994 (2) SA 363 (C) at 369F–370B; Erasmus v Michael James (Pty) Ltd 1994 (2) SA 528 (C); Tecmed (Pty) Ltd v Nissho Iwai Corporation 2011 (1) SA 35 (SCA) at 41F–G. The decision in Greef v Janet 1986 (1) SA 647 (T), in which it was held that the court is not entitled to substitute a party by a new party who is not a party to the dispute without the consent of the latter, was not approved in O’Sullivan v Heads Model Agency CC 1995 (4) SA 253 (W). See further paragraph (n) of the notes to rule 28(4) s v ‘Lodge an application for leave to amend’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "dbc4ec27d4fed06fbc979b27f0b04dc6",
+    "text": "4 Barrie Marais & Seuns v Eli Lilly (SA) (Pty) Ltd: In re Barrie Marais & Seuns v Eli Lilly (SA) (Pty) Ltd 1995 (1) SA 469 (W) at 472B. See further paragraph (n) of the notes to rule 28(4) s v ‘Lodge an application for leave to amend’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "56e854bd3f348091b5831c58309f71f8",
+    "text": "5 Dumasi v Commissioner, Venda Police 1990 (1) SA 1068 (V) at 1071D–E. See also Four Tower Investments (Pty) Ltd v André’s Motors 2005 (3) SA 39 (N) at 43G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2a3ec83dad4a24d377099c25cdde1c4c",
+    "text": "6 Van Heerden v Du Plessis 1969 (3) SA 298 (O); Devonia Shipping Ltd v MV Luis (Yeoman Shipping Co Ltd intervening) 1994 (2) SA 363 (C) at 369J–370A; Friends of the Sick Association v Commercial Properties (Pty) Ltd 1996 (4) SA 154 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2a957f4f107414f7663ae7631f2b991c",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "75311b370869d4dfa4cca33b077015ad",
+    "text": "Downloaded: Mon Feb 17 2025 11:36:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "cc8edbea62d011d30088a9862843d895",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 15.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ab2d1b41b1b15014d52e80cee8854354",
+    "text": "7 Pillay v South British Insurance Co Ltd 1959 (4) SA 248 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f09b1f9acb1fe00e372b7f26a62a1615",
+    "text": "8 Kader v Frank and Warshaw 1926 AD 344; Cohen v Mallinick 1957 (1) SA 615 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "28620fbb9afa1eeee27ca53a99be968c",
+    "text": "9 Rule 52(3) of the magistrates’ courts rules. See also Du Toit v Bornman 1992 (4) SA 257 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de26b392e63f1caca7f943df465bc3b8",
+    "text": "10 See, by way of analogy, Estate Huisman v Visse 1967 (1) SA 470 (T). The view in the text was endorsed in Dlwati v King Sabata Dalindyebo FET College (2021) 42 ILJ 2427 (LC) at paragraphs [18]–[21].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa90747b5383dfce961064d71f65127f",
+    "text": "11 2020 (5) SA 111 (SCA) at paragraphs [1]–[11].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a7ef1e7665b4e8dcf60ff49203fd407",
+    "text": "12 Mader v Floxifor Pty Ltd (unreported, GJ case no 21/4131 dated 23 January 2024) at paragraph [35].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e44279b3c83a3c5218accbcac6345584",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d32b923ad146d873922abc5b88e5e506",
+    "text": "Downloaded: Mon Feb 17 2025 11:36:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 15.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "b35505ee2e86d5212432ff9970e4f7d8",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 15.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

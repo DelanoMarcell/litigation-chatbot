@@ -1,0 +1,236 @@
+[
+  {
+    "type": "Title",
+    "element_id": "9ba85b862c44947209aff13da683df0f",
+    "text": "55 Criminal proceedings — Circuit Court",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a90b23051e0271f3b579694498b8869c",
+    "text": "RS 22, 2023, D1 Rule 55-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6f5d9b6b88cae535a06605647f35743f",
+    "text": "(1) The process of a Circuit Court for any district for summoning any person, either as an accused or as a witness in any criminal case before such court, may be sued out at any time, whether the date for holding such court shall have been appointed or not. It may be issued by the registrar of the Provincial Division or of the Circuit Court or when the latter is not in the place where the court is to be held then by the clerk of the magistrate’s court of the district or by the clerk to any judge in that court: Provided that the process for summoning any person required by the Attorney-General or his deputy as a witness in a criminal case in such court need not be endorsed or formally sued out by or on behalf of the Attorney-General.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1e5d9f8178d055b107e38b37dd3026ff",
+    "text": "(2) The process of the Circuit Court for any district for arresting and holding to bail any person in order to compel his appearance before such court shall be issued by the magistrate for such district, or by any judge.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "509887772b8843e298fbcd75422834ca",
+    "text": "(3) All process of the Circuit Court shall be dated on the day on which it is issued, shall be signed by the officer issuing it, shall be endorsed by the person suing out the same and shall be directed to the sheriff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eec856e977e7e78ba4a4507fc5067ff3",
+    "text": "[Subrule (3) substituted by GN R2004 of 15 December 1967 and amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "852e62b54aabcde4a43c824ad825ebe0",
+    "text": "(4) The registrar of every Circuit Court shall, on the closing of the same, cause to be transmitted to the sheriff a list of all warrants of execution in criminal cases which have been issued by him.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a1d3398e72af77c42ccde86eb90adbd",
+    "text": "(5) In all cases wherein process is required for the execution of any sentence, judgment, or order of any Circuit Court in a criminal case, after the records thereof have been deposited in the office of the registrar of the Provincial Division, the process of that division for the execution of any such sentence, judgment or order may be issued to the party requiring the execution of the same.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fdab0d543616d6f4b40aaecaf5574ff0",
+    "text": "(6) When a Circuit Court imposes upon any party whatsoever a fine for contempt of court, for default of appearance or otherwise, and such fine is not duly paid, the registrar of the Circuit Court shall furnish to the sheriff the particulars of such fine, and deliver to him a warrant in respect thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0ef2a5138ac92e151c9b0f56e3f95434",
+    "text": "[Subrule (6) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7dba79f758f378ad1a7968748567014a",
+    "text": "(7) The registrar of every Circuit Court shall, immediately upon the closing of the court in each circuit town, make out and transmit to the registrar of the Provincial Division a return showing all the fines which have, during the sitting of the court in that town, been imposed by the said court, specifying therein the names of the parties, the amount of the fine, the date when imposed, and the date when a warrant was delivered to the sheriff for its levy, the extent, if any, to which the fine was remitted, and whether it was paid without issue of a warrant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7ef0458b3ca66bb19eb8eca95992556",
+    "text": "[Subrule (7) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "95dd3916eb52e28c0adcdfce5cfb1d0b",
+    "text": "(8) Whenever a Circuit Court district comprises more than one magisterial district, the clerk of the magistrate’s court of each such magisterial district shall, within the limits of his district, perform the duties devolving on clerks of magistrates under these rules.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf",
+      "parent_id": "9ba85b862c44947209aff13da683df0f"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ac6dd6ff9e21d4b5dada9f1571847ccd",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8e12d9d31aa28ccfc3572160e8d6d01c",
+    "text": "Downloaded: Mon Feb 17 2025 12:08:52 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 55.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "430bd7581dc6e78c60b55c40db6c2d32",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 55.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

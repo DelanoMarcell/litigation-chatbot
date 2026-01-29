@@ -1,0 +1,622 @@
+[
+  {
+    "type": "Header",
+    "element_id": "bccf4dc035b3c185508895debffa158a",
+    "text": "30A Non-compliance with Rules and Court Orders",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2cfd35a79035f8da0034ece32030218e",
+    "text": "RS 23, 2024, D1 Rule 30A-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "938e86d937dd23947394a8ed4fa47a67",
+    "text": "[Heading substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8b7da9b6b8e8b7af9600ab21cc280486",
+    "text": "(1) Where a party fails to comply with these rules or with a request made or notice given pursuant thereto, or with an order or direction made by a court or in a judicial case management process referred to in rule 37A, any other party may notify the defaulting party that he or she intends, after the lapse of 10 days from the date of delivery of such notification, to apply for an order —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5cd672fb9dc9947e9abea97d83beca41",
+    "text": "(a) that such rule, notice, request, order or direction be complied with; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "62b11f6c8f275752e808140dbbe5eff3",
+    "text": "(b) that the claim or defence be struck out.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5b64556c8eca351c18c121535793420f",
+    "text": "[Subrule (1) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2a2905b3fc85515238400937c633bf72",
+    "text": "(2) Where a party fails to comply within the period of 10 days contemplated in subrule (1), application may on notice be made to the court and the court may make such order thereon as it deems fit.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "78b84ff12169d7e940ae8dd67fa3581d",
+    "text": "[Rule 30A inserted by GN R881 of 26 June 1998 and substituted by GN R842 of 31 May 2019.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6c74099d6697575daf98ec71b5517d3d",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "bccf4dc035b3c185508895debffa158a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3235655b334859baeb2007899215820b",
+    "text": "General. Rule 30(5) used to provide a remedy where a party failed to comply timeously with a request made or notice given pursuant to the rules. The subrule was deleted by GN R2407 of 13 December 1996. The reason for the deletion was probably because the rest of rule 30 deals with the situation where an irregular step has been taken by a party to proceedings. Prior to its repeal, the subrule was the source of some controversy. There was difference of opinion as to whether it was intended to apply in all cases where a particular rule did not itself provide for a special sanction for non-compliance with a notice or request, as for example in rules 14(5), 14(9), 36(2) and 37(1), but not in cases where such a special sanction was provided 1 for, as for example in rules 21(6) (prior to the substitution of rule 21 in 1987) and 35(7). This rule now provides a general remedy for non-compliance with the rules. It follows the wording of the repealed subrule (5) of rule 30, except that it is applicable to any failure to comply with these rules, or with a request made or notice given pursuant to the rules, or with an order or direction made by a court or in a judicial case management process referred to in rule 37A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cdd6c0369929be85280790349da286b7",
+    "text": "The purpose of rule 30A is to avoid excessive formality and point-taking and to enable the parties to get on with the 2 litigation by, for example, curing between themselves any prejudice caused by an irregularity.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "807ae6daa87a56ff8bb56280d1434c72",
+    "text": "The cases are not harmonious as to whether or not, to the extent that the provisions of this rule may be in conflict with a provision in another rule which provides a specific remedy for non-compliance with that rule, a party need only follow the provisions of the other rule, without first having to give notice in terms of this rule or follow the provisions of this rule. 3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12885bc460ef986f6356384c77edbff8",
+    "text": "RS 23, 2024, D1 Rule 30A-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5e8e982242ab7cefab85064924bf0957",
+    "text": "The court has an inherent power to dismiss an action on account of a delay in its prosecution by the plaintiff. The circumstances under which the court may do so will depend on the period of the delay, the reasons therefor and the prejudice 4 suffered by the other party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "023bcd93ef764b472ec6a222e9ed52b4",
+    "text": "For the proper approach to an application under rule 30A to compel the production of documents under rule 35(12), see the notes to that rule s v ‘Any party failing to comply with such notice’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c8b03d887cdbfe5a76153a46bb96869e",
+    "text": "Subrule (1): ‘An order or direction made by a court or in a judicial case management process referred to in rule 37A.’ In terms of rule 1 ‘court’ means, in relation to civil matters, the High Court as referred to in s 6 of the Superior Courts Act 10 of 2013. The subrule applies to orders and directions made under rule 37A. It does not apply to directions made by a judge in 5 terms of rule 37(8)(c) at or after a pre-trial conference before a judge in chambers under rule 37. It therefore does not apply to a direction in terms of rule 37(8) as contemplated in rule 36(8). This seems to be a lacuna in the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "32476b8fb8d5e0754d1ad3ff54493eee",
+    "text": "‘After the lapse of 10 days.’ The period of ten days affords the defaulting party an opportunity to comply with the rule, request, notice, order or direction concerned.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e59ed2550f6d24960f6c51d5f614994e",
+    "text": "‘To apply.’ In view of subrule (2), this means an application on notice. See further the notes to subrule (2) s v ‘The court may make such order thereon as it deems fit’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7215bc697d1aa3a633ddce3d3cd860e4",
+    "text": "Subrule (1)(b): ‘The claim or defence be struck out.’ This includes, it is submitted, a claim and defence in reconvention and a third party notice under rule 13 and a defence thereto.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "975664488bbee086c85cb3ed610235cb",
+    "text": "Subrule (2): ‘Fails to comply within the period of ten days.’ The question whether there has been compliance as contemplated in rule 30A(1) does not give rise to the exercise of a discretion by the court hearing the application. The court 6 must determine, as an objective question of law or fact, whether there has been non-compliance. On that question, a court of appeal therefore makes the simple determination whether the lower court was right or wrong in its finding on compliance; 7 the discretion of the lower court under rule 30A(2) does not feature at all. See further the notes to rule 30A(2) s v ‘The court may make such order thereon as it deems fit’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0a5415258fb5f99fdbc6503827a42738",
+    "text": "‘The court.’ This means a ‘court’ as defined in rule 1 and does not include a ‘judge’, i e a judge in chambers. See the definitions of ‘court’ and ‘judge’ in rule 1 and the notes thereto above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4b199d4c6f7a91ea0a39aeab9a6fb1e4",
+    "text": "8 ‘The court may make such order thereon as it deems fit.’ This subrule confers a discretion on the court which, it is submitted, must be exercised judicially on a proper consideration of all the relevant circumstances. Striking out a claim or defence is a drastic remedy and, accordingly, the court must be appraised of sufficient facts on the basis of which it could exercise its discretion in favour of such an order. Consequently, the necessary affidavits in support",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "63c4c5c5ac6005c1ff485f4c3d00f9d6",
+    "text": "RS 23, 2024, D1 Rule 30A-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fd9e0021b684da876650001c040cbece",
+    "text": "of and opposing such relief should be delivered. Relevant factors will include (a) the reasons for non-compliance with the rules, request, notice, order or direction concerned and, in this regard, whether the defaulting party has recklessly disregarded his obligations; (b) whether the defaulting party’s case appears to be hopeless; and (c) whether the defaulting party does not 9 seriously intend to proceed. In addition, prejudice to either party is a relevant factor. This view was endorsed in Ndhlovu v 10 Phoshoko.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc51325fd6b4239d8c783c17afeb3671",
+    "text": "Costs. Rule 67A(2)(a) provides that in considering all relevant factors in awarding costs, the court may have regard to the failure by any party or such party’s legal representative to comply with the provisions of rule 30A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf",
+      "parent_id": "6c74099d6697575daf98ec71b5517d3d"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "de0c601af6157301b78cdd76aaeba359",
+    "text": "1 See Norman & Co (Pty) Ltd v Hansella Construction Co (Pty) Ltd 1968 (1) SA 503 (T) at 504E; Moulded Components and Rotomoulding South Africa (Pty) Ltd v Coucourakis 1979 (2) SA 457 (W) at 459–60; Khunou v M Fihrer & Son (Pty) Ltd 1982 (3) SA 353 (W) at 360H–361A; Universal City Studios v Movie Time 1983 (4) SA 736 (D) at 746A and 748A–D; Gehle v McLoughlin 1986 (4) SA 543 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e6f6fe75801f84de839c14fa40a936c1",
+    "text": "2 RVRN Crushing (Pty) Ltd v GDF Incorporated Consultants (Pty) Ltd 2024 (1) SA 269 (GJ) at paragraphs [7]–[12], following Biologicals and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6c02a95b404ad8c514aba5756e6e6d41",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4c257005f0967edebf13591e339d283b",
+    "text": "Downloaded: Mon Feb 17 2025 10:54:13 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "6e945bc7bc78428b98d686697ec8cdbc",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 30A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8b72be572541b0014573df33a764b76c",
+    "text": "Vaccines Institute of Southern Africa (Pty) Ltd v Guardrisk Insurance Company Ltd (unreported, G] case no 11323/2022 dated 27 June 2023) at paragraph [4].",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f5eee33924dd5d15043bcad5be87447e",
+    "text": "3 On the one hand, it has been held that a party need only follow the provisions of the rule which provides a specific remedy (ABSA Bank Ltd v The Farm Klippan 490 CC 2000 (2) SA 211 (W) at 215A–B; Minister of Police v Bacela (unreported, ECB case no 275/2019 dated 8 September 2020) at paragraphs [17]–[18]; M and M Quantity Surveyors CC v Orvall Corporate Designs (Pty) Ltd (unreported, GP case no 84202/19 dated 27 May 2021) at paragraphs [22]–[33]). On the other hand, it has been held that it is sound practice that the provisions of rule 30A must first be complied with (GN obo KN v MEC, Department of Health, Eastern Cape Province 2024 (1) SA 258 (ECM) at paragraphs [25]–[30]; and see Szedlacsek v Szedlacsek; Van der Walt v Van der Walt; Warner v Warner 2000 (4) SA 147 (E) at 150E–F). In Lot 38 Bizana Properties CC v Tiador 119 CC (in liquidation) (unreported, ECMk case no 2278/2022 dated 10 January 2024) the court observed (at paragraph [6]) that rules 30A and 35(7) are similar and that no condonation is necessary where a party applies rule 30A and not rule 35(7).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "913b38f279cb1b73cde5c79bf45ff5d2",
+    "text": "4 Molala v Minister of Law and Order 1993 (1) SA 673 (W); Gopaul v Subbamah 2002 (6) SA 551 (D) at 558A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "997bcc3f948ed9b6b27f93fd80b355a5",
+    "text": "5 This position was affirmed in Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "83f44d482fec2be418d0615001b5066c",
+    "text": "6 Helen Suzman Foundation v Judicial Service Commission 2018 (4) SA 1 (CC) at 31F–G; and see Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [19].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c57c9fe024956eadbc8d5c5313b36f3f",
+    "text": "7 Helen Suzman Foundation v Judicial Service Commission 2018 (4) SA 1 (CC) at 31G–H; and see Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [19].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "785ea3e1b775337487d8db7bb383539e",
+    "text": "8 Helen Suzman Foundation v Judicial Service Commission 2018 (4) SA 1 (CC) at 31F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "29454252cb1409ac24920363f1d6873a",
+    "text": "9 See Ford v South African Mine Workers’ Union 1925 TPD 405 at 406; Harrison v Harrison 1942 WLD 16; Smith NO v Brummer NO 1954 (3) SA 352 (O) at 357; Van Aswegen v McDonald Forman & Co Ltd 1963 (3) SA 197 (O) at 201; SA Scottish Finance Corporation Ltd v Smit 1966 (3) SA 629 (T) at 634; Evander Caterers (Pty) Ltd v Potgieter 1970 (3) SA 312 (T) at 317; Thornhill v Gerhardt 1979 (2) SA 1092 (T) at 1096–7; Ndhlovu v Phoshoko (unreported, GP case no 11908/2020 dated 2 March 2023) at paragraph [21].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3c53ef40417d81a42ad8418e0bc68238",
+    "text": "10 Unreported, GP case no 11908/2020 dated 2 March 2023 at paragraph [21].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "69d8764b47b9d464df405f3382fd990d",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c059dd63c36d10b0b01218b2ebff808d",
+    "text": "Downloaded: Mon Feb 17 2025 10:54:13 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 30A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "ac1a789f6c03b95c6f2e89b01be05f04",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 30A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

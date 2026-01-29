@@ -1,0 +1,2036 @@
+[
+  {
+    "type": "Title",
+    "element_id": "7cf0e9115d60feeeb7a143b446e9c357",
+    "text": "13 Third party procedure",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "6c0d0e5b8434f1c4b6736b4ed92d6324",
+    "text": "RS 22, 2023, D1 Rule 13-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a3e5c3676067c6ec3a83de6940b0cc16",
+    "text": "(1) Where a party in any action claims —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3137b290ad85983eb009b3b7e881c750",
+    "text": "(a) as against any other person not a party to the action (in this rule called a ‘third party’) that such party is entitled, in respect of any relief claimed against him, to a contribution or indemnification from such third party, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "44240d8d3357887a8a5482fb500431a0",
+    "text": "(b) any question or issue in the action is substantially the same as a question or issue which has arisen or will arise between such party and the third party, and should properly be determined not only as between any parties to the action but also as between such parties and the third party or between any of them, such party may issue a notice, hereinafter referred to as a third party notice, as near as may be in accordance with Form 7 of the First Schedule, which notice shall be served by the sheriff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "78c9aba3211f02dd6ad58c7d42ff12f4",
+    "text": "(2) Such notice shall state the nature and grounds of the claim of the party issuing the same, the question or issue to be determined, and any relief or remedy claimed. In so far as the statement of the claim and the question or issue are concerned, the rules with regard to pleadings and to summonses shall mutatis mutandis apply. (3)(a) The third party notice, accompanied by a copy of all pleadings filed in the action up to the date of service of the notice, shall be served on the third party and a copy of the third party notice, without a copy of the pleadings filed in the action up to the date of service of the notice, shall be filed with the registrar and served on all other parties before the close of pleadings in the action in connection with which it was issued.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4107d2430e847964ceac8285b0c24020",
+    "text": "(b) After the close of pleadings, such notice may be served only with the leave of the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ab4a2865737ead326392849e782b5e78",
+    "text": "[Subrule (3) substituted by GN R2047 of 13 December 1996.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9265ca374565ede1279294c2babcaa33",
+    "text": "(4) If the third party intends to contest the claim set out in the third party notice he shall deliver notice of intention to defend, as if to a summons. Immediately upon receipt of such notice, the party who issued the third party notice shall inform all other parties accordingly.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "75e62a1bd1aec96f154be3f1840fa7b6",
+    "text": "(5) The third party shall, after service upon him of a third party notice, be a party to the action and, if he delivers notice of intention to defend, shall be served with all documents and given notice of all matters as a party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2bbc47287446ee67c4560d5bd8d290d4",
+    "text": "(6) The third party may plead or except to the third party notice as if he were a defendant to the action. He may also, by filing a plea or other proper pleading contest the liability of the party issuing the notice on any ground notwithstanding that such ground has not been raised in the action by such latter party: Provided however that the third party shall not be entitled to claim in reconvention against any person other than the party issuing the notice save to the extent that he would be entitled to do so in terms of rule 24.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ccb08223301724b1090e52909b1ca102",
+    "text": "(7) The rules with regard to the filing of further pleadings shall apply to third parties as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c7af1b7eb382601f1224e316e2572a3",
+    "text": "(a) In so far as the third party’s plea relates to the claim of the party issuing the notice, the said party shall be regarded as the plaintiff and the third party as the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01f51060a12d87789a7ddeeba3c559ca",
+    "text": "RS 22, 2023, D1 Rule 13-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7c0f58d8f9c6251ddf1ef6e44a3f6a6",
+    "text": "(b) In so far as the third party’s plea relates to the plaintiff’s claim, the third party shall be regarded as a defendant and the plaintiff shall file pleadings as provided by the said rules.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ffb089502b4394304a83640d76318c99",
+    "text": "(8) Where a party to an action has against any other party (whether either such party became a party by virtue of any counter-claim by any person or by virtue of a third party notice or by any other means) a claim referred to in subrule (1), he may issue and serve on such other party a third party notice in accordance with the provisions of this rule. Save that no further notice of intention to defend shall be necessary, the same procedure shall apply as between the parties to such notice and they shall be subject to the same rights and duties as if such other party had been served with a third party notice in terms of subrule (1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "60637411a424ba1bab936bd0faf3c7c4",
+    "text": "(9) Any party who has been joined as such by virtue of a third party notice may at any time make application to the court for the separation of the trial of all or any of the issues arising by virtue of such third party notice and the court may upon such application make such order as to it seems meet, including an order for the separate hearing and determination of any issue on condition that its decision on any other issue arising in the action either as between the plaintiff and the defendant or as between any other parties, shall be binding upon the applicant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "8f2a33a86b026c67040ccb8e09dbbdc2",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "6c0d0e5b8434f1c4b6736b4ed92d6324"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cee6ee424f3c27b300032870c498b4db",
+    "text": "Form. Notice to third party, 7; Notice of agreement or opposition to mediation, 27.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad5594c2e469e4010b6a20eda42c8508",
+    "text": "General. The provisions of this rule are applicable to applications by virtue of the provisions of rule 6(14).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0bf25dff677400ee86520d9cb870bc0f",
+    "text": "The rule regulates the conduct of proceedings and is not ultra vires the rule-making body. 1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f435bb50435c261e047084f403979662",
+    "text": "2 It has often been stressed that the purpose of the rule is to avoid multiplicity of actions. The purpose of the joinder of a third party is in broad terms the same as that of a consolidation of actions under rule 11: to have issues which are substantially similar tried at a single hearing so as to avoid the disadvantages attendant upon a multiplicity of trials. In many 3 cases joinder is a form of consolidation and consolidation a form of joinder.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "92f5c27c58d3f59cdd9146904845aab3",
+    "text": "The rule is complementary to, but does not supersede, the machinery laid down in s 2 of the Apportionment of Damages Act 4 34 of 1956. The difference lies, inter alia, in the form of relief which can be sought. Under s 2(6)(a) of that Act a wrongdoer sued in an action can seek relief from a wrongdoer not so sued in the form of a judgment for the payment of an amount",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9e0293d2b8e83091d3605993e6140f5a",
+    "text": "RS 23, 2024, D1 Rule 13-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fbfd76eb5402ed2b9fa98b186058bf9e",
+    "text": "of money determined by the court. Under the rule all that can be sought by one alleged wrongdoer against another is an 5 apportionment of fault in the form of a declaratory order.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7ba280a056bcfea76cd5e5cebe47a56c",
+    "text": "The fact that a claim does not comply in all respects with the requirements of the rule is not necessarily a justification for setting it aside in whole or in part. The court has a discretion and is entitled in a proper case to overlook an irregularity that 6 does not cause substantial prejudice to the party complaining of it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04c2813b23b0a92210e707fd528ba7fd",
+    "text": "Any party to an action is entitled to invoke the rule and a party who claims against only one of several parties who may be liable to him in respect of the same claim must realize that the party whom he sues may elect to make the other potential 7 debtors third parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ebfc2223cb86028a65563391c383bf0b",
+    "text": "A plaintiff is entitled to issue a third party notice in terms of the rule. 8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05f547417126e38ac14c8e6573537fb9",
+    "text": "9 Since a notice in terms of the rule effects a joinder of the third party as a party to the action, there is nothing in the rule which precludes a party who has been joined as a third party to issue a notice for the joinder of a further third party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8252965e302a225d25c851c510f6183a",
+    "text": "A third party notice is a pleading completely independent of the main claim and any pleading in response thereto. 10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31689d4c40b903878c6bbd6e6bdb3be6",
+    "text": "Subrule (1) provides for two alternative bases upon which a litigant can join a third party. The remedies and relief that a litigant may seek against a third party differ, depending upon whether the third party is joined under subrule (1)(a) or (b). Subrule (1)(a) provides for joinder where a contribution or indemnification from the third party is sought. Subrule (1)(b) provides for joinder where any question or issue in the main action is substantially the same as a question or issue as between 11 the third party and the litigant who seeks to join such third party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4435d609a7ada531809436d212f10e31",
+    "text": "Subrule (1): ‘In any action.’ The party to whom the right is given to issue a third party notice is a party ‘in any action’. It has been held that whatever the meaning of the word ‘action’ where it appears elsewhere in the rules, in this rule it cannot 12 mean, or include, the interlocutory stage of the proceedings initiated by a provisional sentence summons:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f4817694f41ec636d067df60728432c6",
+    "text": "(a) the rule is not apposite to the provisional sentence stage of an action as most of its provisions cannot be applied to 13 purely provisional sentence proceedings;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f05d1697d84486c7fd3020fc01b4caa3",
+    "text": "(b) this does not mean that a defendant cannot immediately after a provisional sentence summons has been served on him",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf",
+      "parent_id": "8f2a33a86b026c67040ccb8e09dbbdc2"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e2ee38e256fd385e76911862a4fd34b4",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e0fc886d55f6efe918ae865526debd6e",
+    "text": "14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "56d41d0ab5ded96af484f1d2acbbaa57",
+    "text": "Downloaded: Mon Feb 17 2025 11:03:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "66f498913c43930a5c1889913eb44e8e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 13.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "450d07d7a2a353325664e7d80aec64d1",
+    "text": "issue a third party notice; 14",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6e7b032db2db5aff96727f11daa29121",
+    "text": "(c) the third party thereafter waits on the sidelines and only participates actively after provisional sentence has been 15 granted or refused;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc75b7d93a6babbd8bd8674910d58497",
+    "text": "RS 23, 2024, D1 Rule 13-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8084e7b4b54c309726e6c7d90f52f78f",
+    "text": "(d) the filing of affidavits by the third party in the provisional sentence proceedings would not only be unnecessary, but 16 indeed incompetent;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "047c1cc4d082501cc56319bafffbc150",
+    "text": "(e) only if the matter is referred to trial or otherwise proceeds to a trial action in terms of the rules, does the question of 17 pleadings as between all the parties, including the third parties, arise;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d03e2b13b4da18884bf4bf3f54aa822",
+    "text": "(f) if the matter does not proceed to trial and the provisional sentence becomes a final judgment in terms of the provisions 18 of rule 8, the need for the filing of pleadings by any of the parties, including third parties, does not arise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4dd6b142160b39ce6d4f6a5a6b22249b",
+    "text": "Subrule (1)(a): ‘A contribution or indemnification.’ It was held in Eimco (SA) (Pty) Ltd v P Mattioda’s Construction Co (SA) 19 (Pty) Ltd that a right of indemnity arises only from contract, express or implied, or by statute or where it is implied by law. A party who invokes the rule must, therefore, show that there is a right, arising from contract or by statute or by law, to an 20 A claim for the payment of damages cannot be indemnity in respect of, or a contribution towards, the claim of the plaintiff. 21 In Pickitup Johannesburg SOC Ltd v Nair (Maharaj equated with a right to claim indemnity; it is the converse of such right. 22 23 that the common law recognized a right of contribution between joint and Others, Third Parties/Excipients) it was held wrongdoers, unless there was deliberate malfeasance that triggered the ex dolo malo or ex turpi causam maxim. The third 24 party notice was therefore held not to be excipiable and the exception was dismissed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "312e5763da77209a29a25eeecb2b86b2",
+    "text": "Subrule (1)(b): ‘Any question or issue substantially the same as.’ This subrule does not require that ‘all’ issues must be 25 similar or substantially the same. ‘Any’ question or issue is sufficient to trigger the applicability of rule 13.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2846b3b547ca9bd5c44afb1546dfc91f",
+    "text": "‘May issue a notice.’ Since a party who is joined as a third party does not become a defendant vis-à-vis the plaintiff, 26 it is not necessary that there should be compliance, prior to the issue of a third party notice, with statutory requirements which 27 debar a plaintiff from pursuing certain actions unless prescribed formalities are complied with. See further the notes s v ‘General’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f35a1f82789d73e8ea2e3b465b337446",
+    "text": "‘As near as may be in accordance with Form 7.’ Though the wording of Form 7 is appropriate to the joinder of a third party by a defendant, which is the most usual position, this subrule clearly contemplates departure from its terms to suit different 28 circumstances such as, for example, the joinder of a third party by the plaintiff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8da816d34383254cfabf9d3add72dc70",
+    "text": "RS 22, 2023, D1 Rule 13-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "672a861f0abd5377fa2827c76bee286e",
+    "text": "Notice of mediation. Rule 13(7) provides that the rules with regard to the filing of further pleadings apply to third parties as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ca7f0117ec79ea61dab52f52cef80c5a",
+    "text": "(a) In so far as the third party’s plea relates to the claim of the party issuing the notice, the said party is regarded as the plaintiff and the third party as the defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8ca2e9285eeb33ae89b2776205c70150",
+    "text": "(b) In so far as the third party’s plea relates to the plaintiff’s claim, the third party is regarded as a defendant and the plaintiff must file pleadings as provided by the said rules.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf3a870f439e578662f1b3c217fee2d9",
+    "text": "Rule 41A(2)(a) provides that in every new action, the plaintiff must, together with the summons or combined summons, serve on each defendant a notice indicating whether such plaintiff agrees to or opposes referral of the dispute to mediation. The notice must substantially be in accordance with Form 27 of the First Schedule and must clearly and concisely indicate the 29 The notice must not be filed with the reasons for the plaintiff’s belief that the dispute is or is not capable of being mediated 30 registrar. If the parties agree on mediation, and a joint minute to that effect is signed, the time limits prescribed by the rules for the delivery of pleadings and notices or the taking of any step is suspended for every party to the dispute from the date of signature of the minute to the time of conclusion of mediation: Provided that any party to the proceedings who considers that the suspension of the prescribed time limits is being abused, may apply to the court for the upliftment of the suspension of the prescribed time limits. Although rule 41A does not expressly include a third party notice, it is submitted that a notice of mediation as contemplated in rule 41A(2)(a) should be served on the third party together with the third party notice and that the third party, who is regarded as a defendant, should comply with the provisions of rule 41A(2)(b) in response to the notice. In so far as the third party’s plea relates to the plaintiff’s claim, the third party is also regarded as a defendant and must, vis-à-vis the plaintiff, comply with the provisions of rule 41A(2)(b). See further the provisions of rule 41A below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "486df1fb3bcc9f024994fa250d2eace3",
+    "text": "Subrule (2): ‘Any relief or remedy claimed.’ All that can be sought under the rule by one alleged wrongdoer against another 31 The rule makes no provision for a judgment sounding in is an apportionment of fault in the form of a declaratory order. 32 money in favour of one alleged wrongdoer against the other. A defendant who issues a notice under the rule against a third party is, accordingly, not entitled to claim a judgment in its favour in a specified sum of money as determined by the 33 court. This does not, however, mean that a third party can be joined in order to obtain a declaratory order which will be of 34 academic interest only.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21a00b45d932cd193a36c26b28a12fb4",
+    "text": "The purpose of joinder subject to the provisions of subrule (1)(b) is similar to consolidation of actions under rule 11. The court may, accordingly, in cases other than in disputes between joint wrongdoers ‘give one judgment disposing of all matters in dispute’ as provided for in rule 11(c). Thus, where it is convenient or expedient in the sense of being fit and fair to the parties concerned, the court may issue a judgment sounding in money against a third party joined under subrule 13(1)(b). 35",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1af04bfd126ac860564c4e43445db177",
+    "text": "RS 22, 2023, D1 Rule 13-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "897febd10f6f68177d596b0c3152e973",
+    "text": "Subrule (3)(a): ‘Served . . . before the close of pleadings in the action in connection with which it was issued.’ The words ‘in connection with which’ in this subrule, as opposed to simply ‘in which’, refer not only to the pleadings between a plaintiff and a defendant but to the pleadings between all the parties to the action. The subrule provides for only one action and that action is necessarily the one begun by the plaintiff. The reference to ‘action’ is to the action referred to in subrule 36 (1).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8475b22329b4cf7b3a72362f2a73ea51",
+    "text": "Subrule (3)(b): ‘After the close of pleadings . . . with the leave of the court.’ This subrule provides that, after the close of pleadings, a third party notice may only be served with the leave of the court. If the applicant for such leave failed to join a third party prior to the close of pleadings when it would have been possible to do so, he seeks an indulgence. The court has a 37 wide discretion to grant applications under this subrule. The court should not lightly refuse leave in terms of the subrule because such refusal might result in a multiplicity of actions. On the other hand, the granting of leave is not a mere formality. Though it may not be essential that a prima facie case on the merits be made out, it is generally required and it has been 38 held that an applicant under this subrule had to (i) furnish a satisfactory explanation for his failure to issue the notice before the close of pleadings; and (ii) make out a prima facie case on the merits against the third party. Where an applicant 39 has failed to comply with the second requirement it was held that it would in the circumstances of the case not be proper",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "35f1d92f037da2a2b8622001a0847884",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "848d99a44fff83fe2f027cbe9a3a0db9",
+    "text": "Downloaded: Mon Feb 17 2025 11:03:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "84ca7368330c5ef5c20d1dc63e15577e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 13.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3520e27a6379dc264d101b965088dc9f",
+    "text": "exercise of the court’s discretion to bar the applicant from obtaining such relief, particularly in view thereof that such a step will in all probability leave the applicant without any remedy against such a respondent.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "23af7e346ac5b10f5685037d46794181",
+    "text": "In Mercantile Bank Ltd v Carlisle 40 the approach to be followed was formulated as follows: 41 The third party notice must be examined, as one would examine pleadings in an action, to ascertain whether it is excipiable in that it does not disclose a cause of action. If it is excipiable, then the joinder would be refused. If it is not excipiable, then the totality of the allegations in the affidavits must be examined to see whether the case sought to be made against the third party is so patently unfounded, notwithstanding that the pleading may pass the excipiabilty test, that it ought not to be allowed to proceed to a 42 43 trial. In Pitsiladi v Absa Bank, contrary to aforesaid, the view was expressed that a draft third party notice annexed to an application under subrule (3) is not a pleading, at least not until such time as the applicant has been granted leave as envisaged by the subrule. The purpose thereof is to satisfy the court that the applicant has a prima facie case vis-à-vis the third party and not that it constitutes a legally valid pleading. To dismiss the application on the basis that the draft third-party notice is excipiable would deny the applicant the opportunity to amend the notice and remove the cause of complaint, as he may otherwise have been able to do if an exception was delivered",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5dfadbe787a5acf98492fc02fbbb74db",
+    "text": "RS 22, 2023, D1 Rule 13-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "69e53350a6098d0b02740a15893aab3b",
+    "text": "in terms of rule 23. This may leave the applicant remediless against the third party or may result in a multiplicity of actions, exactly what rule 13 is intended to avoid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9697ae47845113d4c5be05be308a0120",
+    "text": "Subrule (4): ‘Deliver notice of intention to defend.’ In terms of the definition of ‘deliver’ in rule 1, the original of the notice of intention to defend must be filed with the registrar and a copy must be served on the plaintiff or his attorney.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50763af8bb2a4ea65dcb38071449c340",
+    "text": "Notice of mediation. Rule 41A(2)(b) provides that a defendant must, when delivering a notice of intention to defend, or at any time thereafter, but not later than the delivery of a plea, serve on each plaintiff or the plaintiff’s attorneys, a notice indicating whether such defendant agrees to or opposes referral of the dispute to mediation. The notice must be substantially in accordance with Form 27 of the First Schedule and must clearly and concisely indicate the reasons for the defendant’s 44 belief that the dispute is or is not capable of being mediated. The notice must not be filed with the registrar. 45 See also the notes s v ‘Notice of mediation’ to subrule (1)(b) above to the effect that for purposes of filing pleadings, a third party is regarded as a defendant. See further the provisions of rule 41A below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f22d1e07f1881bcaf9936a8ecc83b4b9",
+    "text": "Subrule (5): ‘The third party . . . shall be a party to the action.’ A notice in terms of the rule effects a joinder of the third 46 party as a party to the action and the third party is bound by the court’s judgment. The remedy of the party who objects 47 to being so joined is not to object to the joinder per se, but to plead or to except thereto in terms of subrule (6), or apply under subrule (9) for his partial or total release from involvement in the proceedings between the plaintiff and the 48 defendant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "27a8f3492d9e48a2ed678b9f34bcdea0",
+    "text": "The fact that the third party becomes a party to the action does not create a lis between the third party and the plaintiff, 49 and the third party does not become a defendant vis-à-vis the plaintiff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d19e091b32af4450801693b17e5542a6",
+    "text": "As a party to the action, a third party may agree with the other parties to have their dispute resolved by way of a stated 50 case under rule 33.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7e1a9116b14bdf1152d6c5b03105a1c",
+    "text": "As a party to the action, a third party may have an order of costs in his favour 51 and also against him. 52",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "39508a4b9b9290acbce7073ca158c3a2",
+    "text": "Subrule (6): ‘Not be entitled to claim in reconvention against any person other than the party issuing the notice.’ The third party is entitled to file a plea but may only file a claim in reconvention against the party issuing the notice. The claim in reconvention may include a judgment sounding in money against the litigant who has sought the third party’s joinder. 53",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "89f2c0bf3cf79a9ba7eb22c05fde7b04",
+    "text": "Subrule (7): ‘The rules with regard to the filing of further pleadings shall apply to third parties.’ The defendant, in having issued the notice, is for the purposes of this rule regarded as the ‘plaintiff’ and the third party as the ‘defendant’. The third party is also regarded as a defendant against the plaintiff in the action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "68d31e07c1ac73299fc508799a6b3327",
+    "text": "RS 22, 2023, D1 Rule 13-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "21d8e505ff7dfd66a083a72a0d9f3c63",
+    "text": "Notice of mediation. Rule 41A(2)(b) provides that a defendant must, when delivering a notice of intention to defend an action, or at any time thereafter, but not later than the delivery of a plea, serve on each plaintiff or the plaintiff’s attorneys, a notice indicating whether such defendant agrees to or opposes referral of the dispute to mediation. The notice must be substantially in accordance with Form 27 of the First Schedule and must clearly and concisely indicate the reasons for the 54 The notice must not be filed with the defendant’s belief that the dispute is or is not capable of being mediated. 55 registrar. It is submitted that in third party proceedings the required notice must be served by the defendant as soon as possible after receipt of the third party notice but in any event not later than delivery of the defendant’s plea. See also the notes s v ‘Notice of mediation’ to subrule (1)(b) above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3962c8bcc9788d3193048a3f78d3af76",
+    "text": "Subrule (8): ‘Where a party to an action has . . . a claim referred to in subrule (1).’ This subrule was clearly designed to fill a lacuna which would otherwise have existed in the rule. Had it not been for the subrule, a party to an action having a claim of the nature contemplated in subrule (1) against another party to the same action, which cannot be brought within the ambit of a claim in reconvention in terms of rule 24, would have to enforce such a claim by way of a separate action. If the 56 claim lay against someone who is not a party, such a person could be joined by a third party notice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a7adf7e2f5db156c80fac384da7cac2",
+    "text": "Subrule (9): ‘Make application . . . for the separation of the trial.’ This subrule clearly confers a discretion on the court. It has been held under rule 10(5), where a similar discretion to order separate trials is conferred, that the exercise of the discretion will vary from case to case and depend in a large measure on the circumstances of the case and the matter in 57 respect of which a discretion is to be judicially exercised. For the factors which may be taken into consideration in the exercise of the discretion, see the notes to rule 10(5) s v ‘Order that separate trials be held’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3572a6729114d8529176e46afd672053",
+    "text": "1 Gross v Commercial Union Assurance Co Ltd 1974 (1) SA 630 (A) at 634D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8c671c8d116ee0276f35ca7c12e0e04f",
+    "text": "2 Robertson v Durban Turf Club 1970 (4) SA 649 (N) at 657E; Gross v Commercial Union Assurance Co Ltd 1974 (1) SA 630 (A) at 634E; Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277C; Participation Bond Nominees (Pty) Ltd v Mouton (1) 1978 (4) SA 498 (W) at 501B; Geduld Lands Ltd v Uys 1980 (3) SA 335 (T) at 341A; Wapnick v Durban City Garage 1984 (2) SA 414 (D) at 423F. For a critical analysis of the rule, see T Bekker ‘Third party joinder: A plea for reform’ (2017) 80.4 THRHR 622–5.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "816e2e787158efd494fa79cb70835ec6",
+    "text": "3 Nel v Silicon Smelters (Edms) Bpk 1981 (4) SA 792 (A) at 802B; IFP Nominees (Pty) Ltd v Nedcor Bank Ltd 2002 (5) SA 101 (W) at 118A. 4 Shield Insurance Co Ltd v Zervoudakis 1967 (4) SA 735 (E); Swart v Scottish Union & National Insurance Co Ltd 1971 (1) SA 384 (W) at 395H; Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277C. The purpose of the Apportionment of Damages Act 34 of 1956 is to avoid a multiplicity of actions arising from a single loss-causing event. The scheme of the Act contemplates a single determination of liability by multiple wrongdoers and the apportionment of liability amongst them in single proceedings (Absa Brokers (Pty) Ltd v RMB Financial Services 2009 (6) SA 549 (SCA) at 554C–D). The liability of the Road Accident Fund for the compensation of victims of road accidents is statutory, not delictual, in nature and the Fund is therefore not a joint wrongdoer for purposes of s 2(10) of the Apportionment of",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "6ccf7149b9fd00fe80e5b2547436699c",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0cc855f3d6d9cb11add7ef2267c0d882",
+    "text": "Downloaded: Mon Feb 17 2025 11:03:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "66f498913c43930a5c1889913eb44e8e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 13.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14715e3dcd821469044e6c791ac5989f",
+    "text": "Damages Act 34 of 1956 (Mosholi v Putco (Pty) Ltd 2011 (5) SA 38 (GNP)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87237d959a8756b209f6d00787acfc5b",
+    "text": "5 Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277D–G. See further the notes s v ‘Any relief or remedy claimed’ to subrule (2) below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5bd2584724d6819c8525c7fd60008661",
+    "text": "6 Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277D–G. See further the notes s v ‘Any relief or remedy claimed’ to subrule (2) below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41ce6ad8f594951961acc2daeaacffd0",
+    "text": "7 Robertson v Durban Turf Club 1970 (4) SA 649 (N) at 657F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d570388eb4ac3784bd87572a1ddf08c",
+    "text": "8 Montana Steel Corporation (Pty) Ltd v New Zealand Insurance Co (South Africa) Ltd 1975 (4) SA 339 (W); Nel v Silicon Smelters (Edms) Bpk 1981 (4) SA 792 (A) at 801A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bbc2e723a39685540dd5d385ee84bc2e",
+    "text": "9 See the notes to subrule (5) s v ‘The third party . . . shall be a party to the action’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bfea9871e6f0dc36e2980ce281edde95",
+    "text": "10 ABSA Bank Ltd v Boksburg Transitional Local Council (Government of the Republic of South Africa, Third Party) 1997 (2) SA 415 (W) at 419I. See also Africon Engineering International (Pty) Ltd v The Taxing Master NO 2005 (6) SA 397 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "339b74250928993691855d702d63a671",
+    "text": "11 IPF Nominees (Pty) Ltd v Nedcor Bank Ltd 2002 (5) SA 101 (W) at 116B–D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d87284cee02b528e8fa35900a4e0c5c9",
+    "text": "12 Participation Bond Nominees (Pty) Ltd v Mouton (1) 1978 (4) SA 498 (W) at 501F; Participation Bond Nominees (Pty) Ltd v Mouton (2) 1978 (4) SA 503 (W) at 508A, not following Sarkady v De Paiva 1977 (1) SA 157 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c63fa84f3ec881a900b41025286af1b",
+    "text": "13 Participation Bond Nominees (Pty) Ltd v Mouton (1) 1978 (4) SA 498 (W) at 501F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bc813d994c195e0230c949b9eb12820a",
+    "text": "14 Participation Bond Nominees (Pty) Ltd v Mouton (1) 1978 (4) SA 498 (W) at 501G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9ce3a71e4d798f8630677895a8d310bf",
+    "text": "15 Participation Bond Nominees (Pty) Ltd v Mouton (1) 1978 (4) SA 498 (W) at 502D–E; Participation Bond Nominees (Pty) Ltd v Mouton (3) 1978 (4) SA 508 (W) at 512H and 514E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2be2c48e4f4945f2c6ec5a2c727a1ebf",
+    "text": "16 Participation Bond Nominees (Pty) Ltd v Mouton (1) 1978 (4) SA 498 (W) at 502C–E; Participation Bond Nominees (Pty) Ltd v Mouton (3) 1978 (4) SA 508 (W) at 512H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "25fd1a61347104ccd6e0f662d4837f14",
+    "text": "17 Participation Bond Nominees (Pty) Ltd v Mouton (3) 1978 (4) SA 508 (W) at 512H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5a55d05f5fa4446557b70a331e85b06",
+    "text": "18 Participation Bond Nominees (Pty) Ltd v Mouton (3) 1978 (4) SA 508 (W) at 514E–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "01aaa4776f97aff59a003f63e5e2d1a1",
+    "text": "[Bl",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d775035f0b400a49c43b82d8c9a8e24",
+    "text": "19 1967 (1) SA 326 (N), followed and approved in Dodd v Estate Cloete 1971 (1) SA 376 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed637ddff80f3c5c7d101a45ebc07ea5",
+    "text": "20 Eimco (SA) (Pty) Ltd v P Mattioda’s Construction Co (SA) (Pty) Ltd 1967 (1) SA 326 (N) at 332H–333A. In Soar h/a Rebuilds for Africa v J C Motors 1992 (4) SA 127 (A) the court allowed the claim of an evicted purchaser for repayment of the purchase price and payment of damages against the seller who had been joined as a third party. The question whether or not the evicted purchaser was entitled to an indemnification under the subrule was not raised by any of the parties (see at 133J).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0192396b96a5fc7ba7108cc5d31723ef",
+    "text": "21 Dodd v Estate Cloete 1971 (1) SA 376 (E) at 379G. See also 1964 Annual Survey 150.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cdf0bc7c360697084a15c81370483ca",
+    "text": "22 2019 (5) SA 540 (GJ); and see Sasfin Bank Ltd v Amoils (unreported, GJ case no 1120/2019 dated 30 September 2020) at paragraphs [16]–[30].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e897766f56b1fa5f33d99a7ec15c9cf9",
+    "text": "23 At 555E–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57303b8ed2bf68fb8db2a5e72f99244d",
+    "text": "24 At 557A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2a32e9cee218315f22ad8f9dd002f83c",
+    "text": "25 IPF Nominees (Pty) Ltd v Nedcor Bank Ltd 2002 (5) SA 101 (W) at 117C–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f8066c2341600efd8a0ff8e94c5bb6e",
+    "text": "26 See the notes to subrule (5) s v ‘The third party . . . shall be a party to the action’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c81b73d36dac24225dcbdb35677369c",
+    "text": "27 Swart v Scottish Union & National Insurance Co Ltd 1971 (1) SA 384 (W), approved in Rabie v Kimberley Munisipaliteit 1991 (4) SA 243 (NC) at 250A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d7993226aea59665072a38b16062f5a",
+    "text": "28 Montana Steel Corporation (Pty) Ltd v New Zealand Insurance Co (South Africa) Ltd 1975 (4) SA 339 (W) at 343H–344A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "00fe8fdff4bcf978d9a976a7094a7dc4",
+    "text": "2l",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "07b049eaf37a46f4b806e2236ec55f09",
+    "text": "29 Rule 41A(2)(c).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b4bb7bfcaa4372bd66c8e16d5dd71d8a",
+    "text": "30 Rule 41A(2)(d).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e0b9b77fe757fd5d2ef29333bf53b8f5",
+    "text": "31 Shield Insurance Co Ltd v Zervoudakis 1967 (4) SA 735 (E) at 739C; Du Raan v Maritz 1973 (4) SA 39 (SWA) at 41E; Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277G; Luthuli v Santam Insurance Co Ltd 1977 (2) SA 97 (D) at 99E; Randbond Investments (Pty) Ltd v FPS (Northern Region) (Pty) Ltd 1992 (2) SA 608 (W) at 622A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a46e27a41b2bfa8b8fd8129f9f2e119d",
+    "text": "32 Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "49f472f912f617c1f41d9f74ee37ab53",
+    "text": "33 Du Raan v Maritz 1973 (4) SA 39 (SWA) at 41E; Hart v Santam Insurance Co Ltd 1975 (4) SA 275 (E) at 277H. See also Callender-Easby v Grahamstown Municipality 1981 (2) SA 810 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1b2199859957ded269c5fff35e12cab2",
+    "text": "512",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed38aa55c071b6e2cfe4c8b54b3b2afe",
+    "text": "34 Rabie v Kimberley Munisipaliteit 1991 (4) SA 243 (NC).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ae74c5b0a44e7b58ef46a92ee97ac1a4",
+    "text": "35 IPF Nominees (Pty) Ltd v Nedcor Bank Ltd 2002 (5) SA 101 (W) at 118D–E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "29037a0d48d8603479eb40b4785bce2a",
+    "text": "36 M C C Contracts (Pty) Ltd v Coertzen 1998 (4) SA 1046 (A) at 1049G–I and 1050A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8276f6b9c71b26828d422397c1ebab4",
+    "text": "37 Padongelukkefonds v Van den Berg 1999 (2) SA 876 (O) at 886B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9240263cbd1fcaf6df9b40a389f7da20",
+    "text": "38 Wapnick v Durban City Garage 1984 (2) SA 414 (D) at 423D–424D; Niemand v SA Eiendomsbestuur SWD (Edms) Bpk 1985 (2) SA 710",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "969c41f777c72231ecf6cedc05088b3b",
+    "text": "(C) at 712F–713A; Highpoint Manufacturing (Pty) Limited v Emerson Assets Holdings (Pty) Ltd (unreported, FB case no 3963/2021 dated 6 February 2023) at paragraph [11].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d9bc66ab776b18c41088f02fc516d1fe",
+    "text": "39 Padongelukkefonds v Van den Berg 1999 (2) SA 876 (O) at 887A–D, approved in Pitsiladi v Absa Bank 2007 (4) SA 478 (SE) at paragraphs [10]–[11]. In Highpoint Manufacturing (Pty) Limited v Emerson Assets Holdings (Pty) Ltd (unreported, FB case no 3963/2021 dated 6 February 2023) the court, in dismissing the application, held that the applicant failed to furnish a satisfactory explanation for its failure to issue the notice before the close of pleadings and on a conspectus of all the evidence and facts, that the applicant’s case was clearly without merit (at paragraph [32]).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a677a4fe85f886a3ce8d8d5fbbb2f540",
+    "text": "40 2002 (4) SA 886 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "edfb3440a7d3109a9ffac4742a73f19b",
+    "text": "41 At 889I–J.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c50434d791b3ef9857a0041464dd974b",
+    "text": "42 2007 (4) SA 478 (SE).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "36313d24c6ae2fdb198c168ac7e855a6",
+    "text": "BRIEE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6869bd90f234564bf4a52545c8230b58",
+    "text": "43 At paragraphs [12]–[15]. See also Highpoint Manufacturing (Pty) Limited v Emerson Assets Holdings (Pty) Ltd (unreported, FB case no 3963/2021 dated 6 February 2023) at paragraphs [13] and [31].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f1b1fb885602dcd131ddd9df8496688",
+    "text": "44 Rule 41A(2)(c).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18b3d0580539c02e2b327f3b61c1083d",
+    "text": "45 Rule 41A(2)(d).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3605e800e1552b7ce139bc330f8370c2",
+    "text": "46 Du Raan v Maritz 1973 (4) SA 39 (SWA) at 41A; Page v Rondalia Assurance Corporation of SA Ltd 1974 (3) SA 66 (E) at 67H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fd0e55143e31355535cb870d142ce649",
+    "text": "47 Randbond Investments (Pty) Ltd v FPS (Northern Region) (Pty) Ltd 1992 (2) SA 608 (W) at 614G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a01691254c3edba65e4824df6ee1018a",
+    "text": "48 Montana Steel Corporation (Pty) Ltd v New Zealand Insurance Co (South Africa) Ltd 1975 (4) SA 339 (W) at 344G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "67751b6b74222833c9adfe66f1ba0ae5",
+    "text": "49 Shield Insurance Co Ltd v Zervoudakis 1967 (4) SA 735 (E) at 739B; Swart v Scottish Union & National Insurance Co Ltd 1971 (1) SA 384 (W) at 395H; Geduld Lands Ltd v Uys 1980 (3) SA 335 (T) at 340G–341C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fe17105ec89cffa60416f35a3160722c",
+    "text": "50 This was done in, for example, Soar h/a Rebuilds for Africa v J C Motors 1992 (4) SA 127 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b06f95b66713693b0f8d4cbfd4786fa7",
+    "text": "51 Robertson v Durban Turf Club 1970 (4) SA 649 (N) at 656H–658E; Gross v Commercial Union Assurance Co Ltd 1974 (1) SA 630 (A) at 634H–635A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "74b801df8dfa920f1c4753e89f976fee",
+    "text": "52 Page v Rondalia Assurance Corporation of SA Ltd 1974 (3) SA 66 (E) at 68A–C; Johnson v Dramat 1983 (4) SA 606 (C); Rabie v Kimberley Munisipaliteit 1991 (4) SA 243 (NC) at 250D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "954c4b65235abc97ec55e72fa6286195",
+    "text": "53 IPF Nominees (Pty) Ltd v Nedcor Bank Ltd 2002 (5) SA 101 (W) at 116H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c02fbd935a8fd51f6a8ee77cd776d3c5",
+    "text": "54 Rule 41A(2)(c).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2ae0f2f49f1fb38eb8102fab39cefe5",
+    "text": "55 Rule 41A(2)(d).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "935fbf14736084015c1539e498932f4d",
+    "text": "56 Soundprops 1160 CC v Karlshavn Farm Partnership 1996 (3) SA 1026 (N) at 1032C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ae74c141f03706a0e21e2ac218936c0d",
+    "text": "57 De Polo v Dreyer 1990 (2) SA 290 (W) at 295H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cc2bc2716185ef820f176c32880cf514",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 11:03:49 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 13.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "84ca7368330c5ef5c20d1dc63e15577e",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 13.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

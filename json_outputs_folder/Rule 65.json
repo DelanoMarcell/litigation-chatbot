@@ -1,0 +1,129 @@
+[
+  {
+    "type": "Title",
+    "element_id": "593392261b5eab5b2aa361a31055d5f4",
+    "text": "65 Commissioners of the court",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b82b8b7cfcfaad3691e58c157a4f8c38",
+    "text": "RS 22, 2023, D1 Rule 65-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf",
+      "parent_id": "593392261b5eab5b2aa361a31055d5f4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fbd8529a72b6ea001d8b2b28f6ff7c9d",
+    "text": "Every person duly appointed as a commissioner of any Division of the High Court of South Africa for taking affidavits in any place outside the Republic shall, by virtue of such appointment, become a commissioner of the said High Court, and shall, as such, be entitled to be enrolled by the registrar of every other Division as a commissioner thereof. For the purpose of facilitating such enrolment the registrar of each Division shall transmit the names of those who are appointed as commissioners of such Division, as well as their respective addresses, to the registrars of all the other Divisions: Provided that no person residing within the Republic shall hereafter be appointed as such commissioner.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf",
+      "parent_id": "593392261b5eab5b2aa361a31055d5f4"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64bb9171502500efd6298bc79b9a9add",
+    "text": "[Rule 65 substuted by GN R1157 of 30 October 2020.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf",
+      "parent_id": "593392261b5eab5b2aa361a31055d5f4"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "ae1ab9d1b035826f14b8b5b8efc3a030",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8a971095da5944498e355f065b2de01f",
+    "text": "‘Every person duly appointed.’ Commissioners are appointed by the judge-president of the division of the High Court to which application is made. The application, setting out the applicant’s qualifications and supported by a certificate of fitness, must be submitted to the registrar of the court concerned through the SA Embassy in the country where the applicant lives. The application and the covering letter from the SA ambassador are placed before the judge-president by the registrar. If the applicant is appointed as commissioner of such division of the High Court, the registrar advises the registrars of all other divisions of the High Courts of the appointment together with the commissioner’s address. Such other registrars then enrol the commissioner. The SA Embassy of the country whence the application emanated is also advised of the appointment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf",
+      "parent_id": "ae1ab9d1b035826f14b8b5b8efc3a030"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "88200b86047340f628e1b10e4bd26d4e",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a167fb90baaa039ce63cb672450e2f61",
+    "text": "Downloaded: Mon Feb 17 2025 12:15:16 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 65.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "92d106b28cca99f8eb4f7d247f88903f",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 65.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

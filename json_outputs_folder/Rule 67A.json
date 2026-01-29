@@ -1,0 +1,2151 @@
+[
+  {
+    "type": "Header",
+    "element_id": "bbd02ad1ac92fd201cfa059c279561bc",
+    "text": "67A Costs",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "7ee414557c2a0c5baf9390c2593e9683",
+    "text": "RS 23, 2024, D1 Rule 67A-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0210d5a5ef1ba5487abe876087afcaa9",
+    "text": "(1) Subject to any order of the court awarding costs, the fees and disbursements as between party and party, which may be included in a bill of costs submitted for taxation, shall be —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8558b98edcb6634cbfc7057dd6327c9",
+    "text": "(a) for attorneys, in accordance with the tariff in rule 70;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98b19d2d8850e2e14e26711b5ebe7169",
+    "text": "(b) for attorneys, with a right to appear in the Superior Courts and who appear in a matter, in accordance with rules 69 and 70, where applicable; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e17a5c202943246118aa6c2c18e4c892",
+    "text": "(c) for advocates, in accordance with the tariff in rule 69: Provided that for services rendered by an advocate referred to in section 34(2)(a)(ii) of the Legal Practice Act, 2014 (Act No. 28 of 2014), for work which is ordinarily performed by an attorney, the fee for such work shall be in terms of rule 70.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1524daa7f26bee1189e858b675352dad",
+    "text": "(2) In considering all relevant factors when awarding costs, the court may have regard to —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f05da058b890758f1f2958cd188149a7",
+    "text": "(a) the provisions of rule 41A;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b6b218f515ecfba8d60710565d21e84",
+    "text": "(b) failure by any party or such party’s legal representative to comply with the provisions of rules 30A; 37 and 37A;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "87e5c33234a7332a328a127724801a9f",
+    "text": "(c) unnecessary or prolix drafting, unnecessary annexures and unnecessary procedures followed;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f4871773919e6ac8f9207b59da3b3f1e",
+    "text": "(d) unnecessary time spent in leading evidence, cross examining witnesses and argument;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b614a370ea923717a3c475b027add1b3",
+    "text": "(e) the conduct of the litigation by any party’s legal representative and whether such representative should be ordered to pay such costs in his or her personal capacity; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d3ac090c0ef3c13d35c32b6a81fa7064",
+    "text": "(f) whether the litigation could have been conducted out of the magistrate’s court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9c51a9e84a2afc30d4f6341a1cc11ea9",
+    "text": "(3)(a) A costs order shall indicate the scale in terms of rule 69, under which costs have been granted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6fcce432a1636326ccb57da817d871a3",
+    "text": "(b) In considering the factors to award an appropriate scale of costs, the court may have regard to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "20448aad39ed59ab5657aec0148844e4",
+    "text": "(i) the complexity of the matter; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ea08b3c10dc62f72d0dc7e6ee5c50b9b",
+    "text": "(ii) the value of the claim or importance of the relief sought.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9b28ab31f7f69cfc978c7f3a438527ff",
+    "text": "(c) If the scale in terms of paragraph (a) is not indicated in the order, scale A of rule 69(7) shall apply to the costs that the court has awarded.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "49e0119b9b251b52d7f00854e2457084",
+    "text": "(4) A costs order may upon application by any party indicate —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bad20b8161721902ef5b9b71ad6e9a65",
+    "text": "(a) which portions of the proceedings are deemed urgent; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c48418ea8f68a629418da172ddf384a4",
+    "text": "(b) whether the fees consequent upon the employment of more than one advocate or attorney having right of appearance in the Superior Courts and who appears [sic], are allowed and the scale in terms of rule 69, under which such fees are allowed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "69e734a7596a9d217e41986f4583270a",
+    "text": "(5) The taxation of fees as between party and party shall be effected by the taxing master in accordance with rules 69 and 70 and the applicable tariffs therein.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "781830a3040f1c2fe6ae0818c25395c8",
+    "text": "(6) Where an item in the tariffs set out in rules 69 or 70 requires the taxing master to exercise a discretion in determining the amount of a fee or disbursement to be allowed for such item, the taxing master may have regard to any guidelines recommended by the Legal Practice Council. [Rule 67A inserted by GN R4477 of 8 March 2024.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a8db7be10632b529fa299d0eee65611",
+    "text": "RS 23, 2024, D1 Rule 67A-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "34a078761e8fdd9f8db017cc31b2e983",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "7ee414557c2a0c5baf9390c2593e9683"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0c9d8feae9fbf282e132276ffb706c0",
+    "text": "1 General. Rule 67A came into operation on 12 April 2024. It has to be read with rules 69 and 70, both of which have been 2 amended with effect from 12 April 2024. The rule addresses itself only to awards of costs as between party and party. Its purpose is ‘to permit a court to exercise control over the maximum rate at which counsel’s fees can be recovered under such an award’. The focus is accordingly on assigning a maximum value that may be recovered in respect of the work done in the 3 presentation of the case before court. The rule ‘contains a potentially sophisticated mechanism for placing a value on advocacy. Although it has no direct impact on what counsel will be able to recover from their attorney or client, it has the potential to send a message to the parties about the importance of their case, and how artfully and ethically counsel for the 4 winning side has pressed the case entrusted to them’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a43c2e51d2e8c799075ed7c8c304cc62",
+    "text": "Rule 67A, read with rule 69 (which provides for the tariff of legal practitioners who appear in the superior courts), is not a model of clarity, as will be demonstrated in the notes below and in the notes to rule 69. It will probably increase the workload of judges as well as the costs for parties. This is unsatisfactory. In summary, the position in regard to attorneys with a right to appear in the superior courts and advocates (excluding an advocate referred to in s 34(2)(a)(ii) of the Legal Practice Act 28 of 2014) appears to be as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a8ca487a6d677d5e5041d0c6dab38c37",
+    "text": "(a) the fees for an attorney with a right to appear in the superior courts and who appears in a matter may, presumably in accordance with the tariff in rule 69, be included in a bill of costs submitted for taxation by the taxing master pursuant to a court order on a party and party basis (rules 67A(1)(b) and 69(8));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd11b0eed32ab29460f102170df2b153",
+    "text": "(b) the fees for the first or only advocate (who presumably appears in a matter) may, in accordance with the tariff in rule 69, be included in a bill of costs submitted for taxation by the taxing master pursuant to a court order on a party and party basis (rules 67A(1)(c) and 69(8));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fbaa6879625f4c7094adc7d868a33bcc",
+    "text": "(c) the fees for any additional advocate or attorney with the right of appearance in the superior courts who appears in a matter may, presumably in accordance with the tariff in rule 69, be included in a bill of costs submitted for taxation by the taxing master pursuant to a court order on a party and party basis to that effect made on application to the court (rules 67A(1)(b) and 69(8));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d12502097f291ba6994eb467f1e8739b",
+    "text": "(d) in each instance above the costs order must, however, indicate the scale of fees in terms of rule 69 as determined by the court in the exercise of its discretion, having regard to, amongst other things, the factors set out in rule 67A(3)(b) (rule 67A(3)(a) and (4)(b), and rule 69(7));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0cb5e6186361ffa5df2e3bfb9910f6be",
+    "text": "(e) if the scale of fees is not indicated in the court order, scale A of rule 69(7) shall apply (rule 67A(3)(c));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ef167d397c9197c49f09d514dc9d654b",
+    "text": "(f) the taxation of fees as between party and party must be effected by the taxing master in accordance with rule 69 ‘and the applicable tariffs therein’ (rule 67A(5));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed9e2fa3489e49f8994ebece8c7b6d86",
+    "text": "(g) where an item in the tariffs set out in rule 69 requires the taxing master to exercise a discretion in determining a fee to be allowed for such item, the taxing master may have regard to any guidelines recommended by the Legal Practice Council (rule 67A(6));",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "62b2e93c9d9aed72522654e6f7e9c0ee",
+    "text": "(h) having regard to (a)–(g) above, a distinction must be drawn between the tariff of fees, on the one hand, and the scale of fees, on the other hand;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18a6beda6bb3e480c044723836bb7f94",
+    "text": "(i) the taxing master, so it would appear, has a discretion in determining a fee to be allowed for an item in the tariff, but has to apply the scale in determining the appropriate fee.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1cd0e362bc8c6b077327021dfc3bec61",
+    "text": "RS 24, 2024, D1 Rule 67A-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44a1dd91fde93e70f038c290e34164ec",
+    "text": "Thus, the taxing master has no discretion as far as the scale itself is concerned. The scale is determined by the court in its order. If the scale is not indicated in the order, then scale A must be applied by the taxing master.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "34a078761e8fdd9f8db017cc31b2e983"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "d01d490f505412dad74b97a6f334f735",
+    "text": "However, having regard to the scales of fees in rule 69(7), each of the scales provides for a ‘maximum allowed’. The question",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ecb464866b77fc88959c3ea1246355c6",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "124d6dee57e42d891817ccf03e254980",
+    "text": "Downloaded: Mon Feb 17 2025 09:22:46 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0a998035e801b10fcb33a163848470d8",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 67A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "172c2f92793bfcf69de3968c42540c60",
+    "text": "arises whether it is for the court or the taxing master to decide whether the maximum amount, or a lower amount than the maximum amount, is allowed. The wording of rule 67A(3)(a) seems to provide the answer: the costs order made by the court must only indicate the ‘scale in terms of rule 69, under which costs have been granted’. It does not require of the court also to indicate in its order whether the maximum amount or a lower amount than the maximum one in the scale is allowed. Thus, it seems as if the taxing master retains a discretion to determine what the reasonable amount within the parameters of the scale should be. That would also be the position if scale A is applicable in terms of rule 67A(3)(c), namely where the scale of fees is not indicated in the court order. In the notes that follow reference is made to advocates/counsel only. Pursuant to the substitution of rule 69 referred to above these notes also apply to attorneys having the right to appear in the superior courts, and the notes should therefore be read and applied accordingly. Under the new dispensation a party who is dissatisfied with a ruling of the taxing master as to any item or part of an item in the bill of costs which was objected to by such party, or disallowed mero motu by the taxing master, could still under rule 48 require the taxing master to state a case for the decision of a judge. So too, it is submitted, if a party is dissatisfied by a ruling of the taxing master as to the amount allowed by the taxing master falling under the relevant scale, i e the maximum amount or a lower amount than the maximum one provided for in the relevant scale. But this excludes the scale of fees itself as determined by the court or falling under rule 67A(3)(c). A party who is dissatisfied with the scale of fees itself in the court order will need to apply for leave to appeal against the costs order. If the order does not state the scale of fees under circumstances that would justify the order to be varied as contemplated in rule 42, such an application could, it is submitted, be brought. Otherwise leave to appeal would appear to be the only remedy. There is no indication in rules 67A and 69 that they apply retrospectively. In Mashavha v Enaex Africa (Pty) Ltd it was 5 held that rule 67A, read with rule 69, applies prospectively: ‘12 It seems to me that the 12 April 2024 amendments can only apply prospectively. This means that a costs order under Rule 67A (3) should be made on cases instituted before 12 April 2024 but heard thereafter. The scale nominated in the order will only apply to work done on the matter after 12 April 2024. Take, for example, a motion instituted in 2023, in which written argument was filed in January 2024, and in which oral argument was presented on 15 April 2024. A party and party costs order on the “C” scale is made on 15 April 2024. The “C” scale will only apply to counsel’s preparation and attendances (if they are otherwise recoverable) after 12 April 2024, to the appearance itself, and to any recoverable post-hearing attendances. Fees for work done before 12 April 2024 will be recoverable under the rules applicable to the taxation of counsel’s costs as they were then.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a416ebc7507e146ef9c9813cf2627ed",
+    "text": "RS 24, 2024, D1 Rule 67A-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e6c02694bdca011c5c4aba759f69f29",
+    "text": "13 To hold otherwise would either fail to give effect to the rule, or retrospectively revalue legal services purchased under a 6 different dispensation and structure of expectations. Neither of these alternatives is desirable.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0e44fe69311ee311fd4d08c17f26d40d",
+    "text": "See further the notes to rule 69 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d1050cec376edcfb2c3ab82eaef1d05f",
+    "text": "Subrule (1): ‘Subject to any order of the court awarding costs.’ It has frequently been emphasized that in awarding costs, the court has a discretion to be exercised judicially upon a consideration of the facts in each case, and that in essence the decision is a matter of fairness to both sides. See further the notes in Part D5 s v ‘Award of costs in court’s discretion’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eff7ca8120d306290e58ec9bcf7aca59",
+    "text": "The High Court has an inherent power to regulate the fees claimed by officers of the court, including advocates. In the 7 exercise of its power the court may, for example, direct that an advocate is not entitled to recover any fees from his instructing attorney or client, and allow the advocate a specified period within which written submissions could be delivered as 8 to why the order should not be varied or set aside.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7fc706a2e9461b4608d6cbcc2a7a838c",
+    "text": "‘Between party and party.’ These are the costs that the winner of legal proceedings can properly ask of his opponent. See further Part D5 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ea3f5355b09ede758a6d390dfcfb998b",
+    "text": "Subrule (2): ‘In considering all relevant factors when awarding costs, the court may have regard to.’ In leaving the court a discretion, the law contemplates that it should take into consideration the circumstances of each case, carefully weighing the issues in the case, the conduct of the parties and any other circumstance which may have a bearing on the issue of costs and then make such order as to costs as would be fair and just between the parties. It is undesirable to lay down hard and fast rules for the guidance of courts to which they will be expected to conform in the absence of special circumstances. The word ‘may’ in this subrule accords with the aforesaid principles and, accordingly, means that the court, in the exercise of its discretion in awarding costs, may in addition to other relevant factors, have regard to the factors listed in this subrule, provided they are relevant to the particular case. See further Part D5 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5611ac25357a189d86815830c6eb4d97",
+    "text": "Subrule (2)(a): ‘The provisions of rule 41A.’ See the notes to rule 41A s v ‘Costs’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4bfc178f5454a7017bcddb87c07fc00",
+    "text": "Subrule (2)(b): ‘Failure to comply . . . with the provisions of rules . . . 37 and 37A.’ See rules 37(9)(a) and 37A(16) and the notes thereto above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5bfc4f9a8d5d715305b6f79889aef34b",
+    "text": "Subrule (2)(c): ‘Unnecessary or prolix drafting, unnecessary annexures.’ In Hlazi v Buffalo City Metro Municipality the 10 11 court, referring to Patmore v Patmore and Visser v Visser, stated: 9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0c9fe7da6b8dd062c123f458046802b4",
+    "text": "‘[77] An affidavit containing unnecessary evidence has been held to constitute sufficient grounds to disallow costs to a successful party. Inordinate prolixity in affidavits has been met with displeasure by the courts and rightly so.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2a35b5c061318466a64109cf32b07dd0",
+    "text": "RS 24, 2024, D1 Rule 67A-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aa7b9ed5a1c6f5139a0eccb858b52d5b",
+    "text": "See the notes to rule 6(1) s v ‘The facts upon which the applicant relies for relief’ and the notes to rule 6(5)(c) s v ‘Within 10 days . . . deliver a replying affidavit’ above as to the relevant principles applicable to the contents of affidavits. See also rule 18(4) s v ‘Every pleading shall contain a clear and concise statement’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "68f66b168162de64eebed74aaf8f9211",
+    "text": "Subrule (2)(d): ‘Unnecessary time spent in leading evidence, cross examination and argument.’ See rule 39(24) and the notes thereto above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14f3b295cb1c7ef9ea6ae1483a578ced",
+    "text": "Subrule (2)(e): ‘Whether such representative should be ordered to pay such costs in his or her personal capacity.’ See the notes s v ‘Rule 6. Costs de bonis propriis’ in Part D5 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b5f84d3122532c1978a7948c43c4d65",
+    "text": "Subrule (2)(f): ‘Whether the litigation could have been conducted out of the magistrate’s court.’ It is submitted that the onus is upon the plaintiff to justify his recourse to the more expensive court by satisfying the court that some special 12 In directing reason exists why he should be found to have acted reasonably in bringing the proceedings in the High Court. 13 the fact that the case presents that costs be taxed on the High Court scale, the court may take into consideration 14 that the case is one of public interest, in the sense that the decision will affect considerable difficulties in fact or in law; 15 not only the plaintiff, but the community at large; that the decision in the case is of great importance to the plaintiff in order that he may vindicate his reputation, either where he has been defamed or where his professional or other skill or ability 16 has been brought into question.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f804cdbb86ae620ed47accf7f7931f11",
+    "text": "See further the notes s v ‘Wrong forum’ in Part D5 below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "5e34655df41074fab4e63740f3725ec1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "5d02b06d9b011ac7dc01bcb11d1bb606",
+    "text": "Downloaded: Mon Feb 17 2025 09:22:46 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9ba14ee0959d75f7dec22e0ee6ddc118",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 67A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c7a6ccdc8380615a8ba8ff8503fddd55",
+    "text": "Subrule (3): General. The provisions of this subrule are peremptory. It is submitted that the provisions of the subrule and the scales inhibit the recovery by the successful party of its reasonable expenditure. Why could it not simply have been left in the discretion of the taxing master to determine what fees to allow on taxation for work performed by advocates? Why must the court assume the role of a taxing master? Why must court time be taken up by arguments of what scale is appropriate when the taxing master is best equipped to deal with fees, and the reasonableness thereof, on taxation? There appears to be no 17 rational basis for interference with the well-established role and functions of taxing masters.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "374631dcb93217f619099b19077b830c",
+    "text": "RS 24, 2024, D1 Rule 67A-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1ceee447aa18cf11800a2c3778ef58e8",
+    "text": "Subrule (3)(a): ‘Shall indicate the scale in terms of rule 69.’ Rule 69(7) makes provision for different scales. The scales apply to all advocates, irrespective of seniority. The scales also apply to, for example, a party and party costs order de bonis 18 19 propriis and to an order which is substituted on appeal.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bef64d7f1a98766ba6b5d42068e1247d",
+    "text": "In terms of this subrule the costs order must indicate the scale in terms of rule 69(7) under which costs have been granted but, as pointed out in the notes to rule 67A s v ‘General’ above, not the particular amount in terms of the scale (i e the maximum amount or a lower amount than the maximum one provided for in the scale). In considering the factors to award an appropriate scale of costs, the court may, in terms of subrule (3)(b)(i) and (ii), have regard to:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9861a4a0988de0d0ca7349985c97ae50",
+    "text": "(i) the complexity of the matter; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "14817ffe112725ba8646ef1b34a8d9c6",
+    "text": "(ii) the value of the claim or importance of the relief sought.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "10964d40a38427a9381ee4bcf3a61255",
+    "text": "See further the notes to paragraph (b) of subrule (3) below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae6f81eafe4c7382126b15c0b1569c62",
+    "text": "Subrule (3)(b): ‘The court may have regard to . . . the complexity of the matter . . . and . . . the value of the claim or 20 importance of the relief sought.’ In Mashavha v Enaex Africa (Pty) Ltd Wilson J adopted the following approach to setting an appropriate scale of costs:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6de259b0c10b7fa1400097c3837608a2",
+    "text": "‘11 It seems to me, therefore, that the approach to setting a scale of costs under Rule 67A(3) should be, first, to identify the appropriate scale (“A”, “B” or “C”) in light of the importance, value and complexity of the case, and then consider whether, because of inartful or unethical conduct of the nature identified in Rule 67A(2), that scale should be reduced, such that the successful party should not be able to recover counsel’s costs to the extent that they would otherwise have been entitled.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a7adc8f9c83f66f95431d88a42e4e147",
+    "text": ". . .",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "622708459d347eb2384ec54cc194925b",
+    "text": "14 . . . When setting a scale under the rule, a court will generally be careful to say whether its decision has been influenced only by the nature or complexity of the matter, or also by the way the case was presented to it.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc927b813dae245c60f3e86b7a7294a9",
+    "text": "15 It also seems to me that the rule implies that the power to reduce the scale on which counsel’s costs are awarded should be exercised sparingly, and only where a case for its exercise has been made out. A Judge generally approaches a case on the assumption that it has been competently litigated, that counsel has done what is within their power to ensure substantial compliance with the applicable rules, and that argument and evidence has [sic] taken as long as it needs to take. It is only where there has been a marked departure from these norms that a court should consider lowering the scale on which counsel’s costs are awarded.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d597ecc6be7aadf3161eafe06d7767ce",
+    "text": "16 Likewise, the default position set under the rule is that, in the absence of contrary indication, counsel’s costs will be recovered on scale “A”. Scale “A”, it seems to me, is the appropriate scale on which to make an award unless the application of a higher scale has been justified by careful reference to clearly identified features of the case that mark it out as unusually complex, important or valuable. Run-of-the-mill cases, which must be the vast majority of cases in the High Court, should not attract an order on the B or C scales.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d4699128948b086b10ead5be03e424a3",
+    "text": "17 In the case presently before me, the issues were uncomplicated. The entire case was determined on the bases of jurisdiction and standing. The merits never became relevant. The hearing lasted well under an hour. The case was competently and ethically pursued by all concerned. The “A” scale is plainly applicable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "50ddda8025793411cdb398ac9e06e4d5",
+    "text": "RS 24, 2024, D1 Rule 67A-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2210947a08e2e59b1822eeb34255bcc",
+    "text": "18 Perhaps predictably, both counsel for the first respondent, Enaex, and Mr. Coertze, motivated for an order on the “C” scale. Mr. Alli, who appeared for Enaex, emphasised that Mr. Itzkin, who drew Enaex’s heads but did not appear at the hearing, had asked for an attorney and client costs order in his written submissions. Mr. Alli did not press for that order at the hearing, however, and I would not have been inclined to grant it if he had.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af016c9805e7c43db418617e49ee2f17",
+    "text": "19 The mere fact that punitive costs were sought by the successful party does not mean that a higher scale of counsel’s costs ought to be awarded on the party and party scale. The focus of Rule 67A is not on the conduct of the losing party. It is primarily on the nature of the case, and, secondarily, on the way that the successful party presented it. The misconduct of the unsuccessful party, if any, is irrelevant once a court has declined to award a punitive costs order against them.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "af39318b16d180bd40d67f231d1fc44a",
+    "text": "20 Mr. Alli also submitted that the “C” scale is appropriate because the matter was one of considerable importance to Enaex. There are two reasons why that submission cannot be accepted. The first is that there is no information on the papers that tells me just how important the case really is to Enaex. I am happy to accept that litigation is per s e important to the parties embroiled in it, but the facts necessary to draw the inference that this case is particularly important to Enaex are not on the papers. The second reason is that the importance of a case must be assessed objectively. Whatever Enaex subjectively believes about the case, the facts on the papers suggest that this litigation — a claim brought by a disgruntled ex-employee — is an ordinary business hazard. It is the sort of case that any corporate entity ought at some point to expect to have to fight. Objectively, it is neither important nor unusual.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9dabae864e88a7e2cee2d0f96e1c45d0",
+    "text": "21 Finally, Mr. Alli submitted that the matter was one of some complexity. Perhaps there might have been complex questions had I reached the merits. But the bases on which I dismissed the claim were far from complicated. I accept that a litigant who takes a simple point in limine, such as the absence of standing or the court’s lack of jurisdiction, will generally plead over and deal with the matter on its more complex merits just in case their submissions in limine fail. However, what counts under Rule 67A is the complexity of the argument that actually had to be advanced by counsel, rather than the potential complexity of the case in all its facets. In this case, the argument that had to be advanced was short and straightforward.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ea37acf8a48b484241c83430e3cbe91d",
+    "text": "22 Mr. Coertze also suggested that this is a particularly complex case. For the reasons I have already given, that submission must be rejected.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "488667cb9687f28608adca10b5c5ce7e",
+    "text": "23 Mr. Coertze finally argued that the amount of damages Mr. Mashavha claimed in the event of success (some R27 million), also took the case out of the ordinary. It seems that Mr. Coertze may have overlooked that the claim for damages was never advanced against his client. It follows that, formidable though they no doubt are, Mr. Coertze’s skills, and the maximum that may be recovered to remunerate them, cannot be assessed in light of the size of Mr. Mashavha’s damages claim.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "d972115ea7493d6a22e5aaccdd8ca830",
+    "text": "No order necessary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "88da99e035ea4fffe8c085c0c01a54d2",
+    "text": "24 Over a decade ago, the Constitutional Court expressed “disquiet” at how “counsel’s fees have burgeoned in recent years”. “To say that they have skyrocketed” the Court held, “is no loose metaphor”. “No matter the complexity of the issues” the Court could “find no justification, in a country where disparities are gross and poverty is rife, to countenance appellate advocates charging hundreds of thousands of rands to argue an appeal” (see Camps Bay Ratepayers and Residents Association v Harrison 2012 (11) BCLR 1143 (CC) at paragraph 10).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "d972115ea7493d6a22e5aaccdd8ca830"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "96b6448bb1ebab54f90874a17630bea4",
+    "text": "RS 24, 2024, D1 Rule 67A-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "d972115ea7493d6a22e5aaccdd8ca830"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "05adcb98e08f3f6bbae7584408e24cf3",
+    "text": "25 There is no indication that fee inflation has checked itself since then. Rule 67A is perhaps an acknowledgement of this",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "d972115ea7493d6a22e5aaccdd8ca830"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "76fcb680831fe7e92ad286ce3ae30ac2",
+    "text": "reality. An advocate remunerated at the top end of scale “C” will be able to charge R4500 per hour (R45000 per day under the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "d972115ea7493d6a22e5aaccdd8ca830"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0614d773d22f32ce68655736c7955edc",
+    "text": "ten-hour per day billing system on which the referral bar operates). At the top end of scale “B”, the figures are R3000 per hour",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf",
+      "parent_id": "d972115ea7493d6a22e5aaccdd8ca830"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b29255d30f33bfe6644050a63f7837bb",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bba09e28238c2d6898ba1d8e89a2562b",
+    "text": "Downloaded: Mon Feb 17 2025 09:22:46 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0a998035e801b10fcb33a163848470d8",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 67A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c0afc834714acb39df8a23718d884853",
+    "text": "and R30000 per day. I emphasise that these figures are the maximum that can be recovered on these scales from the losing party for the winning party’s counsel’s fees on the party and party scale. They do not represent what may actually be charged. At the upper end of the commercial bar, counsel’s day fee is often much higher than the top end of scale “C” would allow. As a result, and notwithstanding the Constitutional Court’s strictures, counsel’s fees in contested matters in the High Court regularly run to the “hundreds of thousands of rands”.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12f9bda70229f8f5ee09ea3a66f04581",
+    "text": "26 Twelve years after the judgment in Camps Bay, these levels of remuneration remain unimaginable to all but a tiny minority of the most privileged in our society. They are handsome rewards for long hours of sometimes very hard work in matters that can be forensically challenging. But when Judges are required to assign a maximum recoverable value to counsel’s work, which is what rule 67A now requires us to do, we would do substantial injustice if we were help [sic] inflate fees still further by allowing parties to recover on the “B” and “C” scales in anything but truly important, complex or valuable cases. The “duty of diffidence” that the Constitutional Court urged on the legal profession in Camps Bay (at paragraph 11) ought also, in my view, to be observed by Judges in applying rule 67A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "13aebde28e3ea81a919c1609240d20c0",
+    "text": "27 To do otherwise would surely push the cost of legal services still further beyond the means of the vast majority of South Africans. In a society based on constitutional rules and a supreme law bill of rights underwritten by an independent judiciary, the courts should ideally be accessible to everyone on equal terms. We do not live in a society marked by equal access to justice for all, and there are limits to what a Judge can do to create one. But the least that can be expected of us is to exercise the powers we do have in a manner that avoids making things worse.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4e754e8c94153baf7dbdc7d6b38680ee",
+    "text": "28 In this case, recovery of counsel’s fees on scale “A” is more than sufficient. Given that, under Rule 67A(3)(c), the application of the “A” scale is the effect of my judgment as it currently stands, I decline to make any further order.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "239ff492e758ef427453f031a38c903f",
+    "text": "The approach adopted by Wilson J is not free from difficulties, for the following reasons, amongst others:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6fe8d0e1ee793263543e08ad676236cd",
+    "text": "(a) The factors set out in rule 67A(2) are not factors to be taken into account by the court in determining an appropriate scale of fees in terms of rule 67A(3). Thus, the ‘inartful or unethical conduct’ referred to in paragraph 11 of the judgment 21 is irrelevant as far as an appropriate scale is concerned. This is recognized in paragraph 19 of the judgment.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7232972bebba6df8a1153d9dc41a32e6",
+    "text": "(b) It is not correct, as held in paragraph 16 of the judgment, that the default position is that fees will be recovered on scale ‘A’ unless a higher scale has been justified. There is simply no indication in rules 67A and 69 to that effect. If that is the position, as Wilson J would have it, a court would not be exercising its discretion in determining that scale ‘A’ is the",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d223dc96bd2cf3a130a51517495c58fd",
+    "text": "RS 24, 2024, D1 Rule 67A-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a1fb584218d8cc911634c4ad7625d92",
+    "text": "appropriate scale. In terms of rule 67A(3)(c) scale ‘A’ is the default scale only if the costs order does not indicate the 22 scale of costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "555502c3362b2f6743647e9f43cd4b1b",
+    "text": "(c) The importance of the relief claimed (i e not the ‘importance of the case’) has both a subjective and an objective element. To have applied only an objective test in paragraph 20 of the judgment appears to be incorrect under circumstances where the parties were not invited to place facts before the court in order to properly consider the subjective (or objective) position.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2bb5b64d6e219055fbf02570e6937f89",
+    "text": "(d) The value of the claim, and not whether it is recovered, is a relevant factor in terms of rule 67A(3)(b)(ii). Thus, the approach in paragraph 23 of the judgment appears to be incorrect.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "082dd643cd39832cadb0872d939274b9",
+    "text": "(e) Wilson J was not called upon to make a value judgment of a general nature concerning counsel’s fees. That was simply 23 not an issue in the case before him. Paragraphs 24–27 are accordingly imprudent and inappropriate or, at best, constitute obiter dicta.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "65045d8508f2a3c206afbbaf8b000f75",
+    "text": "Subrule (4): ‘Upon application.’ It is submitted that this does not necessarily have to be a formal application as defined in rule 1 but could be an application made orally from the bar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "206ca142234af682992762248763e071",
+    "text": "The effect of this subrule is, ‘notionally, that a different scale could be assigned to the services of each counsel whose fees 24 are allowed under the rule’.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "44beb0950c9a25ea80f231d7bc183fb9",
+    "text": "Subrule (4)(a): ‘Which portions of the record are deemed urgent.’ In this regard rule 70(6) provides that the fees in sections A, B, C and D of rule 70 shall be increased by 15% in accordance with any costs order made in terms of this subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08990064f3b68a9c2175f4df1ce65a1c",
+    "text": "Subrule (4)(b): ‘Who appears.’ See the notes to rule 69 s v ‘Who appears’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3b91d5ecb61f3e601d80b42e12ff6fcc",
+    "text": "Subrule (5): ‘The taxation of fees as between party and party shall be effected by the taxing master.’ Under the previous dispensation the taxing master had jurisdiction to determine not only the quantum of counsel’s fees but also whether, 25 in the particular circumstances of the case, counsel’s fees should be allowed at all. Thus, the question whether counsel had 26 been prematurely briefed in a case was pre-eminently a matter for the taxing master to decide. It would appear that under the new dispensation it is for the court to decide whether counsel’s fees should be allowed, and if allowed, to indicate in its order at what scale.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9af889e182fa322583247a2330621d8e",
+    "text": "Subrule (6): ‘Any guidelines recommended by the Legal Practice Council.’ Guidelines concerning professional fees, tariffs and allowances are set out in a memorandum published by the Legal Practice Council. The memorandum is accessible at https://lpc.org.za/professional-fees-tariffs-and-allowances.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b9033009821a8e5d48c94ebfd6dd000",
+    "text": "1 GN R4477 of 8 March 2024 (GG 502720 of 8 March 2024).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3684a1699e39d01d20f8e5c0f56e7099",
+    "text": "[LRINT",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "303bc47eed5dab10237c59b60f7b81d0",
+    "text": "2 GN R4477 of 8 March 2024 (GG 502720 of 8 March 2024).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "90263aef3ad32428e0a98a73934dddb0",
+    "text": "3 Mashavha v Enaex Africa (Pty) Ltd (unreported, GJ case no 2022/18404 dated 22 April 2024) at paragraph 5.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e17836600a470b6b9897e8a025e20dd",
+    "text": "4 Mashavha v Enaex Africa (Pty) Ltd (unreported, GJ case no 2022/18404 dated 22 April 2024) at paragraph 14.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0e181c96cf34c552fb168dd21a3eb1c",
+    "text": "5 Unreported, GJ case no 2022/18404 dated 22 April 2024. See also, for example, Buhle Waste (Pty) Limited v MEC of Health Gauteng Province (unreported, GJ case no 2023/102560 dated 22 May 2024) at paragraph 25; Democratic Alliance v Speaker of the Knysna Municipal Council (unreported, WCC case nos 054247/2023; 4441/2023 dated 28 May 2024) at paragraph 40; Economic Freedom Fighters v Speaker of the National Assembly (unreported, WCC case no 9873/21 dated 10 June 2024) at paragraph [82]; T.P.N v Road Accident Fund (unreported, KZD case no 11807/2017 dated 11 June 2024) at paragraph [44].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1a2030ad1c013fb9dbd81982b0e3e437",
+    "text": "6 It is to be noted that the example in paragraph 12 of the judgment appears to be incorrect to the extent that it purports to apply the ‘C’ scale to ‘the appearance’ on 15 April 2024 (i e the first and only day of appearance for oral argument) itself. There is no provision in the tariff of fees under rule 69(8) that the scales of fees provided for in rule 69(7) apply to the first day of appearance in court for an opposed application. For the first day, item 1(b)(ii) of the tariff of fees allows ‘a day fee inclusive of preparation, consultation and appearance on the same day’. Thus, the scales which relate to work done ‘per quarter of an hour or part thereof’ do not apply to the first day of appearance.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "17f0c8f40f656ab9a9617b2258e1b926",
+    "text": "7 Tasima (Pty) Ltd v Department of Transport 2013 (4) SA 134 (GP) at 152D–E; AD v MEC for Health and Social Development, Western Cape 2017 (5) SA 134 (WCC) at 139J–140A. See also C van der Merwe ‘May the Bar Council interfere in the taxation of a party-and-party bill of costs?’ 2018 (October) De Rebus 56.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9a51ed4bf1b8d58cf2c43f960d166aad",
+    "text": "8 Such an order was made in Tasima (Pty) Ltd v Department of Transport 2013 Road Accident Fund 2015 SA 178 (GP).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a3c6b35fc53006d522a17a2a56fda2b7",
+    "text": "(4)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "071a9ca12ef129f903989a54adda9566",
+    "text": "(4)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "be47a2e257aa24a5ebe9e2d314d6f529",
+    "text": "SA 134 (GP)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "15f2ea9c6fded9c81ffe5533c20289f3",
+    "text": "at 152F and 153A-C. See also Ketsekele v",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b72646ed31687aa68b690b1d82a805f6",
+    "text": "9 2023 (6) SA 464 (ECEL).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5e898a6462aa05b5353cd146cb532c6e",
+    "text": "10 1997 (4) SA 785 (W) at 787H–788H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "73a7b2b19e643b67ef615d3bacc1d970",
+    "text": "11 1992 (4) SA 530 (SE) at 531.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ae39f5b07fa9c374b13bc98c3494218f",
+    "text": "12 Hunt v Campbell 1945 WLD 1 at 6; De Winter v Ajmeri Properties and Investments 1957 (2) SA 297 (D) at 299A; Rajah v Manning 1959",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e44755ee880c302e7a048dfeb0710421",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "0beb62de363af38533619da5e423f1f8",
+    "text": "Downloaded: Mon Feb 17 2025 09:22:46 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "9ba14ee0959d75f7dec22e0ee6ddc118",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 67A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "861671323f09e0a0d518536aecc0bb1f",
+    "text": "(1) SA 834 (N) at 835H–836A; Palmer v Goldberg 1961 (4) SA 781 (N) at 785G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6d664eb79f46a97ff2cd544929f0458",
+    "text": "13 Though most of the cases cited in the succeeding footnotes deal with the situation where the amount of the judgment (but not the amount of the claim) is within the jurisdiction of the magistrate’s court, it is submitted that they apply also to the situation envisaged by the subrule where the amount of the claim falls within the jurisdiction of the magistrate’s court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1a21927e3b522f2cd722393c5c594f3d",
+    "text": "14 Grobbelaar v Kapotes 1927 TPD 195 at 198; White v Saker & Co 1938 WLD 173; Hunt v Campbell 1945 WLD 1 at 5; Milk Traders’ Trustee Co (Pty) Ltd v Levin 1953 (3) SA 678 (W) at 688F; Champion v Said et Uxor 1958 (1) SA 360 (N) at 362B; Ramsuran v Yorkshire Insurance Co Ltd 1965 (2) SA 263 (D) at 265B; Keyter v De Wet NO 1967 (1) SA 25 (O) at 27H–28A; Jones v Union and South West Insurance Co Ltd 1970 (2) SA 768 (E) at 769H–770A; M NO v M 1991 (4) SA 587 (D) at 603A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "527de88faaf62752425cd18de003dd1b",
+    "text": "15 See the preceding footnote and also Manamela v Minister of Justice 1960 (2) SA 395 (A) at 404E; Keyter v De Wet NO 1967 (1) SA 25 (O) at 27H; Dladla v Minister of Police 1973 (2) SA 714 (W) at 720F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d191bddd54c2581bd0afe35bdec64c2",
+    "text": "16 Robertson & Stewart v Edwards 1908 EDC 186; Franks v Muller and Schonken 1929 TPD 464 at 476; Morkel v Dingley 1944 NPD 18; Gelb v Hawkins 1960 (3) SA 687 (A) at 694B; Keyter v De Wet NO 1967 (1) SA 25 (O) at 27G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2379e5ff9e053f5168ebd46a0f35af77",
+    "text": "17 In practice taxing masters have always applied the common-law rule that the fee to be allowed to counsel on a party and party taxation is a matter within the discretion of the taxing master (see Malan v Witbank Colliery Ltd 1911 TPD 123 at 125; and see, for example, the reviews of taxation reported in Weber Stephen Products Co v Alrite Engineering (Pty) Ltd 1990 (3) SA 962 (T); Aloes Executive Cars (Pty) Ltd v Motorland (Pty) Ltd 1990 (4) SA 587 (T); Society of Advocates of KwaZulu-Natal v Levin 2015 (6) SA 50 (KZP)).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "18a6524645d1a90b3d2f65009ae13734",
+    "text": "18 See the order in L.L v A.J.M (unreported, GP case no 014357 dated 7 June 2024).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d49764f119fb59c957771acc855f4de9",
+    "text": "19 See, for example, the order of the majority of the full court made on appeal in Crossmoor Transport (Pty) Ltd v Closetrade 200074 CC t/a Ilcor Engineering Services (unreported, GJ case no A2023/053951 dated 4 September 2024) at paragraph [49].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dcfabdbb305b57ffb617218b147cf734",
+    "text": "20 Unreported, GJ case no 2022/18404 dated 22 April 2024.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6acfe8d3675a87c9865160a477c2755e",
+    "text": "21 See also T.P.N v Road Accident Fund (unreported, KZD case no 11807/2017 dated 11 June 2024) where the following is stated:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "142a9163234a33acd6472f29fb858c56",
+    "text": "‘[43] . . . It would appear that the factors to be considered when determining the scale involve three considerations, being the complexity of the matter, the value of the claim, and the importance thereof.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "32f876acd5a399176be56a43976b1b29",
+    "text": "22 See also T.P.N v Road Accident Fund (unreported, KZD case no 11807/2017 dated 11 June 2024) at paragraph [43].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dba1cd3db679527a5282e84516da435c",
+    "text": "1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5b7ea7e656427a429340f1e348175c73",
+    "text": "23 Afriforum NPC v Nelson Mandela Foundation Trust 2023 (4) SA 1 (SCA) at paragraphs [70]–[71].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7191391f2a06da00447096a946b27d62",
+    "text": "24 Mashavha v Enaex Africa (Pty) Ltd (unreported, GJ case no 2022/18404 dated 22 April 2024) at paragraph 9.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c256fe55adb9eede9434e70e8e3e8ae2",
+    "text": "25 Rosenberg v Prima Toy Holders (Pty) Ltd 1972 (3) SA 791 (C) at 794B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9f4dde555b899add83acdd5df2248408",
+    "text": "26 Rosenberg v Prima Toy Holders (Pty) Ltd 1972 (3) SA 791 (C) at 794G. In Baars v Near East Rand Darts Association 1993 (3) SA 171",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4821fe0738ee9ab85971242cc46e2a87",
+    "text": "(W) where an application had become unopposed at a late stage when counsel had already been briefed for the hearing of the application as an opposed matter, it was held (at 175G–J) that the taxing master had erred in regarding the matter as unopposed from the point of view of assessing the proper fee which counsel was entitled to charge.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3e57ea75bf860b229f8201bd4f1a9cc3",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b43452f364f180025e9545a986d9ca9f",
+    "text": "Downloaded: Mon Feb 17 2025 09:22:46 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 67A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "0a998035e801b10fcb33a163848470d8",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 67A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

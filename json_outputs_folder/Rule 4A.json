@@ -1,0 +1,1012 @@
+[
+  {
+    "type": "Title",
+    "element_id": "85a7c0b9f4629f54e15df41e3d87b751",
+    "text": "4A Delivery of documents and notices",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "233f16a06d0139469795b1f6326d79e1",
+    "text": "RS 22, 2023, D1 Rule 4A-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eb6a6646ec30904403a39ccb49c81ce6",
+    "text": "(1) Service of all subsequent documents and notices, not falling under rule 4(1)(a), in any proceedings on any other party to the litigation may be effected by one or more of the following manners to the address or addresses provided by that party under rules 6(5)(b), 6(5)(d)(i), 17(3), 19(3) or 34(8), by —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "000c4871bbc2fe866753ab5661cd7583",
+    "text": "(a) hand at the physical address for service provided, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36b7ce954f3335a673c86c6de289cf31",
+    "text": "(b) registered post to the postal address provided, or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c19ab4d569960bb2dbe504434f9280c6",
+    "text": "(c) facsimile or electronic mail to the respective addresses provided.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2db2f617461dcaa26592d0dab8daaf63",
+    "text": "(2) An address for service, postal address, facsimile address or electronic address mentioned in subrule (1) may be changed by the delivery of notice of a new address and thereafter service may be effected as provided for in that subrule at such new address.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "88528c2506073e43fac0e188c88e399c",
+    "text": "(3) Chapter III, Part 2 of the Electronic Communications and Transactions Act, 2002 (Act 25 of 2002) is applicable to service by facsimile or electronic mail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7d4098e748c298f85e9dd36ab28ec99",
+    "text": "(4) Service under this rule need not be effected through the Sheriff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b1395802612f10ac3b185557b88f8181",
+    "text": "(5) The filing with the registrar of originals of documents and notices referred to in this rule shall not be done by way of facsimile or electronic mail.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "86d45720f2ccfe75728b0444a9d0683b",
+    "text": "[Rule 4A inserted by GN R464 of 22 June 2012.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "85a7c0b9f4629f54e15df41e3d87b751"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "b0a652d36b383194f64d6638e10db3ef",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4824addaa74c209cd0d47589b45a337d",
+    "text": "Subrule (1): ‘Not falling under rule 4(1)(a).’ Rule 4(1)(a) provides that the service of any process of the court directed to the sheriff and, subject to the provisions of paragraph (aA) thereof (i e where the person to be served with any document initiating application proceedings is already represented by an attorney of record, such document may be served upon such attorney by the party initiating such proceedings), any document initiating application proceedings, must be effected by the sheriff in one or other of the manners set out in paragraph (a)(i)–(ix) of the rule. The manner provided for does not include service by means of facsimile or electronic mail. See further the notes to rule 4(1)(a) above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "b0a652d36b383194f64d6638e10db3ef"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "433c8027622c95400c731ba06d45bbfb",
+    "text": "Despite the position set out in the preceding paragraph, the Commissioner of the Companies and Intellectual Property 1 Commission (‘CIPC’) issued the following ‘Practice Note’ on 7 April 2021:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "b0a652d36b383194f64d6638e10db3ef"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1d3cf29ddb5cae8d55f6d58db01d7160",
+    "text": "‘SERVICE OF SUBPOENAS AND OTHER CORPORATE LEGAL COURT DOCUMENTS ON THE CIPC",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d45bfa6a40da55524ba1d2560bcb99f8",
+    "text": "The COVID-19 pandemic has changed many things within the South African economy, and none more so than the way of doing business. In observing the social distancing protocols at all times, and ensuring that all employees of the dtic campus is protected as much as possible, access to the campus has been limited to staff only. No member of the public is allowed access to the dtic campus until further notice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9eecd980061d63042447e49164e191dc",
+    "text": "The process of service of corporate legal documentation on the CIPC, has been simplified, to allow for electronic service via corporateleaalservices@cipc.co.za. In some instances, it is required for legal documentation such as notices of motion, subpoena’s and court orders, to be served on the CIPC, especially where the CIPC is an interested party, or certain action is to be taken by the Commission.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a5dad7b020058f23199dd6c33d93b3f3",
+    "text": "Uniform Rules of Court, specifically Rule 4 and 4A, describes [sic] the requirements of service of legal documents in detail and allows for the service of documents by way of electronic means. Annexure 3, Table CR3 of the Companies Act, 2008 details the methods",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "abd81665c6839edadc9e9e7e0de58d5c",
+    "text": "RS 22, 2023, D1 Rule 4A-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "175f6c532610c032ef3ac6685e69f0cd",
+    "text": "and times for delivery of documents and also provides for the service thereof by electronic means.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "61535c1b7127d6a6b21f69f1edbf1eec",
+    "text": "ALL corporate legal documents, where the CIPC is an interested party or where certain action is required to be taken by the CIPC, in terms of a court order or SAPS issued subpoena, MUST be served electronically via corporateleaalservices@cipc.co.za. No electronic service of legal documents on CIPC officials via personal e-mail boxes will be accepted as validly served.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "df5c08a602836745eb0bf3f23da58f14",
+    "text": "Corporate legal documents must comply with the following:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d62e6a412a332fedb052782c38f3773e",
+    "text": "• All documentation must be signed and stamped by the Registrar of the relevant court;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "73206270520acc269a462a0809cbe0a2",
+    "text": "• Enough time must be provided for CIPC to respond to subpoenas and implement court / Companies Tribunal orders, in terms of Rule 4 of the Uniform Rules of Court, which advocates a “reasonable time” period;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b7d29156c0121cff5fc979c2b6e76c8b",
+    "text": "• Only information that the CIPC is privy to and in a position to provide, should be requested;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "88221c6d3f6d42bde130955414e93e83",
+    "text": "• Legal documents must contain the correct entity name and registration number, to ensure valid implementation;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2950f773887e9e067530694b4f72d1b7",
+    "text": "• Costs for providing documentary evidence (subpoenas), and/or giving evidence at a court hearing (in person), must be tendered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ba0b124c77da4b29ef3a50a41e36a905",
+    "text": "(Signed) Adv Rory Voller Commissioner: CIPC 7 April 2021’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d094f9f6d339d476c355d1216cec7da8",
+    "text": "The legal status and enforceability of the aforesaid document in so far as it is in conflict with the provisions of rule 4(1)(a) relating to the manner of service of process and documents initiating application proceedings is questionable.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "31bde4defd3cd86e6f0e4501db996f74",
+    "text": "‘To the address or addresses provided by that party under rules 6(5)(b), 6(5)(d)(i), 16(2)(b), 17(3), 19(3) or 34(8).’ The list inexplicably does not include rules 43(2)(b), 46A(4)(a)(iii) and (iv), 46A(6)(d)(ii) and (iii), 53(5)(a) and 58(5A). Rule 4A accordingly does not apply to these rules.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "713b686c34a185a40e6b18b51394e60b",
+    "text": "Subrule (3): ‘Chapter III, Part 2 of the Electronic Communications and Transactions Act . . . 25 of 2002.’ Part 2 of Chapter III of Act 25 of 2002, in ss 21 to 26 thereof, deals with the communication of data messages. It reads as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "1d3cf29ddb5cae8d55f6d58db01d7160"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6e789e35b2405b8d8475dff2dffea28b",
+    "text": "‘Part 2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "cba00fe83bdc185f276a97c0aff0d1ac",
+    "text": "Communication of data messages (ss 21–26)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "2f896da64c3f25f0e5b109cf6ecb75d1",
+    "text": "21 Variation by agreement between parties",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bb90edb059e242d84d06e23526eb233c",
+    "text": "This Part only applies if the parties involved in generating, sending, receiving, storing or otherwise processing data messages have not reached agreement on the issues provided for therein.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "2f896da64c3f25f0e5b109cf6ecb75d1"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "572efe1395e51187afadf8689908b485",
+    "text": "22 Formation and validity of agreements",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f30fb592fcc969031b5177e3d67e12fe",
+    "text": "(1) An agreement is not without legal force and effect merely because it was concluded partly or in whole by means of data messages.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "572efe1395e51187afadf8689908b485"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "85965e886d84cfc033ad7594a7ec4192",
+    "text": "(2) An agreement concluded between parties by means of data messages is concluded at the time when and place where the acceptance of the offer was received by the offeror.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "572efe1395e51187afadf8689908b485"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b254648b125f5eada2bc464a660d4bce",
+    "text": "RS 22, 2023, D1 Rule 4A-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "572efe1395e51187afadf8689908b485"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "c72af1fa7cdb97e8e7f89b42ec662000",
+    "text": "23 Time and place of communications, dispatch and receipt",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "35579bfe5eef2690866c1e3762900b2b",
+    "text": "A data message —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "c72af1fa7cdb97e8e7f89b42ec662000"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8d9da82b2a0933a3cd28cdcbbac20498",
+    "text": "(a) used in the conclusion or performance of an agreement must be regarded as having been sent by the originator when",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "c72af1fa7cdb97e8e7f89b42ec662000"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ab865ea6776b844be0bcec831db1a07d",
+    "text": "it enters an information system outside the control of the originator or, if the originator and addressee are in the same",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "c72af1fa7cdb97e8e7f89b42ec662000"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e663868cae56e4965b04dc67e665d308",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b314e4866ef6d3bf68a3029cc10f6961",
+    "text": "Downloaded: Mon Feb 17 2025 11:13:51 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "22a05a3b7ef73d4bc576010b1279a2ef",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4A.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c1cfb87cd5de132cd329dd07e4829559",
+    "text": "information system, when it is capable of being retrieved by the addressee;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e84fd8e2e8a0d037c1b94c66898999bf",
+    "text": "(b) must be regarded as having been received by the addressee when the complete data message enters an information system designated or used for that purpose by the addressee and is capable of being retrieved and processed by the addressee; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e8259acf4c084646a739b932e651800",
+    "text": "(c) must be regarded as having been sent from the originator’s usual place of business or residence and as having been received at the addressee’s usual place of business or residence.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "afa72f88d2d94954c6d64b05eb4bb49e",
+    "text": "24 Expression of intent or other statement",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d046058b9e2c9900b35b67c37868ce4c",
+    "text": "As between the originator and the addressee of a data message an expression of intent or other statement is not without legal force and effect merely on the grounds that —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "afa72f88d2d94954c6d64b05eb4bb49e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "11012630d50595bdcea4c304f1d02e4a",
+    "text": "(a) it is in the form of a data message; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "afa72f88d2d94954c6d64b05eb4bb49e"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e8e4b781d1e62a0b7a39a6db855a46ee",
+    "text": "(b) it is not evidenced by an electronic signature but by other means from which such person’s intent or other statement can be inferred.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "afa72f88d2d94954c6d64b05eb4bb49e"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "4f730f6a9a667a91310837d7179cb1a8",
+    "text": "25 Attribution of data messages to originator",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3cbb2a1f1b278e53e684088cfab46ea4",
+    "text": "A data message is that of the originator if it was sent by —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "4f730f6a9a667a91310837d7179cb1a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa7ecc2ada19863fb1e6c3affb672d04",
+    "text": "(a) the originator personally;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "4f730f6a9a667a91310837d7179cb1a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7963c87c6853c02011d18f2dd8461157",
+    "text": "(b) a person who had authority to act on behalf of the originator in respect of that data message; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "4f730f6a9a667a91310837d7179cb1a8"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "525f6d6d164bee50dd739141f17582b2",
+    "text": "(c) an information system programmed by or on behalf of the originator to operate automatically unless it is proved that the information system did not properly execute such programming.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "4f730f6a9a667a91310837d7179cb1a8"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "6a1648c0adbe000f74de730b9100c696",
+    "text": "26 Acknowledgement of receipt of data message",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3631b19f5043a874e6f0af6b7b828bcb",
+    "text": "(1) An acknowledgement of receipt of a data message is not necessary to give legal effect to that message.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e584242e8ae6b72689e6d3eb752b2a07",
+    "text": "(2) An acknowledgement of receipt may be given by —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "153a531e89f6a63b1cc975bd1bf2834e",
+    "text": "(a) any communication by the addressee, whether automated or otherwise; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "96adcfebc3b7e32e77a6ba826bfc37c8",
+    "text": "(b) any conduct of the addressee, sufficient to indicate to the originator that the data message has been received.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d2eacbf1e7fe9ad077ba393b798d7e9",
+    "text": "RS 22, 2023, D1 Rule 4A-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "82626399f15e87e0b3679aada053799d",
+    "text": "[Blank as per print]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06cea333ebc4a3035762e83cdda7a476",
+    "text": "1 Practice Note 1 of 2021 under GN 439 in GG 44593 of 21 May 2021.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf",
+      "parent_id": "6a1648c0adbe000f74de730b9100c696"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "cb15cec9c9ea4d7a5d4541b17786d5bc",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "8469181ba917e21872e1e84a5ad24177",
+    "text": "Downloaded: Mon Feb 17 2025 11:13:51 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 4A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "83efe444217f2ba2ffd65ec5d84dc763",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 4A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

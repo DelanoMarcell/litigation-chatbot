@@ -1,0 +1,386 @@
+[
+  {
+    "type": "Title",
+    "element_id": "31c51d996aad6e7e1a5c2153264e369a",
+    "text": "68A Tariff of fees and allowances for intermediaries in proceedings other than criminal proceedings",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01782c27b80996bc5a0465152c865bbc",
+    "text": "RS 22, 2023, D1 Rule 68A-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e178bc998343c25fb22e9e78bb2807d",
+    "text": "The tariff of fees and allowances for intermediaries appointed in terms of section 37A(1) of the Act appearing at proceedings other than criminal proceedings, and who are not in the full-time employment of the State shall be as follows:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03fe92763a02d567d01fe8ed780d8392",
+    "text": "(1) Fee for appearing in court",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb5dab3b91e8981898f719abf4fd00cb",
+    "text": "(a) An intermediary appointed to render assistance to a witness in proceedings other than criminal proceedings, shall be entitled, for appearing in court, including time spent in court: R180.00 per hour or part thereof, subject to a maximum of R1 440.00 per day.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "efbad878eea7c35060e122c2ca27e691",
+    "text": "(b) The fee contemplated in paragraph (a) shall be calculated from the beginning of the hour at which the intermediary is required to appear in court to the end of the hour at which the intermediary is excused from court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1707ec76f592e8e334ef9136cd4e7d9e",
+    "text": "(2) Transport, travelling and parking or toll allowances",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f61352c910145e516a9ab10e3312514",
+    "text": "An intermediary, appointed to render assistance to a witness in proceedings other than criminal proceedings, shall be entitled-",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "40ad5d0b978ec10165649f0ab18d0a77",
+    "text": "(a) to the following transport and travelling expenses for each journey actually and necessarily taken between the court house and his or her residence or place of business:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4e3eb910f57d327c34d48e50f73eaa38",
+    "text": "(i) For use of public transport, an amount equal to the fare for the least expensive transport along the shortest route; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53ba9f8f4860841be6407192c3355431",
+    "text": "(ii) for use of private transport, an allowance as prescribed from time to time for the Public Service: Provided that the maximum amount allowed shall not exceed that permitted for a 1551–1750 cc petrol or diesel engine capacity; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9c0f3dd3c418bba744b587fc630ad36e",
+    "text": "(b) upon satisfactory proof having been produced to the Registrar of the Court or Taxing Master, to the reimbursement for his or her reasonable actual expenses incurred in respect of parking and toll fees:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "158cbe02d81301b67626aed8ac868f07",
+    "text": "Provided that, for an intermediary who resides and carries on business at different physical locations, the transport or travelling allowance shall be calculated from the place of residence or place of business, whichever is closer to the court house, or such other place to which the intermediary is summoned, as the court may direct in terms of section 37A(3).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97ac0f667b9b14a0b99845e97043200c",
+    "text": "(3) Subsistence allowance",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6639eaae3a9c9d8e7ad04b04804c34a4",
+    "text": "(a) Subject to paragraphs (b), (c) and (d), an intermediary who is, for the purpose of rendering intermediary services to a witness, absent from his or her residence and-",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8434d730c98c2563ac7990156e5c513",
+    "text": "(i) is obliged to be absent from his or her residence for 24 hours or longer, shall be entitled to the allowances as prescribed from time to time for the Public Service; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3f6a09581dc25ad94b8f3fe50c9dd671",
+    "text": "(ii) is obliged to be absent from his or her residence for less than 24 hours, shall be entitled to the reasonable actual expenses incurred:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "185a4ac3f49e6760ee8d3e680d988430",
+    "text": "Provided that the claim is accompanied by the necessary corroborative documents to support the expenses, as prescribed from time to time for the Public Service, or to the satisfaction of the Registrar of the Court or Taxing Master.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3c778168efcf6a97c0771262e6bb8e46",
+    "text": "RS 22, 2023, D1 Rule 68A-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "384425c4d967cca4f1d26706a5fcc56c",
+    "text": "(b) The allowances provided for in paragraph (a) are payable for the full period for which the intermediary is absent from his or her residence for purposes of appearing in court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd6187ba19fc53c472a429993e102374",
+    "text": "(c) In calculating the period of absence for purposes of paragraph (a), an intermediary is allowed 24 hours for each distance of 600 kilometres or part thereof travelled.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "815380b99051c068f205ac70ff4d867f",
+    "text": "(d) The allowance provided for in paragraph (a) is not payable if the fare of an intermediary includes the cost of meals and accommodation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7c111719144afcb72389ca711a9db5ab",
+    "text": "[Rule 68A inserted by GN R2413 of 26 August 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf",
+      "parent_id": "31c51d996aad6e7e1a5c2153264e369a"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "37eff07f599170cfd67591c55ef070ef",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "ade7a0de2f1d68f4980eae194d2d2df8",
+    "text": "Downloaded: Mon Feb 17 2025 12:17:19 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 68A.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "95e677dcdb84d508b63f4008ef2af304",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 68A.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

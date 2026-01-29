@@ -1,0 +1,1637 @@
+[
+  {
+    "type": "Title",
+    "element_id": "ab454b4f20ace17f3d6563f1492d26b4",
+    "text": "40 Legal assistance to indigent persons",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Header",
+    "element_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205",
+    "text": "RS 22, 2023, D1 Rule 40-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5a368127684c1d8c0f887039af51a0e3",
+    "text": "[Heading substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ad50c1b0ad52f332cbfef6cdc3af9b6",
+    "text": "(1)(a) A natural person who desires to bring or defend proceedings, as an indigent litigant and who does not qualify for legal aid, or who requires to continue as an indigent litigant in an action or defended action already instituted, may apply to the registrar who, if it appears to him or her that such person is as contemplated by paragraph (a) of subrule (2), shall refer such person to an attorney and an advocate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f723b07b5ee14fcde35996522725f5f7",
+    "text": "(aA) Where a person applies to continue as an indigent litigant in an action or defence already instituted, such person may do so by proceeding in terms of the provisions of this rule but in addition, shall —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cca96169a7e1fce615009f57ea739676",
+    "text": "(i) set out the alteration in his or her circumstances which renders it necessary to continue the action or defence as an indigent litigant; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97f4eb982147e789259e602aaccf18f3",
+    "text": "(ii) give notice of the application to the opposite party.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0e5efa3418f2e0d56c309b2fd1b59ebd",
+    "text": "(aB) In the event of the opposite party objecting to the granting of the application, the applicant must apply formally to the court after giving proper notice to the opposite party.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0570f3ae1a79cfe91477b7c04da54937",
+    "text": "(b) The attorney referred to in paragraph (a) of subrule (1) shall inquire into such person’s means and the merits of his or her cause and upon being satisfied that the matter is one in which such attorney may properly act in assisting the indigent litigant, such attorney shall request the registrar to nominate an advocate who is willing and able to act, and upon being so nominated such advocate shall act therein.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3e58ccaf79976d7c1004168f3f6172b4",
+    "text": "(c) Should such attorney or advocate thereafter become unable so to act, the registrar may, upon request, nominate another practitioner to act in such attorney’s or advocate’s stead.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4dd4ec0666e1564a7ff9c2ea69d66be2",
+    "text": "[Subrule (1) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1f77d1217c0d634d3530d49f74d35c34",
+    "text": "(2) If such proceedings are instituted the following must be lodged with the registrar on behalf of such person —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "129901fb00b8d8ea829db6fbd2351b38",
+    "text": "(a) an affidavit setting forth fully his or her financial position and stating that except for household goods, wearing apparel and tools of trade, such person is not possessed of property to the amount of R640 000 and will not be able within a reasonable time to provide such sum from such person’s earnings;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c76c942c2fe0270a7afc933a57d1f5d9",
+    "text": "[Paragraph (a) substituted by GN R2164 of 2 October 1987 and by GN R2642 of 27 November 1987 and amended by GN R109 of 22 January 1993.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bab51a9f0df8bcced6444b032e4c85e2",
+    "text": "(b) a statement signed by the advocate and attorney aforementioned that being satisfied that the person concerned is unable to pay fees they are acting for the said person in their respective professional capacities gratuitously in the proceedings to be instituted or defended by such person; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "51503454373c194c906382a03038e46c",
+    "text": "(c) a certificate of probabilis causa by the said advocate, the registrar shall issue all process and accept all documents in the said proceedings for the aforesaid person without fee of office.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "564d6692add29d69b1c53248cd176059",
+    "text": "[Subrule (2) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ebb41590e3a2063592a244381c50c50e",
+    "text": "RS 22, 2023, D1 Rule 40-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "83e1031858797f6d14739994a42fa9a3",
+    "text": "(3) All pleadings, process and documents filed of record by a party proceeding as an indigent litigant shall be headed accordingly. [Subrule (3) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cdcf08e8d39fbedd678aca610bdcfaec",
+    "text": "(4) The registrar shall maintain in his or her office a roster of attorneys and advocates, and in referring persons desirous of bringing or defending proceedings as indigent litigants to practitioners in terms of subrule (1), the registrar shall do so as far as possible in rotation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52f62c6ea1954e04eaf67467e7321ea7",
+    "text": "[Subrule (4) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b5a03501fc5b368d2f5e26b7278ff4b2",
+    "text": "(5) The said advocate and attorney shall thereafter act gratuitously for the said person in their respective capacities in the said proceedings, and shall not be at liberty to withdraw, settle or compromise such proceedings, or to discontinue their assistance, without the leave of a judge, who may in the latter event give directions as to the appointment of substitutes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "40cc6b29f84c451d0c676d2bcfcff6be",
+    "text": "(6) When a person sues or defends as an indigent litigant under process issued in terms of this rule, such person’s opponent shall, in addition to any other right such person’s opponent might have, have the right at any time to apply to the court on notice for an order dismissing the claim or defence or for an order debarring such person from continuing as an indigent litigant; and upon the hearing of such application the court may make such order thereon, including any order as to costs, as it deems fit.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d3516e9f772725945588f26660ddac12",
+    "text": "[Subrule (6) substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "002169c944d57f900b8ce9bf40916584",
+    "text": "(7) If upon the conclusion of the proceedings an indigent litigant is awarded costs, such litigant’s attorney may include in the bill of costs such fees and disbursements which [sic] such attorney would ordinarily have been entitled, and upon receipt thereof, in whole or in part, such attorney shall pay out in the following order of preference: first, to the sheriff, charges for the service and execution of process; second, to such attorney and the advocate, their fees as allowed on taxation, pro rata if necessary.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "051fc1d383370922d449a88e7397f745",
+    "text": "[Subrule (7) amended by GN R2410 of 30 September 1991 and substituted by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "78f18b13892ee7c8357a90045f4093ed",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "2b6cb9a51e4aca6f74f7f5e4fcc33205"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3a59ac1816e024bd3e4af50ac57ec9a4",
+    "text": "General. Rule 40 makes provision for the following distinct procedures involving an indigent natural person:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb71bee82cdd4daf0ed5e9027920bf15",
+    "text": "(a) an application (i e a request) to the registrar for leave to bring or defend proceedings as an indigent litigant by a person who does not qualify for legal aid;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ab8accc2ab45fba98609cd9757be005",
+    "text": "(b) an application (i e a request) to the registrar by an indigent litigant for leave to continue as an indigent litigant in an action already instituted or in a defended action;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7c316c95e2c082d7b0b0ed716bd25eef",
+    "text": "(c) a formal application to the High Court by an indigent litigant for leave to continue as an indigent litigant in an action already instituted or in a defended action where the opposite party has raised an objection to the request for leave made to the registrar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fe271bed4b405159e6e53a3893a32e14",
+    "text": "Rule 40 does not make provision for a revision by the High Court of a ruling made by the registrar by any party dissatisfied by such ruling.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "00a7209843402eb8474e15931edf3677",
+    "text": "RS 22, 2023, D1 Rule 40-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cb3ec9d3787f62cfe16d0a344c53a515",
+    "text": "1 Subrule (1)(a): ‘A natural person.’ Primarily ‘person’ does not include an executor unless the executor is also a beneficiary 2 3 and both the estate and the executor are without means. An alien or a peregrinus may apply provided he is within the 4 jurisdiction. The fact that a peregrinus plaintiff is proceeding in forma pauperis does not prevent him from being ordered to 5 6 furnish security under rule 47. If a minor applies he must be assisted by his guardian.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8a58096b343f69c56a13c946fc52be0",
+    "text": "‘Who does not qualify for legal aid.’ The subrule does not refer to a person who does not qualify for legal aid rendered by a statutorily established legal aid board, as does rule 47A. ‘Legal aid’ in the context of the subrule therefore seems to include legal aid rendered by, for example, the law clinic of a university.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a3e806e59c297ef3a238ce1ebac18e90",
+    "text": "Subrules (1)(a), (aA) and (aB): General. Under these subrules a litigant may apply to the registrar for leave to continue as an indigent litigant in an action already instituted. He may do so by proceeding in terms of the provisions of this rule but should, in addition, set out the alteration in his circumstances which renders it necessary for him to continue the action or defence as an indigent litigant, and he must give notice of his application to the opposite party. In the event of the opposite party intimating that he objects to the grant of the application, the applicant must apply formally to the court for such leave 7 after giving proper notice to the other side. It is submitted that the ‘application’ to the registrar would suffice if it is made in the form of a request.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2218611375f8b1159e41cbb5dc6c8bac",
+    "text": "Subrule (1)(b): ‘The attorney . . . shall inquire.’ The attorney to whom the matter has been referred for investigation under subrule (1)(a) is not necessarily obliged to go into all the evidence of both parties. He must satisfy himself from the ex parte statement of the person seeking leave to litigate as an indigent person, with such confirmatory evidence as the latter can conveniently produce and with such evidence as the opposite party may voluntarily put before him, that the such person has 8 prima facie a good cause for the action or for the defence.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf",
+      "parent_id": "78f18b13892ee7c8357a90045f4093ed"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "fdfd01639fe9b82a2efad9fa4adb6ec1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "974d45b7cd736a32b2d66198d1ccb0ec",
+    "text": "Downloaded: Mon Feb 17 2025 12:01:38 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "96f31871f6021000d44504009bc0b501",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 40.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f650ef38fcbee41ba431a39848afbbe4",
+    "text": "‘Into such person’s means.’ The test is that set out in subrule (2)(a), i e whether or not such person is, except for household goods, wearing apparel and tools of trade, possessed of property to the amount of R640 000 or will be able within a reasonable time to provide such sum from his earnings. What is relevant, therefore, is not only the actual possession of cash, 9 but also the means of obtaining it. The word ‘means’ covers all cash or assets to which the applicant is entitled and includes, 10 A contingent asset need not be for example, a vested right to instalments paid by the applicant under a contract of sale. 11 considered.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bf32146af63d86278d30850aea9df7d6",
+    "text": "RS 22, 2023, D1 Rule 40-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "813ac9acc62e0942dcd3188b50ff2c80",
+    "text": "The question of means where the applicant is a minor has been the subject of conflicting decisions. In Lentzner v 12 Friedman, where the father was possessed of some small means but the minor was a pauper, leave was refused. In other 13 cases where the minor was a pauper but his father had some small means, leave was granted. The general rule appears to be that leave will be granted to the minor to sue as an indigent litigant if his guardian has only limited means but not if his 14 The financial position of the guardian is thus a factor to consider, but is not the governing father is well-to-do. 15 factor. Every case must be decided on its own facts and circumstances.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b858795bdf838803165ec93e791810a",
+    "text": "‘And the merits of his or her cause.’ It is not part of the attorney’s function at this stage to investigate the opposite party’s case or to consider where the balance of probabilities lies; he must satisfy himself from the ex parte statement of the applicant with such confirmatory evidence as the latter can conveniently produce and with such evidence as the opposite party may voluntarily put before him that the applicant has prima facie a good cause for the action or for the defence. 16",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a0d313aad965c1bdff58ca7371beab13",
+    "text": "‘Request the registrar to nominate an advocate.’ In Hackert v Hackert 17 the court authorized, in terms of its inherent jurisdiction, an advocate practising in another division to act in forma pauperis on behalf of a defendant who was subject to an order of committal in that other province.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8fd6a921f0e9bf94204075c029354eaa",
+    "text": "Subrule (2)(a): ‘Except for household goods.’ This will not include luxury items: it was held in Ex parte Battiss 18 that a radiogram did not fall within the ambit of the phrase.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40e94e797c4d3539073b9a7234fddf71",
+    "text": "‘And tools of trade.’ The intention underlying the subrule is that persons who earn a living by working with tools and who without such tools are not able to carry on their trade should not be obliged in order to institute or defend proceedings to 19 dispose of their only means of support.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a6ba52cbdf6da0e5f905bd406712a555",
+    "text": "‘Provide such sum from such person’s earnings.’ Leave to sue as an indigent litigant will not be granted to a person who is 20 One case has recognized a presumption that a well-educated, healthy male adult can earn able to earn good wages. 21 money. The mere fact that an applicant is in receipt of a salary does not necessarily debar him from relief; all the 22 circumstances of the case must be taken into consideration. Leave will not be given where the applicant",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de9a9334a0211ccc089bfe76a4ac0682",
+    "text": "RS 22, 2023, D1 Rule 40-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "71f4e52064464457589bbec02b29e7eb",
+    "text": "is earning sufficient to enable him to save enough to proceed in the ordinary way; 24 and other expenses. 23 though regard must be had to his living",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "144c69198729f7fcea41fbdacefb22eb",
+    "text": "Subrule (2)(c): ‘A certificate of probabilis causa.’ The object of the certificate is, on the one hand, to prevent a denial of justice to a pauper; and, on the other, to secure defendants from being improperly harassed by groundless suits in which they 25 cannot recover their costs. Counsel should take into consideration all the facts which come to his knowledge, whether he is made aware of them by the applicant or by the proposed defendant, but he is not obliged to approach the defendant if the 26 information is not volunteered to him.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc86ed3dd43c6f00fe2fff7d4abbe8f1",
+    "text": "The court will generally attach great importance to counsel’s certificate but is not bound by it. 27",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "718708b3d1afa9283e2b1481743bc2fb",
+    "text": "Subrule (5): ‘Shall thereafter act gratuitously.’ The advocate and attorney are obliged in terms of this subrule to render their professional services free of charge. The pauper litigant is obliged, however, to provide cover for the disbursements made 28 by the attorney on his behalf. The advocate and attorney are obliged to act gratuitously until released: an attorney who has not been released is not entitled, without a directive from the court to that effect, to demand fees from his pauper 29 client.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2ae53f88fc06b14e23d23481ec203d45",
+    "text": "‘Withdraw, settle or compromise such proceedings.’ In Nkosi v Caledonian Insurance Co 30 the court laid down the procedure to be followed when, in an action in which the plaintiff has been given leave to sue in forma pauperis, a settlement is sought to be approved. A report by the attorney incorporating the terms of the settlement and stating briefly the reasons why the settlement is recommended should be submitted to the judge. Information should also be furnished regarding the attitude of the client to the settlement and if it cannot be shown that he understands the terms of the settlement and agrees to them arrangements should be made for him to be given an opportunity to explain his attitude personally to the judge when 31 the application is made.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "43069903b88ae03bb9c4b67d6bb6f43c",
+    "text": "Although this subrule requires the leave of a judge before an advocate and an attorney are at liberty to settle in forma pauperis proceedings, there is nothing in the rules or the common",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "19cfa7068e6a38aeda22275447f449b1",
+    "text": "RS 22, 2023, D1 Rule 40-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "23eb25a0d0427d5d50a87b4f0bf8a290",
+    "text": "law that deprives an indigent litigant of contractual capacity or the right himself to ‘withdraw, settle or compromise’ the 32 proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "81c3c3e54e0723345914251e9043a8ed",
+    "text": "‘Judge.’ In terms of the definition of ‘judge’ in rule 1 this means a judge sitting otherwise than in open court, i e a judge in chambers.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6e7124e375fa01ef043e69c5044b6dc0",
+    "text": "Subrule (6): ‘To apply to the court on notice.’ The application under this subrule is an application as envisaged by rule 6(1) 33 read with rule 6(7)(a).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc7f78ceef366996796e892d1bb8a2af",
+    "text": "‘An order dismissing the claim or defence.’ This subrule envisages the possibility that, apart from depauperization, the claim or defence may be dismissed; but it is submitted that this would be ordered only if the action is frivolous or an abuse of the process of the court or in cases of gross impropriety or misconduct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "220d4e2edb7913a740b638fa7b778ed3",
+    "text": "‘An order debarring such person from continuing as an indigent litigant.’ It is submitted that the onus rests upon the applicant party to show that a party should be depauperized. The court will have to be satisfied on a balance of probabilities that the party who is proceeding as an indigent litigant has no reasonable prospect of success in the action, or that other good grounds exist for depauperizing him. Such grounds would include the following: that the most that the plaintiff is likely to 34 35 recover is within the jurisdiction of the magistrate’s court; that the court sued in has no jurisdiction; that the pauper has misrepresented his financial position to the registrar; or that the pauper has been guilty of some other improper or unfitting 36 conduct. Leave to sue or defend as an indigent litigant is an indulgence; and this privilege may be withdrawn in suitable cases.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2410c78c9d35b306c3c67055edcafa23",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "648c198a4eb634d937f057d12f156c29",
+    "text": "Downloaded: Mon Feb 17 2025 12:01:38 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "1bf8c6589c70bd495e70fe60ea987e11",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 40.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a8c97199b80d4b900b060488253049ad",
+    "text": "‘Make such order . . . as it deems fit.’ Other orders which the court may make would include, for example, an order that the action or defence be not proceeded with until costs already incurred have been paid.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e1adf3d1c79e4f4feb94804e67eea0de",
+    "text": "‘Including any order as to costs.’ The court may make an order as to the payment of the costs of the application against 37 the party who was proceeding as an indigent litigant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b99908619486cafeba05a01de82660e2",
+    "text": "Subrule (7): ‘Is awarded costs.’ There must be an order for costs in favour of the pauper before his attorney can claim to 38 be paid his costs. This subrule clearly provides that only upon receipt of the awarded costs, the attorney shall pay out the amount received in the order of preference stipulated in the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e2cb1cd196aa8b93573b8eb4c105d5a7",
+    "text": "A cession by a successful pauper of the benefit of the judgment to his attorney, subject to an undertaking to account for 39 the balance, is not in itself invalid or reprehensible.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2bf72d8c42d0f5de19f7af7ecb98026a",
+    "text": "‘Such fees and disbursements which such attorney would ordinarily have been entitled.’ It has been held that the advocate and attorney acting for a pauper may not receive from the opposing party more than the fees allowed by the taxing 40 master on taxation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa76652191cd1688f1e98752a12759e9",
+    "text": "1 Gartrell NO v Southern Life Association 1909 TH 86; Budaza’s Executor v Budaza 1912 EDL 149; Filmer NO v African Guarantee & Indemnity Co Ltd 1916 WLD 7; Bikitsha v Bikitsha 1917 AD 546; Uys’ Executor v Van der Spuy 1938 CPD 118.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cec14e222d73b34b830027206fdf073d",
+    "text": "2 Samuels NO v African Homes Trust Ltd 1914 CPD 626, approved in Bikitsha v Bikitsha 1917 AD 546; Ex parte Nieuwenhuizen 1950 (3) SA 125 (SWA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "583193d389ac7dbb9ce4201a2dc0283e",
+    "text": "3 Gendre & Cavallera v Pagel 1914 WLD 108; Neal v Neal 1959 (1) SA 828 (N); Fourie v Ratefo 1972 (1) SA 252 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b0ef10971d5778105dc38691ff91e663",
+    "text": "4 Ex parte Kuttenkeuler 1911 CPD 8; Becker v Eastern Province Guardian Co 1923 EDL 502; Slocock v Plenderleith 1927 CPD 338; Ex parte Du Preez 1964 (2) SA 227 (SR).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b160dae344382ae5ac76851db3b06f9",
+    "text": "5 Fourie v Ratefo 1972 (1) SA 252 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0eb9608b250188ddc8db5e13f2a7f907",
+    "text": "6 Myburgh v J & A Jorgenson 1914 EDL 89; Wright v Stuttaford & Co 1929 EDL 10; McLoughlin v Royal Hotel Co 1931 EDL 339.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "385f504e31f22cdf889003fa8360947d",
+    "text": "7 The provisions of subrules (1)(a), (aA) and (aB) render obsolete the decisions in Commercial Union Assurance Co of SA Ltd v Van Zyl 1971 (1) SA 100 (E); Protea Assurance Co Ltd v Gamlase 1971 (1) SA 460 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d2045e7b7bc3906d47e547154e8c566f",
+    "text": "8 Ormond v Jordan (1884) 4 EDC 260; Nkosi v Caledonian Insurance Co 1961 (4) SA 649 (N).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "54b5c6c1e5a2a41e384c12e4eeb9b17d",
+    "text": "9 Behrens v Berg (1877) 7 Buch 138.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "98c4ccdff970a185db90ca47907b3a3c",
+    "text": "10 Ex parte Theron 1946 CPD 770. See also Theron v Gayba 1920 CPD 292.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "561d6b40b3df2c53288491f9850354c7",
+    "text": "11 Meyer v African Homes Trust Ltd 1921 OPD 197; Morley v Wicks 1924 (2) PH F8 CPD.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "38a62480b8a5705f4f06c827adcd6f17",
+    "text": "12 1919 OPD 6, followed in Grobler v Potgieter 1954 (2) SA 188 (O). However, in Lentzner’s case the father asked for leave to appeal against an order refusing to award him damages in his own name for the pain and suffering endured by the minor. It does not follow that had the application been for leave to institute action, leave would have been refused (see Hodgkinson v King 1933 EDL 219 at 221).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "646b0b05530c89cf199b965704606ba5",
+    "text": "13 Meyer v Mohammed 1930 CPD 301; Weston v Daddy Bros & Johnstone (Pty) Ltd 1930 NPD 133; Hodgkinson v King 1933 EDL 219; Bezuidenhout v Northern Assurance Co Ltd 1948 (3) SA 629 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c99eb311be72ed38dbba14aa8f70051",
+    "text": "14 Meyer v Mohammed 1930 CPD 301.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "203390de7017ac009d532890f75f695a",
+    "text": "15 Weston v Daddy Bros & Johnstone (Pty) Ltd 1930 NPD 133, followed in Hodgkinson v King 1933 EDL 219 but differed from in Grobler v Potgieter 1954 (2) SA 188 (O) at 191–2.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a6cfa5e8d77f16b7464ea20fe7736263",
+    "text": "16 Nkosi v Caledonian Insurance Co 1961 (4) SA 649 (N) at 653. See also Ormond v Jordan (1884) 4 EDC 260; Hendricks v The Cape Tramways Co Ltd (1905) 22 SC 548; Du Plessis v Lamb 1906 TH 165; Saunders v The Cape Tramways Co Ltd (1906) 23 SC 35; Hendricks v Verster 1912 CPD 435; Williams v Nel 1939 WLD 188; Finchell v Finchell 1936 NPD 630; Plotz v African Guarantee & Indemnity Co Ltd 1947 (4) SA 327 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d58d2b84eae9621e286e6f97ec8be9a9",
+    "text": "17 1985 (1) SA 717 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "618f72c470f2c73e7c675b40b03bbbcc",
+    "text": "18 1961 (2) SA 288 (SR).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d0738a863c7e97c4860c05b14d8c1526",
+    "text": "19 Ex parte Magwaga 1959 (3) SA 472 (SR).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "316392b16a49114543591d0e94c3cdfa",
+    "text": "20 In re Ismail Mahomed Jassat (1896) 17 NLR 99; Epstein v Epstein (1902) 19 SC 183; Spring v Coetzee’s Executor 1905 TS 347; Coetzee & Coetzee v De Bruyn 1916 OPD 71; Obell v Zwarenstein 1925 WLD 234.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b287a097d6ee6312a8b5f4dc4b1ef61e",
+    "text": "21 Honey v Cryer 1910–17 GWL 112.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "862b031376f592816320e2a5353d789d",
+    "text": "22 Crowley v Crowley & Geater 1919 TPD 426. Examples of cases in which other circumstances were taken into consideration, include David v Abdol Rajieb 1877 Buch 81; Leathern v Surtees 1879 Kotzé 100; Potterill v Potterill (1884) 5 NLR 250; La Combre v Hutchins (1892) 9 SC 155; Wroth v Harmer 1907 EDC 118; In re Naga (1907) 28 NLR 492; Brink v Moodley (1908) 18 CTR 331; Campbell v Macintosh, Findlay & Co 1910 TPD 260; Fedder v McCreadie 1914 WLD 128; Foxon v Foxon 1914 AD 176; Honey v Cryer 1910–17 GWL 112; Mazwe v Presbyterian Church, Africa 1923 EDL 141; Poppendiek v Union Bag Co 1923 EDL 88; O’Connor v SAR & H 1931 (1) PH F50 (C); Ex parte Nieuwenhuizen 1950 (3) SA 125 (SWA).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bdc6f818f5226163aa5520c80c41a922",
+    "text": "23 Schneegans v Schneegans 1876 Buch 9; Ex parte Milne (1907) 17 CTR 886; Flack v Hatch 1907 EDC 107; Gillingham v Fehrsen 1909 TS 671; Hay v Nel’s Executors 1910 EDL 360; Jensen v Lamprecht 1912 OPD 1; Van der Byl v Schierhout 1914 CPD 664; Steenkamp v Jackson 1916 EDL 16.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "da984830178e5cb3b4210a022ba43976",
+    "text": "24 Otterstrom v Estate Stephan (1907) 17 CTR 287; Fernando v Fernando (1908) 18 CTR 298; Warner v Wright (1908) 18 CTR 641; Ex parte Dahl (1909) 19 CTR 447; Crowley v Crowley & Geater 1919 TPD 426; Liesching v SA Railways & Harbours 1920 OPD 31.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb3879d437c4436703636c11a68cca97",
+    "text": "25 Ormond v Jordan (1884) 4 EDC 260 at 265.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d547072daed489dee7e73546d5e07ff4",
+    "text": "26 Ormond v Jordan (1884) 4 EDC 260 at 265. See also Hendricks v The Cape Tramways Co Ltd (1905) 22 SC 548; Du Plessis v Lamb 1906 TH 165; Saunders v The Cape Tramways Co Ltd (1906) 23 SC 35; Hendricks v Verster 1912 CPD 435; Williams v Nel 1939 WLD 188; Finchell v Finchell 1936 NPD 630; Plotz v African Guarantee & Indemnity Co Ltd 1947 (4) SA 327 (E); Nkosi v Caledonian Insurance Co 1961 (4) SA 649 (N) at 653.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "639f899a417582458d3450d7b0b4f272",
+    "text": "27 Ormond v Jordan (1884) 4 EDC 260 at 265; Van Zyl v Commercial Union Assurance Co of SA Ltd 1971 (3) SA 480 (E) at 481A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9b74365e68292248079aec56abf7f882",
+    "text": "28 See Cumberlege v Cumberlege 1972 (2) SA 346 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4dc4e82411524220306ecad1b9dba80f",
+    "text": "29 Machenheimer v Machenheimer 1991 (4) SA 387 (C) at 395B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9c13db3ae71933cf1b3b0b597f33904d",
+    "text": "30 1961 (4) SA 649 (N) at 660G–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "36bddfceb36b22afeb6e1a6e611403ab",
+    "text": "31 As a general rule the court will disallow as part of the settlement a provision for the payment of attorney and client costs (Mtembu v Eagle Star Insurance Co 1960 (2) SA 50 (E), and Somaci v SA Fire Insurance and Accident Co Ltd 1960 (3) SA 150 (E)). See also Magaslela v Santam Insurance Co Ltd 1962 (2) SA 398 (E) where the court disallowed the attorney’s costs because it disapproved of his conduct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b719a4c3a08f5940e5d813ecbdaa77fa",
+    "text": "32 Machenheimer v Machenheimer 1991 (4) SA 387 (C) at 392E–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "767eb7091b7ccd121115fb00710c3d80",
+    "text": "33 Da Silva v Pillay NO 1997 (3) SA 760 (D) at 770H–J. See also the definition of ‘application’ in rule 1 above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5f7bde288bbf2e173398998173aeb37b",
+    "text": "34 See Frances v British & American Boot Co 1906 TH 85; Skippers v Bellville Bus Co 1931 CPD 26.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c421a2555d2983662da852c327b36817",
+    "text": "35 See Ex parte Kaiser 1902 TH 165.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd73b17ef80bf8dbc4b1b36a39af5221",
+    "text": "36 See Cumberlege v Cumberlege 1972 (2) SA 346 (E).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "259102a7f15fb0b59edc4d7c07d27b2c",
+    "text": "37 See Goliath v Keating (1889) 7 SC 52, followed in Ex parte Theron 1946 CPD 770 at 773. See also Ex parte Brink 1907 TS 626; Schultz v Schultz Syndicate Ltd 1909 TS 270; Crowley v Crowley & Geater 1919 TPD 426; Du Plessis v Marais 1931 EDL 70; McLoughlin v Royal Hotel Co 1931 EDL 339; Ex parte Hartley 1964 (4) SA 598 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e101dd5da46dfb45b59fea57db08355b",
+    "text": "38 Where a pauper defendant succeeded on a claim in reconvention but, owing to her conduct, without costs, the High Court held that under its rules it was not entitled to allow her representative any fees out of the amount recovered (London & SA Exploration Co Ltd v Moodoosoodam (1885) 3 HCG 305).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "32d1851ea67c2fbee1b0024730b7a9ac",
+    "text": "39 Kader v Frank & Warshaw 1926 AD 344.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "be5c2a27a912ace1d25c3059e92d25fd",
+    "text": "40 Mtembu v Eagle Star Insurance Co 1960 (2) SA 50 (E) at 51H; Somaci v SA Fire Insurance and Accident Co Ltd 1960 (3) SA 150 (E) at 152A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c12d6bbfd3e00e49e533efd90d051d14",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "75f257a49569c151c5fc1e648acafb30",
+    "text": "Downloaded: Mon Feb 17 2025 12:01:38 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "96f31871f6021000d44504009bc0b501",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 40.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "bdb980859f7febd8cdaa327946976b95",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "4a11762f13c54de480caf27012615836",
+    "text": "Downloaded: Mon Feb 17 2025 12:01:38 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 40.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "1bf8c6589c70bd495e70fe60ea987e11",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 40.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

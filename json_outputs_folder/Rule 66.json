@@ -1,0 +1,101 @@
+[
+  {
+    "type": "Title",
+    "element_id": "c7578534edc0dac3ec707e184dacf52a",
+    "text": "66 Duration of Writs of Execution",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 66.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "eda87fc144943ac9e8d939d8c35481fc",
+    "text": "RS 22, 2023, D1 Rule 66-1",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 66.pdf",
+      "parent_id": "c7578534edc0dac3ec707e184dacf52a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "585342eebfb03d35bc26d415e53dfde6",
+    "text": "Writs of execution of a judgment once issued remain in force, and may, subject to the provisions of subparagraph (ii) of paragraph (a) of section 11 of the Prescription Act, 1969 (Act No. 68 of 1969), at any time be executed without being renewed until judgment has been satisfied in full.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 66.pdf",
+      "parent_id": "c7578534edc0dac3ec707e184dacf52a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "337bdd91837236d0588a781d050f76ff",
+    "text": "[Rule 66 substituted by GN R214 of 28 March 2014.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 66.pdf",
+      "parent_id": "c7578534edc0dac3ec707e184dacf52a"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "254c69e901e8f7dd56a32ada4c0db46b",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 66.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "45be835f4b226985a754146420920300",
+    "text": "Downloaded: Mon Feb 17 2025 12:15:41 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 66.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "cdc4716e73f44c0a40f0901ed3681c07",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 66.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

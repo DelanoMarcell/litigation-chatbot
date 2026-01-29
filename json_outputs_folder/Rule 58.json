@@ -1,0 +1,1190 @@
+[
+  {
+    "type": "Title",
+    "element_id": "f5f563bf429f97feb073b0cc2d48af36",
+    "text": "58 Interpleader",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4add0c3320c133bb46482d81e2f42e29",
+    "text": "RS 22, 2023, D1 Rule 58-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "617156bad4c4b452fdbe7701fb222a59",
+    "text": "(1) Where any person, in this rule called ‘the applicant’, alleges that he is under any liability in respect of which he is or expects to be sued by two or more parties making adverse claims, in this rule referred to as ‘the claimants’, in respect thereto, the applicant may deliver a notice, in terms of this rule called an ‘interpleader notice’, to the claimants. In regard to conflicting claims with respect to property attached in execution, the sheriff shall have the rights of an applicant and an execution creditor shall have the rights of a claimant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f77d168ad42078a95ded16c95bd56349",
+    "text": "[Subrule (1) amended by GN R2410 of 30 September 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f74a6571e5dda2792472fec54074e2e8",
+    "text": "(2)(a) Where the claims relate to money the applicant shall be required, on delivering the notice mentioned in subrule (1) hereof, to pay the money to the registrar who shall hold it until the conflicting claims have been decided.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "632ee0a7dc5aa83c80d8864b7a94655c",
+    "text": "(b) Where the claims relate to a thing capable of delivery the applicant shall tender the subject-matter to the registrar when delivering the interpleader notice or take such steps to secure the availability of the thing in question as the registrar may direct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0949f7de7f1e1b0439b3d01a080883b0",
+    "text": "(c) Where the conflicting claims relate to immovable property the applicant shall place the title deeds thereof, if available to him, in the possession of the registrar when delivering the interpleader notice and shall at the same time hand to the registrar an undertaking to sign all documents necessary to effect transfer of such immovable property in accordance with any order which the court may take or any agreement of the claimants.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1107a4a4551c90022e877d4372e3ed64",
+    "text": "(3) The interpleader notice shall —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f63d594dbb0827955a4c349278b8e49",
+    "text": "(a) state the nature of the liability, property or claim which is the subject-matter of the dispute;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f50606d24013965745455d0a2c86c8f",
+    "text": "(b) call upon the claimants within the time stated in the notice, not being less than 15 days from the date of service thereof, to deliver particulars of their claims; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "333fdb4d6c8f13f0d9d2038c4e0f877a",
+    "text": "[Paragraph (b) amended by GN R1262 of 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "61b56713f8959deea98d7b4a59b0b8cd",
+    "text": "(c) state that upon a further date, not being less than 15 days from the date specified in the notice for the delivery of claims, the applicant will apply to court for its decision as to his liability or the validity of the respective claims.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7b5e13bcaaafae60ee40e66c000e6622",
+    "text": "[Paragraph (c) amended by GN R1262 of 1991.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2f6cf58e697e041037fca5d6f5b6e000",
+    "text": "(4) There shall be delivered together with the interpleader notice an affidavit by the applicant stating that —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "59d6732c5ff72f9e7bf95c91220ae300",
+    "text": "(a) he claims no interest in the subject-matter in dispute other than for charges and costs;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c53160566bf21417dfb43c0ce4b134dc",
+    "text": "(b) he does not collude with any of the claimants;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "61710c34c227b7ed82572db0b9f75413",
+    "text": "(c) he is willing to deal with or act in regard to the subject-matter of the dispute as the court may direct.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0bcb9ca00f116c107856ba75df381346",
+    "text": "(5) If a claimant to whom an interpleader notice and affidavit have been duly delivered fails to deliver particulars of his claim within the time stated or, having delivered such particulars, fails to appear in court in support of his claim, the court may make an order declaring him and all persons claiming under him barred as against the applicant from making any claim on the subject-matter of the dispute.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "bfe1a9e451217c865c1d3a85ae1e70a1",
+    "text": "RS 22, 2023, D1 Rule 58-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cf70eab80a4563cfe0109f1462dfda3a",
+    "text": "(5A) Simultaneously with the delivery by a claimant of particulars of claim, such claimant shall specify an address within 25 kilometres of the office of the registrar and an electronic mail address, where available, as referred to in rule 6(5)(b) at either of which addresses service will be accepted.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a67720c4fc84b3f1a7563979ff79fe9c",
+    "text": "[Subrule (5A) inserted by GN R88 of 12 February 2010, amended by GN R1318 of 30 November 2018 and substituted by GN R3397 of 12 May 2023.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1ef436eb138366b6cb6088c1c39210fc",
+    "text": "(6) If a claimant delivers particulars of his claim and appears before it, the court may —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6addef219f0f721b8b0429cdce03f879",
+    "text": "(a) then and there adjudicate upon such claim after hearing such evidence as it deems fit;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "20115506c45816c049d8eac612f59c76",
+    "text": "(b) order that any claimant be made a defendant in any action already commenced in respect of the subject-matter in dispute in lieu of or in addition to the applicant;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f5b8121f1c1cb8a6449a75706799b45b",
+    "text": "(c) order that any issue between the claimants be stated by way of a special case or otherwise and tried, and for that purpose order which claimant shall be plaintiff and which shall be defendant;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "caef76f2882b9c48ec2bfeb9575f8c2c",
+    "text": "(d) if it considers that the matter is not a proper matter for relief by way of interpleader notice dismiss the application;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bd9420d04ad106571f1cd3ab7af76314",
+    "text": "(e) make such order as to costs, and the expenses (if any) incurred by the applicant under paragraph (b) of subrule (2), as to it may seem meet.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5b95c2f4f01f4bf2d0cf82e108eb520d",
+    "text": "(7) If an interpleader notice is issued by a defendant in an action, proceedings in that action shall be stayed pending a decision upon the interpleader, unless the court upon an application made by any other party to the action otherwise orders.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "f5f563bf429f97feb073b0cc2d48af36"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "bccc43421c7850aa29d8948cebca7d13",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b5af9f44425e0633a35b736e7ff8a45",
+    "text": "1 General. Interpleader is a form of procedure whereby a person in possession of property not his own (e g a stakeholder or other custodian of property to which he lays no claim in his own right), which is claimed from him by two or more other persons, is enabled to call upon the rival claimants to such property to appear before the court in order that the right to such property, as between the rival claimants, may be determined without putting the holder of the property to the trouble and 2 expense of an action or actions. Interpleader in the case of execution is a species of this genus. By delivering the money or other property in dispute to the registrar in the manner provided in the rule, the applicant divests himself of the dispute, the 3 money or property being then held by the registrar for payment or delivery to the successful claimant. The effect of the 4 procedure is that any action by either of the claimants against the applicant is stayed. The applicant is not entitled to settle with a claimant and then claim the return of the amount he has lodged with the registrar. This would be running counter to his 5 own act and to the legal position he has created for the claimants by that act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f6929222b8c3d984ecf9c30a91a91a55",
+    "text": "Subrule (1): ‘Alleges that he is under any liability.’ Essential to the operation of the rule is the allegation by the applicant that he is being or expects to be sued by two or more parties making adverse claims to money or property held by him. In 6 regard to conflicting claims with respect to property attached in execution, the sheriff has the rights of an applicant and an execution creditor has the rights of a claimant.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6b49026992ccc72ff0188e67801e3799",
+    "text": "RS 22, 2023, D1 Rule 58-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f23005f09b794904d6a7f34a46bb3e45",
+    "text": "‘Parties making adverse claims.’ It is only when a person is faced with two prima facie valid and enforceable claims (or the threat thereof) to money or property he is holding and to which he lays no claim, that resort can be had to this rule. The 7 two claimants must be making ‘adverse claims’, i e to the same thing, and where this is not so, the proceedings will be set 8 aside as irregular under rule 30.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8473bd925e2e70d47980b0ce40393ff8",
+    "text": "Subrule (2)(a): ‘Pay the money to the registrar.’ If a claim for money relates to both capital and interest, a party cannot 9 escape liability for interest by confining its payment into court to the capital sum.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2f90a032da98a6cdfa2b64c492c03f0a",
+    "text": "Subrule (2)(b): ‘Take such steps . . . as the registrar may direct.’ In giving effect to a direction by the registrar in terms of this subrule to secure the availability of the thing to which the rival claims relate, the applicant may incur expenses for storage and other fees. In terms of subrule (6)(e) the court may include an appropriate order relating to these expenses in its order of costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45116272afa17f9448dd11a26b3feb06",
+    "text": "Subrule (3)(b): ‘To deliver particulars of their claims.’ This subrule does not expect of a claimant that he should clothe his claim in the form of an affidavit: all that is expected of him is that he should furnish the ‘particulars’ of his claim. The purpose is to inform his opponent of the tenor of his case in order to enable the latter to decide whether or not to oppose the claim. 10 The rule does not require the claimant to set out his claim with the same precision as in a pleading.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fe3ab8bec2e467e6d7829f92d936a70a",
+    "text": "Subrule (5): ‘Declaring . . . him barred from making any claim.’ A barring order in terms of this subrule may be made",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf",
+      "parent_id": "bccc43421c7850aa29d8948cebca7d13"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "2b520880e4c5dda285bfe22117b02e3d",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "60dcd6236cb3dd524c5cdc5b0eea1904",
+    "text": "Downloaded: Mon Feb 17 2025 11:19:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "c9e2b42619d9ac14dcd3e85da126b6c5",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 58.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c41c64d8310458a9eae4f9031be347f6",
+    "text": "without such pronouncement in any way necessarily involving the judicial determination of the ownership of the property in question. Such barring order does not, therefore, have the legal consequence of vesting the ownership of the property in the 11 judgment debtor. The order must be made at the instance of the applicant. There is nothing in the subrule that suggests 12 that the court is at liberty to make such an order mero motu.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "04ff8ce1bc086e3ec5bb762951fa4ca0",
+    "text": "Subrule (5A): ‘An electronic mail address, where available.’ Where an electronic mail address is not available the only other address allowed by the subrule for acceptance of notices by and service of documents on the claimant is the one appointed by the claimant within 25 kilometers of the office of the registrar. The subrule, unlike rule 6(5)(b)(ii), does not provide for the claimant to state the claimant’s postal or facsimile addresses, where available. The subrule is not included in the provisions of rule 4A above and the provisions of that rule therefore do not apply to the subrule. The reasons for these omissions are unclear.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9892e9427d1f2fd16d1cbd223a1931f",
+    "text": "Subrule (6)(b): ‘Order that any claimant be made a defendant.’ In determining who should be the plaintiff and who the defendant the court should, so far as the known facts permit, exercise a judicial discretion. As a rule, when the defendant in an action interpleads, the plaintiff is made the plaintiff in the interpleader and the other claimant is made the defendant. 13",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "02c31c8d402b34dd63d221997c13af19",
+    "text": "The reasoning in the cases in which the onus of proof has been considered seems to indicate that, when the sheriff interpleads, the claimant ought to be made plaintiff if the goods at the moment of seizure were in the judgment debtor’s possession, because his possession implies a prima facie title in him which enures to the benefit of the execution creditor; but",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dc556a69de1c6bae50627847c9ac2de0",
+    "text": "RS 22, 2023, D1 Rule 58-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "170482b1336ac4cd122fb6f6a70836ea",
+    "text": "if the goods at the moment of seizure were in the claimant’s possession, he would have the prima facie title, which the 14 execution creditor would have to displace, and so the execution creditor ought to be the plaintiff.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3f2a9a755f943d5168a6be2a498642a8",
+    "text": "In African Life Assurance Society Ltd v Van der Nest 15 it was held that the applicant was entitled to adopt interpleader proceedings to effect the substitution of the applicant by one of the claimants as a defendant in order to get the proper parties before the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4b1249a77e098324099b1e8d4678c55",
+    "text": "Subrule (6)(c): ‘Be stated by way of a special case.’ This was, in effect, done in Greenfield NO v Blignaut 16 where the court found it impossible on the available information to give a direction as to which of the claimants should be treated as the plaintiff and which as the defendant for the purpose of subrule (6)(b).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "335e1eed3f3a9e8dd174eac2ff1cf833",
+    "text": "Subrule (6)(d): ‘Not a proper matter for relief by way of interpleader notice.’ As to what constitutes matter proper for relief by way of interpleader notice, see the notes to subrule (1) s v ‘Parties making adverse claims’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6f904ac585e18d36119133823bfe4378",
+    "text": "‘Dismiss the application.’ As to orders of costs upon dismissal of the application, see the notes under subrule (6)(e).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40914e52de5ef9e3ff998ab127813a47",
+    "text": "Subrule (6)(e): ‘Make such order as to costs.’ This subrule gives a discretion to the court which must be exercised in 17 accordance with the general principles applicable to the award of costs.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6bee53a08234feba20097707b86cd7bf",
+    "text": "Where the court makes an order in terms of the subrule that the issue between the claimants be stated by way of a special case or otherwise and tried, it will usually order that the applicant’s costs up to the date of appearance be paid out of the 18 balance of the money which had been paid in to the registrar.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a77f4e0bf0cd5fac219be49707e00eb4",
+    "text": "If the application is dismissed under subrule (6)(d) on the ground that the matter is not a proper one for relief by way of 19 interpleader notice, the applicant will be ordered to bear the costs. If a claimant’s opposition to an application is dismissed, an applicant who has acted properly will be allowed his costs out of the fund or subject matter in dispute, and the claimant 20 who is in the wrong has to indemnify to that extent the claimant who is entitled to the fund.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "af6017f0628ca4674f49543a1c11c11f",
+    "text": "‘The expenses (if any) incurred by the applicant under paragraph (b) of subrule (2).’ These are the expenses for storage and other fees which the applicant may incur in giving effect to a direction by the registrar in terms of paragraph (b) of subrule (2) that the applicant take steps to secure the availability of the thing to which the rival claims relate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4338ab03ae9dea0104381ac7485563a9",
+    "text": "Subrule (7): ‘Proceedings . . . shall be stayed.’ The effect of the issue of an interpleader notice is that any action by either 21 of the claimants against the applicant is stayed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f8c59e7916dc275538c04a0725d0b105",
+    "text": "1 The procedure, based on English precedent, in our practice ultimately derives from the decision in Corrans v Transvaal Government 1909 TS 605 at 621–2 and 631.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3bb9ec4c7270ea52b8d8e3ca4c475274",
+    "text": "2 Bernstein v Visser 1934 CPD 270 at 272–3.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d5bbb3c883a922fb9dd8b114908c19a9",
+    "text": "3 Kamfer v Redhot Haulage (Pty) Ltd 1979 (3) SA 1149 (W) at 1152C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97501f251831f831196ed638768ef8bf",
+    "text": "4 See subrule (7) and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c8313e37e3fdc4e1025bc271bda16f5",
+    "text": "5 Ex parte Barclays Bank (DC & O): In re Edelstein v Barclays Bank 1953 (2) SA 720 (W).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "11d4acde91b7dc772a4e63c473ec5cc2",
+    "text": "6 Kamfer v Redhot Haulage (Pty) Ltd 1979 (3) SA 1149 (W) at 1152E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0ef53df7477612757c5e7ae94d100077",
+    "text": "7 Kamfer v Redhot Haulage (Pty) Ltd 1979 (3) SA 1149 (W) at 1152E and 1154C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6f4a8afa38ed1890617ef6bf5dd830af",
+    "text": "8 Beazley v Magnum Estate Agents (Pty) Ltd 1976 (4) SA 94 (W). See also The Fonarun Naree: Trustees Copenship Bulkers A/S (in Liquidation) v Afri Grain Marketing (Pty) Ltd 2020 (4) SA 188 (GJ) at paragraph [27].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a9ab24553adc9a2f0ebe9161e01e62f6",
+    "text": "9 Government of the Republic of South Africa v Midkon (Pty) Ltd 1984 (3) SA 552 (T) at 567D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e36962714e8aacaab4dd305931598ef",
+    "text": "10 Corlett Drive Estates v Boland Bank Bpk 1979 (1) SA 863 (C) at 867G, approved in Kamfer v Redhot Haulage (Pty) Ltd 1979 (3) SA 1149 (W) at 1153–4.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0f24eba792492f0baedf5b975f6efb2f",
+    "text": "11 C P Smaller (Pty) Ltd v The Master 1977 (3) SA 159 (T) at 166D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5ca4848c1a6ec9a37d134bcc9d4bfaf",
+    "text": "12 Standard Bank of South Africa v Mpofu (unreported, GP case no 83867/2015 dated 15 March 2022) at paragraph [32].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a1fe3a5128e8220aa47a81ea295f6cdf",
+    "text": "13 See Greenfield NO v Blignaut 1953 (3) SA 597 (SR) at 598.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "61dc18d40a41daf5419c3fd9fca20509",
+    "text": "14 Bruce NO v Josiah Parkes & Sons (Rhodesia) (Pvt) Ltd 1972 (1) SA 68 (R). See also Zandberg v Van Zyl 1910 AD 302 at 308;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9f106e2eac79faa8673a2c12fb305e9b",
+    "text": "Gleneagles Farm Dairy v Schoombee 1949 (1) SA 830 (A) at 836; Ebrahim v Deputy Sheriff, Durban 1961 (4) SA 265 (D) at 267D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "57eca8fdbed0055e528b13421718e3df",
+    "text": "15 1971 (3) SA 672 (C).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0bffedb9dc7d1bd4f179e24bc34d67c5",
+    "text": "16 1953 (3) SA 597 (SR). See also Free State Consolidated Gold Mines (Operations) Bpk v Sam Flanges Mining Supplies BK 1997 (4) SA 644 (O).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "484688833bba002d7a21dd90ebe18e9b",
+    "text": "17 Godloza v Smith 1932 EDL 154 at 158.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ed571a1980e7a05dcc909437ee4d61b2",
+    "text": "18 Corlett Drive Estates v Boland Bank Bpk 1979 (1) SA 863 (C) at 869D; Free State Consolidated Gold Mines (Operations) Bpk v Sam Flanges Mining Supplies BK 1997 (4) SA 644 (O) at 656A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d79691174ebb439ae11aedb32ad472a",
+    "text": "19 See the order as to costs in Beazley v Magnum Estate Agents (Pty) Ltd 1976 (4) SA 94 (W) at 98; Kamfer v Redhot Haulage (Pty) Ltd 1979 (3) SA 1149 (W) at 1155H–1156B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "12941405fd012ebc19e3caf7c2265133",
+    "text": "20 African Life Assurance Society Ltd v Van der Nest 1971 (3) SA 672 (C), approved but distinguished in Ackermann v Kritzinger 1974 (4) SA 666 (C) at 667H–668A where the rival claims related not to money but to the ownership of particular goods. See also the remark of Van Winsen J in Corlett Drive Estates v Boland Bank Bpk 1979 (1) SA 863 (C) at 867F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "31e781673affc3de50d02bb617bda905",
+    "text": "21 Corrans v Transvaal Government 1909 TS 605 at 621; Gluckman v National Mutual Life Association of Australasia Ltd 1928 TPD 431; Ex parte Barclays Bank (DC & O): In re Edelstein v Barclays Bank 1953 (2) SA 720 (W); Chase & Sons (Pty) Ltd v Tecklenburg 1957 (3) SA 51 (T).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "83c75c36b7daab1d21714db5463241b8",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "c314fdee0e9475609888fbcf5f1cf216",
+    "text": "Downloaded: Mon Feb 17 2025 11:19:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "13e193a1312bebd14852dee9fbeec8e1",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 58.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "7ef526857167fc5ae18908a360480af1",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b9470b85fcb8570768cb8e5157a2168a",
+    "text": "Downloaded: Mon Feb 17 2025 11:19:27 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 58.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "c9e2b42619d9ac14dcd3e85da126b6c5",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 58.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

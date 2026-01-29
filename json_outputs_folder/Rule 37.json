@@ -1,0 +1,2629 @@
+[
+  {
+    "type": "Header",
+    "element_id": "61188570e9c36e2acbf8053596748d7a",
+    "text": "37 Pre-trial Conference",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3787f48302111ffb14a59ff71f9d5157",
+    "text": "RS 22, 2023, D1 Rule 37-1",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cd684144dfcf711fbe7183521bd95519",
+    "text": "(1) A party who receives notice of the trial date of an action shall, if such party has not yet made discovery in terms of rule 35, within 15 days deliver a sworn statement which complies with rule 35(2).",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8aa40aece76cf5ba3cc3c0a7b2fb6c69",
+    "text": "(2)(a) In cases not subject to judicial case management as contemplated in rule 37A, a plaintiff who receives the notice contemplated in subrule (1) shall within 10 days deliver a notice in which such plaintiff appoints a date, time and place for a pre-trial conference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9015a01f93cdb4dd5d9bbcb8af65c454",
+    "text": "(b) If the plaintiff has failed to comply with paragraph (a), the defendant may, within 30 days after the expiration of the period mentioned in that paragraph, deliver such notice.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b285fd8e3e8d4ab7e4971c42b2e83227",
+    "text": "(3)(a) The date, time and place for the pre-trial conference may be amended by agreement: Provided that the conference shall be held not later than 30 days prior to the date of hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "19c6dd5287bbe3788b33197673402b39",
+    "text": "(b) If the parties do not agree on the date, time or place for the pre-trial conference, the matter shall be submitted to the registrar for decision.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3144ad2ba933bf1b541d66b97c62533d",
+    "text": "(4) Each party shall, not later than 10 days prior to the pre-trial conference, furnish every other party with a list of —",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "08760719deb2083dbd205a4553e7cda7",
+    "text": "(a) the admissions which such party requires;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d2050ef07cf284ed556300ff3a087f00",
+    "text": "(b) the enquiries which such party will direct and which are not included in a request for particulars for trial; and",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a488a2700cecc4d1a5e0267010858580",
+    "text": "(c) other matters regarding preparation for trial which such party will raise for discussion.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "848e0abc7c406cca4e4ae1c72e80cbe9",
+    "text": "(5) At the pre-trial conference the matters mentioned in subrules (4) and (6) shall be dealt with.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c0997847626c0cb0d9d940b19afdc0e6",
+    "text": "(6) The minutes of the pre-trial conference shall be prepared and signed by or on behalf of every party and the following shall appear therefrom:",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "444f1ba018406abc9bda7b599f65bc7b",
+    "text": "(a) The date, place and duration of the conference and the names of the persons present;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b04023b9b4109a945c0391d874e4108",
+    "text": "(b) if a party feels that such party is prejudiced because another party has not complied with the rules of court, the nature of such non- compliance and prejudice;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f2c782ffab5647f729865fe6e1e4bdb",
+    "text": "(c) that every party claiming relief has requested such party’s opponent to make a settlement proposal and that such opponent has reacted thereto;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a0882cbdde1bb36901258bd0d5085342",
+    "text": "(d) whether any issue has been referred by the parties for mediation, arbitration or decision by a third party and the basis on which it has been so referred;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a603f86483a9d7f700ce68759a62265f",
+    "text": "(e) whether the case should be transferred to another court;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "135d94c6052a14d621c3a765ab31f1ac",
+    "text": "(f) which issues should be decided separately in terms of rule 33(4);",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "05f1a3ee661cc13461811d13c448db3a",
+    "text": "(g) the admissions made by each party;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10d1d091a5127b831fb7851c34e2474d",
+    "text": "(h) any dispute regarding the duty to begin or the onus of proof;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e910509bfb2d03f3199fe106d6391827",
+    "text": "(i) any agreement regarding the production of proof by way of an affidavit or whether evidence is required to be taken on commission or by way of audiovisual link in terms of rule 38;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c18347598b93cdab9c23542b450677fb",
+    "text": "[Paragraph (i) substituted by GN R1603 of 17 December 2021.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6934451802e5bc417106318438bfa85d",
+    "text": "RS 22, 2023, D1 Rule 37-2",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "094fdfed261e03339269b21ae9f2f2d3",
+    "text": "(j) which party will be responsible for the copying and other preparation of documents;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "620cc91915201e3a47deaff2f17c98be",
+    "text": "(k) which documents or copies of documents will, without further proof, serve as evidence of what they purport to be, which extracts may be proved without proving the whole document or any other agreement regarding the proof of documents;",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "484abb89c63fd78836b99712105ab844",
+    "text": "[Paragraph (k) amended by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "41a8023ce60a4e6c0e85a8bbd864d6ae",
+    "text": "(l) any agreement regarding whether any issue or issues are to be referred to a referee for investigation in terms of rule 38A, or where an investigation has been conducted by a referee, any issue upon which the parties disagree and the referral of such issue for consideration by the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "173d3c16bb7e535429e4702ae77b1f16",
+    "text": "[Paragraph (l) added by GN R2133 of 3 June 2022.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "325a6b7eda3dd447490f3364bf556108",
+    "text": "(7) The minutes shall be filed with the registrar not later than 25 days prior to the trial date.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "554e138e4ba192ee9c7c67b41f025653",
+    "text": "(8)(a) A judge, who need not be the judge presiding at the trial, may, if such judge deems it advisable, at any time at the request of a party or of own accord, call upon the attorneys or advocates for the parties to hold or to continue with a conference before a judge in chambers and may direct a party to be available personally at such conference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee9c75681bf56ff94b2b64cd6aeeab33",
+    "text": "(b) No provision of this rule shall be interpreted as requiring a judge before whom a conference is held to be involved in settlement negotiations, and the contents of a reaction to a request for a settlement proposal shall not be made known to a judge except with the consent of the judge and all parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b6cf5c91753037c85ca14ba692c7afab",
+    "text": "(c) The judge may, with the consent of the parties and without any formal application, at such conference or thereafter give any direction which might promote the effective conclusion of the matter, including the granting of condonation in respect of this or any other rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e2c810082df4962814cfa89bf88f0629",
+    "text": "(d) Unless the judge determines otherwise, the plaintiff shall prepare the minutes of the conference held before the judge and file them, duly signed, with the registrar within five days or within such longer period as the judge may determine.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5c0e7676e0c4effde5a11a19c98288e",
+    "text": "(9)(a) At the hearing of the matter, the court shall consider whether or not it is appropriate to make a special order as to costs against a party or such party’s attorney, because such party or the party’s attorney —",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a629c7e94ef62a538ef2c66ebd5538bc",
+    "text": "(i) did not attend a pre-trial conference; or",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f78cffa54a047ff802c338a2972933b",
+    "text": "(ii) failed to a material degree to promote the effective disposal of the litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0b2fdd93e2615dc909ec80ed407b95d",
+    "text": "(b) Except in respect of an attendance in terms of subrule (8)(a) no advocate’s fees shall be allowed on a party-and-party basis in respect of a pre-trial conference held more than 10 days prior to the hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e0c0b9b12cad054d75b1f26627b7aa45",
+    "text": "(10) A judge in chambers may, without hearing the parties, order deviation from the time limits in this rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c69c94cadcd38e20755b8efa7c68c0a9",
+    "text": "(11) A direction made in terms of this rule before the commencement of the trial may be amended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d5022605ef0bc83a70ce41ba58b5177f",
+    "text": "[Rule 37 substituted by GN R842 of 31 May 2019 and amended by GN R1603 of 17 December 2021.]",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "527c8b4af2f453d876a9172517ee9982",
+    "text": "RS 22, 2023, D1 Rule 37-3",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "1c1efdf0f988661028a001b9e04de576",
+    "text": "Commentary",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "61188570e9c36e2acbf8053596748d7a"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a2f1007bfc41665b81043181eaeecd2f",
+    "text": "1 General. The purpose of rule 37 is ‘to promote the effective disposal of the litigation’. The main object of the rule is 2 ‘investigating ways of avoiding costs at a stage when it can still be avoided’ and, like its predecessor, it is ‘intended to 3 expedite the trial and to limit the issues before the court’. The rule is intended primarily to curtail the duration of a trial, 4 narrow down issues, cut costs and facilitate settlements. Parties are required to attempt, in a bona fide manner, to reach 5 settlement either on issues which could serve to shorten the proceedings or resolve the main issues. It is submitted that in this regard the parties must keep in mind that a litigant has the duty to take the most expeditious course to bring litigation to 6 a conclusion. The pre-trial conference in terms of the rule is not meant to be a full preparation for trial; it is a stocktaking of 7 possible co-operation in steps which will limit or prevent avoidable effort and costs; it is one of the tools provided by the 8 rules to ensure the most effective way of bringing a case before the court.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "1c1efdf0f988661028a001b9e04de576"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b017c562d4326915ee22eec4f7eef807",
+    "text": "A party cannot be compelled to agree to anything during the course of rule 37 proceedings. This much is evident from the fact that rule 37(8)(c) provides that, even in a case where a conference had been convened before a judge in chambers, the judge may give directions which might promote the effective conclusion of the matter, but only with the consent of the 9 parties. It has been held that the remedy for any party who is frustrated by the lack of co-operation from the other party during rule 37 proceedings, appears to be to request that a conference before a judge in chambers be held in terms of rule 10 37(8). The directions given by consent of the parties in terms of rule 37(8) are, however, not covered by rule 30A, and that 11 rule cannot be invoked to compel compliance with any such direction. In practice co-operation could possibly be achieved",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf",
+      "parent_id": "1c1efdf0f988661028a001b9e04de576"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b0c4979fb24aa61286ee766c7fd3ff65",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "777fc9583ef4315123843ff9925dae91",
+    "text": "Downloaded: Mon Feb 17 2025 07:26:16 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 1,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "3ac46d3be44dbb6f64d7502cdb2b82ce",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e1f582e2541b4c5f3f550dfae41cb65d",
+    "text": "by reason of the sanction of an adverse award of costs against a recalcitrant party as contemplated in rule 37(9)(a).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "290013353a14cd07f3753b4f37bcdc63",
+    "text": "To allow a party, without special circumstances, to resile from an agreement deliberately reached at a pre-trial conference would, therefore, tend to negate the object of the rule which is to limit issues and to curtail the scope of the 12 litigation. Where parties therefore by agreement deliberately limit issues, they are bound by the agreement except if special 13 circumstances exist under which a party should not be held to the agreement. Thus, they will be bound by admissions made under such agreement except if special cirumstances exist to resile from the agreement. What will constitute special circumstances must be determined",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "07af1fac553cba7e9f2faf4eed6501e9",
+    "text": "RS 22, 2023, D1 Rule 37-4",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3cbddd1a5f5f8d3b91c99eb85523312",
+    "text": "with reference to the facts of each case. 14 In Denby v Ekurhuleni Metropolitan Municipality 15 the issue that arose was whether the parties’ legal representatives could jointly agree to a settlement order being made an order of court, as recorded in a joint memorandum of a pre-trial conference that was put before the court, under circumstances where the defendant’s 16 legal representatives had no mandate to settle the matter on the terms set out in the memorandum. It was held 17 that as the defendant’s legal representatives had the authority to attend and do what was necessary and required of them in the discharge of their duties at a pre-trial conference, which included making admissions and concessions and even settling the matter, the defendant’s legal representatives were entitled to take the position that they have as recorded in the joint memorandum and for them together with the plaintiff’s legal representatives to jointly seek of the court to make an order in terms of the draft order presented to the court. An order as agreed upon in the joint memorandum was accordingly granted.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8e1c7778b40fe0ada5c15700ea40184e",
+    "text": "If the parties have formulated specific issues in the pre-trial minutes, the trial court is not entitled to go beyond the issues as formulated and decide the case on another basis. The salutary principle that unless there has been a full investigation of a matter falling outside the pleadings and there is no reasonable ground for thinking that further examination of the facts might 18 applies equally, if not more, where the parties lead to a different conclusion, the parties are held to the issues pleaded, 19 have formulated specific issues in the pre-trial minutes.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7a7df638637bf6486a7e6892c1cf1e78",
+    "text": "The provisions of rule 37 do not apply, save to the extent expressly provided in rule 37A, in matters which are referred for judicial case management under rule 37A. 20",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1376c3f8c4c38a4301628a8d21d9f6da",
+    "text": "The local practice of the various divisions of the High Court relating to pre-trial conferences differs. See in this regard Volume 3, Parts F–N.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9fe432e1f67d0e1a056ddee67ee51271",
+    "text": "Subrule (1): ‘Deliver a sworn statement which complies with rule 35(2).’ Rule 35(2) deals with discovery affidavits which must be in accordance with Form 11 of the First Schedule. The effect of this subrule is that a party to an action is obliged to make discovery upon receipt of notice of the trial date of an action even where such a party was not under rule 35(1) required 21 to make discovery on oath.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "88374f2397fd3d130a96e0e48f6eb732",
+    "text": "In order to ensure that it is effective, a pre-trial conference should, ideally, be held after discovery and after the parties have exchanged documents as contemplated in rule 35. In the event of discovery being made pursuant to this subrule, the fact of such discovery should be taken into account for purposes of determining the date for a pre-trial conference contemplated in subrules (2)(a) and (3)(a).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ee27ff7e62a51e06cc2d30a046c81384",
+    "text": "RS 23, 2024, D1 Rule 37-5",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "05da7201283b540198ab4de73c06e9eb",
+    "text": "Subrule (2)(a): ‘A plaintiff . . . shall . . . deliver a notice.’ The obligation to convene a conference in terms of this subrule is in the first place upon the plaintiff. If the plaintiff fails to deliver a notice in terms of the subrule, the defendant may do so within the period prescribed by paragraph (b) of the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7330ad8ab5f8d7244313654f362d9f4",
+    "text": "The notice must be ‘delivered’, i e copies must be served on all the parties and the original filed with the registrar. 22",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f57a61e1d90b446e26481d5e8a2047f5",
+    "text": "It is clear from the wording of subrule (2) that it does not apply to cases which are subject to judicial case management as contemplated in rule 37A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "56100a410eb236e309f6071fd615e839",
+    "text": "‘Appoints a time, date and place for a pre-trial conference.’ The party delivering the notice may ‘appoint’ the time, date and place of the pre-trial conference. Subrule (3) contemplates that the parties should reach agreement in the arrangement of the pre-trial conference. In terms of subrule (3)(a) the parties may, by agreement, amend the date, time and place for the pre-trial conference subject, however, to the proviso that the conference shall be held not later than 30 days prior to the date of the hearing. Subrule (3)(b) provides that if the parties do not agree on the date, time and place for the conference, the matter shall be submitted to the registrar for his decision.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d99d159a05b3de5555d78c7dd957c240",
+    "text": "Subrule (3)(a): ‘Provided that . . . not later than 30 days prior to the date of hearing.’ The 30 days limit in the proviso should not be lightly dishonoured for it is closely tied to the main objects of the rule, viz to facilitate settlement discussions, to encourage timeous consideration of a number of specific topics with a view to the avoidance of incurring unnecessary costs, and to protect a party against costs required to ward off an opponent who is unable to proceed to trial or is not serious about 23 24 doing so. However, non-compliance with the time-limit does not give rise to a duty to apply for condonation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6593ca6c51d6dcdd450e0be38d0181fa",
+    "text": "25 Seeing that counsel need not participate in the conference, the fact that the date of the conference does not suit 26 counsel is not a valid reason for the late holding of a pre-trial conference (i e less than 30 days before the trial).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cd4f09ed7f21d5c165ee502127b45eac",
+    "text": "Subrule (4): ‘Each party shall . . . furnish every other party with a list.’ The procedure laid down by this subrule is to enable the parties to prepare properly for the conference under the rule, to facilitate the smooth running of the conference 27 and to enable them to reach agreement on as many issues as possible without unnecessary delay.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "187380a6f84906fe3b5d5be09f2127c7",
+    "text": "A formal notice is not envisaged; all that a party must do is to provide its opponent with a list of the items it wishes to discuss to enable such party to prepare for the conference. The procedure, which had become prevalent in some courts, of filing formal notices and replies thereto purportedly under the subrule amounts to an abuse of the process of the court. 28 The subrule contemplates a list to be provided, inter alia, of enquiries which a party will direct to the other party and which are not included in the request for particulars for trial, and other matters",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2146659d32c93daf0f57fd580ec29bea",
+    "text": "RS 23, 2024, D1 Rule 37-6",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "da9d99094759677ea70fcf64a7662d1c",
+    "text": "regarding preparation for trial which the party will raise for discussion. 30 to matters which will be discussed at the pre-trial conference. 29 The list of enquiries is, therefore, intended to relate",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d6d55abd7433a1fe105710749982558d",
+    "text": "Rule 37 does not make provision for a party to be compelled to reply to a list envisaged in rule 37(4). It has been held that the remedy available to any party who is frustrated by a lack of co-operation or bona fides on the part of its opponent, 31 appears to be to request a conference before a judge in chambers be held in terms of rule 37(8). The directions given by consent of the parties in terms of rule 37(8) are, however, not covered by rule 30A, and that rule cannot be invoked to 32 compel compliance with any such direction. In practice co-operation could possibly be achieved by reason of the sanction 33 of an adverse award of costs against a recalcitrant party under rule 37(9)(a) or rule 67A(2)(b). The wilful failure by a party",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "3ffa85be4766282926efdc4cd83f829c",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "aa1192d319068cbab53598ca90fdf35d",
+    "text": "Downloaded: Mon Feb 17 2025 07:26:16 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 2,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "cecb9bce5042efc39a6b09b268cc574f",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a1de349296c4e522d79c26c9ea929b0d",
+    "text": "to follow directions given to it at a pre-trial hearing in terms rule 37(8)(c) is capable of being addressed through contempt 34 proceedings.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ddaac4d9add0dad07a7ff21fb3be2661",
+    "text": "Subrule (4)(a): ‘The admissions which such party requires.’ Admissions of fact made at a pre-trial conference constitute 35 sufficient proof of those facts. More should not be read into admissions made under rule 37 than is intended by the parties, and an admission on one issue should not be construed as a concession in regard to other issues unless there are clear 36 indications that such concessions are intended.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f135e1d3b54eb5539b59377c789e15b8",
+    "text": "A fact which is admitted is eliminated from the issues to be tried. Hence, by making admissions required from it, a party co- operates in limiting the issues before the court and promoting the effective disposal of the litigation. Consequently, a party should not lightly refuse to make the required admissions.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77c1c2792c1f129674c2a7a16c0a2d4a",
+    "text": "Subrule (4)(b): ‘The enquiries . . . not included in a request for particulars for trial.’ The pre-trial conference is intended 37 Rule 21 must be utilized for to cover a wider ambit than the furnishing of further particulars for trial under rule 21. 38 requesting further particulars.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "63af2eec66849d8bc9f77b54beeca59d",
+    "text": "Subrule (4)(c): ‘Other matters regarding preparation for trial.’ This would, it is submitted, include expert evidence, meetings between experts and joint minutes prepared by them; further pre-trial conferences; the matters mentioned in subrule (6)(f), (h), (i), (j) and (k); and, in general, any enquiry aimed at promoting the effective disposal of the litigation.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc4992e27f014a86babf74e80556953b",
+    "text": "RS 22, 2023, D1 Rule 37-7",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a26a733279142eb78d3777172cb2afd3",
+    "text": "Subrule (5): ‘The matters mentioned in subrules (4) and (6) shall be dealt with.’ The matters to be dealt with at the pre-trial conference are those set out in subrules (4) and (6). Subrule (4) deals with matters which a party intends to raise at the pre-trial conference; subrule (6) deals with matters which must be dealt with in the minutes of the pre-trial conference and, accordingly, are to be addressed at the conference.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aeaade5544108619c96861d5895cb654",
+    "text": "Subrule (6): ‘The minutes . . . shall be prepared.’ The minutes should be drawn with care and skill. 39",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b4bc0c4fbb18af73e7b77b8ab7d8414a",
+    "text": "‘By or on behalf of every party.’ This subrule makes it clear that the obligation to prepare the minutes of the pre-trial conference in accordance with its provisions is jointly that of all the parties to the action.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e97353cd30d297e5aeb14a72df5daa6",
+    "text": "‘The following shall appear therefrom.’ This subrule prescribes the matters which should be apparent from the minutes of the pre-trial conference. It is submitted that at the conference the parties should give their attention to all the matters listed 40 in the subrule. It is clearly not the purpose of the pre-trial conference to agree not to agree.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "721171cd1e64c9177d88f9afb77fd634",
+    "text": "Subrule (6)(d): ‘Whether any issue has been referred . . . for mediation.’ In MB v NB 41 Brassey AJ, in limiting the fees that the attorneys could recover from their clients to the costs they could tax on a party and party scale, stated:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d647bba267cb2471c7e832d9c570d971",
+    "text": "‘In short, mediation was the better alternative and it should have been tried. On the facts before me it is impossible to know whether the parties knew about the benefits of mediation, but I can see no reason why they would have turned their backs on the process, especially if they had been counselled on the matter by the attorneys. What is clear, however, is that the attorneys did not provide this counsel; in fact, in the course of the pre-trial conference they positively rejected the use of the process. For this they are to blame and they must, I believe, shoulder the responsibility that comes from failing properly to serve the interests of their clients.’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1765d7571e99554e469c802bfbcfa097",
+    "text": "Subrule (6)(e): ‘Should be transferred to another court.’ The wording of this subrule is couched in wide terms and does not limit the other court to another division of the High Court. Section 27 of the Superior Courts Act 10 of 2013 provides for the removal of proceedings from one division of the High Court to another division, or from one seat of a division to another in the same division if it appears to the court that such proceedings (a) should have been instituted in such other division or at such other seat; or (b) would be more conveniently or more appropriately heard or determined by such other division or at 42 such other seat. Rule 39(22) provides that by consent the parties to a trial are entitled, at any time, before trial, on written application to a judge through the registrar, to have the case transferred to the magistrate’s court having jurisdiction whether by consent between the parties or otherwise. See further rule 39(22) and the notes thereto below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b0c1bca7ed593a09a019d916901f7679",
+    "text": "Subrule (6)(f): ‘Which issues should be decided separately.’ If the parties have formulated specific issues in the pre-trial minutes, the principle applies that the parties are held to the issues so agreed upon unless, as in the case of pleadings, there has been a full investigation of matter falling outside the scope of the issues agreed upon and there is no reasonable ground",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5668a0dfd4b8a53a57845311992bef4d",
+    "text": "RS 22, 2023, D1 Rule 37-8",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b6ff160921baacc5c523cac5ebd48815",
+    "text": "for thinking that further examination of the facts might lead to different conclusions. 43 See further rule 33(4) and the notes thereto above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b91145a20034a79689900fa85eac8b0",
+    "text": "Subrule (6)(g): ‘Admissions made by each party.’ See the notes to subrule (4)(a) s v ‘The admissions which such party requires’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9c69891c3579cd09f2d6b5f8ba22aa64",
+    "text": "Subrule (6)(h): ‘Dispute regarding the duty to begin or the onus of proof.’ See the notes to rule 39(5) s v ‘The burden of proof’ and to rule 39(11) s v ‘A ruling upon the onus of adducing evidence’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0442f8048fec2f20dc305506863fb70a",
+    "text": "Subrule (6)(i): ‘Proof by way of an affidavit . . . by way of audiovisual link in terms of rule 38.’ Under rule 38(2) a court may at any time, for sufficient reason, order that all or any of the evidence to be adduced at any trial be given on affidavit or that the affidavit of any witness be read at the hearing.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e116fb6fe13061b5ef2de12c86e6fe85",
+    "text": "Under rule 38(3) a court may, on application on notice in any matter where it appears convenient or necessary for the purposes of justice, make an order for taking the evidence of a witness before or during the trial before a commissioner of the court, and permit any party to any such matter to use such deposition in evidence on such terms, if any, as to it seems meet.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "dd31b41d07693b721c5ff66105a40e30",
+    "text": "Under rule 38(9)(a) a court may, on application on notice by any party and where it appears convenient or in the interests of justice, make an order for evidence to be taken through audiovisual link. Section 37C of the Act, which came into operation 44 on 5 August 2022, now also makes provision for evidence through audiovisual link. It is submitted that, if necessary, the parties to the pre-trial conference should also discuss and record any agreement relating to evidence through audiovisual link 45 in terms of s 37C. So too, any evidence through intermediaries in terms of s 37A of the Act.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c9c542e60844a936ee13e5913d6bfe36",
+    "text": "Subrule (6)(j): ‘The copying and other preparation of documents.’ This refers to the trial bundle and includes the indexing thereof.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4a4a43af1a11004882c4aee022dcc95c",
+    "text": "Subrule (6)(k): General. The word ‘document’ is a very wide term and includes everything that contains the written or 46 pictorial proof of something. In s 33 of the Civil Proceedings Evidence Act 25 of 1965 a document is defined as including ‘any book, map, plan, drawing or photograph’. In the absence of any agreement as contemplated in this subrule, and subject 47 to the provisions of rule 36(10), the normal rules relating to documentary evidence will apply. This could have a profound effect on the duration of the trial. This subrule is aimed at curtailing the duration of the trial and cutting costs. It is submitted that an agreement in respect of documents as contemplated in this subrule does not entitle a trial court to take documents",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "a08b2897ee2a2035104818638b7c9177",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e2a333deb97aa95ecc9809a6799b41dd",
+    "text": "Downloaded: Mon Feb 17 2025 07:26:16 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 3,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "3ac46d3be44dbb6f64d7502cdb2b82ce",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2ada7a08b4158f4afb43b041c753b801",
+    "text": "(or copies thereof) forming part of the trial bundle into consideration for purposes of its judgment unless the parties have (a) relied upon such documents in the evidence or argument presented by them; or (b) agreed otherwise.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d78a4672ea07ebeaed0235abd66706e4",
+    "text": "Subrule (7): ‘The minutes shall be filed . . . not later than 25 days prior to the trial date.’ This subrule imposes a joint obligation upon the parties to the action to file the minutes with the registrar within the time prescribed in the subrule. Though the subrule is couched in peremptory terms (‘shall’, ‘moet’), it contains no sanction for non-compliance with its terms. There is a lack of uniformity between the various divisions of the High Court in the application of the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d8f29ac75330261dc28378e9e700dbf8",
+    "text": "RS 23, 2024, D1 Rule 37-9",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f1539594eb92f0f7a36682ada7ce7e3",
+    "text": "The time limit prescribed in the subrule may be varied by an order under subrule (10).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ab24113168ed9aa0697504394a71243",
+    "text": "Subrule (8): General. This subrule gives a judge an involvement in the pre-trial stage of the proceedings and authorizes the judge to give directions which might promote the effective conclusion of the matter. In terms of the definition of ‘judge’ in rule 1 the judge contemplated in this subrule means a judge sitting otherwise than in open court, i e a judge in chambers. In terms of subrule (10) a judge ‘in chambers’ may, without hearing the parties, order deviation from the time limits in this rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "955c87fd359fcfcbcb8742c21279c7b4",
+    "text": "Subrule (8)(a): ‘At the request of a party or of own accord.’ The power of a judge to call mero motu for a pre-trial conference to be held or to be continued will probably be rarely exercised, if for no other reason than that in most cases a judge in chambers would not know whether or not intervention is called for.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae471c48d462afdc39064d783fd5df69",
+    "text": "‘To continue with a conference.’ The request that a conference be continued before a judge in chambers affords a practical solution to a party to an action who is confronted at a pre-trial conference by an uncooperative, obstinate or recalcitrant opponent.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "01d16cece451ee8fcab5d451bbcd0015",
+    "text": "‘Direct a party to be available personally.’ The personal presence at a pre-trial conference of a party to an action may expedite agreement on certain issues.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9628203dabd1ff931bc13efb38de12b2",
+    "text": "Subrule (8)(b): ‘Involved in settlement negotiations.’ This subrule makes it clear that the function of a judge at a pre- trial conference is not that of a mediator. The judge’s function, as contemplated in subrule (8)(c), is to give directions which might promote the effective conclusion of the matter, i e directions which would curtail the duration of the trial, narrow down issues, cut costs, etc. The judge may only give such directions with the consent of the parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d930e71e014dc50a584c3546b4d9116",
+    "text": "Subrule (8)(c): ‘May, with the consent of the parties . . . give any direction.’ This subrule makes it clear that a direction 48 can only be given with the consent of the parties: a judge has no power to compel a party to agree to any matter. 49 In practice this result could possibly be achieved by reason of the sanction of an adverse award of costs against a recalcitrant 50 party as contemplated in subrule (9)(a). The wilful failure by a party to follow directions given to it at a pre-trial hearing in terms of this subrule by the judge who manages the case, is capable of being addressed through contempt 51 proceedings. The directions given by consent of the parties in terms of this subrule are not covered by rule 30A. 52",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2b4f98e88f045eea757c0c364c6ba65d",
+    "text": "Subrule (9)(a): ‘Shall consider.’ This subrule is clothed in peremptory language: the court is obliged at the hearing of the matter to give consideration to the question whether or not a",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3e61f1682e054718ab95e86a849d25a0",
+    "text": "RS 23, 2024, D1 Rule 37-10",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f8728f867667c3332f1770a1a3fa12df",
+    "text": "special order as to costs should be made against a party or its attorney on the grounds set out in the subrule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "538355a0794f926f0b69a6ded26dcbd2",
+    "text": "53",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5f7478df5701108110b6242bbad07237",
+    "text": "‘Whether or not . . . to make a special order as to costs.’ In terms of this subrule a special order as to costs may be made against a party or its attorney for (i) not attending a pre-trial conference, and (ii) failing to a material degree to promote the effective disposal of the litigation. It is clear that a party/attorney who neglects unreasonably to take proper advantage of a pre-trial conference in terms of the rule or who fails unreasonably to co-operate with its opponent in doing so may attract an 54 adverse order as to costs. Rule 67A(2)(a) in addition provides that in considering all relevant factors in awarding costs, the court may have regard to the failure by any party or such party’s legal representative to comply with the provisions of rule 37.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1f3513e345403ebfbe67b4dc8a2194de",
+    "text": "‘Against a party or such party’s attorney.’ In making an adverse order as to costs, the court should determine who bears the blame for the failure to a material degree to promote the effective disposal of the litigation. In the normal course this would be the party for, as was said in a different context, an attorney ‘is the representative whom the litigant has chosen for 55 himself’. In exceptional cases, where the responsibility clearly attaches to the attorney, an award to pay costs de bonis propriis against the attorney would be appropriate.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8eb8c19bf4d9883774bd29ce7cb1ba4a",
+    "text": "Subrule (9)(b): ‘No advocate’s fees shall be allowed.’ Counsel’s fees for attendance at a pre-trial conference are only allowed on a party-and-party basis when (i) a judge in terms of subrule (8)(a) calls upon the advocates of the parties to attend a conference before a judge in chambers, and (ii) a pre-trial conference is held within ten days prior to the hearing. Subrule (3)(a) requires in peremptory terms that a pre-trial conference be held not later than 30 days prior to the date of hearing. Counsel need not participate in the conference — the matters to be discussed are clearly within the competence of the attorney and to insist that counsel participate therein would justify the criticism that the rule increases costs by requiring counsel to prepare or attend twice, especially if different counsel are involved at the conference and at the trial. 56",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "327c11ace9d4028c9f7792854b2c1dc2",
+    "text": "Subrule (10): ‘A judge . . . may, without hearing the parties, order deviation from the time limits in this rule.’ The time limits are those contained in subrules (1), (2)(a) and (b), (3)(a), (4), (7) and (8)(d). It is, therefore, not necessary to approach the court under the provisions of rule 27 for an extension of the time limits prescribed by the rule. 57 In contradistinction to subrule (8)(c), this subrule does not require the consent of the parties nor need they be heard by the judge. The provision that the parties need not be heard by the judge constitutes a fundamental deviation from the principle audi alteram partem and it is submitted that a judge should not, as a general rule, order deviation from the time limits in rule 37 without having been appraised of the relevant facts by the parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "514ae6a7ca2a4b381ce1ae35b584c07e",
+    "text": "Subrule (11): ‘A direction made in terms of this rule . . . may be amended.’ In terms of subrule (8)(c) a judge may give a direction only with the consent of the parties. It is accordingly submitted that an amendment of a direction can also be effected only with the consent of the parties.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "14ea6c0006b61df17e728a9ef4c6ec27",
+    "text": "1 Subrule (9)(a)(ii). See also MEC for Economic Affairs, Environment and Tourism, Eastern Cape v Kruizenga 2010 (4) SA 122 (SCA) at 126E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "49dfc454a87529a27466a450d84ca121",
+    "text": "2 Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 708F. In this case, Flemming DJP discussed the provisions of the rule in some detail. See also Huang v Bester NO 2012 (5) SA 551 (GSJ) at 559H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "226b49d6fafb75804b35bcefcfbca1f1",
+    "text": "3 Hendricks v President Insurance Co Ltd 1993 (3) SA 158 (C) at 166E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e64cb8c5b11e508ccc06807c9601c7cc",
+    "text": "Road Accident Fund v Krawa 2012 CE",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d7b9a11eef5f6fb49a98fd1888bfa2d5",
+    "text": "(2)",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bff7d60adf91ff52e93c2cabebdeb118",
+    "text": "SA 346 (ECG) at 353H-354A; Huang v Bester NO 2012 (5) SA 551 (GSJ) at 559G.",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "32fd2360bde1418328816180ecc5d52b",
+    "text": "6 Moila v The City of Tshwane (unreported, SCA case no 249/2016 dated 22 March 2017) at paragraph [9], where Scheepers & Nolte v Pate",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b05df33bffb3c1f887fe5510b9859a52",
+    "text": "© 2025 Juta and Company (Pty) Ltd.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "e8165afe01842e41255b33296f84b204",
+    "text": "Downloaded: Mon Feb 17 2025 07:26:16 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 4,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "cecb9bce5042efc39a6b09b268cc574f",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37.pdf",
+      "filetype": "application/pdf"
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "776798f752a48654a37bbff9ac341064",
+    "text": "1909 TS 353 at 360 is referred to with approval.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f5abf982f3e5994acaa39acc9fd4ccfd",
+    "text": "7 Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 709A.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "92adf41efff0cc074a185c9b2a6a3ef4",
+    "text": "8 Rauff v Standard Bank Properties 2002 (6) SA 693 (W) at 704B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d50ad6564c99564b7c68052341d78d78",
+    "text": "9 Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraphs [22]– [23].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "13c01824d374a117373a88cd0643c541",
+    "text": "10 Kriel v Bowels 2012 (2) SA 45 (ECP) at 49A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "775419ed1af7a5a7873d60c6e4805c91",
+    "text": "11 Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0552a23fa873c4a465782c142950a869",
+    "text": "12 Filta-Matix (Pty) Ltd v Freudenberg 1998 (1) SA 606 (SCA) at 614C; MEC for Economic Affairs, Environment and Tourism, Eastern Cape v Kruizenga 2010 (4) SA 122 (SCA) at 126E–G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a46b7e9fe2ea97d9a76a438c20f7349e",
+    "text": "13 Filta-Matix (Pty) Ltd v Freudenberg 1998 (1) SA 606 (SCA) at 614B–D; F&I Advisors (Edms) Bpk v Eerste Nasionale Bank van Suidelike Afrika Bpk 1999 (1) SA 515 (SCA) at 524E–H.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a0fbd3a6eb2f34f6b7b78d86ec5a2d93",
+    "text": "14 Fast Motion Trade and Investment (Pty) Ltd v Avon Justine (Pty) Ltd (unreported, GJ case no 21158/2019 dated 27 March 2023) at paragraph [17].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8ee934fbc359fd41d9c57c682a588ed1",
+    "text": "15",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2c9af2e5c8d24dff190a9450d6232e92",
+    "text": "15 2021 (1) SA 190 (GJ).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a9644fab668dc6728a7b6318b1c06db2",
+    "text": "16 At paragraphs [1]–[13].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "04cb1f311928fa42cba1e6a832aa6bfa",
+    "text": "17 At paragraph [27].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dcc0dbebfbeaac1f0678354e4aa885d1",
+    "text": "18 Middleton v Carr 1949 (2) SA 374 (A) at 385–6; Van Rensburg v Van Rensburg 1963 (1) SA 505 (A) at 509H–510B; Paddock Motors (Pty) Ltd v Igesund 1976 (3) SA 16 (A) at 23D–24E; Minister van Wet en Orde v Matshoba 1990 (1) SA 280 (A) at 285E–I and 289C–D; Sehume v Atteridgeville City Council 1992 (1) SA 41 (A).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0162ce68f55d4370c46e2f0f24a7c0a8",
+    "text": "19 Kerksay Investments (Pty) Ltd v Randburg Town Council 1997 (1) SA 511 (T) at 520F–521E, confirmed on appeal on this point in Randburg Town Council v Kerksay Investments (Pty) Ltd 1998 (1) SA 98 (SCA) at 104A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5431acb843140472dc78e9dd43d78502",
+    "text": "20 Rule 37A(3).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "526b7320b5d7219a0acaf0fbf4eae960",
+    "text": "21 Rule 35(1) is permissive in so far as it does not oblige a party to compel its opponent to give discovery. See further the notes to rule 35(1) s v ‘Any party may require . . . any other party’ above.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e7ed09e73d98b3e7771bb7be090b5bda",
+    "text": "22 Rule 1.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "03ae7d944dc9b8ccab7ae0970e7fd27a",
+    "text": "23 Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 707E, 707H–708E and 708F–J.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b69c062129822ca2e8cabc1b89c9cd36",
+    "text": "24 Kemp v Randfontein Estates Gold Company 1996 (1) SA 373 (W) at 374F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "11c16966da0c87643abcc30423dbd01f",
+    "text": "25 See the notes to subrule (9) s v ‘No advocate’s fees shall be allowed’ below.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "165a6923ab51adaa72a7866e10cd220b",
+    "text": "26 Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 706I and 709E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d67014e6bc876aabf68bc4872af4bf16",
+    "text": "27 This paragraph was referred to with approval in Fransch v Premier, Gauteng 2019 (1) SA 247 (GP) at 250A–B. See also Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "91e1a74cc5f75a576999d7a46eb6da7c",
+    "text": "28 Paterson NO v Kelvin Park Properties CC 1998 (2) SA 89 (E) at 104D; Kriel v Bowels 2012 (2) SA 45 (ECP) at 48F–I and 49E–F; and see Fransch v Premier, Gauteng 2019 (1) SA 247 (GP) at 250C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9ca6a117fcb413ced57b2c87081e3f7",
+    "text": "29 This sentence was referred to with approval in Fransch v Premier, Gauteng 2019 (1) SA 247 (GP) at 250C–D; and see Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraphs [26] and [27].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2eb9df064afa02a02760dddbe1bbe06d",
+    "text": "30 This sentence was referred to with approval in Fransch v Premier, Gauteng 2019 (1) SA 247 (GP) at 250D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "71a542a9b78cdefa636ad4520ff6595d",
+    "text": "31 Kriel v Bowels 2012 (2) SA 45 (ECP) at 49D–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bddd4183c7a28817b0ccf3bb1359f4f0",
+    "text": "32 Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b98a884cdefa621933942a8609853fd",
+    "text": "33 In Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022) the full court (at paragraph [26]) refers to an alternative remedy:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "39dac08e4bcf0f1b9e57333516f3b722",
+    "text": "‘In MT v CT 2016 (4) SA 193 (WCC) at para 27 the court considered another alternative for a frustrated party and said: “In the event that a party is in default of a procedural step, e g has failed to file a reply to a request for trial particulars, or claims that certain documents are not discoverable, the pre-trial procedure is held in abeyance while the parties take the dispute to the motion court for resolution there: the rule 37(8) procedure is not geared to the resolution of pre-trial disputes which invariably require the filing of affidavits and heads of argument.”’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70441e9a7f13bb342262e474b88e8962",
+    "text": "34 MT v CT 2016 (4) SA 193 (WCC) at 202F–206E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "20b636e4ec68a5a097de0ddfa52f1f20",
+    "text": "35 Filta-Matix (Pty) Ltd v Freudenberg 1998 (1) SA 606 (SCA) at 614A–D; MEC for Economic Affairs, Environment and Tourism, Eastern Cape v Kruizenga 2010 (4) SA 122 (SCA) at 126F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f415e209e2a6f242e56a6804ca571fd0",
+    "text": "36 Hendricks v President Insurance Co Ltd 1993 (3) SA 158 (C) at 166E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd7f7b82ac1f032c9089c16f3a941ee8",
+    "text": "37 See Bosman v AA Mutual Insurance Association Ltd 1977 (2) SA 407 (C) at 408H–409A; Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 709 (D).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c56169af0e316326c5d2f5bc930edf89",
+    "text": "38 Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraphs [25] and [26].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa4bdf27653faad3a1aad38501c43d72",
+    "text": "39 See Bosman v AA Mutual Insurance Association Ltd 1977 (2) SA 407 (C) at 408G.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7b113611a0dd12281f747f5c0c3a2e55",
+    "text": "40 See Wessels v Johannesburg Municipality 1970 (3) SA 633 (W) at 634D and Grasso v Grasso 1987 (1) SA 48 (C) at 61H. Both these cases deal with the former rule but it is submitted that the sentiments expressed are equally applicable to the present rule.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5882496189f02cee26a09009bd9072f6",
+    "text": "41 2010 (3) SA 220 (GSJ) at 238H–I.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6d0ccfafa130493ce753a7add0a9c6f1",
+    "text": "42 See further s 27 of the Act and the notes thereto in Volume 1 third edition, Part D.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3de09358f3ec995b60c9e24aa241d69f",
+    "text": "43 Kerksay Investments (Pty) Ltd v Randburg Town Council 1997 (1) SA 511 (T) at 520F–521C, confirmed on appeal on this point in Randburg Town Council v Kerksay Investments (Pty) Ltd 1998 (1) SA 98 (SCA) at 104A–B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4f00e0479838f2a170e8ebe5c308bb05",
+    "text": "44 Proclamation Notice R 75 of 2022 dated 4 August 2022.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fdec1d6c7baea303f849144b2624b584",
+    "text": "45 Section 37A also came into operation on 5 August 2022 (Proclamation Notice R 75 of 2022 dated 4 August 2022).",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "553ad37c098b6acfded51661490c633e",
+    "text": "5151515",
+    "metadata": {
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce656e24f68341136d309214d691bfaa",
+    "text": "46 Seccombe v Attorney-General 1919 TPD 270 at 277; S v Mpumlo 1986 (3) SA 485 (E) at 489D–F.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "74ac996432cd663fe47624a96324b9d4",
+    "text": "47 See, in general, Zeffertt Evidence Chapter 21.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45718a22f6f4d6e675f9e178dbf4ae57",
+    "text": "48 Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 710C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a07ffd1b7755f6d015ffd9421314cbcc",
+    "text": "49 Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraphs [22]–[24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "412fb04f261af5a5b6ecb1bbba5adec8",
+    "text": "50 In Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022) the full court refers (at paragraph [26]) to an alternative remedy:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "af2688858b1b31ea4fdc91551f5a8659",
+    "text": "‘In MT v CT 2016 (4) SA 193 (WCC) at para 27 the court considered another alternative for a frustrated party and said:",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2bb49923e96b4dd2cf3a1f3b6c827434",
+    "text": "“In the event that a party is in default of a procedural step, e g has failed to file a reply to a request for trial particulars, or claims that certain documents are not discoverable, the pre-trial procedure is held in abeyance while the parties take the dispute to the motion court for resolution there: the rule 37(8) procedure is not geared to the resolution of pre-trial disputes which invariably require the filing of affidavits and heads of argument.” ’",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d5f15bdd9111e0cb92f9f5c04dfb646f",
+    "text": "51 MT v CT 2016 (4) SA 193 (WCC) at 202F–206E.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3870d7d479ef55c0fac875e671f87e26",
+    "text": "52 Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [24].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1a3e4eac191c1bf1b0751b7b9a460a5b",
+    "text": "53 This position was affirmed in Katlou Boerdery v Matsepe N.O. (unreported, WCC case no A79/21 dated 19 April 2022 — a decision of the full court) at paragraph [27].",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b8e1eab3c886a61c851f22a55a02b43",
+    "text": "54 See Techni-Pak Sales (Pty) Ltd v Hall 1968 (3) SA 231 (W) at 239G–240A; Grasso v Grasso 1987 (1) SA 48 (C) at 61J–62B.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "10eea934fd88fe5df176ea2628d1e842",
+    "text": "55 Saloojee and Another NNO v Minister of Community Development 1965 (2) SA 135 (A) at 141C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c740d429d55b78d73fc19702918e18af",
+    "text": "56 Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 709A–C.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff996e3d69969cc9f7b00e37af77b60e",
+    "text": "57 The practice direction adverted to in Lekota v Editor, ‘Tribute’ Magazine 1995 (2) SA 706 (W) at 710D has lapsed.",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "b603590607e08d3e696daced7dd08e21",
+    "text": "© 2025 Juta and Company (Pty) Ltd. Downloaded: Mon Feb 17 2025 07:26:16 GMT+0200 (South Africa Standard Time)",
+    "metadata": {
+      "is_extracted": "true",
+      "filetype": "application/pdf",
+      "languages": [
+        "eng"
+      ],
+      "page_number": 5,
+      "filename": "Rule 37.pdf"
+    }
+  },
+  {
+    "type": "PageBreak",
+    "element_id": "3ac46d3be44dbb6f64d7502cdb2b82ce",
+    "text": "",
+    "metadata": {
+      "languages": [
+        "eng"
+      ],
+      "filename": "Rule 37.pdf",
+      "filetype": "application/pdf"
+    }
+  }
+]

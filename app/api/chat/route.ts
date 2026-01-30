@@ -1,5 +1,7 @@
 import { NextRequest } from "next/server";
 import { Pinecone } from "@pinecone-database/pinecone";
+import fs from "fs/promises";
+import path from "path";
 
 export const runtime = "nodejs";
 
@@ -20,6 +22,32 @@ const DEFAULT_OPENROUTER_TIMEOUT_MS = (() => {
   const parsed = Number(raw);
   return Number.isFinite(parsed) && parsed > 0 ? parsed : 60000;
 })();
+const SYSTEM_PROMPT_PATH = path.resolve(process.cwd(), "system_prompt.txt");
+const FALLBACK_SYSTEM_PROMPT =
+  "You are a legal assistant specializing exclusively in the Uniform Rules of Court (High Court Rules) of South Africa. " +
+  "You must only answer questions that are specifically about these High Court Rules and are supported by the provided Sources. " +
+  "If the user’s request is not about the Uniform Rules of Court (High Court Rules) of South Africa, or if the Sources do not contain the answer, respond that you cannot answer within this scope. " +
+  "Do not answer general knowledge or unrelated legal topics. " +
+  "Always use the provided Sources when answering legal questions, and cite only from the current Sources block. " +
+  "Return a JSON object with exactly these keys: answer (string) and citations (array of chunk_id strings; empty if no sources were used). " +
+  "The answer string must be written in markdown. " +
+  "Do not include any extra keys, explanations, or markdown outside the JSON object.";
+let cachedSystemPrompt: string | null = null;
+async function loadSystemPrompt() {
+  if (cachedSystemPrompt) return cachedSystemPrompt;
+  try {
+    const data = await fs.readFile(SYSTEM_PROMPT_PATH, "utf8");
+    const trimmed = data.trim();
+    if (trimmed.length > 0) {
+      cachedSystemPrompt = trimmed;
+      return trimmed;
+    }
+  } catch (error) {
+    console.warn("[RAG] System prompt file not found or unreadable, using fallback.", error);
+  }
+  cachedSystemPrompt = FALLBACK_SYSTEM_PROMPT;
+  return FALLBACK_SYSTEM_PROMPT;
+}
 
 function requireEnv(key: string) {
   const value = process.env[key];
@@ -358,12 +386,7 @@ async function callOpenRouter(
   const apiKey = requireEnv("OPENROUTER_API_KEY");
   const model = DEFAULT_MODEL;
 
-  const system =
-    "You are a legal assistant. Answer only using the provided sources. " +
-    "Use the conversation history for context, but only cite the current Sources block. " +
-    "If the sources do not contain the answer, say you could not find it. " +
-    "Return a JSON object with: answer (string), citations (array of chunk_id strings). " +
-    "Do not include any extra keys or markdown.";
+  const system = await loadSystemPrompt();
 
   const sourcesStart = Date.now();
   const sources = buildSources(matches);
@@ -371,6 +394,7 @@ async function callOpenRouter(
   console.log("[RAG] Sources payload:", sources);
   console.log("[RAG] Sources build ms:", sourcesMs);
 
+  const sourcesBlock = sources.trim().length > 0 ? sources : "None provided.";
   const payload = {
     model,
     temperature: DEFAULT_TEMPERATURE,
@@ -380,7 +404,9 @@ async function callOpenRouter(
       ...history,
       {
         role: "user",
-        content: `Question:\n${question}\n\nSources:\n${sources}`,
+        content:
+          `User message:\n${question}\n\n` +
+          `Context sources (use only if relevant):\n${sourcesBlock}`,
       },
     ],
   };
@@ -397,6 +423,7 @@ async function callOpenRouter(
     temperature: DEFAULT_TEMPERATURE,
     timeout_ms: DEFAULT_OPENROUTER_TIMEOUT_MS,
   });
+  console.log("[RAG] OpenRouter payload messages:", JSON.stringify(payload.messages, null, 2));
 
   try {
     res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
@@ -469,12 +496,7 @@ async function callOpenRouterStream(
   const apiKey = requireEnv("OPENROUTER_API_KEY");
   const model = DEFAULT_MODEL;
 
-  const system =
-    "You are a legal assistant. Answer only using the provided sources. " +
-    "Use the conversation history for context, but only cite the current Sources block. " +
-    "If the sources do not contain the answer, say you could not find it. " +
-    "Return a JSON object with: answer (string), citations (array of chunk_id strings). " +
-    "Do not include any extra keys or markdown.";
+  const system = await loadSystemPrompt();
 
   const sourcesStart = Date.now();
   const sources = buildSources(matches);
@@ -482,6 +504,7 @@ async function callOpenRouterStream(
   console.log("[RAG] Sources payload:", sources);
   console.log("[RAG] Sources build ms:", sourcesMs);
 
+  const sourcesBlock = sources.trim().length > 0 ? sources : "None provided.";
   const payload = {
     model,
     temperature: DEFAULT_TEMPERATURE,
@@ -492,7 +515,9 @@ async function callOpenRouterStream(
       ...history,
       {
         role: "user",
-        content: `Question:\n${question}\n\nSources:\n${sources}`,
+        content:
+          `User message:\n${question}\n\n` +
+          `Context sources (use only if relevant):\n${sourcesBlock}`,
       },
     ],
   };
@@ -508,6 +533,7 @@ async function callOpenRouterStream(
     temperature: DEFAULT_TEMPERATURE,
     timeout_ms: DEFAULT_OPENROUTER_TIMEOUT_MS,
   });
+  console.log("[RAG] OpenRouter stream payload messages:", JSON.stringify(payload.messages, null, 2));
 
   try {
     res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
@@ -751,32 +777,8 @@ export async function POST(request: NextRequest) {
       fuse: fuseMs,
     };
 
-    if (!matches.length) {
-      const noMatchAnswer = "I could not find anything relevant in the provided sources.";
-      if (!wantsStream) {
-        console.log("[RAG] Retrieval timing ms:", retrievalTiming);
-      }
-      if (wantsStream) {
-        const encoder = new TextEncoder();
-        const stream = new ReadableStream({
-          start(controller) {
-            const send = (payload: any) => {
-              controller.enqueue(encoder.encode(`${JSON.stringify(payload)}\n`));
-            };
-            send({ type: "token", data: noMatchAnswer });
-            send({ type: "done", data: { answer: noMatchAnswer, citations: [] } });
-            controller.close();
-          },
-        });
-        return new Response(stream, {
-          headers: {
-            "Content-Type": "application/x-ndjson; charset=utf-8",
-            "Cache-Control": "no-cache",
-            Connection: "keep-alive",
-          },
-        });
-      }
-      return Response.json({ answer: noMatchAnswer, citations: [] });
+    if (!matches.length && !wantsStream) {
+      console.log("[RAG] Retrieval timing ms:", retrievalTiming);
     }
 
     const structuredPreferred = process.env.OPENROUTER_STRUCTURED_OUTPUT !== "false";

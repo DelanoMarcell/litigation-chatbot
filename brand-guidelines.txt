@@ -1,0 +1,29 @@
+Nexa Corporate Brand Identity Guide
+1. Brand Overview
+Nexa is a legal technology company delivering beautifully engineered, African-forward, and human-centric digital solutions for the legal industry. The brand reflects a blend of innovation, elegance, and empowerment. Our visual identity is a key part of our story—communicating clarity, intelligence, and design integrity.
+2. Logo Guidelines
+Primary Logo: The main Nexa logo consists of the stylized wordmark with a single missing stroke on the 'N' and a burnt rose accent dot. This should be used on all digital platforms, marketing materials, and signage. Maintain adequate spacing around the logo.
+Tagline: “Beyond Law. Powered by Nexa.”
+When to Use:
+- Use the tagline on homepages, pitch decks, banners, and digital ads.
+- Avoid tagline usage in compact formats like app icons, footers, or favicons.
+3. Color Palette
+Primary Color – Plum: #3F1D3A
+Accent Color – Burnt Rose: #D67D6E
+Neutral Light – Blush Beige: #F8ECEA
+Contrast Dark – Charcoal: #1E1E1E
+4. Typography
+Primary Typeface: Sora
+Use Sora for all web and print content. Employ bold weights for headings, regular for body, and avoid decorative fonts to ensure legibility.
+5. Brand Voice and Messaging
+Nexa’s voice is professional, empowering, and modern. We speak with clarity, and purpose. Content should be written in plain English, with an emphasis on practical outcomes, user-centric design, and African innovation.
+6. Application Examples
+- Website header and hero sections
+- Business cards and email signatures
+- LegalTech product interfaces
+- Thought leadership and event materials
+- Social media banners and posts
+7. Brand Management Contact
+For approvals, design templates, or questions about Nexa’s brand use, please contact:
+Brand Manager – Nexa
+Email: brand@nexa.africa

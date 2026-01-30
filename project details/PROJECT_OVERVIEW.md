@@ -219,6 +219,7 @@ Main chat UI: `application/app/page.tsx`
 - Citation pills show `doc_id · page · paragraph range`.
 - Pills open `/pdfs/<doc_id>` in a new tab (no in-app reader/highlighting).
 - Shows a typing indicator while waiting for the first token.
+- Auto-scroll behavior: scrolls to the start of the assistant response, then stops auto-following during streaming; a "Scroll to latest" button appears if new content arrives while you are not at the bottom.
 - "New chat" clears the local chat history.
 
 Test page: `application/app/test/page.tsx`

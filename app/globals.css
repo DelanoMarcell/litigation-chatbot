@@ -2,14 +2,20 @@
 @source "../node_modules/streamdown/dist/*.js";
 
 :root {
-  --bg: #f7f2ea;
-  --bg-2: #efe4d6;
-  --ink: #1f1a16;
-  --muted: #6b6158;
-  --accent: #0f766e;
-  --accent-2: #c2410c;
-  --panel: rgba(255, 255, 255, 0.82);
-  --stroke: rgba(31, 26, 22, 0.12);
+  /* Nexa Brand Colors */
+  --plum: #3F1D3A;          /* Primary */
+  --burnt-rose: #D67D6E;    /* Accent */
+  --blush-beige: #F8ECEA;   /* Neutral Light */
+  --charcoal: #1E1E1E;      /* Contrast Dark */
+
+  --bg: var(--blush-beige);
+  --bg-2: #f0e0dc;
+  --ink: var(--charcoal);
+  --muted: #6b5a58;
+  --accent: var(--plum);
+  --accent-2: var(--burnt-rose);
+  --panel: rgba(255, 255, 255, 0.88);
+  --stroke: rgba(63, 29, 58, 0.15);
 }
 
 @theme inline {

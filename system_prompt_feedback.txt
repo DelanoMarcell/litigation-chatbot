@@ -1,0 +1,32 @@
+⚠️ Where it falls short (important for testing)
+
+1. Missing specific subrule coverage
+
+It omits or compresses certain details that are in the source text:
+
+Subrule | Issue
+Rule 54(2) | Completely omitted (committed for sentence under s 121 CPA)
+Rule 54(4) | Does not mention payment of sheriff's lawful costs in private prosecutions
+Rule 54(5) | Mentions subpoenas but doesn't clearly distinguish superior court vs Circuit Court exclusion
+Rule 54(6)-(7) | Accurate but not explicitly linked to subrule numbers
+
+For strict legal correctness, these omissions matter.
+
+2. Lack of citation granularity
+
+A strong legal chatbot answer should ideally:
+- Tie statements to specific subrules (e.g. "Rule 54(1) provides that...")
+- Especially important if your RAG is meant for lawyers or clerks, not lay users
+
+This response is descriptive, not forensically precise.
+
+3. No mention of historical amendments
+
+Your source text includes:
+"Subrule (x) substituted/amended by GN R480 of 30 March 1973 / GN R2410 of 30 September 1991"
+
+The AI:
+- X Ignores amendment history
+
+This is acceptable for general explanation
+- X But weak if your chatbot is meant to be authoritative or citation-grade

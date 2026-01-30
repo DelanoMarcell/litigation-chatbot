@@ -5,3 +5,23 @@ experiment with retrieving different numbers of results (check chunk sizes and i
 example question - What procedure applies when a criminal appeal is brought to the Supreme Court of Appeal, particularly regarding the lodging of the record and access to copies by the appellant?
 
 answer to above question lies in rule 52
+
+
+2. Lack of citation granularity
+
+A strong legal chatbot answer should ideally:
+
+Tie statements to specific subrules (e.g. “Rule 54(1) provides that…”)
+
+Especially important if your RAG is meant for lawyers or clerks, not lay users
+
+This response is descriptive, not forensically precise.
+
+
+q1 - question
+a1 - 
+
+q2 - question + context
+a2
+
+q3 - question + context

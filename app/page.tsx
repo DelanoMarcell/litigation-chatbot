@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { Streamdown } from "streamdown";
 
 type Citation = {
   chunk_id: string;
@@ -48,8 +49,89 @@ export default function Home() {
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ messages: nextMessages, retrievalMode }),
+        body: JSON.stringify({ messages: nextMessages, retrievalMode, stream: true }),
       });
+      const contentType = res.headers.get("content-type") || "";
+
+      if (contentType.includes("application/x-ndjson") && res.body) {
+        const assistantIndex = nextMessages.length;
+        setMessages([
+          ...nextMessages,
+          { role: "assistant", content: "", citations: [] },
+        ]);
+
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+        let buffer = "";
+        let streamDone = false;
+
+        while (!streamDone) {
+          const { value, done } = await reader.read();
+          if (done) break;
+          buffer += decoder.decode(value, { stream: true });
+
+          while (true) {
+            const lineBreak = buffer.indexOf("\n");
+            if (lineBreak === -1) break;
+            const line = buffer.slice(0, lineBreak).trim();
+            buffer = buffer.slice(lineBreak + 1);
+            if (!line) continue;
+
+            let event: any;
+            try {
+              event = JSON.parse(line);
+            } catch {
+              continue;
+            }
+
+            if (event.type === "token") {
+              const token = typeof event.data === "string" ? event.data : "";
+              if (token) {
+                setMessages((prev) => {
+                  const updated = [...prev];
+                  const target = updated[assistantIndex];
+                  if (target && target.role === "assistant") {
+                    updated[assistantIndex] = {
+                      ...target,
+                      content: `${target.content}${token}`,
+                    };
+                  }
+                  return updated;
+                });
+              }
+              continue;
+            }
+
+            if (event.type === "done") {
+              const answer = typeof event.data?.answer === "string" ? event.data.answer : "";
+              const citations = Array.isArray(event.data?.citations) ? event.data.citations : [];
+              setMessages((prev) => {
+                const updated = [...prev];
+                const target = updated[assistantIndex];
+                if (target && target.role === "assistant") {
+                  updated[assistantIndex] = {
+                    ...target,
+                    content: answer || target.content,
+                    citations,
+                  };
+                }
+                return updated;
+              });
+              streamDone = true;
+              continue;
+            }
+
+            if (event.type === "error") {
+              const message =
+                typeof event.data === "string" ? event.data : "Something went wrong";
+              setError(message);
+              streamDone = true;
+            }
+          }
+        }
+        return;
+      }
+
       const data = await res.json();
 
       if (!res.ok) {
@@ -78,7 +160,7 @@ export default function Home() {
   const helperText = useMemo(() => {
     if (isLoading) return "Retrieving sources and drafting...";
     if (error) return error;
-    return "Citations show exact file, page, and paragraph range.";
+    return "";
   }, [isLoading, error]);
 
   return (
@@ -90,21 +172,16 @@ export default function Home() {
         <header className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
           <div className="space-y-4 animate-(fade-up_0.6s_ease_0.05s_both)">
            
+            {/*
             <h1 className="text-3xl font-(--font-display) leading-tight text-foreground md:text-5xl">
               Grounded answers for court rules, with exact citations.
             </h1>
             <p className="max-w-2xl text-base text-(--muted) md:text-lg">
               Ask questions about the rules and get responses anchored to the exact file, page, and paragraph.
             </p>
+            */}
           </div>
-          <div className="flex items-center gap-3 text-xs uppercase tracking-(0.2em) text-(--muted)">
-            <a
-              href="/info"
-              className="rounded-full border border-(--stroke) bg-white px-4 py-2 font-semibold text-(--muted) transition hover:-translate-y-0.5 hover:shadow-sm"
-            >
-              Info
-            </a>
-          </div>
+          <div className="flex items-center gap-3 text-xs uppercase tracking-(0.2em) text-(--muted)" />
         </header>
 
         <section className="mt-8 flex flex-col gap-4">
@@ -124,25 +201,39 @@ export default function Home() {
           <div className="flex flex-1 flex-col rounded-(28px) border border-(--stroke) bg-(--panel) p-6 shadow-(0_40px_120px_-80px_rgba(0,0,0,0.45))">
             <div className="flex items-center justify-between text-xs uppercase tracking-(0.2em) text-(--muted)">
               <span>Chat</span>
-              <span className="rounded-full border border-(--stroke) px-2 py-1">RAG + Citations</span>
             </div>
 
             <div className="mt-4 flex-1 space-y-6 overflow-y-auto pr-2">
-              {messages.length === 0 ? (
-                <div className="rounded-2xl border border-dashed border-(--stroke) bg-white/60 px-6 py-10 text-sm text-(--muted)">
-                  Ask a question to get started. Sources will appear as pills under each assistant response.
-                </div>
-              ) : (
+              {messages.length === 0 ? null : (
                 messages.map((message, idx) => (
                   <div key={`${message.role}-${idx}`} className="space-y-3">
                     <div
-                      className={`max-w-(90%) rounded-2xl px-4 py-3 text-sm leading-relaxed md:text-base ${
+                      className={`max-w-(90%) rounded-2xl px-4 py-3 ${
                         message.role === "user"
                           ? "ml-auto bg-(--accent)/10 text-foreground"
                           : "mr-auto bg-white text-foreground"
                       }`}
                     >
-                      {message.content}
+                      {message.role === "assistant" ? (
+                        <Streamdown
+                          mode="streaming"
+                          isAnimating={isLoading && idx === messages.length - 1}
+                          caret={
+                            message.role === "assistant" &&
+                            isLoading &&
+                            idx === messages.length - 1
+                              ? "block"
+                              : undefined
+                          }
+                          className="text-sm leading-relaxed md:text-base"
+                        >
+                          {message.content}
+                        </Streamdown>
+                      ) : (
+                        <span className="text-sm leading-relaxed md:text-base">
+                          {message.content}
+                        </span>
+                      )}
                     </div>
 
                     {message.role === "assistant" && message.citations?.length ? (
@@ -154,12 +245,30 @@ export default function Home() {
                           const label = `${citation.doc_id || "Source"} · p.${page} · para ${paraStart}${
                             paraStart !== paraEnd ? `-${paraEnd}` : ""
                           }`;
-                          const href = `/reader?chunk=${encodeURIComponent(citation.chunk_id)}`;
+                          const href =
+                            citation.source_url ??
+                            (citation.doc_id
+                              ? `/pdfs/${encodeURIComponent(citation.doc_id)}`
+                              : null);
+
+                          if (!href) {
+                            return (
+                              <span
+                                key={citation.chunk_id}
+                                className="inline-flex items-center gap-2 rounded-full border border-(--stroke) bg-white px-3 py-1 text-xs text-foreground"
+                              >
+                                <span className="h-2 w-2 rounded-full bg-(--accent)" />
+                                {label}
+                              </span>
+                            );
+                          }
 
                           return (
                             <a
                               key={citation.chunk_id}
                               href={href}
+                              target="_blank"
+                              rel="noreferrer"
                               className="inline-flex items-center gap-2 rounded-full border border-(--stroke) bg-white px-3 py-1 text-xs text-foreground transition hover:-translate-y-0.5 hover:shadow-sm"
                             >
                               <span className="h-2 w-2 rounded-full bg-(--accent)" />
@@ -192,6 +301,7 @@ export default function Home() {
                 <div className="flex items-center justify-between text-xs text-(--muted)">
                   <span>{helperText}</span>
                   <div className="flex items-center gap-3">
+                    {/*
                     <select
                       value={retrievalMode}
                       onChange={(event) =>
@@ -203,6 +313,7 @@ export default function Home() {
                       <option value="dense">Semantic</option>
                       <option value="sparse">Keyword</option>
                     </select>
+                    */}
                     <button
                       type="button"
                       onClick={handleSend}

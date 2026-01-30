@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "react-pdf-highlighter/dist/style.css";
+@source "../node_modules/streamdown/dist/*.js";
 
 :root {
   --bg: #f7f2ea;

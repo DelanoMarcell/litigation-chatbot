@@ -1,9 +1,9 @@
 # Litigation RAG Project Overview
 
-Last updated: 2026-01-29
+Last updated: 2026-01-30
 
 ## 1) Purpose and scope
-Build a Retrieval-Augmented Generation (RAG) chatbot over legal rules with precise provenance. Every answer must be grounded in source text and show the exact file, page, and paragraph range for verification.
+Build a Retrieval-Augmented Generation (RAG) chatbot over the Uniform Rules of Court (High Court Rules) of South Africa with precise provenance. Every answer must be grounded in source text and show the exact file, page, and paragraph range for verification.
 
 Non-goals (for now):
 - No persistence layer for chat history (memory only).
@@ -21,7 +21,7 @@ Pipeline stages:
    - Sparse index (Pinecone integrated sparse embeddings).
 3. **Retrieval**: Dense, sparse, or hybrid (RRF fusion).
 4. **Answering**: OpenRouter chat completion constrained to return JSON and cite chunk IDs from retrieved sources.
-5. **UI**: Full-page chat, citations rendered as pills linking to PDFs.
+5. **UI**: Full-page chat, citations rendered as pills linking to PDFs in a new tab.
 
 ---
 
@@ -164,6 +164,17 @@ Section: <section_path>
 Text: <chunk text>
 ```
 
+The user message is wrapped as:
+```
+User message:
+<question>
+
+Context sources (use only if relevant):
+<sources>
+```
+
+The system prompt is loaded from `system_prompt.txt` (cached in memory). A fallback prompt is used if the file is missing.
+
 ### OpenRouter response
 - Preferred: structured output via `response_format: { type: "json_schema" }`
 - Fallback: prompt-only JSON instruction
@@ -177,6 +188,8 @@ The server:
 - Logs the raw response and Sources payload.
 - Parses JSON (with fallback extraction).
 - Filters citations to those returned by retrieval (prevents hallucinated IDs).
+- Streams tokens to the client as NDJSON when `stream: true` is requested.
+- Strips any inline citation markers (e.g., `cite...`) from the answer text.
 
 ---
 
@@ -187,6 +200,7 @@ The server:
 - The server uses only **messages before the latest user turn** as history.
 - The **current Sources block is attached only to the current user question**.
 - Old sources are not re-sent; citations must come from current sources.
+- Assistant history includes a small "Prior citations" appendix (context only) so the model knows which sources earlier answers were grounded on.
 
 Config:
 ```
@@ -201,16 +215,14 @@ This is memory-only. History is lost on refresh or server restart.
 
 Main chat UI: `application/app/page.tsx`
 - Full-page chat
-- Retrieval mode toggle (Hybrid / Semantic / Keyword)
-- Citation pills show `doc_id · page · paragraph range`
-- Pills link to `/reader?chunk=<chunk_id>` for in-app PDF highlighting
+- Retrieval mode toggle is currently commented out in the UI (default is Hybrid).
+- Citation pills show `doc_id · page · paragraph range`.
+- Pills open `/pdfs/<doc_id>` in a new tab (no in-app reader/highlighting).
+- Shows a typing indicator while waiting for the first token.
+- "New chat" clears the local chat history.
 
-Info page: `application/app/info/page.tsx`
-
-PDF reader: `application/app/reader/page.tsx`
-- Loads `/public/pdfs/<doc_id>`
-- Highlights the cited text on the referenced page (best-effort)
-- Fetches chunk text via `/api/chunk?id=<chunk_id>`
+Test page: `application/app/test/page.tsx`
+- Plain chat to OpenRouter without retrieval or citations.
 
 ---
 
@@ -253,6 +265,8 @@ RAG_DENSE_TOP_K=8
 RAG_SPARSE_TOP_K=8
 RAG_HISTORY_MAX_MESSAGES=12
 OPENROUTER_STRUCTURED_OUTPUT=true
+OPENROUTER_TEMPERATURE=0.2
+OPENROUTER_TIMEOUT_MS=60000
 OPENROUTER_SITE_URL=...
 OPENROUTER_APP_NAME=...
 ```
@@ -264,11 +278,12 @@ OPENROUTER_APP_NAME=...
 - `application/scripts/ingest.mjs` (dense ingestion)
 - `application/scripts/ingest_sparse.mjs` (sparse ingestion)
 - `application/app/api/chat/route.ts` (retrieval + OpenRouter)
-- `application/app/api/chunk/route.ts` (fetch chunk metadata + text for highlighting)
+- `application/app/api/test-chat/route.ts` (no-retrieval test chat)
 - `application/app/page.tsx` (chat UI)
-- `application/app/info/page.tsx` (info page)
-- `application/app/reader/page.tsx` (PDF viewer + highlighting)
+- `application/app/test/page.tsx` (test chat UI)
 - `application/app/globals.css` (theme styles)
+- `application/system_prompt.txt` (system prompt loaded by the API)
+- `application/system_prompt_feedback.txt` (feedback notes)
 
 ---
 
@@ -279,6 +294,7 @@ OPENROUTER_APP_NAME=...
 - **"I could not find anything relevant"**: retrieval returned 0 matches. Check ingestion, index names, and namespaces.
 - **Sparse ingestion 429**: reduce `SPARSE_UPSERT_BATCH` and increase delay.
 - **Wrong citations**: ensure PDFs are in `public/pdfs` and filenames match `doc_id`.
+- **Citations open the wrong file**: check `doc_id` formatting in chunk metadata.
 
 ---
 
@@ -288,5 +304,6 @@ OPENROUTER_APP_NAME=...
 2. Sources block is assembled from these matches and passed to the model.
 3. The model returns `citations` as an array of `chunk_id` strings.
 4. The server validates those IDs and returns metadata to the UI.
+5. The UI renders pills and links to `/pdfs/<doc_id>` in a new tab.
 
 This guarantees that every citation corresponds to a retrieved chunk.

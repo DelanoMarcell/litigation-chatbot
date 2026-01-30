@@ -29,6 +29,10 @@ const FALLBACK_SYSTEM_PROMPT =
   "If the user’s request is not about the Uniform Rules of Court (High Court Rules) of South Africa, or if the Sources do not contain the answer, respond that you cannot answer within this scope. " +
   "Do not answer general knowledge or unrelated legal topics. " +
   "Always use the provided Sources when answering legal questions, and cite only from the current Sources block. " +
+  "You may be given prior questions and answers in the conversation history, sometimes with prior citations. " +
+  "Treat those prior answers as correct within scope and based on their cited sources at the time. " +
+  "If the user asks to confirm or follow up on a prior answer (e.g., “are you sure?”), you may affirm it based on the prior answer and its citations, but do not cite prior citations for new answers. " +
+  "Do not include inline citations, chunk IDs, or citation markers inside the answer text. Return citations only in the citations array. " +
   "Return a JSON object with exactly these keys: answer (string) and citations (array of chunk_id strings; empty if no sources were used). " +
   "The answer string must be written in markdown. " +
   "Do not include any extra keys, explanations, or markdown outside the JSON object.";
@@ -652,6 +656,59 @@ function extractJson(text: string) {
   }
 }
 
+const INLINE_CITE_START = "cite";
+const INLINE_CITE_END = "";
+
+function stripInlineCitations(text: string) {
+  if (!text) return text;
+  return text.replace(/cite[^]*/g, "").trim();
+}
+
+function createInlineCitationStripper() {
+  let inCite = false;
+  let carry = "";
+  const startLen = INLINE_CITE_START.length;
+
+  return (chunk: string) => {
+    if (!chunk) return "";
+    let text = carry + chunk;
+    carry = "";
+    let out = "";
+    let i = 0;
+
+    while (i < text.length) {
+      if (inCite) {
+        const endIdx = text.indexOf(INLINE_CITE_END, i);
+        if (endIdx === -1) {
+          return out;
+        }
+        inCite = false;
+        i = endIdx + INLINE_CITE_END.length;
+        continue;
+      }
+
+      const startIdx = text.indexOf(INLINE_CITE_START, i);
+      if (startIdx === -1) {
+        const remaining = text.length - i;
+        if (remaining >= startLen - 1) {
+          const safeEnd = text.length - (startLen - 1);
+          out += text.slice(i, safeEnd);
+          carry = text.slice(safeEnd);
+        } else {
+          carry = text.slice(i);
+        }
+        return out;
+      }
+
+      out += text.slice(i, startIdx);
+      i = startIdx + startLen;
+      inCite = true;
+    }
+
+    return out;
+  };
+}
+
 export async function POST(request: NextRequest) {
   try {
     const retrievalStart = Date.now();
@@ -662,10 +719,24 @@ export async function POST(request: NextRequest) {
     const maxHistoryMessages = Number(process.env.RAG_HISTORY_MAX_MESSAGES || 12);
     const normalizedMessages: ChatHistoryMessage[] = rawMessages
       .filter((msg: any) => msg && (msg.role === "user" || msg.role === "assistant"))
-      .map((msg: any) => ({
-        role: msg.role,
-        content: typeof msg.content === "string" ? msg.content.trim() : "",
-      }))
+      .map((msg: any) => {
+        const base = typeof msg.content === "string" ? msg.content.trim() : "";
+        if (msg.role !== "assistant" || !Array.isArray(msg.citations) || msg.citations.length === 0) {
+          return { role: msg.role, content: base };
+        }
+        const citationLines = msg.citations.map((citation: any) => {
+          const doc = citation?.doc_id || "Source";
+          const page = citation?.page ?? "?";
+          const paraStart = citation?.para_start ?? "?";
+          const paraEnd = citation?.para_end ?? citation?.para_start ?? "?";
+          const paraLabel = paraStart === paraEnd ? `${paraStart}` : `${paraStart}-${paraEnd}`;
+          return `- ${doc} · p.${page} · para ${paraLabel}`;
+        });
+        const suffix = citationLines.length
+          ? `\n\nPrior citations (context only, do not cite for new answers):\n${citationLines.join("\n")}`
+          : "";
+        return { role: msg.role, content: `${base}${suffix}`.trim() };
+      })
       .filter((msg: ChatHistoryMessage) => msg.content.length > 0);
 
     const lastUserIndex = [...normalizedMessages]
@@ -792,8 +863,11 @@ export async function POST(request: NextRequest) {
           const send = (payload: any) => {
             controller.enqueue(encoder.encode(`${JSON.stringify(payload)}\n`));
           };
+          const stripStreamCites = createInlineCitationStripper();
           const sendToken = (chunk: string) => {
-            if (chunk) send({ type: "token", data: chunk });
+            if (!chunk) return;
+            const cleaned = stripStreamCites(chunk);
+            if (cleaned) send({ type: "token", data: cleaned });
           };
 
           try {
@@ -818,7 +892,8 @@ export async function POST(request: NextRequest) {
             console.log("[RAG] OpenRouter raw response length:", raw.length);
 
             const parsed = extractJson(raw);
-            const answer = typeof parsed?.answer === "string" ? parsed.answer.trim() : "";
+            const answer =
+              typeof parsed?.answer === "string" ? stripInlineCitations(parsed.answer) : "";
             const citationIds = Array.isArray(parsed?.citations)
               ? parsed.citations
                   .map((item: any) => (typeof item === "string" ? item : item?.chunk_id))
@@ -882,7 +957,8 @@ export async function POST(request: NextRequest) {
     console.log("[RAG] OpenRouter raw response:", raw);
     const parsed = extractJson(raw);
 
-    const answer = typeof parsed?.answer === "string" ? parsed.answer.trim() : "";
+    const answer =
+      typeof parsed?.answer === "string" ? stripInlineCitations(parsed.answer) : "";
     const citationIds = Array.isArray(parsed?.citations)
       ? parsed.citations
           .map((item: any) => (typeof item === "string" ? item : item?.chunk_id))
